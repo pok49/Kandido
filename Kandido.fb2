@@ -23,8 +23,8 @@ text-author {
 <genre>prose_classic</genre>
 <author><nickname>Voltaire</nickname></author>
 <book-title>Kandido, aŭ Optimismo</book-title>
-<annotation><p>Filozofia romano de Voltero unue publikigita en la jaro 1759ª. En la jaro 1929ª ĝin elfrancigis Eŭgeno Lanti’. Sergio Pokrovskij prilaboris la tradukon en la jaro 2021ª.
-</p>
+<annotation><p>Filozofia romano de Voltero unue publikigita en la jaro 1759ª. En la jaro 1929ª ĝin elfrancigis Eŭgeno Lanti’. Sergio Pokrovskij prilaboris la tradukon en la jaro 2021ª.</p>
+<p>En la prilaborita versio estas korektitaj tradukaj kaj lingvaj eraroj de la Lantia teksto. La tro franceca frazosintakso (konscie elektita de E. Lanti’) estas malpezigita kaj rearanĝita laŭ la tradicio Esperanta. La apero de PV (unu jaron post la publikigo de la Lantia traduko!) kaj PIV kontribuis al pliriĉigo kaj stabiligo de la leksiko, kaj ankaŭ tio ebligis precizigi la tradukojn en la prilaborita teksto.</p>
 </annotation>
 <date>2021</date>
 <coverpage><image l:href="#cover.png"/></coverpage>
@@ -52,7 +52,7 @@ text-author {
 <date value="2021-07-27">2021</date>
 <src-url>https://eo.wikisource.org/wiki/Kandid</src-url>
 <id>2021-07-27E</id>
-<version>1.1</version>
+<version>2.0</version>
 </document-info>
 <publish-info>
 </publish-info>
@@ -65,8 +65,8 @@ text-author {
 <cite>
 <p>Mi penis konservi laŭeble la formon de la frazoj kaj okazis, ke ne ĉiam mi alprenus saman se mi verkus originale.</p>
 </cite>
-<p>Ĉi tio estas tre stranga traduka principo, pravigebla nur se oni tradukas por klarigi al la leganto apartaĵojn de la franca gramatiko. Sed mi vidis en tio okazon por kompari la francan vortordon kun tiu de Esperanto per apudmeto de du tekstoj en la Lingvo Internacia. Alivorte, mi decidis reverki la tradukon de Lanti’ tiel, kiel mi esprimas la koncernan enhavon en la maniero pure Esperanteca.</p>
-<p>Fakte, la literatura franca lingvo pli ol la aliaj fontolingvoj de Esperanto ignoras la komunkadan (= pragmatikan) vortordon (tio koncernas nur la <emphasis>literaturan</emphasis> francan lingvon, la buŝa lingvo estas tute pragmatika). Probable tio estas ŝuldata al la prilaboro de la literatura lingvo en la 17ª–18ª jc, kiam la raciismaj stilistoj kaj gramatikistoj «ĝin poluris ĝistrue» (laŭ diro de lordo Ĉesterfildo, samtempano kaj amiko de Voltero). Tia pragmatika truo en planlingvo povus esti objekto de interlingvistika studo.</p>
+<p>Ĉi tio estas tre stranga traduka principo, pravigebla nur se oni tradukas por klarigi al la leganto apartaĵojn de la franca gramatiko. Sed mi vidis en tio okazon por kompari la francan vortordon kun tiu de Esperanto per apudmeto de du tekstoj en la Lingvo Internacia. Alivorte, mi decidis reverki la tradukon de Lanti’ tiel, kiel mi esprimas la koncernan enhavon en la maniero kiel eble plej Esperanteca.</p>
+<p>Fakte, la literatura franca lingvo pli ol la aliaj fontolingvoj de Esperanto ignoras la komunkadan (= pragmatikan) vortordon (tio koncernas nur la <emphasis>literaturan</emphasis> francan lingvon, la buŝa lingvo ja estas tute pragmatika). Probable tio estas ŝuldata al la prilaboro de la literatura lingvo en la 17ª–18ª jc, kiam la raciismaj stilistoj kaj gramatikistoj «ĝin poluris ĝistrue» (laŭ diro de lordo Ĉesterfildo, samtempano kaj amiko de Voltero). Tia pragmatika truo en planlingvo povus esti objekto de interlingvistika studo.</p>
 <p>Interalie la franca lingvo preferas la aktivan frazaranĝon, eĉ je la kosto de la pragmatika vortordo; la angla lingvo estas pli pragmatika je la kosto de pasivigo; Esperanto ofte ebligas kombini la pragmatikan vortordon kun la aktiva aranĝo. Ekz-e en <a l:href="#maljunulino">la lasta frazo</a> de ĉap. 6ª:</p>
 <cite id="maljunekz">
   <p><strong>V:</strong><a l:href="#VLS" type="note">[1]</a> Il s’en retournait … lorsqu’<emphasis>une vieille l’aborda,</emphasis> et lui dit: …</p>
@@ -306,11 +306,11 @@ Hispanajn literojn <emphasis>c, z</emphasis> esprimantajn la Kastilian [θ] (res
   <p><strong>S:</strong> kaj mi vidas nenion laŭdindan en tio, ke li diras al sia amiko Mecenaso, ke se tiu lin metos en la rangon de la lirikaj poetoj, li frapos la astrojn per sia fiera frunto.</p>
 </cite>
 
-<p>La verbo «vidi»:</p>
+<p>Trouzo de la verbo «vidi»:</p>
 <cite>
   <p><strong>V:</strong> Tandis que la vieille parlait …, <emphasis>on vit</emphasis> entrer dans le port un petit vaisseau…</p>
-  <p>(<strong>L:</strong> Dum parolis la maljunulino … <emphasis>oni vidis</emphasis> eniri en la haveno malgrandan ŝipon…)</p>
-  <p>Dum la maljunulino tiele parolis … en la havenon eniris malgranda ŝipo…</p>
+  <p><strong>L:</strong> Dum parolis la maljunulino … <emphasis>oni vidis</emphasis> eniri en la haveno malgrandan ŝipon…</p>
+  <p><strong>S:</strong> Dum la maljunulino tiele parolis … en la havenon eniris malgranda ŝipo…</p>
 </cite>
 
 <p><strong>Jakobenoj kaj kordelieroj.</strong></p>
@@ -396,12 +396,8 @@ Ideale, ĉiu generacio devas krei sian version de la klasikaj verkoj.</p>
 <p style="p0"><strong>[L]</strong> «Kandid aŭ la Optimismo» de Voltaire, tradukita de Eŭgeno Lanti’. En «Tri verkoj de Volter», Paris: SAT, 1956. (Disponebla rete ĉe <a l:href="https://eo.wikisource.org/wiki/Kandid">Vikifontaro</a>.)</p>
 <p style="p0">[<strong>MDG</strong>] Michel Duc Goninaz: Kelkaj rimarkoj pri la t.n. «akuzativo». <a l:href="https://esperanto-ondo.ru/Libroj/Lo-2016-03.epub">LOdE №257</a> (2016:3).</p>
 <p style="p0"><strong>[P]</strong> Wolter: Kandyd czyli optymizm. Tłum. Tadeusz Boy-Żeleński. 1917.</p>
-<p style="p0"><strong>[P]</strong> Вольтер: Кандид, или Оптимизм. Пер. Фёдор Сологуб.</p>
+<p style="p0"><strong>[R]</strong> Вольтер: Кандид, или Оптимизм. Пер. Фёдор Сологуб.</p>
 <p style="p0"><strong>[V]</strong> Voltaire: Candide, ou l’Optimisme. Œuvres complètes de Voltaire, Garnier, 1877, tome 21. (Disponebla rete ĉe <a l:href="https://fr.wikisource.org/wiki/Candide,_ou_l’Optimisme/Garnier_1877">Wikisource</a>.)</p>
-
-
-
-
 </section></section>
 
 <section><title><p>Antaŭparolo de Lanti’</p></title>
@@ -463,7 +459,7 @@ Ideale, ĉiu generacio devas krei sian version de la klasikaj verkoj.</p>
 <p>— Ho, tre volonte, sinjoroj.</p>
 <p>Kaj li trinkas.</p>
 <p>— Sufiĉas, — oni diris al li. — Nun vi estas la apogo, la subteno, la defendanto, la heroo de la Bulgaroj; via sorto estas decidita, kaj certa estas via gloro.</p>
-<p>Tuj oni katenas liajn piedojn kaj lin kondukas en la regimenton. Oni lin igas sin turni dekstren, maldekstren, eltiri la ŝargostangon<a l:href="#n11" type="note">[14]</a>, remeti la ŝargostangon, celi, pafi, pli rapide paŝadi, kaj oni donas al li tridek bastonfrapojn<a l:href="#n12" type="note">[15]</a>; la morgaŭon li plenumas la ekzercojn iom malpli malbone kaj ricevas nur dudek batojn; la postmorgaŭon, nur dek, kaj liaj kamaradoj lin rigardas kiel junan mirindulon.</p>
+<p>Tuj oni katenas liajn piedojn kaj lin kondukas en la regimenton. Oni lin igas sin turni dekstren, maldekstren, eltiri la ŝargostangon<a l:href="#n11" type="note">[14]</a>, remeti la ŝargostangon, celi, pafi, pli rapide paŝadi, kaj oni donas al li tridek bastonbatojn<a l:href="#n12" type="note">[15]</a>; la morgaŭon li plenumas la ekzercojn iom malpli malbone kaj ricevas nur dudek batojn; la postmorgaŭon, nur dek, kaj liaj kamaradoj lin rigardas kiel junan mirindulon.</p>
 <p>Konsternite, Kandido ankoraŭ ne komprenis klare, kiel li fariĝis heroo. Iun belan printempan tagon li decidis fari promenadon, kaj ekpaŝis rekte antaŭen, opiniante, ke laŭplaĉe uzi siajn krurojn estas natura rajto de la homoj, samkiel de la bestoj. Apenaŭ li estis irinta du leŭgojn,<a l:href="#lieue" type="note">[16]</a> kiam kvar aliaj herooj, ses futojn altaj, lin kuratingas, ligas, kaj kondukas en karceron. Oni lin jure demandis, ĉu li preferas pasi tridek ses fojojn sub la vergoj de la tuta regimento, aŭ ricevi dek du kuglojn en la cerbon.</p>
 <p>Vane li diradis, ke la voloj estas liberaj, kaj ke li volas nek la unuan, nek la duan punon — fine li devis elekti. Li do decidis, per la speciala kapablo, donita de Dio, kaj kiun oni nomas <emphasis>libero,</emphasis> ke li ricevos la vergadon.</p>
 <p>Li eltenis du trapasojn. La regimento konsistis el du mil homoj; li do ricevis kvar mil vergobatojn, kiuj, de la nuko ĝis la postaĵo, malkovris liajn muskolojn kaj nervojn. Kiam estis komencota tria trapaso, li estis tiom suferanta, ke li petegis, ke oni prefere rompu lian kapon. Li akiras tiun favoron; oni vindas liajn okulojn, oni lin genuigas.</p>
@@ -487,7 +483,7 @@ Ideale, ĉiu generacio devas krei sian version de la klasikaj verkoj.</p>
 <empty-line/>
 <p>La morgaŭon, promenante, li renkontis mizerulon tute kovritan per ulceroj, kun malvivaj okuloj, kun formanĝita nazpinto, kun tordita buŝo, kun nigraj dentoj kaj gorĝa voĉo, turmentatan de fortega tuso kaj sputantan denton ĉe ĉiu atako.</p>
 </section><section>
-<title><p>4. Kiel Kandido renkontis sian malnovan majstron, doktoron Pangloso, kaj kio rezultis el tio</p></title>
+<title><p>4. Kiel Kandido renkontis sian majstron doktoron Pangloso, kaj kio el tio rezultis</p></title>
 <p>Kortuŝite de kompato pli ol de abomeno, Kandido donis al tiu terura mizerulaĉo la du florenojn de la honesta anabaptisto Jakobo. La fantomo lin fikse rigardis, ekploris kaj sin ĵetis al li sur la kolon. Timigite, Kandido faris paŝon malantaŭen.</p>
 <p>— Ho ve! — diris la mizerulo al la alia mizerulo, — ĉu do vi ne rekonas vian karan Pangloson?</p>
 <p>— Kion mi aŭdas? Vi, mia kara majstro! Vi, en tia abomena stato! Kia malfeliĉo vin trafis? Kial vi ne plu estas en la plej bela el la kasteloj? Kio okazis pri fraŭlino Kunegundo, la plej perfekta el ĉiuj junulinoj, la ĉefverko de l’ naturo?</p>
@@ -550,7 +546,7 @@ Mi mem ĝin transdonos al neniu, ĉar mi mortas.</p>
 <p>Post la tertremo detruinta la tri kvaronojn de Lisbono la saĝuloj de la lando ne trovis pli efikan rimedon por eviti kompletan ruiniĝon ol aranĝi por la popolo belan aŭtodafeon. La universitato de Koimbro<a l:href="#n21" type="note">[23]</a> konkludis, ke la spektaklo de kelkaj homoj, bruligataj per malvigla fajro dum granda ceremonio, estas efika rimedo por malhelpi la teron tremi.</p>
 <p>Konsekvence oni arestis Biskajanon edziĝintan al sia baptanino,<a l:href="#n22" type="note">[24]</a> kaj du Portugalojn, kiuj ĉe manĝado de lardita kokido deprenis ties larderojn<a l:href="#lardo" type="note">[25]</a>; post la tagmanĝo oni venis por aresti doktoron Pangloso kaj lian disĉiplon Kandido, la unuan pro tio ke li parolis, kaj la duan, ĉar li aŭskultis kun aproba mieno. Ambaŭ estis kondukitaj, ĉiu aparte, en ejojn kie regis ega freŝo, kaj en kiuj onin neniam ĝenas la suno. Semajnon poste oni vestis ilin per <emphasis>san-benito,</emphasis><a l:href="#n23" type="note">[26]</a> kaj kronis per paperaj mitroj. Sur la mitro kaj la <emphasis>san-benito</emphasis> de Kandido estis pentritaj flamoj renversitaj kaj diabloj sen ungoj kaj sen vostoj; sed la diabloj de Pangloso havis ungojn kaj vostojn, kaj la flamoj staris rekte. Tiele vestite, ili procesie tramarŝis kaj aŭdis tre patosan predikon, kiun sekvis bela himno foburdona.<a l:href="#foburdon" type="note">[27]</a> Kandido ricevis skurĝon sur la gluteojn, laŭtakte kun la kantado; la Biskajano kaj la du homoj, kiuj ne volis manĝi lardon, estis ŝtiparumitaj, kaj Pangloso estis pendumita, kvankam ĉi tio estis nekutima<a l:href="#n24" type="note">[28]</a>. La saman tagon, la tero denove ektremis kun terura brukrakado.</p>
 <p>Terurita, konsternita, duonfreneza, sanganta kaj tremanta, Kandido sin demandadis:</p>
-<p>«Se ĉi tie estas la plej bona el ĉiuj eblaj mondoj, kiaj do estas la aliaj? Ne tre gravas mia glutea skurĝado, tion mi jam spertis ĉe la Bulgaroj; sed, ho mia kara Pangloso! la plej eminenta el la filozofoj, kial necesis, ke mi vidu vin pendumata, eĉ sen scii la kialon? Ho mia kara anabaptisto! la plej bona el la homoj, kial necesis, ke vi dronu en la haveno? Ho Kunegundo, la perlo inter la junulinoj, kial necesis, ke oni al vi distranĉu la ventron?»</p>
+<p>«Se ĉi tie estas la plej bona el ĉiuj eblaj mondoj, kiaj do estas la aliaj? Ne tre gravas mia glutea skurĝado, tion mi jam spertis ĉe la Bulgaroj; sed, ho mia kara Pangloso! la plej eminenta el la filozofoj, kial necesis, ke mi vidu vin pendumata, kaj eĉ sen scii la kialon? Ho mia kara anabaptisto! la plej bona el la homoj, kial necesis, ke vi dronu en la haveno? Ho Kunegundo, la perlo inter la junulinoj, kial necesis, ke oni al vi distranĉu la ventron?»</p>
 <p id="maljunulino">Apenaŭ sin tenante sur la piedoj, li sin trenis for de la loko, kie ĵus li aŭdis predikon, ricevis skurĝon sur la postaĵon, absolvon kaj benon — kiam lin aliris maljunulino, kiu diris: «Mia filo, kuraĝu kaj iru kun mi.»</p>
 </section><section>
 <title><p>7. Kandidon flegas maljunulino; li retrovas sian amatinon</p>
@@ -631,7 +627,7 @@ Mi mem ĝin transdonos al neniu, ĉar mi mortas.</p>
 <p>Tiu respondo naskis tre grandan scivolon en la spirito de Kunegundo kaj de Kandido. La maljunulino parolis al ili jene:</p>
 </section><section>
 <title><p>11. Historio de la maljunulino</p></title>
-<p>» Ne ĉiam mi havis la okulojn kun elturnitaj palpebraj randoj kaj skarlate borderitajn; mia nazo ne ĉiam tuŝis la mentonon; kaj ne ĉiam mi estis servistino. Mi estas filino de la papo Urbano la 10ª kaj de la princino Palestrina.<a l:href="#n28" type="note">[33]</a> Ĝis mia dek kvara jaro oni min edukis en palaco, por kiu la kasteloj de viaj germanaj baronoj ne indus servi kiel staloj; kaj unu mia robo kostis pli ol ĉiuj luksaĵoj de Vestfalio. Mi kreskis ĉiam pli bela, pli gracia, talenta, meze de plezuroj, de respektoj kaj esperoj; mi jam inspiris amon, mia brusto estis formiĝanta; kaj kia brusto! Blanka, malmola, simila al tiu de Venero Mediĉa; kaj kiaj okuloj! Kiaj palpebroj! Kiaj nigraj brovoj! Kiaj flamoj brilis en miaj du pupiloj, paligante la scintiladon de la steloj, kiel diris al mi la lokaj poetoj. La virinoj kiuj min vestis kaj malvestis, ekstazis rigardante min de antaŭe kaj de malantaŭe; kaj ĉiuj viroj deziris esti ĉe ilia loko.</p>
+<p>— Ne ĉiam mi havis la okulojn kun elturnitaj palpebraj randoj kaj skarlate borderitajn; mia nazo ne ĉiam tuŝis la mentonon; kaj ne ĉiam mi estis servistino. Mi estas filino de la papo Urbano la 10ª kaj de la princino Palestrina.<a l:href="#n28" type="note">[33]</a> Ĝis mia dek kvara jaro oni min edukis en palaco, por kiu la kasteloj de viaj germanaj baronoj ne indus servi kiel staloj; kaj unu mia robo kostis pli ol ĉiuj luksaĵoj de Vestfalio. Mi kreskis ĉiam pli bela, pli gracia, talenta, meze de plezuroj, de respektoj kaj esperoj; mi jam inspiris amon, mia brusto estis formiĝanta; kaj kia brusto! Blanka, malmola, simila al tiu de Venero Mediĉa; kaj kiaj okuloj! Kiaj palpebroj! Kiaj nigraj brovoj! Kiaj flamoj brilis en miaj du pupiloj, paligante la scintiladon de la steloj, kiel diris al mi la lokaj poetoj. La virinoj kiuj min vestis kaj malvestis, ekstazis rigardante min de antaŭe kaj de malantaŭe; kaj ĉiuj viroj deziris esti ĉe ilia loko.</p>
 <p>» Mi fianĉiniĝis al princo, suvereno de Masso-Kararo<a l:href="#MK" type="note">[34]</a>: kia princo! Egale bela, kiel mi, knedita el mildo kaj plaĉo, brilanta per sprito kaj brulanta pro amo; mi amis lin, kiel oni amas la unuan fojon, kiel idolon, malmodere. La edziĝofesto estis preparita kun nepriskribeblaj lukso kaj pompo, estis kontinuaj festoj, turniroj, komikaj operoj; kaj la tuta Italio verkis por mi sonetojn, el kiuj neniu superis la nivelon de banalo.</p>
 <p>» Alproksimiĝis la momento de mia feliĉo, kiam maljuna markizino, iama amdonantino de mia princo, lin invitis ĉe sin por trinki ĉokoladon; malpli ol du horojn poste li mortis en teruraj konvulsioj.</p>
 <p>» Sed tio estis nur bagatelo. Mia patrino, malesperigite, kvankam ja malpli afliktite ol mi, volis por kelka tempo forlasi tiun restadejon tiom fatalan. Ŝi havis tre belan bienon apud Gaeto<a l:href="#Gaeto" type="note">[35]</a>; ni ekvojaĝis per loka galero, kiu estis orumita kiel la altaro de Sankta Petro en Romo. Jen korsara ŝipo el Saleo<a l:href="#n29" type="note">[36]</a> impetas al ni kaj nin kaperas; niaj soldatoj sin defendas laŭ la kutimo de la soldatoj de l’ papo: ili ĉiuj surgenuiĝas, forĵetas siajn armilojn kaj petas la korsarojn pri absolvo <emphasis>in articulo mortis.</emphasis><a l:href="#n30" type="note">[37]</a></p>
@@ -901,7 +897,7 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>— La diablo tiom aktive enmiksiĝas en la aferojn  de ĉi tiu mondo, — diris Marteno, — ke ĝi povas esti en mia korpo, egale kiel ie ajn; sed mi konfesas al vi, ke ĉiufoje kiam mi ekrigardas ĉi tiun terglobon, aŭ pli ĝuste ĉi tiun globeton, mi ekpensas, ke Dio lasis ĝin al la zorgoj de iu malbonfarulo; mi tamen esceptas Eldoradon.</p>
 <p>» Mi malofte vidis urbon, kiu ne dezirus ruiniĝon de najbara urbo, nek familion, kiu ne volus ekstermi alian familion. Ĉie la malfortuloj malamegas la potenculojn, antaŭ kiuj ili malnoble humiliĝas, kaj la potenculoj traktas ilin kiel gregon, kies lanon kaj karnon oni vendas. Miliono da murdistoj enregimentigitaj trakuras la tutan Eŭropon, profesie mortigadas kaj disciplineme rabadas por gajni sian panon, ĉar pli honestan metion ili ne scias. En la urboj, kiuj ŝajnas ĝui pacon, kaj kie floras la artoj, la homojn pli suferigas la envio, la zorgoj kaj la maltrankviligoj ol sieĝatan urbon la plagoj de milito. La kaŝitaj ĉagrenoj eĉ pli turmentas ol la publikaj mizeroj. Unuvorte, da tioj mi tiom vidis, mi tiom spertis, ke mi fariĝis Maniĥeano.</p>
 <p>— Tamen ekzistas bono, — rebatis Kandido.</p>
-<p>— Povas esti, — diris Marteno, — sed mi ĝin ne konas.</p>
+<p>— Eble, — diris Marteno, — sed mi ĝin ne konas.</p>
 <p>Meze de tiu disputo ekaŭdiĝis kanonado. La bruo kreskas de momento al momento. Ĉiu prenas sian lornon. Oni ekvidas du ŝipojn, kiuj interbatalas je proksimume trimejla distanco; la vento kondukis ilin ambaŭ tiom proksimen al la franca ŝipo, ke niaj vojaĝantoj havis la plezuron observi la batalon kvazaŭ sur la manplato. Fine unu el la du ŝipoj pafis salvon kontraŭ la alian tiom trafe kaj tiom malalte, ke tiu lasta ekdronis. Kandido kaj Marteno klare vidis centon da homoj sur la ferdeko de la sinkanta ŝipo; la homoj levadis la brakojn al la ĉielo kaj aŭdigis terurajn kriojn; momenton poste ĉio malaperis en la ondoj.</p>
 <p>— Nu, — diris Marteno, — jen kiel la homoj traktas unuj la aliajn.</p>
 <p>— Vere,  — diris Kandido, — en tiu afero estas io diabla.</p>
@@ -1093,43 +1089,43 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>— Ĉar mi havas vivosperton, — diris Marteno.</p>
 <p>— Sed rigardu ĉi tiujn gondolistojn, — diris Kandido, — ili kantas senĉese!</p>
 <p>— Vi ne vidas ilin en ilia hejmo, kun iliaj edzinoj kaj iliaj buboj, — diris Marteno. — Siajn ĉagrenojn havas la doĝo, la siajn havas gondolisto. Mi koncedas, se konsideri ĉion, la sorto de gondolisto estas preferinda ol tiu de doĝo; sed mi opinias, ke la diferenco estas tiom malgranda, ke ne penvaloras ekzameni la aferon.</p>
-<p>— Oni rakontas, — diris Kandido, — pri la senatano Pokokuranto,<a l:href="#Pokokuranto" type="note">[85]</a> kiu loĝas en tiu bela palaco ĉe Brento,<a l:href="#Brento" type="note">[86]</a> kaj kiu sufiĉe bone akceptas la alilandanojn. Onidire tiu homo neniam havis ĉagrenon.</p>
+<p>— Oni rakontas, — diris Kandido, — pri la senatano Pokozorgo,<a l:href="#Pokozorgo" type="note">[85]</a> kiu loĝas en tiu bela palaco ĉe Brento,<a l:href="#Brento" type="note">[86]</a> kaj kiu sufiĉe bone akceptas la alilandanojn. Onidire tiu homo neniam havis ĉagrenon.</p>
 <p>— Mi volus vidi tian mirindaĵon, — diris Marteno.</p>
-<p>Kandido tuj sendis al sinjoro Pokokuranto por peti pri permeso viziti lin morgaŭe.</p>
+<p>Kandido tuj sendis al sinjoro Pokozorgo por peti pri permeso viziti lin morgaŭe.</p>
 </section><section>
-<title><p>25. Vizito ĉe sinjoro Pokokuranto, Venecia nobelo</p></title>
-<p>Kandido kaj Marteno gondole veturis sur Brento kaj alvenis ĉe la palacon de la moŝta sinjoro Pokokuranto. La ĝardenojn, belguste aranĝitajn, ornamis belaj statuoj marmoraj; la palaco estis bonstila. La mastro, sesdekjara, riĉega, akceptis la du scivolemulojn kun ĝentila indiferento, kio konfuzetis Kandidon kaj ne malplaĉis al Marteno.</p>
+<title><p>25. Vizito ĉe sinjoro Pokozorgo, Venecia nobelo</p></title>
+<p>Kandido kaj Marteno gondole veturis sur Brento kaj alvenis ĉe la palacon de la moŝta sinjoro Pokozorgo. La ĝardenojn, belguste aranĝitajn, ornamis belaj statuoj marmoraj; la palaco estis bonstila. La mastro, sesdekjara, riĉega, akceptis la du scivolemulojn kun ĝentila indiferento, kio konfuzetis Kandidon kaj ne malplaĉis al Marteno.</p>
 <p>Unue beletaj kaj pure vestitaj junulinoj prezentis ĉokoladon, kiun ili tre bone ŝaŭmkirlis. Kandido ne povis sin deteni de laŭdo pri iliaj belo, afabla ĉarmo kaj lerto.</p>
-<p>— Jes, ili estas sufiĉe bonaj, — diris la senatano Pokokuranto. — Fojfoje mi kunprenas ilin en mian liton, ĉar la sinjorinoj el la urbo min sattedis per siaj koketado, ĵaluzoj, kvereloj, kapricoj, etanimeco, malhumilo kaj la sonetoj, kiujn oni devas verki aŭ mendi por ili; sed fine, ankaŭ ĉi tiuj du junulinoj komencas forte min tedi.</p>
+<p>— Jes, ili estas sufiĉe bonaj, — diris la senatano Pokozorgo. — Fojfoje mi kunprenas ilin en mian liton, ĉar la sinjorinoj el la urbo min sattedis per siaj koketado, ĵaluzoj, kvereloj, kapricoj, etanimeco, malhumilo kaj la sonetoj, kiujn oni devas verki aŭ mendi por ili; sed fine, ankaŭ ĉi tiuj du junulinoj komencas forte min tedi.</p>
 <p>Post la matenmanĝo Kandido promenis en longa galerio, kaj tie lin frapis la belo de la pentraĵoj. Li demandis, kiuj majstroj pentris la du unuajn.</p>
 <p>— Ili estas de Rafaelo, — diris la senatano. — Mi aĉetis ilin tre kare, pro vanto, antaŭ kelke da jaroj. Oni diras, ke ili estas la plej belaj en Italio, sed al mi ili tute ne plaĉas: la farboj tre malheliĝis, la figuroj estas magraj kaj ne sufiĉe reliefaj; la drapiraĵoj tute ne similas ŝtofon — unuvorte, malgraŭ ĉiuj laŭdoj mi ne trovas en ili veran imiton de la naturo. Mi ŝatos bildon nur kiam rigardante ĝin mi vidos kvazaŭ la naturon mem; tamen tiaj ne ekzistas. Mi havas multe da pentraĵoj, sed mi ne plu rigardas ilin.</p>
-<p>Atendante la tagmanĝon, Pokokuranto ludigis al si koncerton. Kandido trovis la muzikon admirinda.</p>
-<p>— Tiu bruo, — diris Pokokuranto, — povas distri dum duonhoro; sed se ĝi daŭras pli longe, ĝi tedas ĉiujn, kvankam neniu kuraĝas tion konfesi. La muziko hodiaŭ estas nur la arto ludi malfacilajn aferojn, kaj tio, kio estas nur malfacila, ne povas plaĉi longtempe.</p>
+<p>Atendante la tagmanĝon, Pokozorgo ludigis al si koncerton. Kandido trovis la muzikon admirinda.</p>
+<p>— Tiu bruo, — diris Pokozorgo, — povas distri dum duonhoro; sed se ĝi daŭras pli longe, ĝi tedas ĉiujn, kvankam neniu kuraĝas tion konfesi. La muziko hodiaŭ estas nur la arto ludi malfacilajn aferojn, kaj tio, kio estas nur malfacila, ne povas plaĉi longtempe.</p>
 <p>» Eble mi pli ŝatus operon, se oni per diversaj rimedoj ne farus el ĝi monstron, kiu min indignigas. Ĉeestu, kiu deziras, la prezentadon de malbonaj tragedioj kun muziko, en kiuj la scenoj estas verkitaj nur por tre malĝustatempe enŝovi du aŭ tri ridindajn kantojn, ebligantaj al aktorino paradi per sia voĉo. Svenu de plezuro, kiuj deziras aŭ povas, kiam kastrito kantetas la rolon de Cezaro aŭ Katono kaj mallerte pavas sur la scenejo. Miaflanke, jam delonge mi fordecidis pri tiuj sensencaĵoj, kiuj hodiaŭ konsistigas la gloron de Italio, kaj kiujn monarĥoj pripagas tiom kare.</p>
 <p>Kandido iom obĵetis, kvankam sen vervo. Marteno samopiniis kun la senatano.</p>
 <p>Oni altabliĝis kaj post bonega tagmanĝo eniris la bibliotekon. Ekvidinte lukse binditan libron de Homero, Kandido laŭdis la belguston de la eminenta moŝto.</p>
 <p>— Jen libro, — li diris, — kiu ĝuigis la grandan Pangloson, la plej bonan filozofon Germanian.</p>
-<p>— Min ĝi ne ĝuigas, — flegme diris Pokokuranto. — Iam oni kredigis al mi, ke ĝin legante mi ricevas plezuron; sed tiu senĉesa sinsekvo da bataloj, ĉiuj similaj unu al la aliaj; tiuj dioj, kiuj ĉiam agas kaj faras nenion definitivan; tiu Heleno, kiu estas la kaŭzo de la milito, kaj kiu apenaŭ agas en la verko; tiu Trojo, kiun oni sieĝas kaj kiun oni ne venkoprenas — ĉio ĉi tio min morte tedas. Kelkfoje mi demandis klerulojn, ĉu ili tiom enuis, kiom mi ĉe tiu legado; ĉiuj sinceruloj konfesis al mi, ke la libro falas el iliaj manoj, sed ke oni tamen ĝin havu en sia biblioteko, kiel memoraĵon pri la antikvo, kaj kiel ties rustajn monerojn, per kiuj oni ne plu komercas.</p>
+<p>— Min ĝi ne ĝuigas, — flegme diris Pokozorgo. — Iam oni kredigis al mi, ke ĝin legante mi ricevas plezuron; sed tiu senĉesa sinsekvo da bataloj, ĉiuj similaj unu al la aliaj; tiuj dioj, kiuj ĉiam agas kaj faras nenion definitivan; tiu Heleno, kiu estas la kaŭzo de la milito, kaj kiu apenaŭ agas en la verko; tiu Trojo, kiun oni sieĝas kaj kiun oni ne venkoprenas — ĉio ĉi tio min morte tedas. Kelkfoje mi demandis klerulojn, ĉu ili tiom enuis, kiom mi ĉe tiu legado; ĉiuj sinceruloj konfesis al mi, ke la libro falas el iliaj manoj, sed ke oni tamen ĝin havu en sia biblioteko, kiel memoraĵon pri la antikvo, kaj kiel ties rustajn monerojn, per kiuj oni ne plu komercas.</p>
 <p>— Sed via ekscelenco ne tiel pensas pri Vergilio? — demandis Kandido.</p>
-<p>— Mi konsentas, — diris Pokokuranto, — ke la dua, la kvara kaj la sesa partoj de lia Eneado estas bonegaj; sed koncerne lian pian Eneon, kaj la fortikan Kloanton, kaj la amikon Aĥato, kaj la malgrandan Askanion, kaj la stultan reĝon Lateno, kaj la burĝan Amatan, kaj la malinteresan Lavinian — mi ne povas imagi ion pli senvervan kaj malagrablan. Mi pli ŝatas Tason kaj la fantaziegajn fabelojn de Ariosto.</p>
+<p>— Mi konsentas, — diris Pokozorgo, — ke la dua, la kvara kaj la sesa partoj de lia Eneado estas bonegaj; sed koncerne lian pian Eneon, kaj la fortikan Kloanton, kaj la amikon Aĥato, kaj la malgrandan Askanion, kaj la stultan reĝon Lateno, kaj la burĝan Amatan, kaj la malinteresan Lavinian — mi ne povas imagi ion pli senvervan kaj malagrablan. Mi pli ŝatas Tason kaj la fantaziegajn fabelojn de Ariosto.</p>
 <p>— Permesu demandi vin, sinjoro, — diris Kandido, — ĉu vi ne havas grandan plezuron legante Horacion?</p>
-<p>— Estas maksimoj, — diris Pokokuranto, — el kiuj mondumano povas profiti, kaj kiuj, dirite en formo de viglaj versoj, pli facile gravuriĝas en la memoron; sed min lasas tute indiferenta lia vojaĝo al Brindizio, kaj lia priskribo de malbona tagmanĝo; kaj de la kanajla disputo inter iu nekonata Rupilio, kies paroloj, li diras, <emphasis>estis pusoplenaj</emphasis>, kaj iu alia, kies paroloj <emphasis>estis vinagraj.</emphasis> Nur kun tre forta naŭzo mi legis tiujn maldelikatajn versojn kontraŭ maljunulinojn kaj kontraŭ sorĉistinojn; kaj mi vidas nenion laŭdindan en tio, ke li diras al sia amiko Mecenaso, ke se tiu lin metos en la rangon de la lirikaj poetoj, li frapos la astrojn per sia fiera frunto. La stultuloj admiras ĉe ŝatata aŭtoro ĉion. Mi legas nur por mi; mi ŝatas nur tion, kio estas ĝusta laŭ mia gusto.</p>
-<p>Kandidon, edukitan pri nenio juĝi mem, la aŭdata tre mirigis; kaj Marteno opiniis, ke la pensmaniero de Pokokuranto estis sufiĉe saĝa.</p>
+<p>— Estas maksimoj, — diris Pokozorgo, — el kiuj mondumano povas profiti, kaj kiuj, dirite en formo de viglaj versoj, pli facile gravuriĝas en la memoron; sed min lasas tute indiferenta lia vojaĝo al Brindizio, kaj lia priskribo de malbona tagmanĝo; kaj de la kanajla disputo inter iu nekonata Rupilio, kies paroloj, li diras, <emphasis>estis pusoplenaj</emphasis>, kaj iu alia, kies paroloj <emphasis>estis vinagraj.</emphasis> Nur kun tre forta naŭzo mi legis tiujn maldelikatajn versojn kontraŭ maljunulinojn kaj kontraŭ sorĉistinojn; kaj mi vidas nenion laŭdindan en tio, ke li diras al sia amiko Mecenaso, ke se tiu lin metos en la rangon de la lirikaj poetoj, li frapos la astrojn per sia fiera frunto. La stultuloj admiras ĉe ŝatata aŭtoro ĉion. Mi legas nur por mi; mi ŝatas nur tion, kio estas ĝusta laŭ mia gusto.</p>
+<p>Kandidon, edukitan pri nenio juĝi mem, la aŭdata tre mirigis; kaj Marteno opiniis, ke la pensmaniero de Pokozorgo estis sufiĉe saĝa.</p>
 <p>— Ho, jen verkaro de Cicerono! — ekkriis Kandido. — Mi pensas, ke relegado de la verkoj de tiu granda homo neniam vin enuigas, ĉu?</p>
 <p>— Neniam mi legas ilin, — respondis la Veneciano. — Kial min interesu, ke li pledis por Rabirio aŭ por Kluencio? Al mi sufiĉas la procesoj, kiujn juĝas mi mem. Pli volonte mi legus liajn verkojn filozofiajn; sed kiam mi vidis, ke pri ĉio li dubas, mi konkludis, ke mi estas same klera kiel li, kaj ke mi bezonas nenies helpon por resti senscia.</p>
-<p>— Ha, jen estas okdek volumoj el verkaĵoj de scienca akademio! — ekkriis Marteno. — Povas esti, ke tie troviĝas io valora.</p>
-<p>— Ĝi estus, — diris Pokokuranto, — se almenaŭ unu el la aŭtoroj de tiu fatraso elpensus, ekzemple, la arton fari pinglojn; sed en ĉiuj tiuj libroj troviĝas nur vanaj sistemoj kaj ne eĉ unu utila afero.</p>
+<p>— Ha, jen estas okdek volumoj el verkaĵoj de scienca akademio! — ekkriis Marteno. — Eble ĉi tie estas io valora.</p>
+<p>— Ĝi estus, — diris Pokozorgo, — se almenaŭ unu el la aŭtoroj de tiu fatraso elpensus, ekzemple, la arton fari pinglojn; sed en ĉiuj tiuj libroj troviĝas nur vanaj sistemoj kaj ne eĉ unu utila afero.</p>
 <p>— Kiom da teatraĵoj mi vidas tie, — diris Kandido, — en la Itala lingvo, en la Hispana, en la Franca!</p>
 <p>— Jes, — diris la senatano, — estas tri mil da ili, sed malpli ol tri dekduoj da bonaj. Rilate al tiuj kolektoj da predikoj, kiuj ĉiuj kune ne valoras paĝon de Seneko, kaj ĉiuj tiuj dikaj volumoj pri teologio, estu certa, ke neniam mi malfermas ilin, nek mi nek iu alia.</p>
 <p>Marteno ekvidis bretaron da anglaj libroj. Li diris:</p>
 <p>— Mi supozas, ke al civitano de respubliko plaĉas plejparto da tiuj libroj klare verkitaj.</p>
-<p id="jakobeno">— Jes, — respondis Pokokuranto, — estas bele skribi kion oni pensas; tio estas privilegio de la homo. En la tuta Italio, oni skribas nur kion oni ne pensas; kiuj loĝas en la patrujo de la Cezaroj kaj de la Antonenoj, tiuj ne kuraĝas havi ideon sen permeso de Dominikano. Mi estus kontenta pri la libero, kiu inspiras la anglajn geniulojn, se la pasio kaj la partieco ne difektus ĉion, kio estas ŝatinda en tiu grandvalora libero.</p>
-<p>Kandido, ekvidinte libron de Miltono, demandis al Pokokuranto, ĉu li konsideras tiun aŭtoron granda homo.</p>
-<p>— Ĉu Miltonon? — redemandis Pokokuranto. — Tiun barbaron, kiu longe komentarias la unuan ĉapitron de <emphasis>Genezo</emphasis> en dek libroj<a l:href="#n82" type="note">[87]</a> da krudaj versoj? Tiun mallertan imitanton de la Grekoj, kiu distordas la kreadon? Dum Moseo prezentas la Eternulon produktanta la mondon per la parolo, Miltono igas sian Mesion preni el ĉiela ŝranko grandan cirkelon por desegni sian laboraĵon! Ĉu mi povus ŝati tiun, kiu fuŝis la inferon kaj la diablon de Taso; kiu igas Luciferon aperi jen bufo, jen Pigmeo; kiu igas lin centfoje ripetadi la samajn paroladojn; kiu lin disputigas pri teologio; kiu, serioze imitante la komikan inventon pri eksplodpafiloj de Ariosto, igas la diablojn bombadi la ĉielon? Nek mi, nek iu ajn en Italio povis ŝati tiujn mizerajn ekstravagancojn. La <emphasis>edziĝo de la Peko kun la Morto</emphasis> kaj la kolubroj naskataj de la Peko vomigas ĉiun homon, kiu havas guston iom delikatan, kaj lia longa priskribo de hospitalo konvenas nur por tombisto. Ĉi tiun malhelan, sovaĝan kaj naŭzan poemon renkontis malŝato ĉe ĝia unua publikigo, kaj hodiaŭ mi ĝin traktas samkiel en ĝia lando ĝin traktis la samtempuloj. Cetere, mi diras, kion mi pensas, kaj mi tre malmulte zorgas, ĉu la aliaj pensas same.</p>
+<p id="jakobeno">— Jes, — respondis Pokozorgo, — estas bele skribi kion oni pensas; tio estas privilegio de la homo. En la tuta Italio, oni skribas nur kion oni ne pensas; kiuj loĝas en la patrujo de la Cezaroj kaj de la Antonenoj, tiuj ne kuraĝas havi ideon sen permeso de Dominikano. Mi estus kontenta pri la libero, kiu inspiras la anglajn geniulojn, se la pasio kaj la partieco ne difektus ĉion, kio estas ŝatinda en tiu grandvalora libero.</p>
+<p>Kandido, ekvidinte libron de Miltono, demandis al Pokozorgo, ĉu li konsideras tiun aŭtoron granda homo.</p>
+<p>— Ĉu Miltonon? — redemandis Pokozorgo. — Tiun barbaron, kiu longe komentarias la unuan ĉapitron de <emphasis>Genezo</emphasis> en dek libroj<a l:href="#n82" type="note">[87]</a> da krudaj versoj? Tiun mallertan imitanton de la Grekoj, kiu distordas la kreadon? Dum Moseo prezentas la Eternulon produktanta la mondon per la parolo, Miltono igas sian Mesion preni el ĉiela ŝranko grandan cirkelon por desegni sian laboraĵon! Ĉu mi povus ŝati tiun, kiu fuŝis la inferon kaj la diablon de Taso; kiu igas Luciferon aperi jen bufo, jen Pigmeo; kiu igas lin centfoje ripetadi la samajn paroladojn; kiu lin disputigas pri teologio; kiu, serioze imitante la komikan inventon pri eksplodpafiloj de Ariosto, igas la diablojn bombadi la ĉielon? Nek mi, nek iu ajn en Italio povis ŝati tiujn mizerajn ekstravagancojn. La <emphasis>edziĝo de la Peko kun la Morto</emphasis> kaj la kolubroj naskataj de la Peko vomigas ĉiun homon, kiu havas guston iom delikatan, kaj lia longa priskribo de hospitalo konvenas nur por tombisto. Ĉi tiun malhelan, sovaĝan kaj naŭzan poemon renkontis malŝato ĉe ĝia unua publikigo, kaj hodiaŭ mi ĝin traktas samkiel en ĝia lando ĝin traktis la samtempuloj. Cetere, mi diras, kion mi pensas, kaj mi tre malmulte zorgas, ĉu la aliaj pensas same.</p>
 <p>Kandidon tiuj paroloj tre ĉagrenis; li respektis Homeron, iom li ŝatis Miltonon.</p>
 <p>— Ho, ve! — li diris mallaŭte al Marteno, — mi tre timas, ke ĉi tiu homo havas nur malŝategon por niaj poetoj Germanaj.</p>
 <p>— Ne estus en tio granda domaĝo, — diris Marteno.</p>
-<p>«Ho, kia supera homo!» diradis Kandido tradente. «Kia granda geniulo estas tiu Pokokuranto! Al li nenio plaĉas.»</p>
+<p>«Ho, kia supera homo!» diradis Kandido tradente. «Kia granda geniulo estas tiu Pokozorgo! Al li nenio plaĉas.»</p>
 <p>Tiel revuinte ĉiujn librojn, ili malsupreniris en la ĝardenon. Kandido laŭdis ĉiujn ĝiajn belaĵojn.</p>
 <p>— Mi konas nenion pli malbongustan, — diris la mastro; — ni havas ĉi tie nur bagatelaĵojn; sed jam morgaŭ mi ordonos, ke oni konstruu alian laŭ pli nobla plano.</p>
 <p>Post kiam la du scivolemuloj adiaŭis lian ekscelencon, Kandido diris al Marteno:</p>
@@ -1272,7 +1268,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <p>— Ĉu gravas, — diris la derviŝo, — ke estas malbono aŭ bono? Kiam lia sultana moŝto sendas ŝipon en Egiption, ĉu li atentas, ke estu aŭ ne komforte al la ŝipaj musoj?</p>
 <p>— Do kion oni faru? — demandis Pangloso.</p>
 <p>— Silentu, — diris la derviŝo.</p>
-<p>— Mi esperis, — diris Pangloso, ke ni iom rezonados pri la efikoj kaj la kaŭzoj, pri la plej bona el ĉiuj eblaj mondoj, pri la deveno de l’ malbono, pri la naturo de la animo kaj pri la praestablita harmonio.</p>
+<p>— Mi esperis, — diris Pangloso, — ke ni iom rezonados pri la efikoj kaj la kaŭzoj, pri la plej bona el ĉiuj eblaj mondoj, pri la deveno de l’ malbono, pri la naturo de la animo kaj pri la praestablita harmonio.</p>
 <p>Ĉe tiuj vortoj la derviŝo fermis la pordon antaŭ ilia nazo.</p>
 <p>Dum tiu interparolado, diskoniĝis la novaĵo, ke en Istanbulo oni ĵus strangolis du divanajn vezirojn<a l:href="#n103" type="note">[101]</a> kaj la muftion, kaj ke oni palisumis plurajn el iliaj amikoj. Tiu katastrofo kaŭzis grandan bruon, kiu daŭris plurajn horojn. Pangloso, Kandido kaj Marteno, revenante al sia farmbieneto, ekvidis bonan maljunulon, kiu sidis ĉe sia pordo, ĝuante malvarmeton en ombro de oranĝarboj. Pangloso, tiom scivolema, kiom rezonema, lin demandis pri la nomo de la ĵus strangolita muftio.</p>
 <p id="Istamb">— Mi ne scias, — respondis la bonulo, — neniam mi konis la nomon de iu ajn muftio nek de iu ajn veziro. Mi scias nenion pri la evento, kiun vi rakontas; mi opinias, ke ĝenerale kiuj sin enmiksas en la publikajn aferojn, tiuj iafoje pereas mizere kaj laŭmerite; sed neniam mi demandas pri tio, kio okazas en Istanbulo; al mi sufiĉas, ke mi sendas tien por vendo fruktojn el la ĝardeno, kiun mi kulturas.</p>
@@ -1375,7 +1371,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <tr><td>Lucifero</td><td>Lucifer</td><td>Lucifer</td></tr>
 <tr><td>Luseno</td><td>Lucena</td><td>Lucena</td></tr>
 <tr><td>Madrido</td><td>Madrid</td><td>Madrid</td></tr>
-<tr><td>Mahmudo</td><td>Mahmud</td><td>Mahmoud (Mahmud←Muhamad)</td></tr>
+<tr><td>Mahmudo</td><td>Mahmud</td><td>Mahmoud (Mahmud ← Muhamad)</td></tr>
 <tr><td>Malsupra Normandio</td><td>Malalt-Normandio</td><td>Basse-Normandie</td></tr>
 <tr><td>Marmora maro</td><td>Propontid</td><td>Propontide</td></tr>
 <tr><td>Marsejlo</td><td>Marsej</td><td>Marseille</td></tr>
@@ -1405,7 +1401,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <tr><td>Pirro</td><td>Pirhos</td><td>Pyrrhus (Πύρρος)</td></tr>
 <tr><td>Pisaro</td><td>Pizaro</td><td>Pizarro</td></tr>
 <tr><td>Platono</td><td>Plato</td><td>Platon (Πλάτων)</td></tr>
-<tr><td>Pokokuranto</td><td>Pokokurant</td><td>Pococurante</td></tr>
+<tr><td>Pokozorgo</td><td>Pokokurant</td><td>Pococurante</td></tr>
 <tr><td>Pompeo</td><td>Pompejo</td><td>Pompée</td></tr>
 <tr><td>Portsmuto</td><td>Portsmt</td><td>Portsmouth</td></tr>
 <tr><td>Rabirio</td><td>Rabirius</td><td>Rabirius</td></tr>
@@ -1543,8 +1539,8 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <section id="n78"><title><p>[82]</p></title><p>Itala esprimo: Laŭmoda.</p></section>
 <section id="n79"><title><p>[83]</p></title><p>La Teatanoj estis ekleziuloj de la kongregacio de Latrano; ili portis nigran sutanon, nigran mantelon kaj blankajn ŝtrumpojn. Ili predikis, vizitis la malsanulojn kaj malliberulojn, apudestis la ekzekutotojn, ktp. Ili havis nek bienojn, nek rentojn. — <emphasis>L.</emphasis></p></section>
 <section id="n80"><title><p>[84]</p></title><p><emphasis>Lacryma christi</emphasis>, muskatvino el regiono ĉe la bazo de l’ vulkano Vezuvio. — <emphasis>L.</emphasis></p></section>
-<section id="Pokokuranto"><title><p>[85]</p></title><p>T.e. «havanta malmulte da zorgoj» (laŭ la italaj <emphasis>poco</emphasis> = malgranda, <emphasis>cura</emphasis> = zorgo).</p></section>
-<section id="Brento"><title><p>[86]</p></title><p>La rivero (itale <emphasis>Brenta</emphasis>) enfluanta Adriatikon sude de la Venecia laguno. — <emphasis>S.</emphasis></p></section>
+<section id="Pokozorgo"><title><p>[85]</p></title><p><strong>V:</strong> Pococurante, t.e. «havanta malmulte da zorgoj» (laŭ la Italaj <emphasis>poco</emphasis> = malgranda, <emphasis>cura</emphasis> = zorgo). Laŭlitera esperantigo de tiu fikcia nomo ne taŭgas, ĉar <emphasis>kuranto</emphasis> pensigas ne pri zorgo, sed pri kurado. — <emphasis>S.</emphasis></p></section>
+<section id="Brento"><title><p>[86]</p></title><p>La rivero (Itale <emphasis>Brenta</emphasis>) enfluanta Adriatikon sude de la Venecia laguno. — <emphasis>S.</emphasis></p></section>
 <section id="n82"><title><p>[87]</p></title><p>La «Perdita Paradizo» fakte enhavas 12 kantojn.</p></section>
 <section id="n84"><title><p>[88]</p></title><p>Aĥmedo la 3ª, turka imperiestro, fakte reĝis de 1703 ĝis 1730.</p></section>
 <section id="n85"><title><p>[89]</p></title><p>Johano la 3ª (laŭ la imperiestra kalkulo) = Ivano la 6ª (laŭ la dinastia kalkulo), naskita en 1740, samjare surtronigita kaj sekvajare detronigita de Elizabeto Petrovna, filino de Petro la Granda; murdita en 1764, 5 jarojn post la publikigo de «Kandido». — <emphasis>S.</emphasis></p></section>
@@ -1564,7 +1560,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <section id="n110"><title><p>[103]</p></title><p><emphasis>Genezo,</emphasis> 2:15.</p></section>
 </body>
 
-<!-- LocalWords:  Pangloso Kakambo gastejmastro Kakambon Tunder-ten-tronk Kunegundo Kunegundon abateto Portsmuto abateton Perigordan Teatano Eldoradon Violeto Pokokuranto Pangloson Aĥmedo Karlo-Edvardo Lantia plejeble
+<!-- LocalWords:  Pangloso Kakambo gastejmastro Kakambon Tunder-ten-tronk Kunegundo Kunegundon abateto Portsmuto abateton Perigordan Teatano Eldoradon Violeto Pokozorgo Pangloson Aĥmedo Karlo-Edvardo Lantia plejeble
 -->
 <binary id="cover.png" content-type="image/png">
 iVBORw0KGgoAAAANSUhEUgAAAY0AAAIvAgMAAAD19W86AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA
