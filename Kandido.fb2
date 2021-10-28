@@ -2,7 +2,7 @@
 <FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
 
 <stylesheet type="text/css">
-section > section title p {font-weight:normal;font-size:120%;page-break-before:auto}
+section > section title p {font-weight:normal;font-size:120%;}
 poem, stanza, cite>p {margin-top:0em; margin-bottom:0em;}
 stanza {margin-left:9%;}
 p {line-height: 1.1em;}
@@ -52,7 +52,7 @@ text-author {
 <date value="2021-07-27">2021</date>
 <src-url>https://eo.wikisource.org/wiki/Kandid</src-url>
 <id>2021-07-27E</id>
-<version>2.1</version>
+<version>2.2</version>
 </document-info>
 <publish-info>
 </publish-info>
@@ -1220,7 +1220,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <p>— Ĉu estas tute vere, ke mia kara fratino estas en ĉi tiu lando? — demandis la barono.</p>
 <p>— Jes, — respondis Kakambo.</p>
 <p>— Mi do revidas mian karan Kandidon! — ekkriis Pangloso.</p>
-<p>Kandido prezentis al ili Martenon kaj Kakambon. Ĉiuj ĉirkaŭbrakis unuj la aliajn, ĉiuj parolis samtempe. La galero flugis, jam ili estis en la haveno. Oni venigis Judon, al kiu Kandido vendis por kvindek mil dukatoj diamanton, kiu valoris cent mil; la Judo ĵuris per Abrahamo, ke li ne povas pagi pli kare. Kandido tuj pagis la elaĉeton de la barono kaj de Pangloso. Ĉi tiu sin ĵetis al la piedoj de sia liberiganto kaj superverŝis ilin per larmoj; la alia dankis al li per kapsigno kaj promesis redoni ĉi tiun monon al li ĉe la unua okazo.</p>
+<p>Kandido prezentis al ili Martenon kaj Kakambon. Ĉiuj ĉirkaŭbrakis unuj la aliajn, ĉiuj parolis samtempe. La galero flugis, jam ili estis en la haveno. Oni venigis Judon, al kiu Kandido vendis por kvindek mil dukatoj diamanton, kiu valoris cent mil; la Judo ĵuris per Abrahamo, ke li ne povas pagi pli kare. Kandido tuj pagis la elaĉeton de la barono kaj de Pangloso. Ĉi tiu sin ĵetis al la piedoj de sia liberiganto kaj malsekigis ilin per larmoj; la alia dankis al li per kapsigno kaj promesis redoni ĉi tiun monon al li ĉe la unua okazo.</p>
 <p>— Sed ĉu estas eble, ke mia fratino estas en Turkio? — li diris.</p>
 <p>— Nenio estas pli ebla, — rediris Kakambo, — ĉar ŝi frotpurigas la vazaron ĉe iu princo Transilvania.</p>
 <p>Oni tuj venigis du Judojn; Kandido vendis ankoraŭ kelkajn diamantojn, kaj per alia galero ili ekveturis por liberigi Kunegundon.</p>
@@ -1246,7 +1246,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <p>Ekvidinte tion la barono paliĝis. La molkora amanto Kandido, vidante sian belan Kunegundon sunbrunigita,<a l:href="#sunbruno" type="note">[97]</a> ŝiajn okulojn ruĝrandaj, la bruston platiĝinta, la vangojn sulketiĝintaj, la brakojn ruĝaj kaj skvamaj, faris tri paŝojn malantaŭen pro hororo, poste antaŭeniris pro bonkonduto. Ŝi brakumis Kandidon kaj sian fraton; oni brakumis la maljunulinon; Kandido elaĉetis ilin ambaŭ.</p>
 <p>Apude estis malgranda farmbieno; la maljunulino proponis al Kandido ekloĝi tie ĝis kiam la tuta kompanio ekhavos ion pli bonan. Kunegundo ne sciis, ke ŝi malbeliĝis, neniu ŝin avertis pri tio: ŝi memorigis al Kandido pri liaj promesoj per tono tiom ordona, ke la bona Kandido ne aŭdacis rifuzi. Li do konigis al la barono, ke li edziĝos al lia fratino.</p>
 <p>— Neniam mi toleros tion, — diris la barono, — nek tian malnoblon ŝiaflanke, nek tian ofendan malrespekton viaflanke; tian misfamegon oni al mi ne riproĉos, ke la infanoj de mia fratino ne povos partopreni la nobelajn asembleojn en Germanio. Ne, mia fratino povas edziniĝi nur al barono el la Imperio.</p>
-<p>Kunegundo sin ĵetis al liaj piedoj kaj superverŝis ilin per larmoj; li restis malcedema.</p>
+<p>Kunegundo sin ĵetis al liaj piedoj kaj malsekigis ilin per larmoj; li restis malcedema.</p>
 <p>— Superfrenezulo, — al li diris Kandido, — mi liberigis cin el la galero, mi elaĉetis cin kaj cian fratinon. Ŝi estis vazlavistino, ŝi estas malbela, mi degnas al ŝi edziĝi — kaj ci tamen pretendas kontraŭstari al tio! Mi denove cin mortigus, se mi obeus mian koleron.</p>
 <p>— Ci povas denove min mortigi, — diris la barono, — sed dum mi vivas, ci ne edziĝos al mia fratino.</p>
 </section><section>
@@ -1454,16 +1454,16 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <section id="quartier"><title><p>[5]</p></title><p>Temas la nombro de nobelaj geprauloj. log<sub>2</sub>71 ≈ 6.15, t.e. la patro de Kandido estis nobelo en almenaŭ la 7ª generacio. France <emphasis>quartiers,</emphasis> angle <emphasis>quarterings.</emphasis> — <emphasis>S.</emphasis></p></section>
 <section id="funt"><title><p>[6]</p></title><p>T.e. 171 kg (1 Pariza funto = 478 g). — <emphasis>S.</emphasis></p></section>
 <section id="n6"><title><p>[7]</p></title><p>Laŭ la grekaj vortoj πᾶν, kiu signifas: <emphasis>tuto, universo</emphasis>, kaj γλῶσσα — <emphasis>lango</emphasis> aŭ <emphasis>lingvo.</emphasis></p></section>
-<section id="lonigo"><title><p>[8]</p></title><p>La spriteco de la neekzistanta vorto «kosmolonigologio» (france <emphasis>cosmolonigologie</emphasis>) eskapas mian komprenon. Iuj komentistoj vidas en la enmetita «lonigo» aludon al la franca <emphasis>nigaud</emphasis> /nigo'/, t.e. «naiva», «stulta», «simplulo». — <emphasis>S.</emphasis></p></section>
+<section id="lonigo"><title><p>[8]</p></title><p>La spriteco de la neekzistanta vorto «kosmolonigologio» (france <emphasis>cosmolonigologie</emphasis>) eskapas mian komprenon. Iuj komentistoj vidas en la enmetita ‹lonigo› aludon al la franca <emphasis>nigaud</emphasis> /nigo'/, t.e. ‹naiva›, ‹stulta›, ‹simplulo›. — <emphasis>S.</emphasis></p></section>
 <section id="n7"><title><p>[9]</p></title><p>Aludo al diro de Lejbnico.</p></section>
 <section id="n8"><title><p>[10]</p></title><p>Lejbnica principo, laŭ kiu nenio ekzistas aŭ okazas sen <emphasis>sufiĉa kialo.</emphasis></p></section>
 <section id="n10"><title><p>[11]</p></title><p>Aludo al la prusaj rekrutistoj, kiuj havis bluan uniformon.</p></section>
-<section id="futoj"><title><p>[12]</p></title><p>En Prusio tio estus 170 cm.</p></section>
+<section id="futoj"><title><p>[12]</p></title><p>En Prusio tio estus 170 cm. — <emphasis>S.</emphasis></p></section>
 <section id="n9"><title><p>[13]</p></title>
 <p><emphasis>La reĝo de la Bulgaroj:</emphasis> aludo al Frederiko la 2ª de Prusio; <emphasis>la Bulgaroj</emphasis> = la Prusoj; <emphasis>la Abaroj</emphasis> = la Francoj. Voltero verkis «Kandido»n dum la Sepjara milito.</p></section>
 <section id="n11"><title><p>[14]</p></title><p>En tiu epoko la soldatoj bezonis ŝargostangon por ŝargi la pafilon. — <emphasis>L.</emphasis></p></section>
 <section id="n12"><title><p>[15]</p></title><p>La punvergado estis tiutempe uzata en la prusa armeo. — <emphasis>L.</emphasis></p></section>
-<section id="lieue"><title><p>[16]</p></title><p>Proksimume 8 km — <emphasis>S.</emphasis></p></section>
+<section id="lieue"><title><p>[16]</p></title><p>Proksimume 8 km. — <emphasis>S.</emphasis></p></section>
 <section id="n14"><title><p>[17]</p></title><p>Greka kuracisto (1ª jc). — <emphasis>L.</emphasis></p></section>
 <section id="ministro"><title><p>[18]</p></title><p>Temas pri pastoro. — <emphasis>L.</emphasis></p></section>
 <section id="n16"><title><p>[19]</p></title><p>Moka aludo al la Platona difino de la homo. — <emphasis>L.</emphasis></p></section>
@@ -1555,7 +1555,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <section id="n100"><title><p>[98]</p></title><p>Turka titolo por ŝtatoficistoj, juristoj kaj kleruloj.</p></section>
 <section id="Pordego"><title><p>[99]</p></title><p><strong>La Alta Pordego:</strong> arabdevena sinekdoĥo por la rezidejo de la Otomana registaro kaj la registaro mem (arabe <emphasis>Bāb-ı Ālī,</emphasis> de <emphasis>bāb</emphasis> = pordego kaj <emphasis>alī</emphasis> = alta). — <emphasis>S.</emphasis></p></section>
 <section id="n102"><title><p>[100]</p></title><p>Konvertiĝis al islamo. — <emphasis>L.</emphasis></p></section>
-<section id="n103"><title><p>[101]</p></title><p>En la originalo <emphasis>deux vizirs du banc</emphasis> — probable, temas pri «du <emphasis>kubbe vezirleri</emphasis>», laŭvorte «kupolaj veziroj». «Kupolaj» sinekdoĥe signifas «divanaj», ĉar la divano kunsidis en <emphasis>Kubbealtı,</emphasis> «sub 6 kupoloj»; do, la sinekdoĥo estas samforma kaj samsignifa kiel «<emphasis>kabinetaj</emphasis> ministroj». La termino <emphasis>vizir du banc</emphasis> aperas en la «Enciklopedio». — <emphasis>S.</emphasis></p></section>
+<section id="n103"><title><p>[101]</p></title><p>En la originalo <emphasis>deux vizirs du banc</emphasis> — probable, temas pri «du <emphasis>kubbe vezirleri</emphasis>», laŭvorte «kupolaj veziroj». «Kupolaj» sinekdoĥe signifas ‹Divanaj›, ĉar la Divano kunsidis en <emphasis>Kubbealtı,</emphasis> «sub 6 kupoloj»; do, la sinekdoĥo estas samforma kaj samsignifa kiel «<emphasis>kabinetaj</emphasis> ministroj». La termino <emphasis>vizir du banc</emphasis> aperas en la «Enciklopedio». — <emphasis>S.</emphasis></p></section>
 <section id="n106"><title><p>[102]</p></title><p>Kremo apartigita de boligita lakto. Turke <emphasis>kaymak,</emphasis> ruse <emphasis>каймак. — S.</emphasis></p></section>
 <section id="n110"><title><p>[103]</p></title><p><emphasis>Genezo,</emphasis> 2:15.</p></section>
 </body>
