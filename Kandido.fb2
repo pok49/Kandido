@@ -21,7 +21,7 @@ text-author {
 <description>
 <title-info>
 <genre>prose_classic</genre>
-<author><last-name>Voltaire</last-name></author>
+<author><first-name></first-name><last-name>Voltaire</last-name></author>
 <book-title>Kandido, aŭ Optimismo</book-title>
 <annotation><p>Filozofia romano de Voltero unue publikigita en la jaro 1759ª. En la jaro 1929ª ĝin elfrancigis Eŭgeno Lanti’. Sergio Pokrovskij prilaboris la tradukon en la jaro 2021ª.</p>
 <p>En la prilaborita versio estas korektitaj tradukaj kaj lingvaj eraroj de la Lantia teksto. La tro franceca frazosintakso (konscie elektita de E. Lanti’) estas malpezigita kaj rearanĝita laŭ la tradicio Esperanta. La apero de PV (unu jaron post la publikigo de la Lantia traduko!) kaj PIV kontribuis al pliriĉigo kaj stabiligo de la leksiko, kaj ankaŭ tio ebligis precizigi la tradukojn en la prilaborita teksto.</p>
@@ -43,7 +43,6 @@ text-author {
 <author><nickname>Voltaire</nickname></author>
 <book-title>Candide, ou l’Optimisme</book-title>
 <date>1759</date>
-<!--src-url>http://www.tailoredtexts.com/read/candide-voltaire/</src-url-->
 <lang>fr</lang>
 </src-title-info>
 
@@ -52,7 +51,7 @@ text-author {
 <date value="2021-07-27">2021</date>
 <src-url>https://eo.wikisource.org/wiki/Kandid</src-url>
 <id>2021-07-27E</id>
-<version>2.2</version>
+<version>2.5</version>
 </document-info>
 <publish-info>
 </publish-info>
@@ -83,12 +82,6 @@ text-author {
   <p><strong>S:</strong> Min aĉetis <emphasis>komercisto</emphasis> …</p>
 </cite>
 
-<!--p>Sed iam pasivo ja aperas:</p>
-<cite>
-  <p><strong>V:</strong> vous êtes toujours étonné de tout</p>
-  <p><strong>L:</strong> vi ĉiam estas pri ĉio mirigita</p>
-  <p><strong>S:</strong> vin ĉiam ĉio mirigas [ĉap. 16ª]</p>
-  </cite-->
 <p>Tamen fine de la verko (kaj precipe en la frazoj kie la remao estas difine determinita) Lanti’ kapitulacas kaj lasas la francajn komplikaĵojn, ekz‑e (ĉap. 22ª):</p>
 <cite>
   <p><strong>V:</strong> — … vos ombres sont des taches horribles. — Ce sont les hommes qui font les taches, dit Candide, et ils ne peuvent pas s’en dispenser.</p>
@@ -97,7 +90,6 @@ text-author {
   <p><strong>S:</strong> — … Viaj ombroj estas hororaj makuloj.</p>
   <p>— La makulojn faras la homoj, — diris Kandido, — kaj ili ne povas tion eviti.</p>
 </cite>
-
 
 <p>Lanti’ konservas komplikaĵojn de <emphasis>il y a</emphasis>:</p>
 <cite>
@@ -129,22 +121,6 @@ text-author {
   <p><strong>G:</strong> Ihr Auszug und die erfindungsreiche Art, wie sie mit ihren Hämmeln empor gelüpft wurden, machte wirklich <emphasis>ein sehenswürdiges Schauspiel.</emphasis></p>
 </cite>
 
-<!--p>Iam Lanti’ ignoras la emfazon, ekz‑e (ĉap. 26ª):
-<cite>
-  <p><strong>V:</strong> Il n’y avait que la vue de Cunégonde qui pût l’étonner et lui plaire davantage.</p>
-  <p><strong>L:</strong> Nur la ekvido de Kunegond povus lin pli mirigi.</p>
-  <p><strong>S:</strong> Pli lin mirigi kaj ĝojigi povus nur la ekvido de Kunegundo.</p>
-</cite>
-<p>Sed eble «Il n’y avait que» estas la pro la franca maniero esprimi «nur»?
-Cetere, «nur» sufiĉas kiel remaigilo.</p-->
-
-<!--p>En la franca lingvo por esprimi la kombinon «jen kion» necesas suborda propozicio, en Esperanto estas pli simple. Sed Lanti’ paŭsas la francan komplikaĵon [ĉap. 19ª]:</p>
-<cite>
-  <p><strong>V:</strong> «Voici, mon cher ami…, ce qu’il faut que tu fasses.</p>
-  <p><strong>L:</strong> „Mia kara amiko, jen tio, kion ci faru.</p>
-  <p><strong>S:</strong> — Mia kara amiko, jen kion ci faru.</p>
-</cite-->
-
 <p>Emfazo per inversio [<a l:href="#inversio">ĉap. 19ª</a>]:</p>
 <cite>
   <p><strong>V:</strong> c’était un très-bon homme que ce Cacambo</p>
@@ -155,18 +131,11 @@ Cetere, «nur» sufiĉas kiel remaigilo.</p-->
 </cite>
 <p>(La determinilo ‹tiu› temigas ‹Kakambo›n, malimplice neprigante la remaecon de ‹tre bona homo›, kiu emfaziĝas pro la inversio.)</p>
 
-<!--p>Unu el la frazoj malfacilaj por okcidentanoj (?) [ĉap. 25ª]:</p>
-<cite>
-  <p><strong>V:</strong> Candide, qui avait été élevé à ne jamais juger de rien par lui-même, était fort étonné de ce qu’il entendait</p>
-  <p><strong>L:</strong> Kandid, kies edukado faris, ke li juĝis nenion per si mem, estis tre mirigata de tio, kion li aŭdis</p>
-  <p><strong>S:</strong> Kandidon, edukitan pri nenio juĝi mem, la aŭdata tre mirigis</p>
-  <p><strong>P?:</strong> La aŭdata tre mirigis Kandidon, edukitan pri nenio juĝi mem</p>
-</cite-->
 </section>
 
 <section><title><p>Artikolado</p></title>
 <p>Estas evidenta fakto, ke <strong>la difinan artikolon</strong> Esperanto uzas pli ŝpareme ol la Franca lingvo, proksimume kiel la angla; tial mi ĝin forigis el la titolo: «Kandido, aŭ <strikethrough>la</strikethrough> Optimismo» (kp <strong>A:</strong> “Candide, or Optimism”).</p>
-<p>En sia rutina funkcio <strong>la nedifina artikolo</strong> plej ofte ne bezonas leksikan tradukon, kvankam ofte ĝi postulas pozician remaigon de sia determinato, kiel «maljunulino» kaj «komercisto» en <a l:href="#maljunekz">ĉi-supraj ekzemploj</a>. Lanti’ tamen sporade ĝin tradukas per la superflua «iu», ekz‑e (ĉap. 19ª):</p>>
+<p>En sia rutina funkcio <strong>la nedifina artikolo</strong> plej ofte ne bezonas leksikan tradukon, kvankam ofte ĝi postulas pozician remaigon de sia determinato, kiel «maljunulino» kaj «komercisto» en <a l:href="#maljunekz">ĉi-supraj ekzemploj</a>. Lanti’ tamen sporade ĝin tradukas per la superflua «iu», ekz‑e (ĉap. 19ª):</p>
 <cite>
 <p><strong>V:</strong> Il leur donna rendez-vous dans un cabaret.</p>
 <p><strong>L:</strong> Li difinis rendevuon al ili en iun drinkejon.</p>
@@ -253,7 +222,7 @@ Ni havas egalan rajton uzi la «ĉi» antaŭ aŭ post la pronomo (aŭ adverbo); 
 
 <p>La nomo <emphasis>Paquette</emphasis> de la juna Vestafalianino probable estas karesformo de <emphasis>Pascale,</emphasis> kiu ŝajnas ekzota en Germanio; tial la germana traduko [G] ŝin rebaptas <emphasis>Gertrude.</emphasis> Mi komprenas la motivon por tia ŝanĝo, sed al mi ĝi ne plaĉas (tro arbitra; kaj min «Gertrudo» impresas malsame ol <emphasis>Paquette</emphasis>). Tamen la Lantia <emphasis>Paket,</emphasis> aŭ ĝia plua asimilaĵo <emphasis>Paketo</emphasis> ĝenas en Esperanto (kaj en aliaj lingvoj kiuj praktikas transskribon).</p>
 
-<p>La ĝena misasociaĵo <emphasis>Paquette—le paquet</emphasis> france ne ekzistas (skribe <emphasis>-ette</emphasis> sufiĉe diferencas de <emphasis>-et</emphasis>; sone, ĉar en la komuna vorto <emphasis>t</emphasis> estas muta). La pola tradukisto trovis elegantan solvon: <emphasis>Pakita</emphasis> — sed en Esperanto ĝi la problemon ne solvas (ĉar aspektas kiel participo). <emphasis>Panjo</emphasis> kolizias kun la karesvorto por patrino. <emphasis>Kanjo</emphasis> estus bona solvo per si mem — sed la komenca <strong>K</strong> jam tro oftas en la nomoj de la geprotagonistoj: <strong>K</strong>andido, <strong>K</strong>unegundo, <strong>K</strong>akambo… La delikatan orelon de Voltero ŝokas la multaj germanaj t-sonoj (kion li parodias per <emphasis>Thunder-ten-tronckh</emphasis>), sed li ial ne rimarkis, ke la abundo de la tusaj K-oj estas ne malpli ĝena.</p>
+<p>La ĝena misasociaĵo <emphasis>Paquette—le paquet</emphasis> france ne ekzistas (skribe <emphasis>-ette</emphasis> sufiĉe diferencas de <emphasis>-et</emphasis>; sone, ĉar en la komuna vorto <emphasis>t</emphasis> estas muta). La pola tradukisto trovis elegantan solvon: <emphasis>Pakita</emphasis> — sed en Esperanto ĝi la problemon ne solvas (ĉar aspektas kiel participo). <emphasis>Panjo</emphasis> kolizias kun la karesvorto por patrino. <emphasis>Kanjo</emphasis> estus bona solvo per si mem — sed la komenca <strong>K</strong> jam tro oftas en la nomoj de la geprotagonistoj: <strong>K</strong>andido, <strong>K</strong>unegundo, <strong>K</strong>akambo… La delikatan orelon de Voltero ŝokas la multaj germanaj t-sonoj (kion li parodias per <emphasis>Thunder-ten-tronckh</emphasis>); sed ial li ne rimarkis, ke la abundo de la tusaj K-oj estas ne malpli ĝena.</p>
 
 <p>Mian solvon mi trovis en la vortaro de <emphasis>Littré,</emphasis> kiu indikas ke komunlingve la vorto signifas (signifis?) ‹lekanto›:</p>
 <cite>
@@ -328,11 +297,6 @@ Hispanajn literojn <emphasis>c, z</emphasis> esprimantajn la Kastilian [θ] (res
 <p>Lanti’ reformeme traktas la radikon ali/ kiel tabelvorton:
 «alie» = «aliloke», «aliu» = «iu alia» ktp. Striktasence tio ne estas eraro, sed konscia devio disde la normo; kiel plimulto da Esperantistoj mi ĉi tiun reformon malakceptas, kaj la koncernajn lokojn laŭnormigis.</p>
 <p>Tamen en la traduko estas nemalmulte da veraj eraroj; jen kelkaj ekzemploj.</p>
-<!--cite>
-  <p><strong>V:</strong> Le vieillard reçut les deux étrangers sur un sofa…</p>
-  <p><strong>L:</strong> La maljunulo akceptis la du fremdulojn, petante, ke ili sidiĝu sur sofon…</p>
-  <p><strong>S:</strong> La maljunulo akceptis la du alilandanojn sur sofo…</p>
-</cite-->
 <subtitle>——————</subtitle>
 <p>Malnecesa latineca tempakordo, ofte absolutaj tempoj en subpropozicioj; ekz‑e (ĉap. 18ª):</p>
 <cite>
@@ -436,7 +400,6 @@ Ideale, ĉiu generacio devas krei sian version de la klasikaj verkoj.</p>
 <p>Lia barona moŝto estis unu el la plej eminentaj sinjoroj Vestfaliaj, ĉar lia kastelo havis pordon kaj fenestrojn. Ĝian grandan ĉambron eĉ ornamis tapeto. Okaze de bezono la hundoj el liaj birdo-kortoj konsistigis ĉashundaron; liaj stalistoj estis ankaŭ ĉasservistoj; la vilaĝa vikario estis lia granda kapelestro. Ĉiuj lin titolis «ekscelenco», kaj ridis, kiam li fantazie rakontadis pri siaj aventuroj.</p>
 <p>Ŝia baronina moŝto pezis 350 funtojn<a l:href="#funt" type="note">[6]</a> kaj estis pro tio treege ŝatata; ŝi akceptadis la gastojn kun digno, kiu faris ŝin ankoraŭ pli respektinda. Ŝia deksepjara filino Kunegundo estis ruĝvanga, freŝa, grasa, dezirdona. La filo de l’ barono ĉiurilate ŝajnis esti inda je sia patro. La guvernisto Pangloso<a l:href="#n6" type="note">[7]</a> estis la hejma orakoldiranto kaj la malgranda Kandido aŭskultis liajn instruojn kun la tuta sincero, propra al liaj karaktero kaj aĝo.</p>
 <p>Pangloso instruis la metafizik-teologi-kosmolonigologion.<a l:href="#lonigo" type="note">[8]</a> Li mirinde bone pruvadis, ke ne ekzistas efiko sen kaŭzo, ke en ĉi tiu plejeble bona mondo<a l:href="#n7" type="note">[9]</a> la kastelo de lia barona moŝto estas la plej bela el ĉiuj kasteloj, kaj ke ĝia sinjorino estas la plej bona el ĉiuj eblaj baroninoj.</p>
-<!-- Métaphysico-théologo-cosmolonigologie: "nigaud" → fausse philosophie. -->
 <p>— Estas pruvite, — li diradis, — ke la aferoj ne povas esti aliaj ol ili estas; ja ĉar ĉio estas farita por iu celo, tial ĉio nepras por la plej bona celo. Atentu bone, ke la nazoj estas faritaj por porti okulvitrojn; tial ni havas okulvitrojn. La kruroj videble estas faritaj por esti ŝtrumpe vestataj. La ŝtonoj estis formitaj por esti prilaborataj kaj por konstrui per ili kastelojn; tial lia ekscelenco havas tre belan kastelon; la plej granda barono el la provinco devas ja esti loĝata plej bone; kaj la porkoj estante faritaj por esti manĝataj, ni do manĝas porkaĵon dum la tuta jaro. Sekve, kiuj asertas, ke ĉio estas bona, tiuj diras sensencaĵon; necesas diri, ke ĉio estas la plej bona.</p>
 <p>Kandido atente aŭskultis, kaj naive kredis: ĉar li trovis fraŭlinon Kunegundo treege bela, kvankam neniam li kuraĝis al ŝi tion diri. Li konkludis, ke post la feliĉo esti barono de Tunder-ten-tronk, la dua grado de feliĉo estas esti fraŭlino Kunegundo; la tria, ŝin vidi ĉiutage; kaj la kvara, aŭdi majstron Pangloso, la plej grandan filozofon de la provinco, kaj sekve de la tuta tero.</p>
 <p>Iun tagon Kunegundo, promenante apud la kastelo, en arbareto kiun oni nomis parko, vidis doktoron Pangloso doni lecionon pri eksperimenta fiziko al la ĉambristino de ŝia patrino, brunulineto tre bela kaj konsentema. Ĉar fraŭlino Kunegundo laŭnature estis tre scivola pri la sciencoj, tial retenante la spiron ŝi observadis tiujn ripetatajn eksperimentojn, okazantajn antaŭ ŝiaj okuloj; ŝi klare vidis la <emphasis>sufiĉan kialon</emphasis><a l:href="#n8" type="note">[10]</a> de la doktoro, la efikojn kaj la kaŭzojn, kaj profunde impresite, tute enpensiĝinte, ŝi foriris kun la deziro kleriĝi, revante, ke ŝi bone povus esti la sufiĉa kialo por la juna Kandido, kiu bone povus ankaŭ esti la ŝia.</p>
@@ -452,9 +415,9 @@ Ideale, ĉiu generacio devas krei sian version de la klasikaj verkoj.</p>
 <p>— Nu, sinjoro, altabliĝu; ne nur ni pagos la tuton, sed ni ne konsentos, ke homo tia, kia vi estas, restu sen mono; la homoj estas kreitaj por helpi sin reciproke.</p>
 <p>— Vi pravas, — diris Kandido, — tion al mi ĉiam instruis majstro Pangloso, kaj mi bone vidas, ke ĉio estas plej bona.</p>
 <p>Oni petas, ke li akceptu kelkajn talerojn; li prenas ilin kaj volas skribi repagpromeson; oni ĝin rifuzas kaj lin altabligas.</p>
-<p>— Ĉu profunde vi amas…?</p>
-<p>— Ho jes, — li respondas, — mi tre forte amas fraŭlinon Kunegundo.</p>
-<p>— Ne, — diris unu el la sinjoroj, — ni vin demandas, ĉu profunde vi amas la reĝon de la Bulgaroj?<a l:href="#n9" type="note">[13]</a></p>
+<p>— Ĉu tutkore vi amas…?</p>
+<p>— Ho jes, — li respondas, — mi tutkore amas fraŭlinon Kunegundo.</p>
+<p>— Ne, — diris unu el la sinjoroj, — ni vin demandas, ĉu tutkore vi amas la reĝon de la Bulgaroj?<a l:href="#n9" type="note">[13]</a></p>
 <p>— Neniel, — diris Kandido, — ja mi neniam lin vidis.</p>
 <p>— Nu, li estas la plej ĉarma el la reĝoj, kaj ni devas trinki pro lia sano.</p>
 <p>— Ho, tre volonte, sinjoroj.</p>
@@ -512,20 +475,20 @@ Mi mem ĝin transdonos al neniu, ĉar mi mortas.</p>
 <p>— Tute ne, — obĵetis la granda homo; — ĝi estis nepre necesa afero en la plej bona mondo, ĝi estis <emphasis>necesa ingredienco.</emphasis> Ja, se Kolumbo ne estus alportinta de la Amerikaj insuloj ĉi tiun malsanon, kiu venenas la fonton de la nasko, kiu ofte eĉ malebligas la naskon, kaj kiu evidente tute kontraŭas la grandan celon de la naturo, ni ne havus la ĉokoladon nek la koĉenilon; necesas ankaŭ atenti, ke ĝis hodiaŭ sur nia kontinento ĉi tiu malsano estas nia apartaĵo, samkiel la teologiaj disputoj. La Turkoj, la Hindoj, la Persoj, la Ĉinoj, la Tajoj, la Japanoj ĝin ankoraŭ ne konas; sed ekzistas <emphasis>sufiĉa kialo</emphasis> por ke siavice, post kelkaj jarcentoj, ili ankaŭ ĝin konu. Dume ĝi mirinde progresis inter ni, kaj precipe en tiuj grandaj armeoj, konsistantaj el honestaj kaj bone edukitaj dungitoj, kiuj decidas pri la sorto de la regnoj; oni povas aserti ke, kiam tridek mil viroj regule batalas kontraŭ samnombra armeo, ambaŭflanke estas po proksimume dudek mil sifilisuloj.</p>
 <p>— Tio estas admirinda, — diris Kandido. — Tamen necesas vin kuraci.</p>
 <p>— Nu, kiel tio eblus? — diris Pangloso. — Mi estas tute senmona, amiko, kaj, sur la tuta amplekso de ĉi tiu terglobo, nenian ajn kuracon ni povas ricevi senpage, krom se iu pagas donace por ni.</p>
-<p>Ĉi tiu diro decidigis Kandidon. Li iris al la bonfarema anabaptisto Jakobo, genuiĝis antaŭ li, kaj tiel kortuŝe priskribis la staton de sia amiko, ke la bonulo ne hezitis hejmakcepti doktoron Pangloso; li ankaŭ kuracigis tiun per siaj elspezoj. Danke al la kuracado Pangloso perdis nur unu okulon kaj unu orelon. Li havis belan skribmanieron kaj perfekte sciis aritmetikon. La anabaptisto Jakobo faris lin sia librotenisto. Post du monatoj, devigate veturi al Lisbono pro komercaj aferoj, li kunveturigis en sia ŝipo ambaŭ filozofojn. Pangloso klarigis al li, ke ĉio estis kiel eble plej bona. Jakobo ne same opiniis.</p>
+<p>Ĉi tiu diro decidigis Kandidon. Li iris al la bonfarema anabaptisto Jakobo, genuiĝis antaŭ li, kaj tiel kortuŝe priskribis la staton de sia amiko, ke la bonulo ne hezitis hejmakcepti doktoron Pangloso; li ankaŭ kuracigis tiun per siaj elspezoj. Danke al la kuracado Pangloso perdis nur unu okulon kaj unu orelon. Li havis belan skribmanieron kaj perfekte sciis aritmetikon. La anabaptisto lin faris sia librotenisto. Post du monatoj, devigate veturi al Lisbono pro komercaj aferoj, Jakobo kunveturigis en sia ŝipo ambaŭ filozofojn. Pangloso klarigis al li, ke ĉio estis kiel eble plej bona. Jakobo ne same opiniis.</p>
 <p>— Ŝajnas, — li diris, — ke la homoj iom difektis la naturon, ĉar ili ne naskiĝas lupoj, sed ili fariĝas lupoj. Dio donis al ili nek 24-funtajn pafilegojn,<a l:href="#L24" type="note">[20]</a> nek bajonetojn por sin interbuĉi; sed ili faris al si pafilegojn kaj bajonetojn por sin ekstermadi. Same mi povus argumenti pri la bankrotantoj kaj la juĝistaro, kiu kaptas la bienojn de la bankrotantoj por senigi je ili la kreditantojn.</p>
 <p>— Ĉio ĉi tio estis nepre necesa, — rebatis la unuokula doktoro, — kaj la apartaj malfeliĉoj faras la ĝeneralan feliĉon, tiel ke ju pli estas da apartaj malfeliĉoj, des pli ĉio statas bone.</p>
 <p>Dum li rezonadis, ĉirkaŭe subite malheliĝis, el ĉiuj flankoj ekblovis ventoj, kaj ĉe la vido de la Lisbona haveno la ŝipon atakis plej terura uragano.</p></section>
 <section id="cx05">
-<title><p>5. Uragano, ŝiprompo, tertremo, kaj kio okazis al doktoro Pangloso, Kandido kaj la anabaptisto Jakobo</p></title>
+<title><p>5. Uragano, ŝiprompo, tertremo, kaj kio okazis al doktoro Pangloso, Kandido kaj Jakobo la anabaptisto</p></title>
 <p>Duono el la pasaĝeroj estis tiom malfortiĝintaj, duonvivaj pro la nekompreneblaj premdoloroj, kiujn la ŝipŝanceliĝo metas en la nervojn, en la fluidaĵojn de l’ korpo, svingatajn en kontraŭaj direktoj, ke ĝi eĉ ne havis la forton atenti pri la danĝero. La alia duono kriadis kaj preĝadis; la veloj estis disŝiritaj, la mastoj rompitaj, la fundo ricevis likon. Laboris kiu povis, neniu aŭdis aliajn, neniu komandis.</p>
-<p>La anabaptisto iom helpis la manovron; li estis sur la ferdeko; furioza ŝipano malmilde lin batas kaj ĵetas sur la plankon; sed pro la bato la ŝipano mem perdas ekvilibron kaj falas el la ŝipo kun la kapo malsupren. Li restas pendanta kroĉite je rompita peco de masto. La bona Jakobo kuras por lin savi, lin helpas suprenleviĝi, kaj pro sia streĉo mem falas en la maron antaŭ la okuloj de la ŝipano, kiu lasas lin perei, sen malŝpari por li eĉ rigardon.</p>
-<p>Kandido alproksimiĝas, vidas sian bonfarinton reaperi dum unu momento kaj poste sinki por ĉiam en la abismon. Li volas sin ĵeti en la maron; la filozofo Pangloso tion malhelpas, pruvante al li, ke la rodo de Lisbono estis formita tute speciale por ke ĉi tiu anabaptisto tie dronu. Dum li tion pruvas <emphasis>apriore,</emphasis> la ŝipo fendiĝas, ĉio pereas krom Pangloso, Kandido kaj la bruta ŝipano, kiu dronigis la virtan anabaptiston; la kanajlo sukcese tranaĝis ĝis la marbordo, kiun Pangloso kaj Kandido atingis sur tabulo.</p>
+<p>La anabaptisto iom helpis la manovron; li estis sur la ferdeko; furioza matroso malmilde lin frapas kaj ĵetas sur la plankon; sed pro la bato la matroso mem perdas ekvilibron kaj falas el la ŝipo kun la kapo malsupren. Li restas pendanta kroĉite je rompita peco de masto. La bona Jakobo kuras por lin savi, lin helpas suprenleviĝi, kaj pro sia streĉo mem falas en la maron antaŭ la okuloj de la matroso, kiu lasas lin perei, sen malŝpari por li eĉ rigardon.</p>
+<p>Kandido alproksimiĝas, vidas sian bonfarinton reaperi dum unu momento kaj poste sinki por ĉiam en la abismon. Li volas sin ĵeti en la maron; la filozofo Pangloso tion malhelpas, pruvante al li, ke la rodo de Lisbono estis formita tute speciale por ke ĉi tiu anabaptisto tie dronu. Dum li tion pruvas <emphasis>apriore,</emphasis> la ŝipo fendiĝas, ĉio pereas krom Pangloso, Kandido kaj la bruta matroso, kiu dronigis la virtan anabaptiston; la kanajlo sukcese tranaĝis ĝis la marbordo, kiun Pangloso kaj Kandido atingis sur tabulo.</p>
 <p>Kiam ili iomete rekonsciiĝis, ili piediris al Lisbono; restis al ili iom da mono, per kiu ili esperis sin savi el malsato post ke ili eskapis el la uragano.</p>
-<p>Apenaŭ enirinte la urbon, priplorante la morton de sia bonfaranto, ili sentas subpiede la teron tremi<a l:href="#n18" type="note">[21]</a>; la maro ŝaŭmegante suprenleviĝas en la haveno, kaj disrompas la ankrumantajn ŝipojn. Kirlaĵoj el flamo kaj cindro kovras la stratojn kaj la placojn; la domoj disfalas, la tegmentoj renversiĝas sur la fundamentojn, kaj la fundamentoj disrompiĝas; tridek mil loĝantoj de ambaŭ seksoj kaj ĉiuj aĝoj pereas sub la ruinoj. La ŝipano diras, fajfante kaj blasfemante: «Ĉi tie eblos profiti».</p>
+<p>Apenaŭ enirinte la urbon, priplorante la morton de sia bonfaranto, ili sentas subpiede la teron tremi<a l:href="#n18" type="note">[21]</a>; la maro ŝaŭmegante suprenleviĝas en la haveno, kaj disrompas la ankrumantajn ŝipojn. Kirlaĵoj el flamo kaj cindro kovras la stratojn kaj la placojn; la domoj disfalas, la tegmentoj renversiĝas sur la fundamentojn, kaj la fundamentoj disrompiĝas; tridek mil loĝantoj de ambaŭ seksoj kaj ĉiuj aĝoj pereas sub la ruinoj. La matroso diras, fajfante kaj blasfemante: «Ĉi tie eblos profiti».</p>
 <p>— Kia povas esti <emphasis>la sufiĉa kialo</emphasis> de ĉi tiu fenomeno? — sin demandas Pangloso.</p>
 <p>— Jen estas la lasta tago de l’ mondo, — ekkrias Kandido.</p>
-<p>La ŝipano senprokraste kuras mezen en la rompaĵojn, riskas la morton por trovi monon, li sukcesas, ĝin kaptas, ebriiĝas, kaj fordorminte sian ebriecon, aĉetas la karesojn de la unua bonvolema fraŭlino, kiun li renkontas sur la ruinoj de la detruitaj domoj, meze de mortantoj kaj mortintoj. Ĉi tiam Pangloso lin tiras je la maniko kaj diras:</p>
+<p>La matroso senprokraste kuras mezen en la rompaĵojn, riskas la morton por trovi monon, li sukcesas, ĝin kaptas, ebriiĝas, kaj fordorminte sian ebriecon, aĉetas la karesojn de la unua bonvolema fraŭlino, kiun li renkontas sur la ruinoj de la detruitaj domoj, meze de mortantoj kaj mortintoj. Ĉi tiam Pangloso lin tiras je la maniko kaj diras:</p>
 <p>— Mia amiko, tio ne decas, vi malobeas <emphasis>la universalan racion,</emphasis> vi malbone pasigas vian tempon.</p>
 <p>— Sango kaj morto! — respondis la alparolito. — Mi estas matroso kaj naskiĝis en Batavio; kvarfoje mi metis la piedojn sur la krucifikson ĉe kvar vojaĝoj en Japanion;<a l:href="#n19" type="note">[22]</a> bonege ci elektis al kiu prediki cian universalan racion!</p>
 <p>Kelkaj ŝtonaj rompopecoj vundis Kandidon; li falis kaj kuŝis sur la strato kovrite de rompaĵoj kaj petante Pangloson:</p>
@@ -643,7 +606,7 @@ estis senĉesa hombuĉado tra la tuta imperio.</p>
 <p>» Apenaŭ ni elŝipiĝis, tuj nin atakis bando da Negroj el partio malamika al tiu de mia korsaro por forpreni lian rabaĵon. Post la briliantoj kaj la oro, la plej altvalora parto de la predo estis ni. Antaŭ miaj okuloj okazis batalo tia, kian vi neniam vidas en Eŭropo. La nordaj popoloj ne havas sufiĉe ardan sangon; ili ne havas tian pasiegon por virinoj kia estas ordinara en Afriko. Ŝajnas, ke viaj Eŭropanoj havas lakton en la vejnoj; en tiuj de la loĝantoj de Atlaso kaj najbaraj landoj fluas vitriolo, fajro. Por decidi al kiu ni apartenos, tiuj homoj batalis kun la furiozo de la leonoj, de la tigroj kaj de la serpentoj tieaj. Iu Maŭro kaptis mian patrinon je la dekstra brako, la leŭtenanto de mia kapitano ŝin tenis je la maldekstra; Maŭra soldato kaptis unu ŝian kruron, unu el niaj rabistoj tenis la alian. Momenton poste preskaŭ ĉiujn niajn akompanantinojn tiel distiradis po kvar soldatoj.</p>
 <p>» Mia kapitano min ŝirmis per sia brusto; li svingis sian jataganon kaj mortigis ĉiun, kiu spitis lian furiozon.
 Fine, ĉiuj niaj Italinoj kaj mia patrino pereis disŝirite, distranĉite, buĉite en la batalo de la monstroj elŝirantaj ilin unuj de la aliaj.
-La kaptitoj miaj kunuloj, la kaptintoj, la soldatoj, ŝipanoj, nigruloj, brunuloj, blankuloj, mulatoj, kaj ankaŭ mia kapitano, ĉio estis mortigita, kaj mi restis duonviva sur amaso da kadavroj. Oni scias, ke similaj scenoj okazadis en la tuta lando, sur la spaco de pli ol tricent leŭgoj, kaj ĉe tio oni neniam preterlasis iun el la ĉiutagaj kvin preĝoj, ordonitaj de Muhamado.</p>
+La kaptitoj miaj kunuloj, la kaptintoj, la soldatoj, matrosoj, nigruloj, brunuloj, blankuloj, mulatoj, kaj ankaŭ mia kapitano, ĉio estis mortigita, kaj mi restis duonviva sur amaso da kadavroj. Oni scias, ke similaj scenoj okazadis en la tuta lando, sur la spaco de pli ol tricent leŭgoj, kaj ĉe tio oni neniam preterlasis iun el la ĉiutagaj kvin preĝoj, ordonitaj de Muhamado.</p>
 <p>» Kun granda peno mi eltiris min el sub tiom da sangantaj kadavroj amasiĝintaj, kaj min trenis sub grandan oranĝarbon ĉe proksima rivereto; tie mi falis pro teruro, pro laciĝo, pro abomeno, pro malespero kaj malsato. Baldaŭ mia senfortiĝo ebligis al mi dormon, kiu pli similis svenon ol ripozon.</p>
 <p>» Mi estis en tia stato el malforto kaj senkonscio, inter la morto kaj la vivo, kiam mi sentis min premata de io moviĝanta sur mia korpo; mi malfermis la okulojn, mi vidis blankulon kun agrabla vizaĝo, kiu ĝemetis kaj murmuris:</p>
 <p>» — <emphasis>O che sciagura d’essere senza coglioni!</emphasis> <a l:href="#n32" type="note">[39]</a></p>
@@ -1033,7 +996,7 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>Tuj li ordonas demeti liajn katenojn, diras, ke li eraris, forsendas siajn subulojn, forkondukas Kandidon kaj Martenon al Diepo kaj tie lasas ilin en la manoj de sia frato. En la rodo staris Holanda ŝipeto. Ricevinte tri pluajn diamantojn, la Normando fariĝis la plej servema el la homoj, li enŝipigas Kandidon kaj liajn akompanantojn, kaj la ŝipeto ekvelas al Portsmuto en Anglio. Tio ne estis la vojo al Venecio; sed Kandido sin sentis liberigita el la infero, kaj li firme intencis ĉe la unua okazo denove sin direkti al Venecio.</p>
 </section><section>
 <title><p>23. Kandido kaj Marteno iras al la bordo de Anglio; kion ili tie vidas</p></title>
-<p>— Aĥ, Pangloso! Pangloso! Aĥ, Marteno! Marteno! Aĥ, mia kara Kunegundo! Kio do estas ĉi tiu mondo? — diradis Kandido sur la holanda ŝipo.</p>
+<p>— Aĥ, Pangloso! Pangloso! Aĥ, Marteno! Marteno! Aĥ, mia kara Kunegundo! Kio do estas ĉi tiu mondo? — diradis Kandido sur la Holanda ŝipo.</p>
 <p>— Estas io tre freneza kaj tre abomena, — respondadis Marteno.</p>
 <p>— Vi konas Anglion; ĉu tie oni same frenezas kiel en Francio?</p>
 <p>— Estas alia speco de frenezo, — diris Marteno. — Vi scias, ke tiuj du nacioj intermilitas pro kelkaj akreoj da neĝo apud Kanado, kaj ke por tiu bela milito ili elspezas multe pli ol valoras la tuta Kanado.<a l:href="#n75" type="note">[79]</a> Mi ne estas sufiĉe klera por diri al vi, en kiu lando estas pli da frenezuloj ol en la alia; mi scias nur, ke ĝenerale la homoj, kiujn ni baldaŭ vidos, estas tre mishumoremaj.</p>
@@ -1046,7 +1009,7 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>— Tial ke li ne kaŭzis la morton de sufiĉe da homoj; li batalis kontraŭ francan admiralon, kaj oni opiniis, ke li ne estis sufiĉe proksime de sia kontraŭulo.</p>
 <p>— Sed, — diris Kandido, — la franca admiralo estis egale malproksime de la angla admiralo, kiel ĉi tiu estis de la alia!</p>
 <p>— Tio estas nekontestebla, — oni rebatis al li; — sed en ĉi tiu lando utilas iam kaj tiam mortigi iun admiralon por kuraĝigi la aliajn.</p>
-<p>Kandidon tiom konsternis kaj ŝokis la vidita kaj la aŭdita, ke li eĉ ne volis elŝipiĝi, kaj kontraktis kun la holanda ŝipmastro (malgraŭ la risko iĝi priŝtelita kiel en Surinamo), ke tiu senprokraste lin veturigos al Venecio.</p>
+<p>Kandidon tiom konsternis kaj ŝokis la vidita kaj la aŭdita, ke li eĉ ne volis elŝipiĝi, kaj kontraktis kun la Holanda ŝipmastro (malgraŭ la risko iĝi priŝtelita kiel en Surinamo), ke tiu senprokraste lin veturigos al Venecio.</p>
 <p>La mastro estis preta post du tagoj. Oni randiris Francion, oni pasis preter Lisbono, ĉe kies vido kaj Kandido ektremis<a l:href="#n77" type="note">[81]</a>. Oni eniris la markolon kaj Mediteraneon; fine oni albordiĝis ĉe Venecio.</p>
 <p>— Dio estu laŭdata! — diris Kandido brakumante Martenon. — Ĉi tie mi revidos la belan Kunegundon. Mi fidas Kakambon, kiel min mem. Ĉio estas bona, ĉio iras bone, ĉio iras kiel eble plej bone.</p>
 </section><section>
@@ -1472,7 +1435,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <section id="n19"><title><p>[22]</p></title><p>En la 18ª jc Japanio komercadis kun unu sola Eŭropa regno, Nederlando. Japanaj komercistoj, reveninte hejmen post vizito en nederlandajn havenojn en Indonezio, devis publike surtreti krucifikson por pruvi, ke ili ne konvertiĝis en Kristanismon. Voltero transportas tiun kutimon sur la nederlandan (batavian) mariston, vizitintan Japanion. — <emphasis>S.</emphasis></p></section>
 <section id="n21"><title><p>[23]</p></title><p>La Universitato de Lisbono estis de post 1308 translokita en la urbon Koimbro (portugale: <emphasis>Coimbra</emphasis>).</p></section>
 <section id="n22"><title><p>[24]</p></title><p>En 615 la papo Adeodato la 2ª malpermesis la edziĝon inter gebaptanoj: <emphasis>Nullus christianus suam commatrem in conjugium susciperet debet.</emphasis></p></section>
-<section id="lardo"><title><p>[25]</p></title><p>Oni do suspektis ilin pri Judismo. — <emphasis>S.</emphasis></p></section>
+<section id="lardo"><title><p>[25]</p></title><p>Oni do suspektis, ke ili estas kaŝitaj islamanoj aŭ Judoj. — <emphasis>S.</emphasis></p></section>
 <section id="n23"><title><p>[26]</p></title><p>Flava jako, per kiu la inkvizitoroj vestis la bruligotojn.</p></section>
 <section id="foburdon"><title><p>[27]</p></title><p>Foburdono: En la muziko de la malfrua Mezepoko kaj Renesanco, harmoniiga procedo en kiu kontraŭmelogio kantata pli alte ol la baza melodio kaj alia kantata pli malalte kreas impreson pri baso kiu fakte malestas. France <emphasis>faux-bourdon. — S.</emphasis></p></section>
 <section id="n24"><title><p>[28]</p></title><p>Inkvizicio ne kutimis pendumigi herezulojn.</p></section>
@@ -1523,13 +1486,13 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <section id="n64"><title><p>[66]</p></title><p>France <emphasis>Fréron,</emphasis> kritikisto, malamiko de Voltero. — <emphasis>S.</emphasis></p></section>
 <section id="faro"><title><p>[67]</p></title><p>Kartludo populara en la 18ª jc (france <emphasis>pharaon,</emphasis> angle <emphasis>faro</emphasis>) — <emphasis>S.</emphasis></p></section>
 <section id="cornu"><title><p>[68]</p></title><p><strong>V:</strong> <emphasis>registre cornu de leurs infortunes.</emphasis> «Kornhava» probable aludas la manieron faldi kartangulon por obligi vetaĵon; tamen ne klaras, kial tio atestas pri «misŝancoj». — <emphasis>S.</emphasis></p></section>
-<section id="bankulo"><title><p>[69]</p></title><p><strong>bankulo:</strong> la ludanto kiu tenas la bankon en la faraonludo (la PIV-oj nomas tion <del>bankiero</del>, francmaniere konfuzante la malsamajn funkciojn; aliaj nacilingvoj ilin distingas, ekzemple <strong>R:</strong> банкир ≠ банкомёт). — <emphasis>S.</emphasis></p></section>
+<section id="bankulo"><title><p>[69]</p></title><p><strong>bankulo:</strong> la ludanto kiu tenas la bankon en la faraonludo (la PIV-oj nomas tion <strikethrough>bankiero</strikethrough>, francmaniere konfuzante la malsamajn funkciojn; aliaj nacilingvoj ilin distingas, ekzemple <strong>R:</strong> банкир ≠ банкомёт). — <emphasis>S.</emphasis></p></section>
 <section id="oblojn"><title><p>[70]</p></title><p>En la faraonludo <strong>parolio</strong> (france <emphasis>paroli</emphasis>) estas maniero duobligi, kaj <strong>sepobligo</strong> (france <emphasis>sept-et-le-va de campagne</emphasis>), 7-obligi la vetaĵon. — <emphasis>S.</emphasis></p></section>
 <section id="linjak"><title><p>[71]</p></title><p><strong>Parolinjak’</strong> estas fikcia nomo formita el la faraonluda termino <emphasis>paroli’. — S.</emphasis></p></section>
 <section id="n66"><title><p>[72]</p></title><p>Tiutempe estis kutimo friponi ĉe la ludado. Tion pruvas la fakto, ke du jarojn antaŭ la apero de <emphasis>Kandido</emphasis> jam ekzistis verko titolita: «Histoire des Grecs ou de ceux qui corrigent la fortune au jeu» (Historio pri la Grekoj aŭ pri tiuj, kiuj artifike kompensas la malbonŝancon ĉe ludado), de kavaliro Ange Gudar, 1757. <emphasis>Noto en la franca eldono.</emphasis></p></section>
 <section id="n67"><title><p>[73]</p></title><p>France: <emphasis>Gauchat,</emphasis> li estis abato en Sankta Petro de Falezo (france: <emphasis>Falaise</emphasis>) kaj prioro de Sankta Andreo; furioza kontraŭulo de la filozofoj, li plurfoje atakis Volteron. — <emphasis>L.</emphasis></p></section>
 <section id="n68"><title><p>[74]</p></title><p>Policistoj Parizaj portas tian bastonon.</p></section>
-<section id="n70"><title><p>[75]</p></title><p>Ĉe la epoko de la Roma imperio vivis en la norda parto de la nuna Francio popolo, kies anoj nomiĝis Atrebatoj, ilia ĉefurbo kuŝis ĉe la loko, kie nun troviĝas Araso (france: <emphasis>Arras</emphasis>). Voltero fantazie uzis tiun nomon de popolo, por diri, ke Damjeno (france: <emphasis>Damiens</emphasis>), la reĝatencinto estis el tiu regiono. — <emphasis>L.</emphasis></p></section>
+<section id="n70"><title><p>[75]</p></title><p>En la epoko de la Roma imperio vivis en la norda parto de la nuna Francio popolo, kies anoj nomiĝis Atrebatoj, ilia ĉefurbo kuŝis ĉe la loko, kie nun troviĝas Araso (france: <emphasis>Arras</emphasis>). Voltero fantazie uzis tiun nomon de popolo, por diri, ke Damjeno (france: <emphasis>Damiens</emphasis>), la reĝatencinto estis el tiu regiono. — <emphasis>L.</emphasis></p></section>
 <section id="n71"><title><p>[76]</p></title><p>La reĝo estis konsiderata kiel la patro de la popolo. — <emphasis>L.</emphasis></p></section>
 <section id="n72"><title><p>[77]</p></title><p>Temas pri murdo de Henriko la 4ª de Francio.</p></section>
 <section id="n73"><title><p>[78]</p></title><p>La 27-an de decembro, Johano Ŝatel’ (france: <emphasis>Jean Chatel</emphasis>) atencis kontraŭ Henrikon la 4-an per tranĉilbato. — <emphasis>L.</emphasis></p></section>

@@ -3690,4 +3690,5 @@ TEXTE DE MALEBRANCHE
 
 Je vois par exemple que 2 fois 2 font 4, et qu'il faut préférer son ami à son chien, et je suis certain qu'il n'y a point d'homme au monde qui ne le puisse voir aussi bien que moi. Or je ne vois point ces vérités dans l'esprit des autres, comme les autres ne les voient point dans le mien. Il est donc nécessaire qu'il y ait une raison universelle qui m'éclaire et tout ce qu'il y a d'intelligence. Car si la raison que je consulte n'était pas la même qui répond aux Chinois, il est évident que je ne pourrais pas être aussi assuré que je le suis que les Chinois voient les mêmes vérités que je vois. Ainsi la raison que nous consultons quand nous rentrons dans nous-mêmes, est une raison universelle. Je dis quand nous rentrons en nous-mêmes, car je ne parle pas ici de la raison que suit un homme passionné. Lorsqu'un homme préfère la vie de son cheval à celle de son cocher, il a ses raisons, mais ce sont des raisons particulières dont tout homme raisonnable a horreur. Ce sont des raisons qui dans le fond ne sont pas raisonnables, parce qu'elles ne sont pas conformes à la souveraine raison, ou à la raison universelle que tous les hommes consultent.
 
-
+* Futo, colo:
+Prussian Reichsfuß = 313.8536 mm
