@@ -1,0 +1,443 @@
+* Ilustraĵoj:
+https://commons.wikimedia.org/wiki/Category:Candide?uselang=de
+
+* La artikolo
+** La nedifina
+V: 9. Ce qui advint de Cunégonde, de Candide, du grand-inquisiteur, et *d'un Juif.*
+L: 9. Kio okazis kun Kunegond, kun Kandid, kun la ĉefinkvizitoro kaj *kun judo*
+A: 9. What Happened to Cunegund, Candide, the Grand Inquisitor, and *the Jew*
+D: 9. Was sich mit Kunegunden, Kandiden, dem Grosinquisitor und *einem Juden* zuträgt
+S: 9. Kio trafis Kunegundon, Kandidon, la ĉefinkvizitoron kaj *la Judon*
+
+Kiel oni perceptu la nedifinitecon de "Judo"? Kial ne kiel enkonduko0n
+de ankoraŭ unu, alia, nova persono?
+
+Probable la artikolo estas ĝeneraliga: jen la sorto de ĉefinkvizitoro,
+kaj jen la sorto de judo:
+
+V: on enterre *monseigneur* dans une belle église, on jette *Issachar* à la voirie.
+S: *La inkvizitoron* oni entombigas en bela preĝejo, *Isaĥaron* oni ĵetas en la rubejon.
+
+Sed tiam devas esti egala nedifiniteco, kiel en la intera frazo de de
+la sama ĉapitro:
+
+V: Comment avez-vous fait ... pour tuer en deux minutes *un Juif* et *un prélat*? 
+S: Sed kiel povis vi ... en du minutoj mortigi Judon kaj prelaton?
+
+“The Prince and the Pauper”
+
+----
+V: j'avais la tête remplie du massacre ... et surtout du baiser que je
+   vous avais donné derrière *un paravent*.
+G24: und vor allem von dem Kusse, den ich Ihnen hinter *einem Wandschirm* an jenem Tage gegeben
+A: and particularly the kiss I gave you behind *the screen*,
+L: kaj ĉefe pri la kiso, kiun al vi mi donis *malantaŭ ekranego*
+S: kaj precipe pri la kiso, kiun mi donis al vi malantaŭ *la faldoŝirmilo* [Ĉap. 8ª]
+
+----
+
+
+
+** La difina
+
+Ĉap. 11ª
+V: Je suis *la fille* du pape Urbain X et de la princesse de ...
+G24: Ich bin *die Tochter* des Papstes Urban des Zehnten ...
+B: *Дъщеря* (ne "ДъщеряTA"!) съм на папа Урбан X и на принцеса Палестрина.
+
+Tamen simile [Ĉap. 1ª] ("filo" kaj la? filino):
+
+V: Les anciens domestiques de la maison soupçonnaient qu'il était /fils/
+de *la sœur* de M. le baron, et *d'un* bon et honnête gentilhomme du
+voisinage
+L: La malnovaj servistoj suspektis, ke lia patrino estas *la fratino* de
+lia barona moŝto kaj lia patro *iu nobelo* el la ĉirkaŭaĵo
+B: Старите слуги в дома подозираха, че е /син/ на *сестрата* на господин
+барона и на *един добър и почтен благородник* от околността
+G24: Die alten Diener des Hauses munkelten, er sei /das Kind/ *einer
+Schwester* des Herrn Barons und eines guten braven Edelmannes aus der
+Nachbarschaft ...
+S: La malnovaj servistoj suspektis, ke li estas filo de fratino de lia
+barona moŝto kaj de brava kaj bona nobelo najbara
+
+Atentindas, ke /fils/ aperas senartikole, kontraste al /la fille/ en Ĉap. 11ª.
+
+* Nomoj
+Mi forigis la francan nobelan partikulon /de/ (kiu cetere ĉe la
+germanaj nobeloj estus /von/).
+
+** Ralph, Oporto
+
+12. Porto, or rather Oporto: They are one and the same Portuguese
+    city - a moment of pedantry (and a late addition, not present in
+    the manuscript) which reminds us that this is a tale being told by
+    *the obscure German with the English name, Doctor Ralph.* [ĉap. 5ª]
+    
+
+
+* Promeno
+<p>La plej ofta mezurunuo (aperanta 10-foje) estas <strong>leŭgo</strong> (Fr <emphasis>lieue</emphasis>). Unu el ties intuicie klaraj difinoj estas «la distanco kiun averaĝa viro piediras dum 1 horo», do 4–5 km. Laŭ NPIV, leŭgo estas «proksimume 4km». Laŭ la franca Vikipedio, la «Pariza leŭgo» en la tempo de la eldono de Kandido (1759) estis 3,248km = 10<sup>4</sup> da tiamaj francaj futoj (<emphasis>pieds</emphasis>).</p>
+<p>Lanti’ tradukas la francan <emphasis>lieue</emphasis> per <emphasis>mejlo,</emphasis> probable ĉar leŭgo ankoraŭ ne ekzistis en Esperanto, tamen sen konverta rekalkulo: «deux lieues» → «du mejloj» [ĉap. 2ª]. Same faria la tradukistoj pola kaj rusa; kaj la germana „<a l:href="#http://www.zeno.org/Kategorien/T/Meyers-1905?fr=Lieue">Meyers Großes Konversations-Lexikon</a>“ (1905–1909) rekte asertas ke leŭgo estas «la franca mejlo, antaŭe diverslonga» (<strong>Lieue</strong> (spr. ljö), die französische Meile, früher in verschiedener Größe). Tio tamen estas malvera, kaj Voltero en du okazoj indikas distancon en mejloj.</p>
+<p>Mi tamen koncedas, ke iam traduko per mejloj aspektas pli versimile. Ekz‑e [Ĉap. 2ª]:
+<cite>
+<p>Iun belan printempan tagon li decidis fari promenadon, kaj ekpaŝis rekte antaŭen … Apenaŭ li estis irinta <emphasis>du leŭgojn,</emphasis> kiam kvar aliaj herooj … lin kuratingas, ligas, kaj kondukas en karceron.</p>
+</cite>
+<p>Promeno 8-kilometra estas iom longa, sed ja imagebla. Strange impresas la adverbo: «<emphasis>apenaŭ</emphasis> li estis irinta 8km…». Post 
+
+
+* Leŭgoj
+
+je lui ai envoyé à deux mille cinq cents lieues d’ici un exprès dont j’attends la réponse [ĉap. 22]
+kaj ke mi sendis al ŝi, je du mil kvincent mejloj for de ĉi tie, ekspresulon, kies respondon mi atendas.
+Mi sendis al ŝi, de 2500 leŭgoj for de ĉi tie, ekspreson, kaj nun atendas respondon.
+I have sent a messenger to her near two thousand leagues from here, and wait here for his return
+Obecnie wysłałem do niej o dwa tysiące pięćset mil umyślnego posłańca i oczekuję jego powrotu.
+я отправил к ней, за две тысячи пятьсот миль отсюда, посланца и теперь жду ее ответа.
+
+
+
+La distanco Paramaribo (Surinamo) --- Parizo estas
+2500 leŭgoj = 7191.30 km
+(laŭ https://www.distancefromto.net/)
+do, 1 leŭgo ≈ 2.88 km
+
+La distanco Bonaero --- Parizo estas
+11050 km; 11050/2500 ≈ 4.42 km
+
+l'ancienne lieue de Paris (avant 1674) 10 000 pieds (futoj) =  3,248 km
+La franca futo (ĝis 1799) estis 324,839 mm.
+
+la lieue des Postes 	(1737-1793) 	2 200 toises 	=  4,288 km
+
+On trouvait également une lieue de marche « extrêmement variable » ,
+correspondant à une distance parcourue en une heure.
+
+* Mejlo
+★mejl/o 1 Mezurunuo de longo por teraj vojaĝoj: romia mejlo (1 472,5
+m), angla mejlo (1 609,31 m); franca mejlo (7 422 m); germana mejlo
+(7 500 m); sveda mejlo (10 000 m). ☞ kilometro.
+
+
+* Futoj
+
+Prusa:
+6-й старый прусский пехотный полк (нем. Altpreußisches
+Infanterieregiment No. 6) — прусский пехотный полк № 6, состоявший из
+солдат выше среднего роста.
+
+Минимальный рост солдат полка составлял 188 см = 6 preußische Fuß
+kvin futojn kaj kvin colojn? = 5×12 + 5 = 65 coloj
+188/65 ≈ 28,9mm > 27mm (franca colo)
+https://ru.wikipedia.org/wiki/Потсдамские_великаны
+Zoll 	Preußen 	1755 	0,026 154 5 m
+
+
+labuś
+
+32. Kaj tiu de sufiĉa racio, laŭ kiu ni konsideras ke nenia fakto
+    povas troviĝi vera aŭ ekzistanta, nenia elparolato vereca, se ne
+    estas racio sufiĉa pro kiu tiele estas kaj ne alie, kvankam tiujn
+    raciojn plej ofte ni ne povas koni.
+
+
+Principo de sufiĉa kialo, laŭ kiu
+
+    nenia fakto povas okazi vera aŭ ekzistanta, nenia aserto — vera,
+    se ne estas sufiĉa kialo pro kiu estas tiel kaj ne alie, kvankam
+    tiujn kialojn plej ofte ni ne povas koni.
+----
+Franca eskudo en 1772: Écu dit “à la vieille tête” (29.26 g, 6h)
+https://commons.wikimedia.org/wiki/File:Louis_XV_%C3%A9cu_1772_76001791.jpg?uselang=fr
+
+$21.35 (je 2021-12-27)
+
+----
+ĉap. 1ª:
+2. Pangloss: See A Note on Names. In composing the character of Pangloss,
+Voltaire may have been thinking of Leibniz’s disciple Christian Wolff (1679-
+1754), and perhaps also of the French philosopher and writer Jean-Jacques
+Rousseau (1712-78). In 1756 Voltaire had written an attack on Rousseau
+entitled Lettre au docteur Jean-Jacques Pansophe (Letter to Doctor Jean-Jacques
+Pansophe - ‘pansophe’ means ‘all-knowing)).
+
+3. metaphysico-theologico-cosmo-nigology: Voltaire’s assault on cosmic optimism
+is a compound-caricature of Leibniz, Pope and Wolff, the latter a rigidly
+systematic thinker who introduced the word ‘cosmology’ to a wider world;
+“nigology’ comes from nigaud (‘booby’).
+
+4. no effect without cause: Leibniz: ‘Nothing ever happens without a cause or at
+least a sufficient [determining] reason’ (Théodicée (1710), 1, 44; translated as
+Essays in Theodicy on the Goodness of God, the Liberty of Man, and the Origin of
+Evil), which Voltaire here reduces to tautology. Voltaire’s comedy habitually
+separates cause and effect.
+
+5. all is for the best: The passage is a burlesque reductio of the principle of final
+causes, or the argument from design. Voltaire accepted a moderate form of
+the principle, but attacked extreme materialist versions of it. Cf. his article
+on ‘Final Causes’ in the Philosophical Dictionary (transl. Theodore Besterman,
+London, 1972, pp. 205-7). Philosophically, ‘all is for the best’ means that
+each thing is justified by its purpose in the plan of Creation, but common
+parlance turns the expression into abject enthusiasm for the world as it s.
+
+6. sufficient reason: A Leibnizian term (referring to that quality, in each thing,
+which explains and justifies its existence), satirically redirected here from
+‘metaphysical to physical concerns. The volitions of God are ‘sufficient
+reasons’ determined by our perception of the good. Leibniz intended his
+principle as a criterion of truth in the sphere of the contingent, that is, of
+experience. It suggests a rationally constructed universe and so is connected
+with his Optimism. Voltaire judged the principle to be a case of obfuscation,
+and reduces it to the simple notion of cause and effect.
+
+
+----
+ĉap. 2ª:
+4. King of the Bulgars: The Abars and the Bulgars, whom Voltaire had
+encountered while researching his Essai sur Uhistoire générale et sur les meeurs
+et l'esprit de nations (Essay on General History and on the Manners and Spirit of the
+Nations, 1756), were two barbarian nations who laid waste the Byzantine
+empire in the eighth and ninth centuries. In the contemporary setting of the
+Seven Years’ War (1756-63), the references to recruiting officers and to the
+tallness of recruits suggest that the Bulgars represent the Prussians and the
+Abars the French. Etymologically, ‘Bulgars’ also imputes homosexuality to
+Frederick and his tall troops (‘bulgar’ - bougre, ‘bugger’).
+
+5. your glory is assured: By accepting the King's money and toasting the King's
+health, Candide has unwittingly signed up for military service.
+
+6. ramrod: Used for pressing the charge down the muzzle of the gun. The
+manoeuvres described by Voltaire were newly essential to success on the
+field of battle in the eighteenth century; by increasing their speed and
+synchronization, the Prussians increased their mobility as a fighting force
+and reduced their losses. Voltaire had witnessed the militarization of the
+Prussian army in Potsdam during his stay with Frederick (1750-53), and he
+closely followed developments in military tactics, as evidenced in the
+opening of the next chapter.
+
+7. freedom of the will: Under Frederick’s influence Voltaire had abandoned the
+doctrine of freedom of the will, which he had formerly defended (in his
+Eléments de la philosophie de Newton (Elements of the Philosophy of Newton), 1740)
+and would subsequently mock.
+
+----
+ĉap. 3ª:
+leste: 4) уст. элега́нтный
+
+CHAPTER 3
+How Candide ran away from the Bulgars, and what became of him
+
+1. a harmony such as was never heard in hell: An ironic reference to Leibniz’s
+theory of pre-established harmony. The Seven Years’ War was being waged
+during the composition and publication of Candide. According to the 1761
+title-page, Doctor Ralph, purported author of Candide, perished in this same
+war in 1759. Voltaire wrote to an English correspondent, George Keith, on 4
+October 1759: ‘The present war is the most hellish that ever was fought.
+Your Lordship saw formerly one battle a year at most; but nowadays the
+earth is covered with blood and mangled carcasses almost every month. Let
+the contented lunatics who say that “All that Is, Is Well” be confounded! "Tis
+not so, indeed, with twenty provinces exhausted and three hundred
+thousand men murdered. I wish your Lordship the peace of mind necessary
+in this lasting hurricane of horror.”
+
+2. scoundrels who were infesting its surface: Soldiers were commonly seen as
+recruited from the dregs of the population.
+
+3. First the cannon ... a few thousand more: Voltaire’s description follows the usual
+sequence of eighteenth-century battles: artillery exchanges followed by
+infantry, followed by hand-to-hand fighting with bayonets. He omits the
+cavalry charge.
+
+4. Te Deums: Hymns of thanksgiving in the Catholic liturgy, traditionally sung
+after victories: ‘a ceremony established to encourage the people, whom it is
+essential always to deceive’ (Voltaire, Le Siécle de Louis XIV (The Age of Louis
+X1V), 1751). That the Te Deum was often sung simultaneously in both camps,
+for propaganda purposes, had already been criticized as ludicrous by the
+philosopher Pierre Bayle (1647-1706) in his Dictionnaire historique et critique
+(Historical and Critical Dictionary, 1695-7), and is one of the commonplaces of
+Voltaire’s anti-religious polemic.
+
+5. international law: Theorists of international law, such as Hugo Grotius (1583-
+1645), had tried to legalize what they could not proscribe: hence the
+theoretical justification of pillage or slavery, for example, which outraged
+Voltaire.
+
+6. Here old men ... arms and legs: The description in this passage is faithful to
+contemporary accounts of the realities of war: a synthesis rather than an
+exaggeration. ‘None of the atrocities in Candide is invented’ (Jean
+Starobinski, ‘Voltaire’s Double-Barrelled Musket’, in Blessings in Disguise
+(california, 1993), p. 85).
+
+7. dealt with it accordingly: In his manuscript Voltaire originally added the
+sentence: ‘Virtually the entire province had been destroyed.”
+
+8. He begged alms ... how to earn his living: Begging was prohibited in Holland, and
+Voltaire was a supporter of such measures.
+
+9. This orator: A Protestant pastor; after the Revocation of the Edict of Nantes
+(1685), Holland became one of the centres of asylum for free-thinkers,
+Protestants and proselytizers against Rome.
+
+10. a chain of necessity: The Leibnizian principle that all phenomena are of
+necessity linked to one another, though the satire here is anti-determinist
+rather than specifically anti-Leibnizian.
+
+11. Anti-Christ: A view maintained by orthodox Calvinists.
+
+12. Anabaptist: A member of a sixteenth-century Protestant sect, widespread in
+Holland and Westphalia. Anabaptists rejected infant baptism, maintaining
+that only adults could choose Christianity. Having originally been unpopular
+for their sanguinary and radical views on property and religious discipline,
+they had settled down in the eighteenth century, becoming peaceful
+burghers - industrious, altruistic, tolerant of other sects - and as such had
+earned Voltaire’s approval.
+
+13. two legs, no feathers and a soul: The Anabaptist adds a soul to this famously
+‘minimal definition of man, coined - according to Aristotle - by one of the
+philosophers of the Academy (whereupon Antisthenes, the Cynic, presented
+him with a chicken).
+
+
+----
+ĉap. 4ª:
+V:
+Mais de quelle maladie est-elle morte? ne serait-ce point de ...
+Non, dit Pangloss, elle a été éventrée par des soldats bulgares, 
+L:
+— ... Pro kia malsano ŝi mortis? ...
+— ... La Bulgaraj soldatoj distranĉis ŝian ventron ...
+S:
+— Ne, — diris Pangloso. — Al ŝi distranĉis la ventron la Bulgaraj soldatoj...
+
+----
+ĉap. 5ª:
+
+V: Dieu ne leur a donné ni canons de vingt-quatre, ni baïonnettes ...
+S: Dio donis al ili nek sieĝajn pafilegojn, nek bajonetojn por sin interbuĉi
+[26] Kanonoj pafantaj per 24-funtaj (11,7 kg) obusoj estis vaste uzataj en la 18ª jc.
+
+Oni ne plu klasas pafilojn laŭ la maso de la obuso, de post la 19ª jc
+oni mezuras kalibron (ĉi-okaze 152 mmm por Francia «canons de
+vingt-quatre», aŭ 140 mm por Brituja “24-ponder”). Tial la modernan
+leganton «24-funta kanono» pensigus pri kanono kiu pezas 14 funtojn
+--- dum fakte tia kanono pezis 2½ tunojn (sen afusto).
+
+----
+ĉap. 6ª:
+Post la tertremo detruinta LA(??) tri kvaronojn de Lisbono
+
+In reality, no auto-da-fé took place in response to the Lisbon
+disaster. Three autos-da-fé were held in Lisbon - on 8 October 1756,
+28 September 1757, 27 August 1758 - but these were unconnected with
+the earthquake, and there were no executions.
+    
+
+----
+ĉap. 7ª:
+Frottez-vous de __ pommade, mangez et dormez. 
+Ŝmiru vin per pomado, manĝu kaj dormu.
+Kial ne "per LA pomado"? Ĉu partitivo?
+
+----
+ĉap. 9ª:
+ili trarajdas 30 mejlojn (223 km) senhalte
+
+- чем быстрее скачет лошадь, тем скорее выдыхается. На максимальной
+  скорости 60 км/ч лошадь может держать темп без ущерба для здоровья
+  1 мин. , за 10 мин. ее загнать можно, на скорости 30-40 км/ч для этого
+  понадобится пару часов, со скоростью 10-20 км/ч переменным аллюром
+  тренированная лошадь может двигаться до 20 часов без перерыва.
+- один день 160 км говорят так.
+- Полк может двигаться беспрерывно 7-8 часов в сутки. Нормальный
+  переход устанавливается в 50 км. Через каждые 2-3 дня движения
+  устраивается дневка Максимум что конница может дать с полным
+  напряжением сил конского состава - это два марша подряд по 100 км
+https://otvet.mail.ru/question/65046168
+
+
+----
+ĉap. 10ª:
+3. Benedictine prior: The Benedictines were thought to be very wealthy.
+
+4. Lucena... Chillas ... Lebrija ... Cadiz: The names are real, but the itinerary is
+fantastical. Cadiz was the centre of trade with Spanish America. Voltaire
+invested heavily in this trade. In 1756 he had invested part of his capital in
+the fitting-out of a ship to transport Spanish troops from Cadiz, to quell a
+Paraguayan Indian uprising, supposedly backed by the Jesuits (the ship was
+named the /Pascal/, after their Jansenist enemy). Candide, Cunégonde and the
+old woman embark on a ship effectively owned by Voltaire.
+
+5. San Sacramento: Eighteenth-century Paraguay covered a far greater area
+than today, much of it controlled by Jesuit missions. In 1750 the Spanish
+government ceded the town of San Sacramento - situated inside the mission
+settlements - to Portugal; the Indians rebelled against the prospect of
+passing under Portuguese rule, and the Jesuits were held responsible (in
+Voltaire’s manuscript, ‘who were accused of having incited reads: ‘who had
+incited’). In 1755 Spain and Portugal sent an expedition to repress the
+uprising, and guerilla activity continued for several years; Candide becomes
+- briefly - a commanding officer on such an expedition.
+
+----
+ĉap. 11ª:
+CHAPTER 11
+The old woman'’s story
+
+1. the daughter of Pope Urban X and the Princess of Palestrina: A non-existent Pope.
+Voltaire had originally written ‘Clement XIT', an actual and recent Pope.
+According to his secretary Wagniére, he intended to add the following
+footnote, which appeared only in posthumous editions of Candide: ‘Note the
+extreme discretion of our author at this point! Until now there has never
+been a Pope Urban X. He is afraid to attribute a bastard daughter to an
+existent Pope. What circumspection! What delicacy of conscience!"
+Palestrina was an Italian principality, near Rome, which produced a Pope
+named ... Urban VIII.
+
+2. Massa-Carrara: A small Italian duchy, in Tuscany.
+
+3. Gaeta: An Italian port, north of Naples.
+
+4. Salé: A Moroccan port, near Rabat, and in the eighteenth century a notorious
+centre of piracy targeted at Christian vessels. It is likewise a corsair from
+Salé that swoops in Daniel Defoe’s (1660-1731) Robinson Crusoe (1719).
+
+5. in articulo mortis: ‘At the point of death’. Only priests are authorized to give
+absolution, but in their despair the soldiers have lost all sense of the
+proprieties and are demanding Christian absolutions of a Muslim pirate.
+
+6. Knights of Malta: An order of soldier-monks based in Malta, whose mission
+was to defend Christian pilgrims against the infidel.
+
+7. Muley Ismaél: Emperor of Morocco, who reigned ruthlessly for over fifty
+years, and whose sons (two, not fifty) engaged in a protracted struggle for
+power after his death in 1727.
+
+----
+ĉap. 18ª:
+
+V: les grands officiers ... les menèrent à l'appartement de sa majesté
+L: ... kondukis ilin en la apartamenton de Lia Reĝa Moŝto
+S: ... kondukis ilin en la ĉambrojn de Lia Reĝa Moŝto
+R: ... ввели их в покои его величества
+
+PIV:
+apartament³o. Loĝejo, konsistanta el pluraj ĉambroj, ordinare sur unu
+sama etaĝo, interkomunikiĝantaj.
+
+*apartments* [ plural ] mainly UK
+a set of large rooms with expensive furniture and decoration in, for example, a public building or castle:
+The Royal Apartments are open to the public.
+
+Больше примеров
+    They've got a fabulous apartment in the centre of Paris.
+    She divides her time between her apartment in New York and her cottage in Yorkshire.
+    I'll give you the keys to my apartment.
+    They can presumably afford to buy a bigger apartment.
+    They have six HOLIDAY APARTMENTS for sale.
+
+ко́мната: ср.-в.-н. kem(e)n̄ate, ср.-нж.-нем. kemenade из лат. (camera) camīnāta "отапливаемая комната" от camīnus (см. ко́мин)
+
+
+* 7-Jara Milito: (1756—1763).
+
+
+--------------
+Der Wunsch ist/war [hier] Vater des Gedankens
+https://www.duden.de/sprachwissen/sprachratgeber/Dein-Wunsch-war-des-Gedankens-Vater
