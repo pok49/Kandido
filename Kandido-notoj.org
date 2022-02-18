@@ -434,6 +434,91 @@ The Royal Apartments are open to the public.
 
 ко́мната: ср.-в.-н. kem(e)n̄ate, ср.-нж.-нем. kemenade из лат. (camera) camīnāta "отапливаемая комната" от camīnus (см. ко́мин)
 
+----
+ĉap. 18ª:
+caleçon → +kalsono+ → ŝorto
+
+CALEÇON, subst. masc.
+A. Vx. Culotte descendant sous le genou et portée autrefois par les
+   personnes des deux sexes.
+
+★kalson/o. *Subvesto* el diversaj formoj k ŝtofoj, kovranta parte aŭ
+tute la femurojn, aŭ la tutajn gambojn. ☞ pantaloneto.
+
+(Verdire, "ŝorto" estas pli mallonga; sed "kuloto" havas kromsencon
+aristokratan, dum "ŝorto" konvenas al la klimato tropika.)
+
+----
+ĉap. 21ª:
+<section id="n59"><title><p>[81]</p></title><p>Probable «Teorio de la Tero» de Bufono (1749) kun hipotezo eksplikanta la malkovron de maraj fosilioj sur montaj suproj. (Aŭ pli banale, <emphasis>Genezo</emphasis> 1:2.) — <emphasis>S.</emphasis></p></section>
+
+terre ait été originairement une mer, comme on l'assure dans ce gros
+livre qui appartient au capitaine du vaisseau[1]?
+
+Either /Théorie de la Terre/ by Buffon (1749) or /l'Histoire des
+navigations/ by Brosses (1756).
+
+A reference to contempary scientific hypothesis that the mountains on
+the earth were formed by an original sea. The proof for this was that
+marine fossils had been found on the top of mountains.
+
+----
+ĉap. 22ª:
+** habitué du quartier
+A priest without a parish. Doesn't seem to have an equivalent in English...
+http://www.cnrtl.fr/definition/habitu%C3%A9 :
+spéc. 1477 part. passé subst. « ecclésiastique attaché au service
+d'une paroisse sans y avoir charge ou dignité »
+[en la postaj linioj "clerc"]
+
+** konfesbileto
+Un habitué du quartier vint avec douceur lui demander un billet
+payable au porteur pour l'autre monde.
+
+In the 18th century, last rites would often only be performed upon
+presentation of a note from one's confessor (un billet de confession)
+which confirmed that one had subscribed to a Papal Bull condeming
+heretics.
+http://www.britannica.com/EBchecked/topic/65386/billets-de-confession
+
+The final episode in the controversy occurred from 1749 to 1754 over
+the issue of /billets de confession/. The billets were papers
+affirming submission to the bull that suspected Jansenists were
+ordered to sign by the archbishop of Paris, Christophe de Beaumont. If
+they refused, the last sacraments and burial in consecrated ground
+would be denied them. The Parlement of Paris, claiming jurisdiction
+over matters of ecclesiastical discipline and supported by public
+opinion, opposed the billets. It ordered priests to administer the
+sacraments to every one of the faithful under pain of banishment and
+confiscation of goods. In 1754 King Louis XV forbade continuation of
+the dispute.
+
+** Le Fanatisme ou Mahomet le Prophète
+«a pièce représente, sous le nom de Mahomet, le prieur des Jacobins
+mettant le poignard à la main de Jacques Clément»
+https://fr.wikipedia.org/wiki/Le_Fanatisme_ou_Mahomet_le_Proph%C3%A8te#Analyse
+
+** toute seule de sa bande
+V: elle fut enterrée toute seule de sa bande au coin de la rue de Bourgogne; 
+de = "el" : "fare de";
+*ARTIKOLO:* Kial "au coin"? ĉu sola angulo?
+
+** tous les parolis, tous les sept-et-le-va de campagne
+¹ /tous les parolis . . . campagne/: /parolis/ are double stakes whilst
+/le sept et le va/ represents seven times the /vade/ or original stake. The
+expression /de campagne/ means that the players who claimed these
+gains were cheating.[fn:1]
+
+² /dont ... cartes/: which they marked up for themselves by turning
+down the corners of their cards.
+
+³ /tailles/: hands or deals.
+
+** toujours = ankoraŭ : ĉiam
+V: Est-il vrai qu'on rit toujours à Paris?
+L: Ĉu vere oni ankoraŭ ridas en Parizo?
+S: Ĉu veras, ke la Parizanoj ĉiam ridas?
+
 
 * 7-Jara Milito: (1756—1763).
 
@@ -441,3 +526,9 @@ The Royal Apartments are open to the public.
 --------------
 Der Wunsch ist/war [hier] Vater des Gedankens
 https://www.duden.de/sprachwissen/sprachratgeber/Dein-Wunsch-war-des-Gedankens-Vater
+
+* Footnotes
+
+[fn:1] Littré: « *campagne:* 6° Terme de jeu. À la bassette et au
+Pharaon, paroli de campagne, paroli marqué par tricherie ; au
+trictrac, case de campagne, case qu'on n'avait pas le droit de faire.»
