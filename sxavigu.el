@@ -1,0 +1,37 @@
+(defun sxavig ()
+  "Transkodu xml-on utf8->sxava"
+  (interactive)
+  (goto-char (point-max))
+  (while (re-search-backward "[ae]ŭ" nil t)
+    (replace-match (if (looking-at "aŭ") "𐑲" "𐑱")))
+  (goto-char (point-min))
+  (while (looking-at "<[^>]+>")
+    (goto-char (match-end 0))
+    (unless (looking-at "<")
+      (let ((from (point)) (to (point-max)))
+        (if (search-forward "<" nil t)
+            (goto-char (setq to (match-beginning 0))))
+        (call-process-region from to "/home/sergio/bin/sxava8.sed" t t t))
+      )))
+
+
+(defun sxar (beg end)
+  "SXAvigu xml-Rrigionon utf8->sxava"
+  (interactive "r")
+  (with-current-buffer  "*scratch*" (goto-char (point-min)))
+  (goto-char beg)
+  (while (< (point) end)
+    (while (looking-at "<[^>]+>")
+      (let ((s (match-string 0)))
+        (with-current-buffer  "*scratch*" (insert s)))
+      (goto-char (match-end 0)))
+    (when (< (point) end)
+;    (unless (looking-at "<")
+      (let ((from (point)) (to end))
+        (when (search-forward "<" nil)
+          (goto-char
+           (setq to (if (> (point) end) (setq to end)
+                      (match-beginning 0))))
+          (call-process-region from to "/home/sergio/bin/sxava8.sed" nil "*scratch*" t)))))
+  (with-current-buffer "*scratch*" (copy-region-as-kill (point-min) (point))))
+

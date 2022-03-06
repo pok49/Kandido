@@ -1,6 +1,24 @@
 * Ilustraĵoj:
 https://commons.wikimedia.org/wiki/Category:Candide?uselang=de
 
+* Vortordo
+
+<p>La sama kutimo estas propra al la simile fiksakcenta lingvo pola.</p>
+
+[Ĉap. 5ª]
+Chce się rzucić za nim w morze
+Li volas sin ĵeti en la maron
+
+[Ĉap. 12ª]
+sto razy chciałam się zabić
+centfoje mi volis min mortigi,
+
+[Ĉap. 19ª]
+Człowiek, do którego się zwrócili, był ...
+<!--Тот, к кому они обратились, оказался-->
+La homo, al kiu ili sin turnis, estis ...
+
+
 * La artikolo
 ** La nedifina
 V: 9. Ce qui advint de Cunégonde, de Candide, du grand-inquisiteur, et *d'un Juif.*
@@ -33,10 +51,14 @@ G24: und vor allem von dem Kusse, den ich Ihnen hinter *einem Wandschirm* an jen
 A: and particularly the kiss I gave you behind *the screen*,
 L: kaj ĉefe pri la kiso, kiun al vi mi donis *malantaŭ ekranego*
 S: kaj precipe pri la kiso, kiun mi donis al vi malantaŭ *la faldoŝirmilo* [Ĉap. 8ª]
-
+B: и особено за целувката, която ви дадох зад *паравана* в деня, когато
+   ви видях за последен път.
 ----
-
-
+16. La aventuro pri du junulinoj, du simioj, kaj +la+ indiĝenoj nomataj Oreleguloj
+(kp en la Fabeloj:
+ke ĉi tie troviĝas eksterordinare rimarkinda BIRDO, NOMATA najtingalo!
+Proksime de Gudenaa, apud la arbaro de Silkeborg, simile al granda
+remparo leviĝas ALTAĴO, NOMATA Aasen,)
 
 ** La difina
 
@@ -409,6 +431,46 @@ was to defend Christian pilgrims against the infidel.
 years, and whose sons (two, not fifty) engaged in a protracted struggle for
 power after his death in 1727.
 
+
+----
+ĉap. 16ª:
+
+We had now passed the mouth of the Aguarico, leaving behind us the
+Christian Quitus and the peaceful Zaparos. Henceforth the right bank of the
+Napo is inhabited by the Mazanes and Iquitos; while on the left are the wilder
+Santa Marias, Anguteros, Oritos, and Orejones. The Orejones, or “Big Ears,”
+enlarge those appendages to such an extent that they are said to lie down on
+one ear and cover themselves with the other. This practice is now going out of
+fashion. These Indians received their name, Orejones, or Oregones, from the
+Spaniards, on account of this singular custom of inserting disks of wood in
+the ears to enlarge them; the like practice prevailed among the tribes on the
+Columbia River, Oregon. They trade in hammocks, poisons, and provisions.
+The Anguteros, or Putumayos, have a bad reputation. They are reported to
+have killed and robbed sarsaparilla traders coming up stream.
+
+"The Andes and the Amazon" by James Orton
+https://books.google.ru/books?id=Vr5cDwAAQBAJ&hl=ru&source=gbs_navlinks_s
+
+
+The second utopia in this section is that of the Oreillons, who
+existed in a pure state of nature, uncontaminated by manmade Western
+civilization; Jesuit Paraguay was beyond the borders of their land.
+All this relates to the concept of the noble savage, which became
+increasingly popular in the latter half of the eighteenth century. The
+idea was that nature itself was benign and good; let man live in a
+state of pure nature and he in turn will be good. Pangloss had
+embraced this philosophy of primitivism, as we learn from Candide. The
+name Oreillons derives from the Spanish Orejones, which indicates
+"pierced ears" or "big ears." Voltaire remained ironical in his
+account of these utopians. Understandably, Candide began to question
+all that had been taught him about "natural" man when it appeared that
+Oreillons were going to boil or roast him, but once his life was
+spared because he was not a Jesuit, he was no longer doubtful. The
+obvious conclusion is that the primitive people are no better nor no
+worse than so-called civilized people. Both are capable of great
+cruelty.
+https://www.cliffsnotes.com/literature/c/candide/summary-and-analysis/chapters-xiiixvi
+
 ----
 ĉap. 18ª:
 
