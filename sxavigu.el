@@ -16,7 +16,7 @@
 
 
 (defun sxar (beg end)
-  "SXAvigu xml-Rrigionon utf8->sxava"
+  "SXAvigu xml-Regionon utf8->sxava"
   (interactive "r")
   (with-current-buffer  "*scratch*" (goto-char (point-min)))
   (goto-char beg)

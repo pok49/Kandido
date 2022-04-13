@@ -18,6 +18,19 @@ Człowiek, do którego się zwrócili, był ...
 <!--Тот, к кому они обратились, оказался-->
 La homo, al kiu ili sin turnis, estis ...
 
+<p>Lanti’ konservas komplikaĵojn de <em>il y a</em>:</p>
+<blockquote>
+<p lang="fr"><strong>V:</strong> que dans quelques pays <em>il y ait des singes qui</em> obtiennent les bonnes grâces des dames</p>
+<p><strong>L:</strong> ke en kelkaj landoj estas simioj, kiuj akiras favoron de virinoj</p>
+<p><strong>S:</strong> ke estas landoj kie favoron de virinoj akiras simioj [ĉap. 16ª].</p>
+</blockquote>
+<blockquote>
+<p lang="fr"><strong>V:</strong> Cunégonde lui parut ce qu’il avait jamais vu de plus beau.</p>
+<p><strong>S:</strong> Kunegundo ŝajnis al li la plej bela el ĉiuj, kiujn li iam ajn vidis.</p>
+<p>(<strong>L:</strong> Kunegond ŝajnis al li esti tio, kion li vidis plej bela.)</p>
+</blockquote>
+
+
 
 * La artikolo
 ** La nedifina
@@ -59,6 +72,14 @@ B: и особено за целувката, която ви дадох зад 
 ke ĉi tie troviĝas eksterordinare rimarkinda BIRDO, NOMATA najtingalo!
 Proksime de Gudenaa, apud la arbaro de Silkeborg, simile al granda
 remparo leviĝas ALTAĴO, NOMATA Aasen,)
+
+Kp ankaŭ la piednoton de L pri "Eldorado" (ĉap. 17ª, la titolo):
+
+L: Nomo, kiun la Eŭropanoj en la XVI-a jarcento donis al +iu+ fantazia
+lando, kiun oni lokis ĉe la bordoj de +iu+ supozita lago Parimo,
+
+(Se entute meti nedifinan pronomon, mi tie preferus ne ‹iu›n, sed
+‹ia›n. ‹Iu› pensigas min pri elekto inter realaj objektoj.)
 
 ** La difina
 
@@ -580,6 +601,96 @@ down the corners of their cards.
 V: Est-il vrai qu'on rit toujours à Paris?
 L: Ĉu vere oni ankoraŭ ridas en Parizo?
 S: Ĉu veras, ke la Parizanoj ĉiam ridas?
+
+** la homo kun la ebura bastono
+Laŭ L, «Policistoj Parizaj portas tian bastonon.» (neatribuita piednoto).
+Dubinda aserto. La kunteksto:
+
+V: Ah! monsieur, lui dit l'homme au bâton d'ivoire, eussiez-vous
+commis tous les crimes imaginables, vous êtes le plus honnête homme du
+monde …
+
+A20: said the *understrapper of justice*, … (= subulo de justico)
+P: rzekł *stróż bezpieczeństwa* …
+
+Probable ironio pri «homo apartenabta al justico», ĉar «bâton d'ivoire»
+estis simbolo de justico (kvankam ja REĜA simbolo de la REĜA justico):
+
+LA MAIN DE JUSTICE
+
+La main de Justice fut jusqu'en 1792 l'emblème du pouvoir judiciaire
+des rois de France conféré par Dieu. Le roi est représenté par le
+pouce, la raison par l'index, la charité par le majeur et la foi
+catholique est symbolisée par l'annulaire et l'auriculaire.
+
+C'est seulement à partir du XIIIe siècle que la main de Justice
+s'imposa comme un symbole indissociable du pouvoir royal.
+
+En 1226, à la mort de Louis VIII, sa veuve Blanche de Castille
+s'empressa de faire sacrer son fils Louis IX (plus connu sous le nom
+de Saint-Louis). Lors de son couronnement, il est remis au jeune roi
+un BÂTON DE COMMANDEMENT décoré à son extrémité d'une MAIN EN IVOIRE
+ayant trois doigts étendus.
+
+L'emblème a ensuite perduré chez les descendants du souverain en
+partie grâce à sa célèbre œuvre de Justice, rendue sous un chêne. La
+main de Justice était conservée sous la royauté à l'Abbaye de
+Saint-Denis.
+
+ 
+QUE SIGNIFIE CE SYMBOLE ?
+
+Lors de la cérémonie du sacre, on plaçait traditionnellement le
+sceptre royal dans la main droite du souverain et la main de Justice
+dans la gauche. Le symbole rappelle que le roi est la source de toute
+Justice : à ce titre, il peut évoquer n'importe quel procès intenté à
+l'intérieur de son royaume et prendre lui-même la décision qui sera
+immédiatement exécutée sans discussion ni possibilité d'appel.
+
+Cette charge de juge suprême a permis politiquement aux premiers
+Capétiens d'asseoir la domination royale sur d'autres seigneurs
+parfois plus puissants et de devenir véritablement les premiers
+personnages du pays.
+
+À l'aube de la Révolution, ce pouvoir fut de plus en plus discuté par
+les Parlements (nom donné aux tribunaux à l'époque), notamment sous le
+règne de Louis XV. Il fut ensuite placé au second plan par la
+Constitution du 3 septembre 1791 pour être finalement supprimé
+définitivement en même temps que tous les autres pouvoirs royaux le 10
+août 1792.
+[ https://www.justice.gouv.fr/histoire-et-patrimoine-10050/les-symboles-de-la-justice-21974.html ]
+
+----
+ĉap. 24ª:
+(#aspekto; #artikolo; #cabinet:)
+V: Paquette *ouvrait* ainsi son coeur au bon Candide,
+dans /un cabinet/, en présence de Martin, qui *disait*
+à Candide: …
+
+Daŭra /ouvrait/, ripeta /disait/.
+<!-- Kial "dans UN CABINET", la epizodo ja komenciĝas "dans la chambre
+de Candide" "à son hôtellerie"??-->
+A: in */his/ closet*.
+
+S: Tiel parolis Violeto, malfermante sian koron al la bona Kandido;
+kaj Marteno, kunestanta en la ĉambro, diradis al Kandido: …
+
+Cetere, "malfermi sian koron" ne estas klara esprimo por "излить душу" ☹
+
+----
+ĉap. 26ª:
+
+V: Sire, *la chaise* de votre majesté est à Padoue, et la barque est prête.
+L: Reĝa Moŝto, +la portseĝo+ de via Majesto estas en Padova kaj la barko estas preta.
+S: Via Majesto, *la kabrioleto* estas en Padovo kaj la barko pretas.
+
+(La arkaika "chaise" efektive povas esti portseyo kaj vetuturilo;
+ĉi-okaze temas pri veturilo, kiu atendas en la apuda urbeto Paduo,
+kien el Venecio oni iros per barko.)
+
+
+
+
 
 
 * 7-Jara Milito: (1756—1763).

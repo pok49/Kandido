@@ -9,8 +9,8 @@ stanza {margin-left:9%;}
 p {line-height: 1.1em;}
 epigraph {margin-left:0px; margin-right:0px;}
 epigraph>p {margin-left:5%; margin-right:5%; text-align: center}
-cite, p[style="hy"] {hyphenate: none;}
-p[style="p0"], annotation p, title+p, subtitle+p, empty-line+p, cite+p, cite>p, poem+p {text-indent:0px}
+cite, p[style="hy"], p[style="p0hy"] {hyphenate: none;}
+p[style="p0"], p[style="p0hy"], annotation p, title+p, subtitle+p, empty-line+p, cite+p, cite>p, poem+p {text-indent:0px}
 p[style="petit"], cite>p {font-style: normal; font-size: 90%;}
 p[style="center"] {text-align: center;}
 text-author {
@@ -18,6 +18,7 @@ text-author {
   page-break-before:avoid;
 }
 footnote-title {font-weight: normal;}
+p[style="letero"]{ font-size: normal; font-style: italic; }
 </stylesheet>
 
 <description>
@@ -62,7 +63,7 @@ footnote-title {font-weight: normal;}
 <body>
 <section><title><p>Antaŭparolo de la prilaborinto</p></title>
 <section><title><p>Pri la vortordo</p></title>
-<p>Mi okupiĝis pri «Kandido» ĉar per ĝi mi volis kontroli la ĵus publikigitan teorion pri la vortordo en Esperanto («<a l:href="https://www.akademio-de-esperanto.org/oficialaj_informoj/oficialaj_informoj_34_2021.html">Raporto de la Sekcio pri Gramatiko pri vortordo en Esperanto</a>». Oficialaj informoj, №34, 2021-07-14). La stilo de la artikoloj de Lanti’ ŝajnis al mi sufiĉe esperanteca ĉi-rilate, kaj mi decidis ekzameni iom pli grandan prozaĵon: lian tradukon de la Voltera verko.</p>
+<p>Mi okupiĝis pri «Kandido» ĉar per ĝi mi volis kontroli la ĵus publikigitan teorion pri la vortordo en Esperanto («<a l:href="https://www.akademio-de-esperanto.org/oficialaj_informoj/oficialaj_informoj_34_2021.html">Raporto de la Sekcio pri Gramatiko pri vortordo en Esperanto</a>»<image l:href="#www.png"/>. Oficialaj informoj, №34, 2021-07-14). La stilo de la artikoloj de Lanti’ ŝajnis al mi sufiĉe esperanteca ĉi-rilate, kaj mi decidis ekzameni iom pli grandan prozaĵon: lian tradukon de la Voltera verko.</p>
 <p id="hoVe">Sed tie min atendis malagrabla surprizo. En sia antaŭparolo Lanti’ avertas:</p>
 <cite>
 <p>Mi penis konservi laŭeble la formon de la frazoj kaj okazis, ke ne ĉiam mi alprenus saman se mi verkus originale.</p>
@@ -95,14 +96,9 @@ footnote-title {font-weight: normal;}
 
 <p>Lanti’ konservas komplikaĵojn de <emphasis>il y a</emphasis>:</p>
 <cite>
-  <p><strong>V:</strong> que dans quelques pays <emphasis>il y ait des singes qui</emphasis> obtiennent les bonnes grâces des dames</p>
-  <p><strong>L:</strong> ke en kelkaj landoj estas simioj, kiuj akiras favoron de virinoj</p>
-  <p><strong>S:</strong> ke estas landoj kie favoron de virinoj akiras simioj [ĉap. 16ª].</p>
-</cite>
-<cite>
-  <p><strong>V:</strong> Cunégonde lui parut ce qu’il avait jamais vu de plus beau.</p>
-  <p><strong>S:</strong> Kunegundo ŝajnis al li la plej bela el ĉiuj, kiujn li iam ajn vidis.</p>
-  <p>(<strong>L:</strong> Kunegond ŝajnis al li esti tio, kion li vidis plej bela.)</p>
+  <p><strong>V:</strong> la dame demanda pourquoi <emphasis>il y avait</emphasis> des tragédies <emphasis>qu’on</emphasis> jouait quelquefois, et <emphasis>qu’on</emphasis> ne pouvait lire.</p>
+<p><strong>L:</strong> La sinjorino demandis, kial <emphasis>estas</emphasis> tragedioj, <emphasis>kiujn</emphasis> oni ludas kelkfoje, kaj <emphasis>kiujn</emphasis> oni ne povas legi.</p>
+<p><strong>S:</strong> La markizino demandis, kial iuj tragedioj, ja fojfoje ludataj, estas preskaŭ nelegeblaj [ĉap. 22ª].</p>
 </cite>
 <p>Tamen kelkfoje Lanti’ rearanĝis Francajn frazojn laŭ la vortordo Esperanta:</p>
 <cite>
@@ -134,6 +130,30 @@ footnote-title {font-weight: normal;}
 
 <section><title><p>Artikolado</p></title>
 <p>Estas evidenta fakto, ke <strong>la difinan artikolon</strong> Esperanto uzas pli ŝpareme ol la Franca lingvo, proksimume kiel la angla; tial mi ĝin forigis el la titolo: «Kandido, aŭ <strikethrough>la</strikethrough> Optimismo» (kp <strong>A:</strong> “Candide, or Optimism”).</p>
+
+<p>Tamen ankaŭ angle ofte aperas neklarigeblaj uzoj de la difina artikolo, ekz‑e en <a l:href="#lafilino">ĉap. 11ª</a>:</p>
+<cite>
+<p><strong>V:</strong> Je suis <emphasis>la fille</emphasis> du pape Urbain X et de la princesse de Palestrine.</p>
+<p><strong>A:</strong> I am <emphasis>the daughter</emphasis> of Pope Urban X, and of the Princess of Palestrina.</p>
+<p><strong>L:</strong> Mi estas <emphasis>la filino</emphasis> de la papo Urbano la Xª kaj de <strikethrough>la</strikethrough> princino Palestrina.</p>
+</cite>
+<p>Antaŭe neniam temis pri tiuj princino kaj papo, nek pri tio, ke ili havas filinon, nek pri ties unikeco. Tamen Voltero kaj ĉiuj tradukoj en la artikolhavajn lingvojn uzas ĉi tie la difinan artikolon — krom la Bulgara, kiu ĉi-okaze estas la sola logikema:</p>
+<cite>
+<p><strong>B:</strong> <emphasis>Дъщеря</emphasis> (ne «Дъщеря<strikethrough>та</strikethrough>»!) съм на папа Урбан X и на принцеса Палестрина.</p>
+</cite>
+<p>Kaj Voltero mem en tute simila situacio, prezentante la protagoniston en la 2ª frazo de ĉap. 1ª, uzas nul-artikolon:</p>
+<cite>
+<p><strong>V:</strong> Les anciens domestiques de la maison soupçonnaient qu’il était <emphasis>fils</emphasis> de <emphasis>la sœur</emphasis> de monsieur le baron et d’un bon et honnête gentilhomme du voisinage</p>
+<p><strong>B:</strong> Старите слуги в дома подозираха, че е <emphasis>син</emphasis> на сестра<emphasis>та</emphasis> на господин барона и на един добър и почтен благородник от околността</p>
+<p>(<strong>L:</strong> La malnovaj servistoj suspektis, ke lia patrino estis <emphasis>la fratino</emphasis> de lia barona moŝto kaj lia patro iu nobelo el la ĉirkaŭaĵo)</p>
+</cite>
+<p>La Bulgara traduko konsekvence evitas artikolon ĉe ‹filo› — sed ial (samkiel <strong>V</strong>) artikolas la ‹fratino›n. Pri ŝi ni aŭdas unuafoje, kaj nek ŝia ekzisto nek unikeco estas evidentaĵo. Tial tute prave la germana traduko <a l:href="#G20">G<sub>20</sub></a> artikolas ŝin nedifine — tamen ĝi ial difine artikolas la filon (en ambaŭ okazoj, inverse ol <strong>V</strong>!).</p>
+
+<cite>
+<p><strong>G<sub>20</sub>:</strong> Die alten Diener des Hauses munkelten, er sei <emphasis>das Kind</emphasis> <strong>einer Schwester</strong> des Herrn Barons und eines guten braven Edelmannes aus der Nachbarschaft</p>
+<p><strong>S:</strong> La malnovaj servistoj suspektis, ke li estas <emphasis>filo</emphasis> de <emphasis>fratino</emphasis> de lia barona moŝto kaj de brava kaj bona nobelo najbara.</p>
+</cite>
+<empty-line/>
 <p>En sia rutina funkcio <strong>la nedifina artikolo</strong> plej ofte ne bezonas leksikan tradukon, kvankam ofte ĝi postulas pozician remaigon de sia determinato, kiel «maljunulino» kaj «komercisto» en <a l:href="#maljunekz">ĉi-supraj ekzemploj</a>. Lanti’ tamen sporade ĝin tradukas per la superflua «iu», ekz‑e (ĉap. 19ª):</p>
 <cite>
 <p><strong>V:</strong> Ce moine voulut vendre quelques unes des pierreries à un joaillier.</p>
@@ -143,6 +163,11 @@ footnote-title {font-weight: normal;}
 <p><strong>V:</strong> Il leur donna rendez-vous dans un cabaret.</p>
 <p><strong>L:</strong> Li difinis rendevuon al ili en <strikethrough>iun</strikethrough> drinkejon [ĉap. 19ª].</p>
 </cite>
+<p>Kp ankaŭ piednoton [70] de L pri «Eldorado» (<a l:href="#cx17">ĉap. 17ª</a>):</p>
+<cite>
+<p><strong>L:</strong> Nomo, kiun la Eŭropanoj en la XVI-a jarcento donis al <strikethrough>iu</strikethrough> fantazia lando, kiun oni lokis ĉe la bordoj de <strikethrough>iu</strikethrough> supozita lago Parimo…</p>
+</cite> <p>Cetere, se en tia okazo oni tamen volas meti nedifinan pronomon, mi ĉi tie preferus ne ‹iu›n, sed ‹ia›n. ‹Iu› min pensigas ne pri kvalito (fikcieco), sed pri elekto inter realaj objektoj.</p>
+
 <p>Voltero ofte defias la Esperantajn gramatikistojn, uzante nedifinan artikolon en situacioj, kie ili postulas la artikolon difinan. Iam la senconuancon ne eblas fidinde esprimi en Esperanto, kaj necesas ŝanĝo al la artikolo difina (ankaŭ en la angla traduko okazas tiel), iam eblas ĝin esprimi per malimplicitigo de nedifiniteco:</p>
 <cite>
   <p><strong>V:</strong> Il était au désespoir de se séparer d’<emphasis>un</emphasis> bon maître devenu son ami intime</p>
@@ -154,6 +179,7 @@ footnote-title {font-weight: normal;}
   <p><strong>V:</strong> Mes parents me forcèrent … d’endosser cette détestable robe, pour laisser plus de fortune <emphasis>à un</emphasis> maudit frère aîné…</p>
   <p><strong>L:</strong> Miaj gepatroj devigis min … surmeti tiun ĉi malŝatindan robon, por lasi pli da riĉo <emphasis>al tiu</emphasis> malbeninda unuenaskita frato…</p>
 </cite>
+<p>(Lanti’ vidas tie majoraton; tamen la samepoka angla traduko interpretas tion kiel favorigon de <emphasis>iu</emphasis> el la pli aĝaj fratoj, <span><strong>A:</strong> an <emphasis>elder</emphasis> brother of mine.</span>)</p>
 
 <p>Jen kurioza malkohero en du egalaj situacioj el du paralelaj rakontoj en unu sama ĉap. 28ª:</p>
 <cite>
@@ -171,7 +197,23 @@ footnote-title {font-weight: normal;}
   <p><strong>S:</strong> <emphasis>La kadio</emphasis> ordonis, ke mi ricevu cent bastonbatojn sur la plandojn kaj min kondamnis al galerpuno.</p>
 </cite>
 <p>Kp ankaŭ <a l:href="#laHj">la similsituacian frazon</a> en ĉap. 19ª: «Li iras al <strong>la</strong> Holanda juĝisto».</p>
+<empty-line/>
+<p>La plej stranga uzo de la nedifina artikolo aperas en la titolo de <a l:href="#laJudon">ĉap. 9ª</a>:</p>
+<cite>
+<p><strong>V:</strong> Ce qui advint de Cunégonde, de Candide, <strong>du</strong> grand-inquisiteur, et <emphasis>d'un Juif</emphasis></p>
+<p><strong>L:</strong> Kio okazis kun Kunegond, kun Kandid, kun la ĉefinkvizitoro kaj <emphasis>kun judo</emphasis></p>
+</cite>
+<p>En la ĵusa ĉap. 8ª grave rolis la 3 unuaj personoj kaj <emphasis>Judo</emphasis> don-Isaĥaro. La nedifina determino de la 4ª persono el la ĉapitra titolo devus indiki, ke temos pri iu alia, ankoraŭ ne konata homo. Tamen finleginte la ĉapitron oni konstatos, ke fakte temas pri la jam konata don-Isaĥaro. Probable Voltero volis ĝeneraligi, malkonkretigi la ĉefinkvizitoron kaj don-Isaĥaron kiel tipajn prelaton kaj Judon, proksimume kiel en la ekkrio de Kunegudo:</p>
+<cite>
+<p><strong>V:</strong> Comment avez-vous fait, vous qui êtes né si doux, pour tuer en deux minutes <emphasis>un Juif</emphasis> et <emphasis>un prélat?</emphasis></p>
+</cite>
+<p>Se efektive tia estis la celo de Voltero, tiam ĝia realigo estas ĝene mallerta. La tradukoj <a l:href="#B">B</a>, <a l:href="#G20">G<sub>20</sub></a>, <a l:href="#A20">A<sub>20</sub></a> meĥanike paŭsas tiun mallertaĵon; nur A (kaj S) ĝin korektas:</p>
+<cite>
+<p><strong>A:</strong> What Happened to Cunegund, Candide, <strong>the</strong> Grand Inquisitor, and <strong>the Jew</strong></p>
+<p><strong>S:</strong> Kio trafis Kunegundon, Kandidon, <strong>la</strong> ĉefinkvizitoron kaj <strong>la Judon</strong>.</p>
+</cite>
 </section>
+
 
 <section><title><p>Prozodio</p></title>
 <p>La senakcentaj unusilabaj vortoj satelitaj (enklitikoj) rompas la nature troĥean ritmon de la esperanta parolo; Z rimarkigis ĉi-rilate:</p>
@@ -313,7 +355,7 @@ Ni havas egalan rajton uzi la «ĉi» antaŭ aŭ post la pronomo (aŭ adverbo); 
 <cite>
   <p><strong>V:</strong> Messieurs, dit l’hôte, nous voyons bien que vous êtes des étrangers; nous ne sommes pas accoutumés à en voir.</p>
   <p><strong>L:</strong> “Sinjoroj, diris la gastiganto, ni bone vidas, ke vi estas fremduloj; da ili ni ne kutimas vidi…”</p>
-  <p><strong>S:</strong> — Sinjoroj, — diris la mastro, — evidente vi estas alilandanoj, kaj alilandanojn ni ne kutimas vidi.</p>
+  <p><strong>S:</strong> — Sinjoroj, — diris la mastro, — evidente vi estas alilandanoj, kaj vidi alilandanojn ni ne kutimas.</p>
 </cite>
 <p>Cetere atentindas, ke la objekton «da ili», kiu estas la temo de la dua subpropozicio, Lanti’ ja ŝovis antaŭen, en ĝian naturan teman lokon en la vortordo Esperanta.</p>
 </section>
@@ -378,7 +420,7 @@ Ni havas egalan rajton uzi la «ĉi» antaŭ aŭ post la pronomo (aŭ adverbo); 
 </section>
 <section><title><p>Monunuoj</p></title>
 <p>Oni iam provis unuecigi la esprimon de monaj valoroj per <strong>spesoj</strong>, t.e. esence per la ora ekvivalento. Ekz‑e en «Marta» 55 rublaj/kopekaj esprimoj estas konvertitaj en spesmilojn kaj spesdekojn.</p>
-<p>En «Kandido» tio ne estus tiom facila. Iuj fantaziaj moneroj neniam ekzistis (ekz‑e la «Patagoniaj eskudoj» el ĉap. 19ª). En Eldorado oro ne pli valoras ol gruzo, kaj unu el la ĉefaj ideoj, inspirantaj tiun utopion, estas negado de la mona <strong>orbazo</strong> (Angle <emphasis>gold standard</emphasis>). Nu, la Voltera utopio ne estas profunde pripensita, kaj fine de la epizodo (ĉap. 18ª) Eldoradanoj esprimas kostojn en <emphasis>«livres sterling, monnaie du pays».</emphasis> Lanti’ tradukis: «da sterlingaj funtoj, en la landa mono». Nu, ĉar laŭ la ĝenerale preferata etimologio, <emphasis>sterling</emphasis> ← STAR+LING, t.e. stel/eto, mi ŝanĝis al: «da stelpundoj, en la landa mono» — rememore pri la movada monunuo «<a l:href="https://eo.wikipedia.org/wiki/Stelo_(monunuo)">stelo</a>» ☺.</p>
+<p>En «Kandido» tio ne estus tiom facila. Iuj fantaziaj moneroj neniam ekzistis (ekz‑e la «Patagoniaj eskudoj» el ĉap. 19ª). En Eldorado oro ne pli valoras ol gruzo, kaj unu el la ĉefaj ideoj, inspirantaj tiun utopion, estas negado de la mona <strong>orbazo</strong> (Angle <emphasis>gold standard</emphasis>). Nu, la Voltera utopio ne estas profunde pripensita, kaj fine de la epizodo (ĉap. 18ª) Eldoradanoj esprimas kostojn en <emphasis>«livres sterling, monnaie du pays».</emphasis> Lanti’ tradukis: «da sterlingaj funtoj, en la landa mono». Nu, ĉar laŭ la ĝenerale preferata etimologio, <emphasis>sterling</emphasis> ← STAR+LING, t.e. stel/eto, mi ŝanĝis al: «da stelpundoj, en la landa mono» — rememore pri la movada monunuo «<a l:href="https://eo.wikipedia.org/wiki/Stelo_(monunuo)">stelo</a>»<image l:href="#www.png"/> ☺.</p>
 </section></section>
 <section><title><p>Eraroj</p></title>
 <p>Lanti’ reformeme traktas la radikon ali/ kiel tabelvorton:
@@ -399,7 +441,7 @@ Ni havas egalan rajton uzi la «ĉi» antaŭ aŭ post la pronomo (aŭ adverbo); 
   <p><strong>S:</strong> ĉiu el ili estas pli ol <emphasis>dek leŭgojn</emphasis> larĝa [ĉap. 18ª]</p>
 </cite>
 <subtitle>——————</subtitle>
-<p>Malnecesa latineca tempakordo, ofte absolutaj tempoj en subpropozicioj; ekz‑e (ĉap. 18ª):</p>
+<p>Sporade aperas la malnecesa latineca tempakordo en subpropozicioj; ekz‑e (ĉap. 18ª):</p>
 <cite>
   <p><strong>V:</strong> il voulut savoir comment on <emphasis>priait</emphasis> Dieu dans Eldorado</p>
   <p><strong>L:</strong> li volis scii kiel oni <emphasis>preĝis</emphasis> Dion en Eldorado</p>
@@ -463,15 +505,23 @@ Ni havas egalan rajton uzi la «ĉi» antaŭ aŭ post la pronomo (aŭ adverbo); 
 Ideale, ĉiu generacio devas krei sian version de la klasikaj verkoj.</p>
 </section>
 
-<section><title><p>Referencoj</p></title>
-<p style="p0"><strong>[A]</strong> Voltaire: Candide or Optimism. Translated by Tobias Smollett (1759). Rete disponebla ĉe «<a l:href="https://en.wikisource.org/wiki/Candide">Wikisource</a>».</p>
-<p style="p0"><strong>[G]</strong> Voltaire: Kandide. Übersetzer: Wilhelm Christhelf Sigismund Mylius. Berlin, 1782.</p>
-<p style="p0"><strong>[L]</strong> «Kandid aŭ la Optimismo» de Voltaire, tradukita de Eŭgeno Lanti’. En «Tri verkoj de Volter», Paris: SAT, 1956. (Disponebla rete ĉe <a l:href="https://eo.wikisource.org/wiki/Kandid">Vikifontaro</a>.)</p>
-<p style="p0"><strong>[Littré]</strong> «Dictionnaire de la langue française», par É. Littré. 1863. (Debiana pakaĵo.)</p>
-<p style="p0">[<strong>MDG</strong>] Michel Duc Goninaz: Kelkaj rimarkoj pri la t.n. «akuzativo». <a l:href="https://esperanto-ondo.ru/Libroj/Lo-2016-03.epub">LOdE №257</a> (2016:3).</p>
-<p style="p0"><strong>[P]</strong> Wolter: Kandyd czyli optymizm. Tłum. Tadeusz Boy-Żeleński. 1917.</p>
-<p style="p0"><strong>[R]</strong> Вольтер: Кандид, или Оптимизм. Пер. Фёдор Сологуб.</p>
-<p style="p0"><strong>[V]</strong> Voltaire: Candide, ou l’Optimisme. Œuvres complètes de Voltaire, Garnier, 1877, tome 21. (Disponebla rete ĉe <a l:href="https://fr.wikisource.org/wiki/Candide,_ou_l’Optimisme/Garnier_1877">Wikisource</a>.)</p>
+<section id="Ref"><title><p>Referencoj</p></title>
+<p>Dum mia prilaborado mi konsultis plurajn nacilingvajn tradukojn de la Voltera verko. Du el ili, A kaj G, venas el la sama epoko, kiel la originalo; la ceteraj (kaj inter ili A<sub>20</sub>, G<sub>20</sub> kaj L) aperis en la <strong>20</strong>ª jc.</p>
+
+<p>La eternan dilemon, ĉu traduko estu <emphasis>fidela</emphasis> al la fontolingvo, aŭ <emphasis>bela</emphasis> en la cellingvo, la tradukistoj de la Voltera epoko solvis favore al la belo. Voltero mem diris, per la buŝo de sia «belgustulo» el ĉap. 22ª, ke verkisto devas «perfekte scipovi sian lingvon, ĝin pure paroli, kun kontinua harmonio, kaj tiel, ke la rimo [okaze de traduko: laŭvortismo] neniam difektu la sencon».</p>
+<p>La moderna (ekde la 20ª jc) skolo okcidenta tamen preferas la «fidelon», tordante la cellingvon laŭ la modelo de la fontolingvo. Tiurilate la Lantia traduko estas «moderna». Mi tamen preferas la malnovan skolon, kaj opinias ke la traduko devas esti ne malpli ĝuiga ol la originalo.</p>
+<empty-line/>
+<p style="p0"><strong>[A]</strong> Voltaire: <a l:href="https://en.wikisource.org/wiki/Candide">Candide or Optimism</a><image l:href="#www.png"/>. Translated by Tobias Smollett (1759).</p>
+<p style="p0" id="A20"><strong>[A<sub>20</sub>]</strong> Voltaire: <a l:href="https://www.gutenberg.org/ebooks/19942">Candide</a><image l:href="#www.png"/>. Translated by <emphasis>The Modern Library</emphasis> (1918).</p>
+<p style="p0" id="B"><strong>[B]</strong> Волтер: Кандид или оптимизмът. Пер. Боян Атанасов (1972). ISBN 9536622611.</p>
+<p style="p0"><strong>[G]</strong> Voltaire: <a l:href="https://de.wikisource.org/wiki/Kandide">Kandide oder die beste Welt</a><image l:href="#www.png"/>. Übersetzer: Wilhelm Christhelf Sigismund Mylius. Berlin, 1782.</p>
+<p style="p0hy" id="G20"><strong>[G<sub>20</sub>]</strong> Voltaire: <a l:href="https://www.projekt-gutenberg.org/voltaire/erzaehlg/chap006.html">Candid oder der Optimismus</a><image l:href="#www.png"/>. <emphasis>En</emphasis> «Voltaire: Erzählungen». Insel-Verlag zu Leipzig, 1924. Übertragen von Ernst Hardt.</p>
+<p style="p0" id="L"><strong>[L]</strong> «<a l:href="https://eo.wikisource.org/wiki/Kandid">Kandid aŭ la Optimismo</a>»<image l:href="#www.png"/> de Voltaire, tradukita de Eŭgeno Lanti. En «Tri verkoj de Volter», Paris: SAT, 1956.</p>
+<p style="p0"><strong>[Littré]</strong> «<a l:href="https://www.littre.org/">Dictionnaire de la langue française</a>»<image l:href="#www.png"/>, par É. Littré. 1863.</p>
+<p style="p0">[<strong>MDG</strong>] Michel Duc Goninaz: Kelkaj rimarkoj pri la t.n. «akuzativo». <a l:href="https://esperanto-ondo.ru/Libroj/Lo-2016-03.epub">LOdE №257</a><image l:href="#www.png"/> (2016:3).</p>
+<p style="p0"><strong>[P]</strong> Wolter: <a l:href="https://wolnelektury.pl/katalog/lektura/kandyd/">Kandyd czyli optymizm</a><image l:href="#www.png"/>. Tłum. Tadeusz Boy-Żeleński. 1917.</p>
+<p style="p0"><strong>[R]</strong> Вольтер: <a l:href="http://sologub.narod.ru/texts/translations_voltaire.htm">Кандид, или Оптимизм</a><image l:href="#www.png"/>. Пер. Фёдор Сологуб (1908).</p>
+<p style="p0"><strong>[V]</strong> Voltaire: <a l:href="https://fr.wikisource.org/wiki/Candide,_ou_l’Optimisme/Garnier_1877">Candide, ou l’Optimisme</a><image l:href="#www.png"/>. Œuvres complètes de Voltaire, Garnier, 1877, tome 21.</p>
 </section></section>
 
 <section><title><p>Antaŭparolo de Lanti’</p></title>
@@ -662,7 +712,7 @@ Mi mem ĝin transdonos al neniu, ĉar mi mortas.</p>
 <p>» Maltrankviligite, konsternite, jen duonfreneza pro kolero, kaj jen preskaŭ mortanta pro malforteco, mi pensis pri la kruela morto de mia patro, de mia patrino, de mia frato, pri la brutalo de mia malbela Bulgara soldato, pri la tranĉilbato kiun li al mi donis, pri mia mallibero, pri mia kuira metio, pri mia Bulgara kapitano, pri mia malbela Don-Isaĥaro, pri mia abomena inkvizitoro, pri la pendumo de doktoro Pangloso, pri tiu granda <emphasis>Miserere</emphasis><a l:href="#miserere" type="note">[39]</a> foburdone kantata dum via skurĝado, kaj precipe pri la kiso, kiun mi donis al vi malantaŭ la faldoŝirmilo en la tago, kiam mi lastafoje vin vidis. Mi laŭdis Dion, kiu revenigis vin al mi tra tiom da elprovoj. Mi ordonis al la maljunulino, ke ŝi zorgu pri vi, kaj konduku vin ĉi tien tuj kiam ŝi povos. Ŝi bonege plenumis mian komision; mi ĝuis la neesprimeblan plezuron vin revidi, vin aŭdi, al vi paroli. Vi probable malsategas; ankaŭ mi havas grandan apetiton; ni komencu per vespermanĝo.</p>
 <p>Jen ili ambaŭ altabliĝas; kaj, post la vespermanĝo, ili reokupas la belan kanapon, pri kiu ni jam parolis; ili estis tie, kiam envenis Don-Isaĥaro, unu el la mastroj de la domo. Estis sabato. Li venis por ĝui siajn rajtojn, kaj esprimi sian delikatan amon.</p>
 </section><section>
-<title><p>9. Kio trafis Kunegundon, Kandidon, la ĉefinkvizitoron kaj la Judon</p></title>
+<title><p id="laJudon">9. Kio trafis Kunegundon, Kandidon, la ĉefinkvizitoron kaj la Judon</p></title>
 <p>Tiu Isaĥaro estis la plej kolerema Hebreo el ĉiuj, kiuj ekzistis en Izraelio, de post la Babela kaptiteco.</p>
 <p>— Kio! — li diris, — vi, hundino Galileana, ĉu do ne sufiĉas al vi la inkvizitoro? Ĉu necesas, ke ankaŭ kun ĉi tiu fripono mi vin dividu?</p>
 <p>Dirante tion, li elprenas longan ponardon, kiun li ĉiam kunportis, kaj certa, ke lia kontraŭulo ne havas armilojn, li sin ĵetas sur Kandidon; sed kun la kompleta vestaro nia bona Vestfaliano ricevis de la maljunulino belan spadon. Kvankam Kandido estis pacema, tamen ĉi-okaze li elingigas la spadon — kaj jen la Izraelido falas senviva sur la plankon, antaŭ la piedojn de la bela Kunegundo.</p>
@@ -670,7 +720,7 @@ Mi mem ĝin transdonos al neniu, ĉar mi mortas.</p>
 <p>— Se Pangloso ne estus pendumita, — diris Kandido, — li donus al ni ĉi-okaze bonan konsilon, ĉar li estis granda filozofo. En lia foresto ni petu konsilon de la maljunulino.</p>
 <p>La maljunulino estis tre prudenta, kaj komencis eldiri sian opinion, kiam malfermiĝis alia malgranda pordo. Estis unu horo post noktomezo, komenciĝis dimanĉo. Tiu tago apartenis al la inkvizitora moŝto. Li eniras kaj vidas la glutee skurĝitan Kandidon kun spado en la mano, kadavron sur la planko, Kunegundon frenezaspekta kaj la maljunulinon donanta konsilojn.</p>
 <p>Jen kio okazis ĉi-momente en la animo de Kandido, kaj jen kiel li rezonis:</p>
-<p>«Se ĉi tiu sankta homo vokos por helpo, li nepre min ŝtiparumigos; li povos same fari pri Kunegundo, li jam senkompate min skurĝigis; li estas mia rivalo; ekmortiginte, nun mi ne povas heziti.»</p>
+<p>«Se ĉi tiu sankta homo vokos por helpo, li nepre min ŝtiparumigos; li povos same fari pri Kunegundo, li jam senkompate min skurĝigis; li estas mia rivalo; unu fojon mortiginte, nun mi ne povas heziti.»</p>
 <p>Tiu rezonado estis decida kaj rapida; kaj, ne donante tempon al la surprizita inkvizitoro retrovi la sinregadon, Kandido lin trapikas kaj ĵetas apud la Judon.</p>
 <p>— Eĉ pli bone, — diris Kunegundo. — Ne plu eblas pardono; ni estas ekskomunikotaj, alvenis nia lasta horo. Sed kiel povis vi, denaske tiom milda, en du minutoj mortigi Judon kaj prelaton?</p>
 <p>— Mia bela fraŭlino, — respondis Kandido, — kiam oni estas amanta, ĵaluza kaj skurĝita de la Inkvizicio, oni pro kolero perdas sinregadon.</p>
@@ -701,7 +751,7 @@ Mi mem ĝin transdonos al neniu, ĉar mi mortas.</p>
 <p>Tiu respondo naskis tre grandan scivolon en la spirito de Kunegundo kaj de Kandido. La maljunulino parolis al ili jene:</p>
 </section><section>
 <title><p>11. Historio de la maljunulino</p></title>
-<p>— Ne ĉiam mi havis la okulojn kun elturnitaj palpebraj randoj kaj skarlate borderitajn; mia nazo ne ĉiam tuŝis la mentonon; kaj ne ĉiam mi estis servistino. Mi estas filino de la Papo Urbano la 10ª kaj de la princino Palestrina.<a l:href="#n28" type="note">[47]</a> Ĝis mia dek kvara jaro oni min edukis en palaco, por kiu la kasteloj de viaj Germanaj baronoj ne indus servi kiel staloj; kaj unu mia robo kostis pli ol ĉiuj luksaĵoj de Vestfalio. Mi kreskis ĉiam pli bela, pli gracia, talenta, meze de plezuroj, de respektoj kaj esperoj; mi jam inspiris amon, mia brusto estis formiĝanta; kaj kia brusto! Blanka, malmola, simila al tiu de Venero Mediĉa; kaj kiaj okuloj! Kiaj palpebroj! Kiaj nigraj brovoj! Kiaj flamoj brilis en miaj du pupiloj, paligante la scintiladon de la steloj, kiel diris al mi la lokaj poetoj. La virinoj kiuj min vestis kaj malvestis, ekstazis rigardante min de antaŭe kaj de malantaŭe; kaj ĉiuj viroj deziris esti ĉe ilia loko.</p>
+<p id="lafilino">— Ne ĉiam mi havis la okulojn kun elturnitaj palpebraj randoj kaj skarlate borderitajn; mia nazo ne ĉiam tuŝis la mentonon; kaj ne ĉiam mi estis servistino. Mi estas filino de la Papo Urbano la 10ª kaj de la princino Palestrina.<a l:href="#n28" type="note">[47]</a> Ĝis mia dek kvara jaro oni min edukis en palaco, por kiu la kasteloj de viaj Germanaj baronoj ne indus servi kiel staloj; kaj unu mia robo kostis pli ol ĉiuj luksaĵoj de Vestfalio. Mi kreskis ĉiam pli bela, pli gracia, talenta, meze de plezuroj, de respektoj kaj esperoj; mi jam inspiris amon, mia brusto estis formiĝanta; kaj kia brusto! Blanka, malmola, simila al tiu de Venero Mediĉa; kaj kiaj okuloj! Kiaj palpebroj! Kiaj nigraj brovoj! Kiaj flamoj brilis en miaj du pupiloj, paligante la scintiladon de la steloj, kiel diris al mi la lokaj poetoj. La virinoj kiuj min vestis kaj malvestis, ekstazis rigardante min de antaŭe kaj de malantaŭe; kaj ĉiuj viroj deziris esti ĉe ilia loko.</p>
 <p>» Mi fianĉiniĝis al princo, suvereno de Masso-Kararo<a l:href="#MK" type="note">[48]</a>: kia princo! Egale bela, kiel mi, knedita el mildo kaj plaĉo, brilanta per sprito kaj brulanta pro amo; mi amis lin, kiel oni amas la unuan fojon, kiel idolon, malmodere. La edziĝofesto estis preparita kun nepriskribeblaj lukso kaj pompo, estis kontinuaj festoj, turniroj, komikaj operoj; kaj la tuta Italio verkis por mi sonetojn, el kiuj neniu superis la nivelon de banalo.</p>
 <p>» Alproksimiĝis la momento de mia feliĉo, kiam maljuna markizino, iama amdonantino de mia princo, lin invitis ĉe sin por trinki ĉokoladon; malpli ol du horojn poste li mortis en teruraj konvulsioj.</p>
 <p>» Sed tio estis nur bagatelo. Mia patrino, malesperigite, kvankam ja malpli afliktite ol mi, volis por kelka tempo forlasi tiun restadejon tiom fatalan. Ŝi havis tre belan bienon apud Gaeto<a l:href="#Gaeto" type="note">[49]</a>; ni ekvojaĝis per loka galero, kiu estis orumita kiel la altaro de Sankta Petro en Romo. Jen korsara ŝipo el Saleo<a l:href="#n29" type="note">[50]</a> impetas al ni kaj nin kaperas; niaj soldatoj sin defendas laŭ la kutimo de la soldatoj de l’ Papo: ili ĉiuj surgenuiĝas, forĵetas siajn armilojn kaj petas la korsarojn pri absolvo <emphasis>in articulo mortis.</emphasis><a l:href="#n30" type="note">[51]</a></p>
@@ -846,7 +896,7 @@ La kaptitoj miaj kunuloj, la kaptintoj, la soldatoj, matrosoj, nigruloj, brunulo
 <p>Kandido ne laciĝis miri pri la motivo de sia liberiĝo.</p>
 <p>— Kia popolo! — li diradis. — Kiaj homoj! Kiaj moroj! Se mi ne havus la feliĉon trapiki per mia spado la fraton de Kunegundo, mi estus senpardone manĝita. Sed, ĉion konsiderante, la pura naturo estas bona, ĉar ĉi tiuj homoj, anstataŭ min manĝi, faris al mi mil afablaĵojn, de kiam ili eksciis, ke mi ne estas Jezuito.</p>
 </section><section>
-<title><p>17. Kandido kaj lia servisto venas en Eldoradon<a l:href="#n48" type="note">[70]</a></p></title>
+<title><p id="cx17">17. Kandido kaj lia servisto venas en Eldoradon<a l:href="#n48" type="note">[70]</a></p></title>
 <p>Ĉe la limo de la lando de la Oreleguloj Kakambo diris al Kandido:</p>
 <p>— Vi vidas, ke ĉi tiu mondoparto ne estas pli bona ol la alia; aŭskultu mian konsilon, ni reiru en Eŭropon per la plej mallonga vojo.</p>
 <p>— Kiel reiri tien, — diris Kandido, — kaj kien iri? En mia patrujo ĉiujn buĉas la Bulgaroj kaj Abaroj; en Portugalio min atendas ŝtiparo; en ĉi tiu lando ni ĉiumomente riskas trafi sur rostostangon. Kaj kiel mi forlasu la mondoparton kie loĝas Kunegundo?</p>
@@ -871,9 +921,9 @@ La kaptitoj miaj kunuloj, la kaptintoj, la soldatoj, matrosoj, nigruloj, brunulo
 <p>Du kelneroj kaj du kelnerinoj, vestitaj per ora drapo, kaj kun haroj ligitaj per rubandoj, tuj invitas ilin sidiĝi ĉe la komuna tablo. Oni alportis 4 supojn garnitajn per po 2 papagoj, 200-funtan bolkuiritan kondoron, 2 rostitajn simiojn treege bongustajn, 300 kolibrojn sur unu plado, kaj 600 similspecajn aliajn birdetojn sur alia; bonegajn raguojn, delikategajn tortojn; ĉio kuŝis sur pladoj el vitreca kvarco. La gekelneroj de la gastejo verŝadis plurajn likvorojn el sukerkano.</p>
 <p>La kunmanĝantoj plejparte estis komercistoj aŭ veturigistoj, ĉiuj tre ĝentilaj; ili faris kelkajn demandojn al Kakambo kun plej delikata diskreto, kaj respondis la liajn en plej kompleza kaj kontentiga maniero.</p>
 <p>Fininte la manĝadon, Kakambo kaj Kandido opiniis, ke ili malavare pripagas tion, ĵetante sur la tablon du el la larĝaj oraj pecoj, kiujn ili ĵus kolektis; la gemastroj ekridegis, kaj ankoraŭ longe sin tenis je la koksoj. Fine ili kvietiĝis:</p>
-<p>— Sinjoroj, — diris la mastro, — evidente vi estas alilandanoj, kaj alilandanojn ni ne kutimas vidi. Pardonu al ni, ke ni ekridis, kiam vi prezentis apudŝoseajn ŝtonojn kiel pagon. Certe vi ne havas enlandan monon, sed ĝi ne necesas por tagmanĝi ĉi tie. La servojn de ĉiuj gastejoj establitaj por la oportuno de l’ komercado pripagas la registaro. Ĉi tie vi modeste manĝis, ĉar ni estas en malriĉa vilaĝo; sed en aliaj lokoj vi ricevos akcepton konvenan al via merito.</p>
-<p>Kakambo tradukadis al Kandido ĉiujn parolojn de la gastejmastro, kaj Kandido aŭskultis ilin kun la samaj mirego kaj perplekso, kun kiuj lia amiko Kakambo komunikadis ilin.</p>
-<p>— Kio do estas tiu lando, — ili diradis unu al la alia, — de neniu konata sur la tero, kaj kie la naturo estas tute alispeca ol la nia? Konjekteble ĝi estas la lando, kie ĉio bonstatas: ĉar nepre necesas, ke ekzistu iu tiaspeca. Kaj malgraŭ ĉio, kion diradis majstro Pangloso, mi ofte rimarkis, ke la aferoj statas mise en Vestfalio.</p>
+<p>— Sinjoroj, — diris la mastro, — evidente vi estas alilandanoj, kaj vidi alilandanojn ni ne kutimas. Pardonu al ni, ke ni ekridis, kiam vi prezentis apudŝoseajn ŝtonojn kiel pagon. Certe vi ne havas enlandan monon, sed ĝi ne necesas por tagmanĝi ĉi tie. La servojn de ĉiuj gastejoj establitaj por la oportuno de l’ komercado pripagas la registaro. Ĉi tie vi modeste manĝis, ĉar ni estas en malriĉa vilaĝo; sed en aliaj lokoj vi ricevos akcepton konvenan al via merito.</p>
+<p>Kakambo tradukadis al Kandido ĉiujn parolojn de la gastejmastro, kaj Kandido aŭskultis ilin kun samtiaj mirego kaj perplekso, kun kiaj lia amiko Kakambo komunikadis ilin.</p>
+<p>— Kio do estas tiu lando, — ili diradis unu al la alia, — konata de neniu ekstera, kaj kie la naturo estas tute alispeca ol la nia? Konjekteble ĝi estas la lando, kie ĉio bonstatas: ĉar nepre necesas, ke ekzistu iu tiaspeca. Kaj malgraŭ ĉio, kion diradis majstro Pangloso, mi ofte rimarkis, ke la aferoj statas mise en Vestfalio.</p>
 </section><section>
 <title><p>18. Kion ili vidis en la lando Eldorado</p></title>
 <p>Kakambo superŝutis la gastejmastron per demandoj; tiu al li diris:</p>
@@ -1009,7 +1059,7 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>Tiel rezonante ili alvenis Bordozon.</p>
 </section><section>
 <title><p>22. Kio okazis al Kandido kaj Marteno en Francio</p></title>
-<p>Kandido restis en Bordozo nur tiom da tempo, kiom necesis por vendi kelke da Eldoradaj ŝtonoj kaj por lui bonan veturilon dulokan — ĉar li nepre bezonis sian filozofon Marteno. Tre ĉagrenis lin nur tio, ke necesis disiĝi de la ŝafo, kiun li fordonis al la Bordoza Akademio de la sciencoj. Tiu lasta proponis kiel temon por la tiujara premio klarigi, kial la lano de tiu ŝafo estis ruĝa. La premion ricevis scienculo el la Nordo, kiu pruvis per A plus B minus C dividita per Z, ke la ŝafo necese devas esti ruĝa kaj mortonta pro variolo.</p>
+<p>Kandido restis en Bordozo nur tiom da tempo, kiom necesis por vendi kelke da Eldoradaj ŝtonoj kaj por aĉeti bonan veturilon dulokan — ĉar li nepre bezonis sian filozofon Marteno. Tre ĉagrenis lin nur tio, ke necesis disiĝi de la ŝafo, kiun li fordonis al la Bordoza Akademio de la sciencoj. Tiu lasta proponis kiel temon por la tiujara premio klarigi, kial la lano de tiu ŝafo estis ruĝa. La premion ricevis scienculo el la Nordo, kiu pruvis per A plus B minus C dividita per Z, ke la ŝafo necese devas esti ruĝa kaj mortonta pro variolo.</p>
 <p>Tamen ĉiuj vojaĝantoj, kiujn Kandido renkontis survoje en la drinkejoj, diradis al li: «Ni veturas en Parizon». Tia ĝenerala impeto donis al li fine la deziron vidi tiun ĉefurbon; tio ne postulis grandan forflankiĝon de la vojo al Venecio.</p>
 <p>Li enveturis Parizon tra la antaŭurbo Sankta-Marcelo, kiu lin impresis kiel plej malbela vilaĝaĉo Vestfalia.</p>
 <p>Apenaŭ enhoteliĝinte, Kandido eksentis malgravan misfarton, kaŭzitan de laciĝo. Ĉar lian fingron ornamis grandega brilianto, kaj ĉar en lia pakaĵaro oni rimarkis skatolon mirige pezan, tial apud li tuj aperis du kuracistoj, kiujn li ne venigis, kelkaj intimaj amikoj, kiuj eĉ por minuto ne forlasis lin sola, kaj du bigotinoj, kiuj varmigadis liajn buljonojn. Marteno diris:</p>
@@ -1034,9 +1084,9 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>— Ĉu veras, ke la Parizanoj ĉiam ridas? — demandis Kandido.</p>
 <p>— Jes, — diris la abateto, — sed de furiozo. Oni plendas pri ĉio kun rideksplodoj; kaj ridegante oni faras fiaĵojn.</p>
 <p>— Kiu estas, — plu demandis Kandido, — tiu porkego, kiu diris al mi tiom da malbono pri la teatraĵo, ĉe kies prezentado mi tiom ploris, kaj pri la aktoroj, kies ludon mi tiom ĝuis?</p>
-<p>— Li estas malkontentulo, — respondis la abateto, — kiu akiras vivrimedojn mallaŭdante ĉiujn teatraĵojn kaj ĉiujn librojn; li malamas ĉiun ajn sukcesanton, kiel eŭnuko malamas ĝuanton; li estas unu el tiuj serpentoj de literaturo, kiuj sin nutras per malpuro kaj veneno; li estas fi-gazetisto.</p>
-<p>— Kion vi nomas fi-gazetisto? — demandis Kandido.</p>
-<p>— Tio estas, — diris la abateto, — verkanto de malicaj, senvaloraj artikoloj, kia estas ekzemple Freron’.<a l:href="#n64" type="note">[91]</a></p>
+<p>— Li estas malkontentulo, — respondis la abateto, — kiu akiras vivrimedojn mallaŭdante ĉiujn teatraĵojn kaj ĉiujn librojn; li malamas ĉiun ajn sukcesanton, kiel eŭnuko malamas ĝuanton; li estas unu el tiuj serpentoj de literaturo, kiuj sin nutras per malpuro kaj veneno; vulgara inkopediko.</p>
+<p>— Kion vi nomas inkopediko? — demandis Kandido.</p>
+<p>— Tio estas, — diris la abateto, — paskvilisto; ekzemple Freron’.<a l:href="#n64" type="note">[91]</a></p>
 <p>Tiel rezonadis Kandido, Marteno kaj la Perigordano sur la ŝtuparo, observante la publikon eliri el la teatro.</p>
 <p>— Kvankam mi sopiregas revidi fraŭlinon Kunegundo, — diris Kandido, — mi deziras tamen vespermanĝi kun fraŭlino Kleron’,<a l:href="#Kleron" type="note">[92]</a> ĉar ŝi ŝajnis al mi admirinda.</p>
 <p>La abateto ne estis el la speco da homoj kiajn akceptus fraŭlino Kleron’, kiu interrilatis nur kun elektita societo.</p>
@@ -1050,17 +1100,17 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>— Jes, — respondis unu el la gastoj, — sed mi ne povis ĝin finlegi. Ni havas amason da malsaĝaj verkaĉoj, sed ili ĉiuj kune ne kompareblas kun la deliraĵoj de Goŝa’, doktoro pri teologio; mi tiom trosatiĝis je tiu droniga torento da abomenaj libroj, ke nun mi preferas ludi faraonon.</p>
 <p>— Kaj kion vi opinias pri la <emphasis>Miksaĵoj</emphasis> de la ĉefdiakono T…? — demandis la abateto.</p>
 <p id="nauxzas">— Aĥ, kia tedulo! — diris sinjorino Oblinjak’. — Kiel zorge li priparolas ĉion, kion ĉiu jam scias! Kiel longe li disertas pri tio, kio ne meritas eĉ rimarketon! Kiel malsprite li proprigas al si la spriton de aliaj! Kiel li fuŝas tion, kion li plagiatas! Kiel li min naŭzas! Sed ne plu li min naŭzos: sufiĉas la kelkaj paĝoj de la ĉefdiakono, kiujn mi jam legis.</p>
-<p>Kunsidis klera kaj belgusta homo, kiu konfirmis la diritan de la markizino. Poste oni ekparolis pri tragedioj. La mastrino demandis, kial iujn tragediojn, ja fojfoje ludatajn, oni apenaŭ povas tralegi. La belgustulo tre bone klarigis, kiel teatraĵo povas esti interesa — kaj tamen senvalora; per malmulte da vortoj li pruvis, ke ne sufiĉas krei unu aŭ du el tiaj situacioj, kiajn oni trovas en ĉiu romano, kaj kiaj ĉiam logas la spektantojn — sed necesas esti originala sen ekstravaganco, ofte noblega kaj neniam afekta; koni la homan koron kaj scii ĝin elmontri; esti granda poeto sen ke tiaj ŝajnu la drampersonoj; perfekte scipovi sian lingvon, ĝin pure paroli, kun kontinua harmonio, kaj tiel, ke la rimo neniam difektu la sencon.</p>
-<p>— Iu ajn, — li aldonis, — kiu ne aplikas ĉiujn tiujn regulojn, povas verki unu aŭ du tragediojn aplaŭdotajn en teatro, sed neniam li okupos lokon inter la grandaj verkistoj. Da bonaj tragedioj estas tre malmulte. Unuj teatraĵoj estas dialogaj idilioj, bone verkitaj kaj rimitaj; aliaj, politikaj rezonadoj, kiuj endormigas, aŭ vanaj prilaboraĵoj, kiuj mallogas; aliaj, deliraĵoj de demonhavantoj — krudstilaj, interrompataj paroloj, longaj alvokoj al la dioj, ĉar la aŭtoro ne scias paroli al la homoj, misaj maksimoj, bombastaj banalaĵoj.</p>
+<p>Kunsidis klera kaj belgusta homo, kiu konfirmis la diritan de la markizino. Poste oni ekparolis pri tragedioj. La markizino demandis, kial iuj tragedioj, ja fojfoje ludataj, estas preskaŭ nelegeblaj. La belgustulo tre bone klarigis, kiel teatraĵo povas esti interesa — kaj tamen senvalora; per malmulte da vortoj li pruvis, ke ne sufiĉas krei unu aŭ du el tiaj situacioj, kiajn oni trovas en ĉiu romano, kaj kiaj ĉiam logas la spektantojn — sed necesas esti originala sen ekstravaganco, ofte noblega kaj neniam afekta; koni la homan koron kaj scii ĝin elmontri; esti granda poeto sen ke tiaj ŝajnu la drampersonoj; perfekte scipovi sian lingvon, ĝin pure paroli, kun kontinua harmonio, kaj tiel, ke la rimo neniam difektu la sencon.</p>
+<p>— Iu ajn, — li aldonis, — kiu ne aplikas ĉiujn tiujn regulojn, povas verki unu aŭ du tragediojn aplaŭdotajn en teatro, sed neniam li okupos lokon inter la grandaj verkistoj. Da bonaj tragedioj estas tre malmulte. Unuj teatraĵoj estas dialogaj idilioj, bone verkitaj kaj rimitaj; aliaj, politikaj rezonadoj, kiuj endormigas, aŭ vanaj prilaboraĵoj, kiuj mallogas; aliaj, deliraĵoj de demonhavantoj — krudstilaj, interrompataj paroloj, longaj alvokoj al dioj pro nekapablo paroli al homoj, misaj maksimoj, bombastaj banalaĵoj.</p>
 <p>Kandido atente aŭskultis tiun diskurson kaj ekhavis grandan estimon al la parolanto; kaj, ĉar la markizino estis sidiginta lin apud si, li sin klinis al ŝia orelo kaj aŭdacis demandi, kiu estas la homo tiel bone parolanta.</p>
 <p>— Li estas scienculo, — diris la sinjorino. — Li ne kartludas, sed la abateto fojfoje lin venigas ĉe min por noktomanĝi. Li estas tre sperta rilate tragediojn kaj librojn, li verkis tragedion, kiun oni malaplaŭdis, kaj libron, kies sola ekzemplero vidita ekster la butiko de lia eldonisto estas tiu, kiun li dediĉis al mi.</p>
 <p>— Granda homo! — diris Kandido. — Li estas dua Pangloso.</p>
 <p>Tiam, sin turnante al li, Kandido diris:</p>
-<p>— Sinjoro, vi sendube pensas, ke ĉio statas kiel eble plej bone en la fizika mondo kaj en la morala, kaj ke nenio povas esti alie, ĉu?</p>
-<p>— Ne, sinjoro, — respondis la scienculo, — mi havas tute alian opinion: mi trovas, ke ĉe ni ĉio iras tute malbone; ke neniu scias, kiu estas lia rango, nek kiu estas lia ofico; nek kion li faras, nek kion li devas fari. Escepte la noktomanĝon, kiu estas sufiĉe gaja kaj dum kiu regas sufiĉe da interkonsento, la tuta cetera tempo pasas en impertinentaj disputoj: Jansenistoj kontraŭ Molinistojn, parlamentanoj kontraŭ eklezianojn, literaturistoj kontraŭ literaturistojn, korteganoj kontraŭ korteganojn, financistoj kontraŭ la popolon, edzinoj kontraŭ edzojn, parencoj kontraŭ parencojn; resume, ĉio estas unu ĉiama batalo.</p>
+<p>— Sinjoro, vi sendube opinias, ke ĉio statas kiel eble plej bone en la fizika mondo kaj en la morala, kaj ke nenio povas esti alie, ĉu?</p>
+<p>— Ne, sinjoro, — respondis la scienculo, — mi pensas nenion similan. Mi trovas, ke ĉe ni ĉio iras tute mise; ke neniu scias, kiu estas lia rango, nek kiu estas lia ofico; nek kion li faras, nek kion li devas fari. Escepte la noktomanĝon, kiu estas sufiĉe gaja kaj dum kiu regas sufiĉe da interkonsento, la tuta cetera tempo pasas en impertinentaj disputoj: Jansenanoj kontraŭ Molinanojn,<a l:href="#Molina" type="note">[99]</a> parlamentanoj kontraŭ eklezianojn, literaturistoj kontraŭ literaturistojn, korteganoj kontraŭ korteganojn, financistoj kontraŭ la popolon, edzinoj kontraŭ edzojn, parencoj kontraŭ parencojn; resume, ĉio estas unu ĉiama batalo.</p>
 <p>Kandido obĵetis:</p>
-<p>— Mi vidis aferojn pli malbonajn; sed saĝulo, bedaŭrinde poste pendumita, instruis al mi, ke ĉio ĉi tio estas bonega: tioj estas ombroj sur bela pentraĵo.</p>
-<p>— Via pendumito mokis la homojn, — diris Marteno. — Viaj ombroj estas teruraj makuloj.</p>
+<p>— Mi vidis aferojn pli malbonajn; sed unu saĝulo (kiun cetere poste trafis la malfeliĉo esti pendumita) instruis al mi, ke ĉio ĉi tio estas bonega: tioj estas ombroj sur bela pentraĵo.</p>
+<p>— Via pendumito mokis la homojn, — diris Marteno. — Viaj «ombroj» estas teruraj makuloj.</p>
 <p>— La makulojn faras la homoj, — diris Kandido, — kaj ili ne povas tion eviti.</p>
 <p>— Tial do ili ne kulpas, — diris Marteno.</p>
 <p>La plejparto da ludantoj, kiuj komprenis nenion pri la temo, trinkadis; Marteno rezonadis kun la scienculo, kaj Kandido rakontis parton el siaj aventuroj al la gastigantino.</p>
@@ -1068,145 +1118,144 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>— Nu, — ŝi diris, — ĉu vi plu fortege amas fraŭlinon Kunegundo Tondrotratrunk’?</p>
 <p>— Jes, sinjorino, — respondis Kandido.</p>
 <p>La markizino diris kun tenera rideto:</p>
-<p>— Vi respondas al mi kiel juna Vestfaliano; Franco dirus al mi: «Estas vere, ke mi amis fraŭlinon Kunegundo; sed, vidante vin, sinjorino, mi timas, ke ŝin mi ne plu amas.»</p>
-<p>— Ho ve! — diris Kandido, — mi respondos laŭ via deziro.</p>
+<p>— Vi respondas al mi kiel juna Vestfaliano; Franco dirus al mi: «Estas vere, ke mi amis fraŭlinon Kunegundo; sed, vidante vin, sinjorino, mi pensas, ke ŝin mi ne plu amas.»</p>
+<p>— Aĥ, sinjorino, — diris Kandido, — mi respondos laŭ via deziro.</p>
 <p>— Via pasio por ŝi, — diris la markizino, — komenciĝis per levo de ŝia poŝtuko; mi volas ke vi levu mian ŝtrumpligilon.</p>
 <p>— Per mia tuta koro, — diris Kandido; kaj li ĝin levis.</p>
 <p id="remetu">— Sed mi volas, ke vi ĝin al mi remetu, — diris la sinjorino; kaj Kandido ĝin remetis.</p>
 <p>— Vidu, — diris la sinjorino, — vi estas alilandano; miajn amantojn el Parizo mi fojfoje atendigas du semajnojn, sed antaŭ vi mi kapitulacas tuj en la unua nokto, ĉar oni devas, laŭ la kutimoj de gastamo, honori junulon el Vestfalio.</p>
-<p>Rimarkinte du grandegajn briliantojn sur la manoj de la juna alilandano, la belulino laŭdis ilin tiom sincere, ke de la fingroj de Kandido ili transiris al tiuj de la markizino.</p>
-<p>Revenante kun sia abateto, Kandido sentis kelkajn konsciencriproĉojn pro tio, ke li malfidelis al Kunegundo. La abateto partoprenis lian ĉagrenon; li ja ricevis malmulte el la kvindek mil frankoj, kiujn lude perdis Kandido, kaj el la valoro de la du briliantoj duone donacitaj, duone trudakiritaj. Li decidis plene profiti la avantaĝojn, kiujn al li prezentis lia konatiĝo kun Kandido. Li multe parolis kun Kandido pri Kunegundo; kaj Kandido diris, ke kiam li vidos Kunegundon en Venecio, li petos al tiu belulino pardonon pri sia malfidelo.</p>
-<p>La Perigordano fariĝadis pli kaj pli afabla kaj komplezema, kaj montris delikatan intereson pri ĉio, kion diris Kandido, pri ĉio, kion li faris, pri ĉio, kion li intencis fari.</p>
-<p>— Do vi havas rendevuon en Venecio? — li demandis.</p>
+<p>Rimarkinte du grandegajn briliantojn sur la manoj de la juna alilandano, la belulino laŭdis ilin tiom sincere, ke de la fingroj de Kandido ili translokiĝis sur la ŝiajn.</p>
+<p>Revenante kun sia abateto, Kandido sentis kelkajn konsciencriproĉojn pro sia malfideliĝo al Kunegundo. Egale ĉagrenita estis la abateto: li ja ricevis malmulte el la kvindek mil frankoj lude perditaj de Kandido, kaj el la valoro de la du briliantoj duone donacitaj, duone eltruditaj. Li decidis plene profiti la avantaĝojn, kiujn al li prezentis lia konatiĝo kun Kandido. Li paroligadis Kandidon pri fraŭlino Kunegundo; Kandido diris, ke kiam li ŝin vidos en Venecio, li petegos tiun belulinon pardoni lian malfidelon.</p>
+<p>La Perigordano fariĝadis pli kaj pli afabla kaj komplezema, vidigante delikatan intereson pri ĉio dirata de Kandido, pri ĉio, kion tiu faris aŭ intencas fari.</p>
+<p>— Do vi havas rendevuon en Venecio, ĉu? — li demandis.</p>
 <p>— Jes, — diris Kandido, — nepre necesas, ke mi iru tien por retrovi fraŭlinon Kunegundo.</p>
-<p>Tiam, instigate de la plezuro paroli pri tio, kion li amas, li rakontas, laŭ sia kutimo, parton el siaj aventuroj kun tiu eminenta Vestfalianino.</p>
+<p>Kaj instigate de la plezuro paroli pri la objekto de sia amo, li rakontis, laŭ sia kutimo, parton el siaj aventuroj kun tiu eminenta Vestfalianino.</p>
 <p>— Mi pensas, — diris la abateto, — ke fraŭlino Kunegundo estas tre sprita, kaj ke ŝi skribas ĉarmajn leterojn.</p>
 <p>— Neniam mi ricevis iun ŝian, — diris Kandido. — Juĝu mem: forpelite el la kastelo pro amo al ŝi, mi neniel povis aranĝi korespondadon. Baldaŭ poste oni sciigis al mi, ke ŝi mortis; poste mi ŝin retrovis, kaj denove perdis. Mi sendis al ŝi, je 2500 leŭgoj foren de ĉi tie, ekspreson, kaj nun atendas respondon.</p>
 <p>La abateto atente aŭskultis kaj ŝajnis iom revema. Baldaŭ li adiaŭis la du alilandanojn, kore brakuminte ilin. La morgaŭon Kandido ricevis ĉe sia vekiĝo leteron kun jena enhavo:</p>
 <cite>
-<p>«Sinjoro tre kara amato mia, jam semajnon mi estas en ĉi tiu urbo kaj kuŝas malsana. Ĵus mi eksciis, ke vi estas ĉi tie. Mi flugus en viajn brakojn se mi povus moviĝi. Mi sciis pri via trapaso tra Bordozon; tie mi lasis la fidelan Kakambon kaj la maljunulinon, kiuj baldaŭ min sekvos. La guberniestro de Bonaero forprenis ĉion, sed restas al mi via koro. Venu, via ĉeesto redonos al mi la vivon aŭ min mortigos per plezuro.»</p>
+<p style="letero">«Sinjoro tre kara amato mia, jam semajnon mi estas en ĉi tiu urbo kaj kuŝas malsana. Ĵus mi eksciis, ke vi estas ĉi tie. Mi flugus en viajn brakojn se mi povus moviĝi. Mi sciis pri via trapaso tra Bordozon; tie mi lasis la fidelan Kakambon kaj la maljunulinon, kiuj baldaŭ min sekvos. La guberniestro de Bonaero forprenis ĉion, sed al mi restas via koro. Venu, via ĉeesto redonos al mi la vivon aŭ min mortigos per plezuro.»</p>
 </cite>
-<p>Tiu ĉarma, tiu neesperita letero treege ĝojigis Kandidon; sed la informo pri la malsano de lia kara Kunegundo dolore lin premis. Instigate de tiuj du sentoj, li prenas sian oron kaj siajn diamantojn, kaj kondukigas sin kun Marteno al la hotelo, kie loĝas fraŭlino Kunegundo. Li eniras tremante pro emocio, lia koro batadas, lia voĉo singultas; li volas ŝovi la kurtenojn de la lito, li volas alportigi lumon.</p>
-<p>— Vi nepre ne faru tion, — diras al li la servistino, — la lumo ŝin mortigus.</p>
+<p>Tiu ĉarma, tiu neatendita letero treege ĝojigis Kandidon; sed la informo pri la malsano de lia kara Kunegundo dolore lin premis. Instigate de tiuj du sentoj, li prenas sian oron kaj siajn diamantojn, kaj kondukigas sin kaj Martenon en la hotelon, kie loĝas Kunegundo. Li eniras tremante pro emocio, lia koro batadas, lia voĉo singultas; li volas ŝovi la kurtenojn de la lito, li volas alportigi lumon.</p>
+<p>— Vi nepre ne faru tion, — al li diras la servistino, — la lumo ŝin mortigus.</p>
 <p>Kaj haste ŝi refermas la kurtenon.</p>
 <p>— Mia kara Kunegundo, — diras Kandido plorante, — kiel vi fartas? Se vi ne povas min vidi, almenaŭ diru al mi ion.</p>
 <p>— Ŝi ne povas paroli, — diras la servistino.</p>
-<p>La sinjorino tiam tiras el la lito grasetan manon, kiun Kandido longe priverŝas per larmoj kaj kiun li poste plenigas per diamantoj, lasante sur la brakseĝo saketon da oro.</p>
-<p>Meze de liaj ekzaltiĝoj envenas polica serĝento, sekvate de la Perigorda abateto kaj de kvar soldatoj.</p>
-<p>— Ĉu do estas tiuj du suspektindaj alilandanoj? — diras la serĝento.</p>
-<p>Li tuj ordonas, ke oni kaptu ilin kaj konduku en malliberejon.</p>
+<p>La sinjorino tiam etendas el la lito grasetan manon, kiun Kandido longe priverŝas per larmoj kaj kiun li poste plenigas per diamantoj, lasante sur la brakseĝo saketon da oro.</p>
+<p>Meze de liaj ekzaltiĝoj envenas polica serĝento, sekvate de la Perigorda abateto kaj taĉmento da soldatoj.</p>
+<p>— Ĉu do ĉi tiuj estas la du suspektindaj alilandanoj? — diras la serĝento.</p>
+<p>Li tuj ordonas kapti ilin kaj forkonduki en malliberejon.</p>
 <p>— Ne tiel oni traktas la vojaĝantojn en Eldorado, — diras Kandido.</p>
 <p>— Pli ol iam ajn mi estas Maniĥeano, — diras Marteno.</p>
 <p>— Sed kien vi nin kondukas? — demandas Kandido.</p>
 <p>— En kelkarceron, — respondas la serĝento.</p>
-<p>Retrovinte sian flegmon, Marteno juĝis, ke la sinjorino, kiu ŝajnigis esti Kunegundo, estas friponino; la abateto Perigorda, fripono, kiu hastas ekspluati la naivon de Kandido; kaj la policisto, alia fripono, kiun oni povas facile subaĉeti.</p>
+<p>Retrovinte sian flegmon, Marteno juĝis, ke la sinjorino, kiu sin ŝajnigas Kunegundo, estas friponino; la abateto Perigorda — fripono, kiu hastas ekspluati la naivon de Kandido; kaj la policisto — alia fripono, facile subaĉetebla.</p>
 <p>Por eviti la riskojn de la justicaj proceduroj, Kandido, instruite per la konsilo de Marteno, kaj cetere plu senpacience dezirante revidi la veran Kunegundon, proponas al la policisto tri malgrandajn diamantojn valorajn po tri mil piŝtoloj.</p>
-<p>— Ha, sinjoro, — diras al li la homo kun la ebura bastono<a l:href="#n68" type="note">[99]</a>, — eĉ se vi estus plej granda krimulo, vi tamen estas por mi homo plej honesta en la mondo. Tri diamantoj! Po tri mil piŝtoloj ĉiu! Sinjoro, mi oferus por vi mian vivon, anstataŭ vin konduki en karceron. Oni arestas ĉiujn alilandanojn, sed lasu min aranĝi la aferon; mi havas fraton en Diepo en Normandio, mi vin kondukos tien; kaj se vi havas diamanton por li, li zorgos pri vi, kiel mi mem.</p>
+<p>— Ha, sinjoro, — diras al li la servisto de Justico, — eĉ se vi estus plej granda krimulo, vi tamen estas por mi homo plej honesta en la mondo. Tri diamantoj! Po tri mil piŝtoloj ĉiu! Sinjoro, mi oferus por vi mian vivon, anstataŭ vin konduki en karceron. Oni arestas ĉiujn alilandanojn, sed lasu min aranĝi la aferon; mi havas fraton en Diepo en Normandio, mi vin kondukos tien; kaj se vi havas diamanton por li, li zorgos pri vi, kiel mi mem.</p>
 <p>— Sed kial oni arestas la alilandanojn? — demandis Kandido.</p>
 <p>Tiam la Perigorda abateto ekparolis kaj diris:</p>
-<p>— Tial ke iu aĉulo el Atrebatio<a l:href="#n70" type="note">[100]</a> aŭdis stultaĵojn; tio lin puŝis al patromortigo<a l:href="#n71" type="note">[101]</a> — ne tia, kia estis tiu de 1610 en la monato majo<a l:href="#n72" type="note">[102]</a>, sed tia, kiel tiu de 1594 en la monato decembro<a l:href="#n73" type="note">[103]</a>, kaj tia, kiaj estis pluraj aliaj farataj en aliaj jaroj kaj en aliaj monatoj de aliaj aĉuloj, kiuj aŭdis sensencaĵojn.</p>
+<p>— Tial ke iu mizerulo el Atrebatio<a l:href="#n70" type="note">[100]</a> aŭdis stultaĵojn; tio lin puŝis al patromortigo<a l:href="#n71" type="note">[101]</a> — ne tia, kiel la maja de la jaro 1610ª,<a l:href="#n72" type="note">[102]</a> sed tia, kiel la decembra de la jaro 1594ª,<a l:href="#n73" type="note">[103]</a> kaj tia, kiaj estis pluraj aliaj faritaj en aliaj jaroj kaj en aliaj monatoj de aliaj aĉuloj, aŭdintaj sensencaĵojn.</p>
 <p>La serĝento klarigis pri kio temas.</p>
-<p>— Ha! la monstroj! — ekkriis Kandido. — Kiaj abomenaĵoj ĉe popolo, kiu dancas kaj kantas! Mi hastu forlasi la landon, kie simioj incitas tigrojn! Mi vidis ursojn en mia lando; homojn mi vidis nur en Eldorado. Je la nomo de Dio, sinjoro serĝento, konduku min al Venecio, kie mi atendos fraŭlinon Kunegundo.</p>
+<p>— Ha! La monstroj! — ekkriis Kandido. — Kiaj abomenaĵoj ĉe popolo, kiu dancas kaj kantas! Mi hastu forlasi la landon, kie simioj incitas tigrojn! Mi vidis ursojn en mia lando; homojn mi vidis nur en Eldorado. Je la nomo de Dio, sinjoro serĝento, konduku min al Venecio, kie mi atendos fraŭlinon Kunegundo.</p>
 <p>— Mi povas konduki vin nur en Malsupran Normandion, — diris la serĝento.</p>
-<p>Tuj li ordonas demeti liajn katenojn, diras, ke li eraris, forsendas siajn subulojn, forkondukas Kandidon kaj Martenon al Diepo kaj tie lasas ilin en la manoj de sia frato. En la rodo staris Holanda ŝipeto. Ricevinte tri pluajn diamantojn, la Normando fariĝis la plej servema el la homoj, li enŝipigas Kandidon kaj liajn akompanantojn, kaj la ŝipeto ekvelas al Portsmuto en Anglio. Tio ne estis la vojo al Venecio; sed Kandido sin sentis liberigita el la infero, kaj li firme intencis ĉe la unua okazo denove sin direkti al Venecio.</p>
+<p>Tuj li ordonas demeti liajn katenojn, diras, ke li eraris, forsendas siajn subulojn, forkondukas Kandidon kaj Martenon al Diepo kaj tie lasas ilin en la manoj de sia frato. En la rodo staris Holanda ŝipeto. Ricevinte tri pluajn diamantojn, la Normando fariĝis la plej servema el la homoj, li enŝipigas Kandidon kaj liajn akompanantojn, kaj la ŝipeto ekvelas al Porcmuto en Anglio. Tio ne estis la vojo al Venecio; sed Kandido sin sentis liberigita el la infero, kaj firme intencis ĉe la unua okazo denove sin direkti al Venecio.</p>
 </section><section>
 <title><p>23. Kandido kaj Marteno iras al la bordo de Anglio; kion ili tie vidas</p></title>
-<p>— Aĥ, Pangloso! Pangloso! Aĥ, Marteno! Marteno! Aĥ, mia kara Kunegundo! Kio do estas ĉi tiu mondo? — diradis Kandido sur la Holanda ŝipo.</p>
+<p>— Aĥ, Pangloso, Pangloso! Aĥ, Marteno, Marteno! Aĥ, mia kara Kunegundo! Kio do estas ĉi tiu mondo? — diradis Kandido sur la Holanda ŝipo.</p>
 <p>— Estas io tre freneza kaj tre abomena, — respondadis Marteno.</p>
 <p>— Vi konas Anglion; ĉu tie oni same frenezas kiel en Francio?</p>
-<p>— Estas alia speco de frenezo, — diris Marteno. — Vi scias, ke tiuj du nacioj intermilitas pro kelkaj akreoj da neĝo apud Kanado, kaj ke por tiu bela milito ili elspezas multe pli ol valoras la tuta Kanado.<a l:href="#n75" type="note">[104]</a> Mi ne estas sufiĉe klera por diri al vi, en kiu lando estas pli da frenezuloj ol en la alia; mi scias nur, ke ĝenerale la homoj, kiujn ni baldaŭ vidos, estas tre mishumoremaj.</p>
+<p>— Estas alia speco de frenezo, — diris Marteno. — Vi scias, ke tiuj du nacioj intermilitas pro kelkaj akreoj da neĝo apud Kanado, kaj ke por tiu bela milito ili elspezas multe pli ol valoras la tuta Kanado.<a l:href="#n75" type="note">[104]</a> Miaj scioj ne sufiĉas por diri, en kiu el la du landoj pli da homoj bezonas trudkitelon; mi scias nur, ke ĝenerale la homoj, kiujn ni baldaŭ vidos, estas tre mishumoremaj.</p>
 <!--Littré, atrabilaire-->
-<p>Tiel babilante, ili albordiĝis ĉe Portsmuto; amasego da homoj kovris la bordon, kaj atente rigardis diketan viron, genuantan sur la ferdeko de milita ŝipo, kun la okuloj vinditaj; kvar soldatoj, postenigitaj kontraŭ tiu homo, tute trankvile elpafis al li po tri kuglojn en la kranion; kaj la publiko disiris tre kontenta.</p>
+<p>Tiel babilante, ili albordiĝis ĉe Porcmuto; amasego da homoj kovris la bordon, kaj atente rigardis diketan viron, genuantan sur la ferdeko de milita ŝipo, kun la okuloj vinditaj; kvar soldatoj, postenigitaj kontraŭ tiu homo, tute trankvile elpafis al li po tri kuglojn en la kranion; kaj la publiko disiris tre kontenta.</p>
 <p>— Sed kio estas ĉio ĉi tio? — diris Kandido. — Kaj kiu demono superregas la teron?</p>
-<p>Li demandis, kiu estas tiu dikulo, kiun oni ĵus ceremonie mortigis.</p>
+<p>Li demandis, kiu estas tiu dikulo, ĵus tiel ceremonie mortigita.</p>
 <p>— Li estas admiralo,<a l:href="#n76" type="note">[105]</a> — oni al li respondis.</p>
 <p>— Kaj kial mortigi tiun admiralon?</p>
-<p>— Tial ke li ne kaŭzis la morton de sufiĉe da homoj; li batalis kontraŭ Francan admiralon, kaj oni opiniis, ke li ne estis sufiĉe proksime de sia kontraŭulo.</p>
-<p>— Sed, — diris Kandido, — la Franca admiralo estis egale malproksime de la angla admiralo, kiel ĉi tiu estis de la alia!</p>
-<p>— Tio estas nekontestebla, — oni rebatis al li; — sed en ĉi tiu lando utilas iam kaj tiam mortigi iun admiralon por kuraĝigi la aliajn.</p>
-<p>Kandidon tiom konsternis kaj ŝokis la vidita kaj la aŭdita, ke li eĉ ne volis elŝipiĝi, kaj kontraktis kun la Holanda ŝipmastro (malgraŭ la risko iĝi priŝtelita kiel en Surinamo), ke tiu senprokraste lin veturigos al Venecio.</p>
-<p>La mastro estis preta post du tagoj. Oni randiris Francion, oni pasis preter Lisbono, ĉe kies vido kaj Kandido ektremis<a l:href="#n77" type="note">[106]</a>. Oni eniris la markolon kaj Mediteraneon; fine oni albordiĝis ĉe Venecio.</p>
-<p>— Dio estu laŭdata! — diris Kandido brakumante Martenon. — Ĉi tie mi revidos la belan Kunegundon. Mi fidas Kakambon, kiel min mem. Ĉio estas bona, ĉio iras bone, ĉio iras kiel eble plej bone.</p>
+<p>— Tial ke li ne kaŭzis la morton de sufiĉe da homoj; li batalis kontraŭ Francan admiralon, kaj oni opinias, ke li ne estis sufiĉe proksime de sia kontraŭulo.</p>
+<p>— Sed, — diris Kandido, — la Franca admiralo estis egale malproksime de la Angla, kiel la Angla estis de la Franca!</p>
+<p>— Tio estas nekontestebla, — oni al li rebatis; — sed en ĉi tiu lando utilas iam-tiam mortigi iun admiralon por kuraĝigi la aliajn.</p>
+<p>Kandidon tiom konsternis kaj ŝokis la vidita kaj la aŭdita, ke li eĉ ne volis elŝipiĝi, kaj kontraktis kun la Holanda ŝipmastro (malgraŭ la risko iĝi priŝtelita kiel en Surinamo), ke tiu senprokraste lin veturigu al Venecio.</p>
+<p>La mastro estis preta post du tagoj. Oni randiris Francion, oni pasis preter Lisbono, ĉe kies vido Kandido ektremis<a l:href="#n77" type="note">[106]</a>. Oni trapasis la markolon kaj eniris Mediteraneon; fine oni albordiĝis ĉe Venecio.</p>
+<p>— Dio estu laŭdata! — diris Kandido brakumante Martenon. — Ĉi tie mi revidos la belan Kunegundon. Kakambon mi fidas kiel min mem. Ĉio estas bona, ĉio iras bone, ĉio iras kiel eble plej bone.</p>
 </section><section>
 <title><p>24. Pri Violeto kaj frato Levkojo</p></title>
-<p>Alveninte Venecion, Kandido tuj ekserĉigis Kakambon en ĉiuj kafejoj, ĉe ĉiuj voluptovendistinoj — kaj nenie lin trovis. Ĉiutage li sendadis demandi sur ĉiujn ŝipojn kaj ĉiujn barkojn; neniaj novaĵoj pri Kakambo.</p>
-<p>— Kiel do! — li diradis al Marteno, — mi havis tempon navigi de Surinamo al Bordozo, veturi de Bordozo al Parizo, de Parizo al Diepo, de Diepo al Portsmuto, preterpasi Portugalion kaj Hispanion, veli tra Mediteraneo, pasigi kelkajn monatojn en Venecio; kaj la bela Kunegundo ankoraŭ ne venis! Anstataŭ ŝin mi renkontis nur senhontulinaĉon kaj Perigordan abateton! Sendube Kunegundo mortis; al mi restas nenio krom morti. Aĥ, kiom pli bone estus ekloĝi en la paradiza Eldorado ol reveni en ĉi tiun malbenindan Eŭropon. Kiel vi pravas, mia kara Marteno! Ĉio estas iluzio kaj malfeliĉo.</p>
+<p>Alveninte Venecion, Kandido tuj ekserĉigis Kakambon en ĉiuj kafejoj, ĉe ĉiuj voluptovendistinoj — kaj nenie lin trovis. Ĉiutage li sendadis demandi sur ĉiujn ŝipojn, grandajn kaj malgrandajn; neniaj novaĵoj pri Kakambo.</p>
+<p>— Kiel do! — li diradis al Marteno, —la tempo sufiĉis al mi por navigi de Surinamo al Bordozo, veturi de Bordozo al Parizo, de Parizo al Diepo, de Diepo al Porcmuto, preterpasi Portugalion kaj Hispanion, veli tra Mediteraneo, pasigi kelkajn monatojn en Venecio; kaj la bela Kunegundo ankoraŭ ne venis! Anstataŭ ŝin mi renkontis nur senhontulinaĉon kaj Perigordan abateton! Sendube Kunegundo mortis; al mi restas nenio krom morti. Aĥ, kiom pli bone estus ekloĝi en la paradiza Eldorado ol reveni en ĉi tiun malbenindan Eŭropon. Kiel vi pravas, mia kara Marteno! Ĉio estas iluzio kaj malfeliĉo.</p>
 <p>Li falis en nigran melankolion, li ignoris la operon <emphasis>alla moda</emphasis><a l:href="#n78" type="note">[107]</a> kaj la aliajn distrojn de la karnavalo; neniu virino lin iel interesis. Marteno al li diris:</p>
 <p>— Vere vi estas tre naiva imagante ke Mestiza servisto kun kvin aŭ ses milionoj en poŝo iros ĝis la fino de l’ tero serĉi vian amatinon por konduki ŝin al vi en Venecion. Li ŝin prenos por si, se li trovos; se li ŝin ne trovos, li prenos alian; mi konsilas al vi forgesi pri via servisto Kakambo kaj via amatino Kunegundo.</p>
 <p>Marteno ne estis tre konsola. La melankolio de Kandido pligrandiĝis, kaj Marteno ne ĉesis pruvadi al li, ke ekzistas malmulte da virto kaj malmulte da feliĉo sur la tero, escepte eble en Eldorado, kien neniu povas iri.</p>
-<p>Disputante pri tiu grava demando, kaj atendante Kunegundon, Kandido ekvidis sur la placo Sankta Marko junan Teatanon<a l:href="#n79" type="note">[108]</a>, promenantan kun junulino kiun li tenis je la brako. La Teatano ŝajnis freŝa, graseta, fortika; liaj okuloj brilis, lia aspekto estis memfida, lia irmaniero fiera. La junulino estis beleta kaj kantis; ŝi ameme rigardis sian Teatanon, kaj de temp’ al tempo pinĉis liajn dikajn vangojn.</p>
+<p>Disputante pri tiu grava demando kaj atendante Kunegundon, Kandido ekvidis sur la placo Sankta Marko junan Teatanon<a l:href="#n79" type="note">[108]</a>, promenantan brakenbrake kun junulino. La Teatano ŝajnis freŝa, graseta, fortika; liaj okuloj brilis, lia aspekto estis memfida, lia irmaniero fiera. La junulino estis beleta kaj kantis; ŝi ameme rigardis sian Teatanon, kaj de temp’ al tempo pinĉis liajn dikajn vangojn.</p>
 <p>— Almenaŭ konsentu, — diris al Marteno Kandido, — ke ĉi tiuj homoj estas feliĉaj. Ĝis nun sur la tuta loĝebla tero, escepte Eldoradon, mi trovis nur malfeliĉulojn; sed koncerne ĉi tiun junulinon kaj ĉi tiun Teatanon mi vetas, ke ili tre feliĉas.</p>
 <p>— Mi vetas, ke ne, — diris Marteno.</p>
 <p>— Ni invitu ilin por vespermanĝi, — diris Kandido, — kaj vi vidos, ĉu mi eraras.</p>
-<p>Tuj li proksimiĝas al ili, komplimentas kaj invitas ilin en sian gastejon por manĝi makaroniojn, perdrikojn el Lombardio, kaviaron, kaj trinki vinojn Montepulĉanan, «larmojn de Kristo»<a l:href="#n80" type="note">[109]</a>, Kipran kaj Samosan. La fraŭlino ruĝiĝis, la Teatano akceptis la inviton, kaj la junulino lin sekvis, rigardante Kandidon per okuloj, en kiuj kuŝis surprizo, konfuzo kaj kiujn nebulis kelkaj larmoj. Apenaŭ enirinte la ĉambron de Kandido ŝi diris:</p>
+<p>Tuj li proksimiĝas al ili, afable salutas kaj invitas ilin en sian gastejon por manĝi makaroniojn, perdrikojn el Lombardio, kaviaron, kaj trinki vinojn Montepulĉanan, «larmojn de Kristo»<a l:href="#n80" type="note">[109]</a>, Kipran kaj Samosan. La fraŭlino ruĝiĝis, la Teatano akceptis la inviton, kaj la junulino lin sekvis, ĵetante sur Kandidon rigardojn surprizitajn, konfuzitajn, kiujn nebulis kelkaj larmoj. Apenaŭ enirinte la ĉambron de Kandido ŝi diris:</p>
 <p>— Nu, sinjoro Kandido ne rekonas Violeton!</p>
-<p>Ĉe tiuj vortoj Kandido, kiu ĝis tiam ne tre atentis ŝin, ĉar li pensis nur pri Kunegundo, diris al ŝi:</p>
-<p>— Ho ve, mia kara infano! Ĉu do al vi doktoro Pangloso ŝuldas la belan staton, en kiu mi lin trovis?</p>
-<p>— Ho ve, sinjoro, efektive estis tiel, — diris Violeto. — Do, vi jam ĉion scias. Mi aŭdis pri la teruraj malfeliĉoj, kiuj trafis ĉiujn domanojn de la baronino kaj la belan Kunegundon. Mi certigas al vi, ke mia sorto estis nemulte malpli kruela. Kiam vi konis min en la kastelo, mi estis tute sensperta, kaj mia konfesprenanto, Franciskano, min facile delogis. La sekvoj estis teruraj; mi devis forlasi la kastelon baldaŭ post kiam la barono vin forpelis per fortaj piedbatoj sur la postaĵon.</p>
-<p>» Mi estis mortonta, sed min kompatis fama kuracisto. Pro dankemo dum kelka tempo mi estis lia amaĵistino. Lia edzino, kiu estis furioze ĵaluza, ĉiutage min senkompate draŝadis; ŝi estis furio. Tiu kuracisto estis la plej malbela el ĉiuj viroj — kaj mi, la plej malfeliĉa el ĉiuj virinoj, konstante ricevante batojn pro viro, kiun mi ne amas.</p>
+<p>Ĉe tiuj vortoj Kandido, kiu ĝis tiam ne aparte ŝin atentis, ĉar li pensis nur pri Kunegundo, diris al ŝi:</p>
+<p>— Ho, kara infano! Ĉu do al vi doktoro Pangloso ŝuldas la belan staton, en kiu mi lin trovis?</p>
+<p>— Ve, sinjoro, efektive estis tiel, — diris Violeto. — Do, jam ĉion vi scias. Mi aŭdis pri la teruraj malfeliĉoj, trafintaj ĉiujn domanojn de la baronino kaj la belan Kunegundon. Mi certigas al vi, ke mia sorto estis nemulte malpli kruela. En la tempo, kiam vi konis min en la kastelo, mi estis tute sensperta, kaj mia konfesprenanto, Franciskano, min facile delogis. La sekvoj estis teruraj; mi devis forlasi la kastelon baldaŭ post kiam la barono vin forpelis per fortaj piedbatoj sur la postaĵon.</p>
+<p>» Mi estis mortonta, sed min kompatis fama kuracisto. Pro dankemo dum kelka tempo mi estis lia amaĵistino. Lia edzino, kiu estis furioze ĵaluza, ĉiutage min senkompate draŝadis; ŝi estis furio. Tiu kuracisto estis la plej malbela el ĉiuj viroj — kaj mi, la plej malfeliĉa el ĉiuj virinoj, konstante ricevante batojn pro homo, kiun mi ne amas.</p>
 <p>» Vi scias, sinjoro, kiom danĝeras por kverelema virino esti kuracistedzino. Iun tagon, kiam ŝi havis malgravan malvarmumon, li, indignigite de la farmanieroj de sia edzino, donis al ŝi kuracilon tiom efikan, ke post du horoj ŝi mortis en teruraj konvulsioj.</p>
 <p>» La parencoj de la sinjorino iniciatis kontraŭ la sinjoro prokriman proceson; li fuĝis, kaj mi trafis en malliberejon. Mia senkulpeco min ne savus, se mi ne estus iom beleta. La juĝisto min liberigis — kondiĉe, ke li sukcedos al la kuracisto. Baldaŭ aperis rivalino; forpelite sur la straton sen rekompenco, mi devis daŭrigi ĉi tiun abomenindan metion, kiu al vi la viroj ŝajnas agrabla, kaj kiu por ni estas nur senfunda mizero.</p>
 <p>» Mi venis Venecion por praktiki la profesion. Aĥ, sinjoro, se vi povus imagi tion — devi sendiference karesi maljunan komerciston, advokaton, monaĥon, gondoliston, pastron; esti submetita al ĉiaj insultoj, ĉiaj humiligoj! Iam pro la mizero mi devas pruntepreni jupon por ke ĝin suprenlevu iu naŭza ulo. Iam unu ŝtelas tion, kio estis perlaborita kun alia. La koruptaĵoj eltrudataj de la polico, kaj estonte nur terura maljuneco, hospitalo, sterkejo.</p>
 <p>» Pripensu ĉi tion kaj vi konkludos, ke mi estas unu el la plej malfeliĉaj estuloj en la mondo.</p>
-<p>Tiel Violeto malfermadis sian koron al la bona Kandido; Marteno, kiu ĉeestis en la ĉambro, diris al Kandido:</p>
-<!-- Kial "dans UN CABINET", la epizodo ja komenciĝas "dans la chambre de Candide" "à son hôtellerie"??-->
+<p>Tiel parolis Violeto, malfermante sian koron al la bona Kandido; kaj Marteno, kunestanta en la ĉambreto, diradis al Kandido:</p>
 <p>— Vi vidas, ke mi jam gajnis duonon da mia veto.</p>
-<p>Frato Levkojo sidis en la manĝoĉambro kaj trinkis, atendante la vespermanĝon.</p>
+<p>Frato Levkojo sidis en la manĝoĉambro kaj drinkis, atendante la vespermanĝon.</p>
 <p>— Sed, — diris Kandido al Violeto, — vi aspektis tiel gaja, tiel kontenta, kiam mi vin renkontis; vi kantis, vi karesis la Teatanon kun natura komplezemo; vi ŝajnis al mi tiom feliĉa, kiom vi estas malfeliĉa.</p>
 <p>— Aĥ, sinjoro, — respondis Violeto, — tio estas ankoraŭ unu malbonaĵo de nia profesio. Hieraŭ min prirabis kaj batis oficiro — kaj hodiaŭ necesas, ke mi aspektu gaja por plaĉi al monaĥo.</p>
 <p>Sufiĉis al Kandido; li agnoskis, ke Marteno pravas. Oni altabliĝis kun Violeto kaj la Teatano; dum la manĝado estis amuze, kaj ĉe la fino oni konfide interparolis.</p>
-<p>— Patro, — diris Kandido al la monaĥo, — mi havas la impreson, ke vi ĝuas sorton por ĉiuj enviindan: via vizaĝo radias sanon, via fizionomio esprimas feliĉon; vi havas tre beletan junulinon por via distro, kaj vi ŝajnas tre kontenta pri via metio de Teatano.</p>
-<p id="aine">— Sincere parolante, — respondis frato Levkojo, — mi deziras, ke ĉiuj Teatanoj ripozu sur la fundo de l’ maro. Cent fojojn mi havis la tenton ekbruligi la monaĥejon kaj fariĝi Islamano. Mi aĝis dek kvin jarojn, kiam miaj gepatroj igis min surmeti ĉi tiun malŝatindan robon, por lasi pli da riĉo al tiu malbeninda unuenaskita frato, kiun Dio malsukcesigu! En la monaĥejo regas envio, malakordo, rankoro. Verdire, mi faris kelkajn predikaĉojn, kiuj havigis al mi iomete da mono, kies duonon ŝtelis la prioro; la reston mi uzas por aĉeti la karesojn de publikulinoj. Sed kiam mi revenas vespere en la monaĥejon, mi emas rompi al mi la kapon kontraŭ la murojn de l’ dormejo; kaj ĉiuj miaj kolegoj havas la saman emon.</p>
+<p>— Patro, — diris Kandido al la monaĥo, — mi havas la impreson, ke vi ĝuas sorton por ĉiuj enviindan: via vizaĝo radias sanon, via fizionomio esprimas feliĉon; vi havas beletan junulinon por via distro kaj ŝajnas tre kontenta pri via metio de Teatano.</p>
+<p id="aine">— Sincere parolante, — respondis frato Levkojo, — mi deziras, ke ĉiuj Teatanoj ripozu sur la fundo de l’ maro. Cent fojojn mi havis la tenton ekbruligi la monaĥejon kaj fariĝi Islamano. Mi estis 15-jara, kiam miaj gepatroj igis min surmeti ĉi tiun abomenan robon, por lasi pli da riĉo al tiu malbeninda pli aĝa frato, kiun Dio malsukcesigu! En la monaĥejo regas envio, malakordo, rankoro. Verdire, mi faris kelkajn predikaĉojn, kiuj havigis al mi iomete da mono, kies duonon ŝtelis la prioro; la reston mi uzas por aĉeti la karesojn de publikulinoj. Sed kiam mi revenas vespere en la monaĥejon, mi emas rompi al mi la kapon kontraŭ la murojn de l’ dormejo; kaj ĉiuj miaj kolegoj havas la saman emon.</p>
 <p>Kun sia kutima flegmo Marteno sin turnis al Kandido kaj diris:</p>
 <p>— Nu, ĉu mi gajnis la tutan veton?</p>
 <p>Kandido donis du mil piastrojn al Violeto kaj mil piastrojn al frato Levkojo.</p>
 <p>— Mi certigas al vi, — li diris, — ke per tio ili estos feliĉaj.</p>
 <p>— Tion mi tute ne kredas, — diris Marteno. — Eble tiuj piastroj eĉ pli malfeliĉigos ilin.</p>
-<p>— Estu kio estos, — diris Kandido, — sed unu afero min konsolas: mi vidas, ke oni ofte retrovas personojn, kiujn oni jam ne esperis retrovi. Ĉar mi retrovis mian ruĝan ŝafon kaj Violeton, eble ankaŭ Kunegundon mi renkontos.</p>
+<p>— Estu kio estos, — diris Kandido, — sed unu afero min konsolas: mi konstatas, ke oni ofte retrovas tiujn, kiujn oni opiniis neniam revidotaj. Ĉar mi retrovis mian ruĝan ŝafon kaj Violeton, eble ankaŭ Kunegundon mi renkontos.</p>
 <p>— Mi deziras, — diris Marteno, — ke iam ŝi vin feliĉigu; sed pri tio mi tre dubas.</p>
 <p>— Vi estas tre malmolkora, — diris Kandido.</p>
 <p>— Ĉar mi havas vivosperton, — diris Marteno.</p>
 <p>— Sed rigardu ĉi tiujn gondolistojn, — diris Kandido, — ili kantas senĉese!</p>
-<p>— Vi ne vidas ilin en ilia hejmo, kun iliaj edzinoj kaj iliaj buboj, — diris Marteno. — Siajn ĉagrenojn havas la doĝo, la siajn havas gondolisto. Mi koncedas, se konsideri ĉion, la sorto de gondolisto estas preferinda ol tiu de doĝo; sed mi opinias, ke la diferenco estas tiom malgranda, ke ne penvaloras ekzameni la aferon.</p>
-<p>— Oni rakontas, — diris Kandido, — pri la senatano Pokozorgo,<a l:href="#Pokozorgo" type="note">[110]</a> kiu loĝas en tiu bela palaco ĉe Brento,<a l:href="#Brento" type="note">[111]</a> kaj kiu sufiĉe bone akceptas la alilandanojn. Onidire tiu homo neniam havis ĉagrenon.</p>
-<p>— Mi volus vidi tian mirindaĵon, — diris Marteno.</p>
-<p>Kandido tuj sendis al sinjoro Pokozorgo por peti pri permeso viziti lin morgaŭe.</p>
+<p>— Vi ne vidas ilin en ilia hejmo, kun iliaj edzinoj kaj iliaj buboj, — diris Marteno. — Siajn ĉagrenojn havas la doĝo, la siajn havas gondolisto. Mi koncedas: se konsideri ĉion, la sorto de gondolisto estas preferinda ol tiu de doĝo; sed mi opinias, ke la diferenco estas tiom malgranda, ke ne penvaloras ĝin ekzameni.</p>
+<p>— Oni rakontas, — diris Kandido, — pri la senatano Apatiko,<a l:href="#Apatiko" type="note">[110]</a> kiu loĝas en tiu bela palaco ĉe Brento,<a l:href="#Brento" type="note">[111]</a> kaj kiu sufiĉe bone akceptas la alilandanojn. Onidire tiu homo neniam havis ĉagrenon.</p>
+<p>— Mi ŝatus vidi tian mirindaĵon, — diris Marteno.</p>
+<p>Kandido tuj sendis al sinjoro Apatiko por peti pri permeso viziti lin morgaŭe.</p>
 </section><section>
-<title><p>25. Vizito ĉe sinjoro Pokozorgo, Venecia nobelo</p></title>
-<p>Kandido kaj Marteno gondole veturis sur Brento kaj alvenis ĉe la palacon de la moŝta sinjoro Pokozorgo. La ĝardenojn, belguste aranĝitajn, ornamis belaj statuoj marmoraj; la palaco estis bonstila. La mastro, sesdekjara, riĉega, akceptis la du scivolemulojn kun ĝentila indiferento, kio konfuzetis Kandidon kaj ne malplaĉis al Marteno.</p>
+<title><p>25. Vizito ĉe sinjoro Apatiko, Venecia nobelo</p></title>
+<p>Kandido kaj Marteno gondole veturis sur Brento kaj alvenis ĉe la palacon de la moŝta sinjoro Apatiko. La ĝardenojn, belguste aranĝitajn, ornamis belaj statuoj marmoraj; la palaco estis bonstila. La mastro, 60-jara, riĉega, akceptis la du scivolemulojn kun ĝentila indiferento, kio konfuzetis Kandidon kaj ne malplaĉis al Marteno.</p>
 <p>Unue beletaj kaj pure vestitaj junulinoj prezentis ĉokoladon, kiun ili tre bone ŝaŭmkirlis. Kandido ne povis sin deteni de laŭdo pri iliaj belo, afabla ĉarmo kaj lerto.</p>
-<p>— Jes, ili estas sufiĉe bonaj, — diris la senatano Pokozorgo. — Fojfoje mi kunprenas ilin en mian liton, ĉar la sinjorinoj el la urbo min sattedis per siaj koketado, ĵaluzoj, kvereloj, kapricoj, etanimeco, malhumilo kaj la sonetoj, kiujn oni devas verki aŭ mendi por ili; sed fine, ankaŭ ĉi tiuj du junulinoj komencas forte min tedi.</p>
+<p>— Jes, ili estas sufiĉe bonaj, — diris la senatano Apatiko. — Fojfoje mi kunprenas ilin en mian liton, ĉar la mondumaninoj min sattedis per siaj koketado, ĵaluzoj, kvereloj, kapricoj, etanimeco, orgojlo kaj la sonetoj, kiujn oni devas verki aŭ mendi por ili; sed fine, ankaŭ ĉi tiuj du junulinoj komencas forte min tedi.</p>
 <p>Post la matenmanĝo Kandido promenis en longa galerio, kaj tie lin frapis la belo de la pentraĵoj. Li demandis, kiuj majstroj pentris la du unuajn.</p>
 <p>— Ili estas de Rafaelo, — diris la senatano. — Mi aĉetis ilin tre kare, pro vanto, antaŭ kelke da jaroj. Oni diras, ke ili estas la plej belaj en Italio, sed al mi ili tute ne plaĉas: la farboj tre malheliĝis, la figuroj estas magraj kaj ne sufiĉe reliefaj; la drapiraĵoj tute ne similas ŝtofon — unuvorte, malgraŭ ĉiuj laŭdoj mi ne trovas en ili veran imiton de la naturo. Mi ŝatos bildon nur kiam rigardante ĝin mi vidos kvazaŭ la naturon mem; tamen tiaj ne ekzistas. Mi havas multe da pentraĵoj, sed mi ne plu rigardas ilin.</p>
-<p>Atendante la tagmanĝon, Pokozorgo ludigis al si koncerton. Kandido trovis la muzikon admirinda.</p>
-<p>— Tiu bruo, — diris Pokozorgo, — povas distri dum duonhoro; sed se ĝi daŭras pli longe, ĝi tedas ĉiujn, kvankam neniu kuraĝas tion konfesi. La muziko hodiaŭ estas nur la arto ludi malfacilajn aferojn, kaj tio, kio estas nur malfacila, ne povas plaĉi longtempe.</p>
-<p>» Eble mi pli ŝatus operon, se oni per diversaj rimedoj ne farus el ĝi monstron, kiu min indignigas. Ĉeestu, kiu deziras, la prezentadon de malbonaj tragedioj kun muziko, en kiuj la scenoj estas verkitaj nur por tre malĝustatempe enŝovi du aŭ tri ridindajn kantojn, ebligantaj al aktorino paradi per sia voĉo. Svenu de plezuro, kiuj deziras aŭ povas, kiam kastrito kantetas la rolon de Cezaro aŭ Katono kaj mallerte pavas sur la scenejo. Miaflanke, jam delonge mi fordecidis pri tiuj sensencaĵoj, kiuj hodiaŭ konsistigas la gloron de Italio, kaj kiujn monarĥoj pripagas tiom kare.</p>
+<p>Atendante la tagmanĝon, Apatiko ludigis al si koncerton. Kandido trovis la muzikon admirinda.</p>
+<p>— Tiu bruo, — diris Apatiko, — povas distri dum duonhoro; sed se ĝi daŭras pli longe, ĝi tedas ĉiujn, kvankam neniu kuraĝas tion konfesi. La muziko hodiaŭ estas nur la arto ludi malfacilajn aferojn, kaj tio, kio estas nur malfacila, ne povas plaĉi longatempe.</p>
+<p>» Eble mi pli ŝatus operon, se oni per diversaj rimedoj ne farus el ĝi monstron, kiu min indignigas. Ĉeestu, kiu deziras, la prezentadon de malbonaj tragedioj kun muziko, en kiuj la scenoj estas verkitaj nur por tre malĝustatempe enŝovi du aŭ tri ridindajn ariaĉojn, ebligantajn al aktorino paradi per sia voĉo. Svenu de plezuro, kiuj deziras aŭ povas, kiam kastrito kantetas la rolon de Cezaro aŭ Katono, mallerte pavante sur la scenejo. Miaflanke, jam delonge mi fordecidis pri tiuj sensencaĵoj, kiuj hodiaŭ konsistigas la gloron de Italio, kaj kiujn monarĥoj pripagas tiom kare.</p>
 <p>Kandido iom obĵetis, kvankam sen vervo. Marteno samopiniis kun la senatano.</p>
 <p>Oni altabliĝis kaj post bonega tagmanĝo eniris la bibliotekon. Ekvidinte lukse binditan libron de Homero, Kandido laŭdis la belguston de la eminenta moŝto.</p>
 <p>— Jen libro, — li diris, — kiu ĝuigis la grandan Pangloson, la plej bonan filozofon Germanian.</p>
-<p>— Min ĝi ne ĝuigas, — flegme diris Pokozorgo. — Iam oni kredigis al mi, ke ĝin legante mi ricevas plezuron; sed tiu senĉesa sinsekvo da bataloj, ĉiuj similaj unu al la aliaj; tiuj dioj, kiuj ĉiam agas kaj faras nenion definitivan; tiu Heleno, kiu estas la kaŭzo de la milito, kaj kiu apenaŭ agas en la verko; tiu Trojo, kiun oni sieĝas kaj kiun oni ne venkoprenas — ĉio ĉi tio min morte tedas. Kelkfoje mi demandis klerulojn, ĉu ili tiom enuis, kiom mi ĉe tiu legado; ĉiuj sinceruloj konfesis al mi, ke la libro falas el iliaj manoj, sed ke oni tamen ĝin havu en sia biblioteko, kiel memoraĵon pri la antikvo, kaj kiel ties rustajn monerojn, per kiuj oni ne plu komercas.</p>
+<p>— Min ĝi ne ĝuigas, — diris Apatiko malvarme. — Iam oni al mi kredigis, ke ĝin legante mi ricevas plezuron; sed tiu senĉesa sinsekvo da bataloj, ĉiuj similaj unu al la aliaj; tiuj dioj, kiuj ĉiam klopodas kaj faras nenion definitivan; tiu Heleno, la kaŭzo de la milito, kaj kiu apenaŭ agas en la verko; tiu Trojo, kiun oni sieĝas kaj kiun oni ne venkoprenas — ĉio ĉi tio morte min tedas. Kelkfoje mi demandis klerulojn, ĉu ili tiom enuis, kiom mi ĉe tiu legado; ĉiuj sinceruloj konfesis al mi, ke la libro falas el iliaj manoj, sed ke oni tamen ĝin havu en sia biblioteko, kiel memoraĵon pri la antikvo, kaj kiel ties rustajn monerojn, per kiuj oni ne plu komercas.</p>
 <p>— Sed via ekscelenco ne tiel pensas pri Vergilio? — demandis Kandido.</p>
-<p>— Mi konsentas, — diris Pokozorgo, — ke la dua, la kvara kaj la sesa partoj de lia Eneado estas bonegaj; sed koncerne lian pian Eneon, kaj la fortikan Kloanton, kaj la amikon Aĥato, kaj la malgrandan Askanion, kaj la stultan reĝon Lateno, kaj la burĝan Amatan, kaj la malinteresan Lavinian — mi ne povas imagi ion pli senvervan kaj malagrablan. Mi pli ŝatas Tason kaj la fantaziegajn fabelojn de Ariosto.</p>
+<p>— Mi konsentas, — diris Apatiko, — ke la dua, la kvara kaj la sesa partoj de lia Eneado estas bonegaj; sed koncerne lian pian Eneon, kaj la fortikan Kloanton, kaj la amikon Aĥato, kaj la malgrandan Askanion, kaj la stultan reĝon Lateno, kaj la burĝan Amatan, kaj la malinteresan Lavinian — mi ne povas imagi ion pli senvervan kaj malagrablan. Mi pli ŝatas Tason kaj la fantaziegajn fabelojn de Ariosto.</p>
 <p>— Permesu demandi vin, sinjoro, — diris Kandido, — ĉu vi ne havas grandan plezuron legante Horacion?</p>
-<p>— Estas maksimoj, — diris Pokozorgo, — el kiuj mondumano povas profiti, kaj kiuj, dirite en formo de viglaj versoj, pli facile gravuriĝas en la memoron; sed min lasas tute indiferenta lia vojaĝo al Brindizio, kaj lia priskribo de malbona tagmanĝo; kaj de la kanajla disputo inter iu nekonata Rupilio, kies paroloj, li diras, <emphasis>estis pusoplenaj</emphasis>, kaj iu alia, kies paroloj <emphasis>estis vinagraj.</emphasis> Nur kun tre forta naŭzo mi legis tiujn maldelikatajn versojn kontraŭ maljunulinojn kaj kontraŭ sorĉistinojn; kaj mi vidas nenion laŭdindan en tio, ke li diras al sia amiko Mecenaso, ke se tiu lin metos en la rangon de la lirikaj poetoj, li frapos la astrojn per sia fiera frunto. La stultuloj admiras ĉe ŝatata aŭtoro ĉion. Mi legas nur por mi; mi ŝatas nur tion, kio estas ĝusta laŭ mia gusto.</p>
-<p>Kandidon, edukitan pri nenio juĝi mem, la aŭdata tre mirigis; kaj Marteno opiniis, ke la pensmaniero de Pokozorgo estis sufiĉe saĝa.</p>
+<p>— Estas maksimoj, — diris Apatiko, — el kiuj mondumano povas profiti, kaj kiuj, dirite en formo de viglaj versoj, pli facile gravuriĝas en la memoron; sed min lasas tute indiferenta lia vojaĝo al Brindizio, kaj lia priskribo de malbona tagmanĝo; kaj de la kanajla disputo inter iu nekonata Rupilio, kies paroloj, li diras, <emphasis>estis pusoplenaj</emphasis>, kaj iu alia, kies paroloj <emphasis>estis vinagraj.</emphasis> Nur kun tre forta naŭzo mi legis tiujn maldelikatajn versojn kontraŭ maljunulinojn kaj kontraŭ sorĉistinojn; kaj mi vidas nenion laŭdindan en tio, ke li diras al sia amiko Mecenaso, ke se tiu lin metos en la rangon de la lirikaj poetoj, li frapos la astrojn per sia fiera frunto. La stultuloj admiras ĉe ŝatata aŭtoro ĉion. Mi legas nur por mi; mi ŝatas nur tion, kio estas ĝusta laŭ mia gusto.</p>
+<p>Kandidon, edukitan pri nenio juĝi mem, la aŭdata tre mirigis; kaj Marteno opiniis, ke la pensmaniero de Apatiko estis sufiĉe saĝa.</p>
 <p>— Ho, jen verkaro de Cicerono! — ekkriis Kandido. — Mi pensas, ke relegado de la verkoj de tiu granda homo neniam vin enuigas, ĉu?</p>
 <p>— Neniam mi legas ilin, — respondis la Veneciano. — Kial min interesu, ke li pledis por Rabirio aŭ por Kluencio? Al mi sufiĉas la procesoj, kiujn juĝas mi mem. Pli volonte mi legus liajn verkojn filozofiajn; sed kiam mi vidis, ke pri ĉio li dubas, mi konkludis, ke mi estas same klera kiel li, kaj ke mi bezonas nenies helpon por resti senscia.</p>
-<p>— Ha, jen estas okdek volumoj el verkaĵoj de scienca akademio! — ekkriis Marteno. — Eble ĉi tie estas io valora.</p>
-<p>— Ĝi estus, — diris Pokozorgo, — se almenaŭ unu el la aŭtoroj de tiu fatraso elpensus, ekzemple, la arton fari pinglojn; sed en ĉiuj tiuj libroj troviĝas nur vanaj sistemoj kaj ne eĉ unu utila afero.</p>
+<p>— Ha, jen estas 80 volumoj el verkaro de scienca akademio! — ekkriis Marteno. — Eble ĉi tie estas io valora.</p>
+<p>— Ĝi estus, — diris Apatiko, — se almenaŭ unu el la aŭtoroj de tiu fatraso elpensus, ekzemple, la arton fari pinglojn; sed en ĉiuj tiuj libroj troviĝas nur vanaj sistemoj kaj ne eĉ unu utila afero.</p>
 <p>— Kiom da teatraĵoj mi vidas tie, — diris Kandido, — en la Itala lingvo, en la Hispana, en la Franca!</p>
 <p>— Jes, — diris la senatano, — estas tri mil da ili, sed malpli ol tri dekduoj da bonaj. Rilate al tiuj kolektoj da predikoj, kiuj ĉiuj kune ne valoras paĝon de Seneko, kaj ĉiuj tiuj dikaj volumoj pri teologio, estu certa, ke neniam mi malfermas ilin, nek mi nek iu alia.</p>
 <p>Marteno ekvidis bretaron da anglaj libroj. Li diris:</p>
-<p>— Mi supozas, ke al civitano de respubliko plaĉas plejparto da tiuj libroj klare verkitaj.</p>
-<p id="jakobeno">— Jes, — respondis Pokozorgo, — estas bele skribi kion oni pensas; tio estas privilegio de la homo. En la tuta Italio, oni skribas nur kion oni ne pensas; kiuj loĝas en la patrujo de la Cezaroj kaj de la Antonenoj, tiuj ne kuraĝas havi ideon sen permeso de Dominikano. Mi estus kontenta pri la libero, kiu inspiras la anglajn geniulojn, se la pasio kaj la partieco ne difektus ĉion, kio estas ŝatinda en tiu grandvalora libero.</p>
-<p>Kandido, ekvidinte libron de Miltono, demandis al Pokozorgo, ĉu li konsideras tiun aŭtoron granda homo.</p>
-<p>— Ĉu Miltonon? — redemandis Pokozorgo. — Tiun barbaron, kiu longe komentarias la unuan ĉapitron de <emphasis>Genezo</emphasis> en dek libroj<a l:href="#n82" type="note">[112]</a> da krudaj versoj? Tiun mallertan imitanton de la Grekoj, kiu distordas la kreadon? Dum Moseo prezentas la Eternulon produktanta la mondon per la parolo, Miltono igas sian Mesion preni el ĉiela ŝranko grandan cirkelon por desegni sian laboraĵon! Ĉu mi povus ŝati tiun, kiu fuŝis la inferon kaj la diablon de Taso; kiu igas Luciferon aperi jen bufo, jen Pigmeo; kiu igas lin centfoje ripetadi la samajn paroladojn; kiu lin disputigas pri teologio; kiu, serioze imitante la komikan inventon pri eksplodpafiloj de Ariosto, igas la diablojn bombadi la ĉielon? Nek mi, nek iu ajn en Italio povis ŝati tiujn mizerajn ekstravagancojn. La <emphasis>edziĝo de la Peko kun la Morto</emphasis> kaj la kolubroj naskataj de la Peko vomigas ĉiun homon, kiu havas guston iom delikatan, kaj lia longa priskribo de hospitalo konvenas nur por tombisto. Ĉi tiun malhelan, sovaĝan kaj naŭzan poemon renkontis malŝato ĉe ĝia unua publikigo, kaj hodiaŭ mi ĝin traktas samkiel en ĝia lando ĝin traktis la samtempuloj. Cetere, mi diras, kion mi pensas, kaj mi tre malmulte zorgas, ĉu la aliaj pensas same.</p>
+<p>— Mi supozas, ke al civitano de respubliko plaĉas plejparto da tiuj libroj verkitaj en nobla libero.</p>
+<p id="jakobeno">— Jes, — respondis Apatiko, — estas bele skribi kion oni pensas; tio estas privilegio de la homo. En la tuta Italio, oni skribas nur kion oni ne pensas; kiuj loĝas en la patrujo de la Cezaroj kaj de la Antonenoj, tiuj ne kuraĝas havi ideon sen permeso de Dominikano. Mi estus kontenta pri la libero, kiu inspiras la anglajn geniulojn, se la pasio kaj la partieco ne difektus ĉion, kio estas ŝatinda en tiu grandvalora libero.</p>
+<p>Ekvidinte libron de Miltono, Kandido demandis Apatikon, ĉu li konsideras tiun aŭtoron granda homo.</p>
+<p>— Ĉu Miltonon? — redemandis Apatiko. — Tiun barbaron, kiu longe komentarias la unuan ĉapitron de <emphasis>Genezo</emphasis> en dek libroj<a l:href="#n82" type="note">[112]</a> da krudaj versoj? Tiun mallertan imitanton de la Grekoj, kiu distordas la kreadon? Dum Moseo prezentas la Eternulon produktanta la mondon per la parolo, Miltono igas sian Mesion preni el ĉiela ŝranko grandan cirkelon por desegni sian laboraĵon! Ĉu mi povus ŝati tiun, kiu fuŝis la Inferon kaj la Diablon de Taso; kiu igas Luciferon aperi jen bufo, jen Pigmeo; kiu igas lin centfoje ripetadi la samajn paroladojn; kiu lin disputigas pri teologio; kiu, serioze imitante la komikan inventon pri eksplodpafiloj de Ariosto, igas la diablojn bombadi la Ĉielon? Nek mi, nek iu ajn en Italio povis ŝati tiujn mizerajn ekstravagancojn. La <emphasis>edziĝo de la Peko kun la Morto</emphasis> kaj la kolubroj naskataj de la Peko vomigas ĉiun homon, kiu havas guston iom delikatan, kaj lia longa priskribo de hospitalo konvenas nur por tombisto. Ĉi tiun malhelan, sovaĝan kaj naŭzan poemon renkontis malŝato ĉe ĝia unua publikigo, kaj hodiaŭ mi ĝin traktas samkiel en ĝia lando ĝin traktis la samtempuloj. Cetere, mi diras, kion mi pensas, kaj mi tre malmulte zorgas, ĉu la aliaj pensas same.</p>
 <p>Kandidon tiuj paroloj tre ĉagrenis; li respektis Homeron, iom li ŝatis Miltonon.</p>
-<p>— Ho, ve! — li diris mallaŭte al Marteno, — mi tre timas, ke ĉi tiu homo havas nur malŝategon por niaj poetoj Germanaj.</p>
+<p>— Ho ve! — li diris mallaŭte al Marteno, — mi tre timas, ke ĉi tiu homo havas nur malŝategon por niaj poetoj Germanaj.</p>
 <p>— Ne estus en tio granda domaĝo, — diris Marteno.</p>
-<p>«Ho, kia supera homo!» diradis Kandido tradente. «Kia granda geniulo estas tiu Pokozorgo! Al li nenio plaĉas.»</p>
+<p>«Ho, kia supera homo!» diradis Kandido tradente. «Kia granda geniulo estas tiu Apatiko! Al li nenio plaĉas!»</p>
 <p>Tiel revuinte ĉiujn librojn, ili malsupreniris en la ĝardenon. Kandido laŭdis ĉiujn ĝiajn belaĵojn.</p>
-<p>— Mi konas nenion pli malbongustan, — diris la mastro; — ni havas ĉi tie nur bagatelaĵojn; sed jam morgaŭ mi ordonos, ke oni konstruu alian laŭ pli nobla plano.</p>
+<p>— Mi konas nenion pli malbongustan, — diris la mastro; — ni havas ĉi tie tro multe da malnecesaj bagatelaĵoj; sed jam morgaŭ mi ordonos, ke oni faru ĝardenon laŭ pli nobla plano.</p>
 <p>Post kiam la du scivolemuloj adiaŭis lian ekscelencon, Kandido diris al Marteno:</p>
 <p>— Konsentu, ke jen estas la plej feliĉa el ĉiuj homoj, ĉar li estas super ĉio, kion li posedas.</p>
 <p>— Ĉu do vi ne vidas, — diris Marteno, — ke ĉio, kion li posedas, lin naŭzas? Jam antaŭ longe diris Platono, ke ne tiuj stomakoj estas la plej bonaj, kiuj malakceptas ĉian nutraĵon.</p>
@@ -1214,62 +1263,63 @@ Kakambo tradukadis al Kandido la spritaĵojn de la reĝo, kaj eĉ tradukite ili 
 <p>— Alivorte, — diris Marteno, — estas agrable ne senti agrablon, ĉu?</p>
 <p>— Nu bone, — diris Kandido, — mi do vidas, ke la sola feliĉulo estos mi, kiam mi revidos fraŭlinon Kunegundo.</p>
 <p>— Espero komfortigas nian vivon, — diris Marteno.</p>
+<empty-line/>
 <p>Tamen la tagoj, la semajnoj kuris unuj post la aliaj; Kakambo ne aperis, kaj Kandido tiom profundiĝis en sian malĝojon, ke li eĉ ne rimarkis, ke Violeto kaj frato Levkojo ne venis por lin danki.</p>
 </section><section>
 <title><p>26. Kiel Kandido kaj Marteno vespermanĝis kun ses alilandanoj, kaj kioj tiuj estis</p></title>
 <p>Iun vesperon, kiam Kandido kaj Marteno estis altabliĝontaj kun la alilandanoj el la sama gastejo, al Kandido de malantaŭe proksimiĝis homo kun fulge nigra vizaĝo, kaj lin preninte je la brako diris:</p>
 <p>— Estu preta por foriri kun ni, ne preterlasu la okazon.</p>
-<p>Li sin turnas kaj ekvidas … Kakambon! Nur la ekvido de Kunegundo povus lin pli mirigi kaj ravi. La ĝojo lin preskaŭ frenezigas. Li ĉirkaŭbrakas sian karan amikon.</p>
+<p>Li sin turnas kaj ekvidas … Kakambon! Nur la ekvido de Kunegundo povus pli lin mirigi kaj ravi. La ĝojo lin preskaŭ frenezigas. Li ĉirkaŭbrakas sian karan amikon.</p>
 <p>— Kunegundo estas ĉi tie, sendube? Kie ŝi estas? Konduku min al ŝi, apud ŝi mi mortu pro ĝojo.</p>
 <p>— Kunegundo ne estas ĉi tie, — diris Kakambo, — ŝi estas en Istanbulo.</p>
 <p>— Ho, ĉielo! En Istanbulo! Sed eĉ se ŝi estus en Ĉinio, tien mi flugus, ni foriru.</p>
 <p>— Ni forveturos post la vespermanĝo, — respondis Kakambo. — Mi ne povas diri plu; mi estas sklavo, mia mastro min atendas; mi devas iri por lin servi ĉetable; ne diru vorton; vespermanĝu kaj tenu vin preta.</p>
 <p>Kandido, ŝanceliĝante inter ĝojo kaj doloro,
-ravita revidi sian fidelan agenton,
-mirigita vidi lin sklavo,
-sieĝata de la penso retrovi sian amatinon,
+ravite revidi sian fidelan agenton,
+mirigite vidi lin sklavo,
+sieĝate de la penso retrovi sian amatinon,
 kun maltrankvila koro,
 kun konfuzita spirito,
-altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun ses alilandanoj, venintaj en Venecion por tie pasigi la karnavalon.</p>
+altabliĝis kun Marteno, kiu flegme observis ĉi tiun scenon, kaj kun ses alilandanoj, venintaj en Venecion por tie pasigi la karnavalon.</p>
 <p>Kakambo verŝadis por trinki al unu el la alilandanoj; ĉe la fino de l’ manĝado li proksimiĝis al la orelo de sia mastro, kaj diris al tiu:</p>
-<p>— Via Reĝa Moŝto foriros kiam al ĝi plaĉos, la ŝipo pretas.</p>
-<p>Eldirinte tiujn vortojn, li foriris. La kunmanĝantoj mirigite rigardis unuj la aliajn, ne dirante eĉ unu solan vorton, kiam alia servisto aliris sian mastron kaj diris al tiu:</p>
-<p>— Reĝa Moŝto, la portseĝo de via Majesto estas en Padovo kaj la barko estas preta.</p>
-<p>La mastro faris signon kaj la servisto foriris. La kunmanĝantoj denove rigardis unuj la aliajn, kaj la komuna surprizo duobliĝis. Tria servisto, proksimiĝante al tria alilandano, diris al li:</p>
-<p>— Reĝa Moŝto, kredu min, Via Majesto ne restu ĉi tie pli longe; mi tuj ĉion preparos.</p>
+<p>— Via Majesto foriros kiam al ĝi plaĉos, la ŝipo pretas.</p>
+<p>Eldirinte tiujn vortojn, li foriris. La gastoj mirigite rigardis unuj la aliajn, ne dirante eĉ unu solan vorton, kiam alia servisto aliris sian mastron kaj diris al tiu:</p>
+<p>— Via Majesto, la kabrioleto de via moŝto estas en Padovo kaj la barko pretas.</p>
+<p>La mastro faris signon kaj la servisto foriris. La gastoj denove rigardis unuj la aliajn, kaj la komuna surprizo duobliĝis. Tria servisto, proksimiĝante al tria alilandano, diris al tiu:</p>
+<p>— Reĝa Moŝto, kredu min, Via Majesto ne restu ĉi tie pli longe; tuj mi ĉion preparos.</p>
 <p>Kaj li malaperis.</p>
 <p>Kandido kaj Marteno jam ne plu dubis, ke tio estis karnavala maskerado. Kvara servisto diris al kvara mastro:</p>
 <p>— Via Majesto forveturos, kiam al ĝi plaĉos.</p>
-<p>Kaj li eliris, kiel la aliaj. La kvina servisto diris la samon al la kvina mastro. Sed la sesa servisto malsame parolis al la sesa alilandano, kiu sidis apud Kandido; li diris:</p>
-<p>— Nu, via Reĝa Moŝto, oni ne plu volas krediti Vian Majeston, nek min, kaj nin ambaŭ oni povas enkarcerigi jam ĉi-nokte. Mi iras por zorgi pri miaj aferoj. Adiaŭ.</p>
+<p>Kaj li eliris, kiel la aliaj. Kvina servisto diris la samon al la kvina mastro. Sed la sesa servisto malsame parolis al la sesa alilandano, kiu sidis apud Kandido; li diris:</p>
+<p>— Nu, via Reĝa Moŝto, oni ne plu konsentas krediti Vian Majeston, nek min, kaj nin ambaŭ oni povas enkarcerigi jam ĉi-nokte. Mi foriras por zorgi pri miaj aferoj. Adiaŭ.</p>
 <p>Post la foriro de la servistoj la ses alilandanoj, Kandido kaj Marteno restis profunde silentaj. Fine Kandido ekparolis:</p>
 <p>— Sinjoroj, — li diris, — jen estas stranga ŝerco. Kial vi ĉiuj estas reĝoj? Koncerne min, mi konfesas, ke nek mi, nek Marteno estas reĝo.</p>
 <p>La mastro de Kakambo seriozmiene ekparolis, kaj diris itallingve:</p>
 <p>— Mi tute ne ŝercas, mia nomo estas Aĥmedo la 3ª<a l:href="#n84" type="note">[113]</a>. Dum pluraj jaroj mi estis grandsultano; mi detronigis mian fraton; mia nevo detronigis min; oni tranĉis la kolon al miaj veziroj; mi finvivas mian vivon en la malnova palaco; mia nevo, la granda sultano Mahmudo, fojfoje permesas al mi vojaĝi por mia sano, kaj mi venis ĉi tien pro la karnavalo Venecia.</p>
 <p>Junulo, kiu sidis apud Aĥmedo, parolis post li kaj diris:</p>
-<p>— Mia nomo estas Ivano<a l:href="#n85" type="note">[114]</a>; mi estis imperiestro de ĉiuj Rusioj; mi estis detronigita dum mi kuŝis ankoraŭ en la lulilo; miaj gepatroj estis malliberigitaj; min oni edukis en malliberejo; fojfoje mi havas la permeson vojaĝi akompanate de gardantoj, kaj mi venis ĉi tien pro la karnavalo Venecia.</p>
+<p>— Mia nomo estas Ivano<a l:href="#n85" type="note">[114]</a>; mi estis imperiestro Tutrusia; mi estis detronigita dum mi kuŝis ankoraŭ en la lulilo; miaj gepatroj estis malliberigitaj; min oni edukis en malliberejo; fojfoje mi havas la permeson vojaĝi akompanate de gardantoj, kaj mi venis ĉi tien pro la karnavalo Venecia.</p>
 <p>La tria diris:</p>
-<p>— Mi estas Karlo-Edvardo<a l:href="#n87" type="note">[115]</a>, reĝo de Anglio; mia patro transdonis al mi siajn rajtojn je la reĝlando; mi batalis por defendi ilin; oni elŝiris la koron al okcent el miaj amikoj kaj per ĝi oni batis iliajn vangojn. Mi estis malliberigita; (??) nun mi iras al Romo por viziti la reĝon, mian patron, detronigitan kiel mi kaj mia avo, kaj ĉi tien mi venis pro la karnavalo Venecia.</p>
+<p>— Mi estas Karlo-Edvardo<a l:href="#n87" type="note">[115]</a>, reĝo de Anglio; mia patro transdonis al mi siajn rajtojn je la reĝlando; mi batalis por defendi ilin; al okcent el miaj amikoj oni elŝiris la koron kaj per ĝi batis iliajn vangojn. Mi estis malliberigita; (??) nun mi iras al Romo por viziti la reĝon, mian patron, detronigitan kiel mi kaj mia avo, kaj ĉi tien mi venis pro la karnavalo Venecia.</p>
 <p>Siavice la kvara ekparolis kaj diris:</p>
-<p>— Mi estas reĝo de la Poloj; la sorto de l’ milito senigis min je miaj heredaj ŝtatoj;<a l:href="#n89" type="note">[116]</a> mia patro spertis la samajn malfeliĉojn; mi rezigne obeas la Providencon kiel la sultano Aĥmedo, la imperiestro Ivano kaj la reĝo Karlo-Edvardo, al kiu[j] Dio donu longan vivon; kaj mi venis ĉi tien pro la karnavalo Venecia.</p>
+<p>— Mi estas reĝo de la Poloj; la sorto de l’ milito senigis min je miaj heredaj ŝtatoj;<a l:href="#n89" type="note">[116]</a> mia patro spertis la samajn malfeliĉojn; mi rezigne obeas la Providencon kiel la sultano Aĥmedo, la imperiestro Ivano kaj la reĝo Karlo-Edvardo, al kiuj Dio donu longan vivon; kaj mi venis ĉi tien pro la karnavalo Venecia.</p>
 <p>La kvina diris:</p>
-<p>— Ankaŭ mi estas reĝo de la Poloj; dufoje mi perdis mian reĝlandon<a l:href="#n90" type="note">[117]</a>; sed la Providenco donis al mi alian ŝtaton, en kiu mi faris pli da bono ol ĉiuj reĝoj de Sarmatio kune faris ĉe la bordoj de Vistulo; ankaŭ mi rezigne obeas la Providencon, kaj mi venis en Venecion por pasigi la karnavalon.</p>
+<p>— Ankaŭ mi estas reĝo de la Poloj; dufoje mi perdis mian reĝlandon<a l:href="#n90" type="note">[117]</a>; sed la Providenco donis al mi alian ŝtaton, en kiu mi faris pli da bono ol ĉiuj reĝoj de Sarmatio<a l:href="#Sarmacja" type="note">[118]</a> kune faris ĉe la bordoj de Vistulo; ankaŭ mi rezigne obeas la Providencon, kaj mi venis en Venecion por pasigi la karnavalon.</p>
 <p>Restis al la sesa monarĥo paroli:</p>
-<p>— Sinjoroj, — li diris, — mi ne estas tiom eminenta kiel vi, tamen ankaŭ mi estis reĝo. Mi estas Teodoro;<a l:href="#n91" type="note">[118]</a> oni elektis min reĝo de Korsiko; oni alparolis min <emphasis>Via Majesto</emphasis>, kaj nun oni apenaŭ min titolas <emphasis>Sinjoro.</emphasis> Mi stampobatigis monerojn, kaj mi ne posedas unu denaron; mi havis du ŝtatsekretariojn, kaj mi apenaŭ havas serviston; mi sidis sur trono, kaj poste dum longa tempo mi kuŝis sur pajlo en Londona malliberejo. Mi tre timas, ke ĉi tie oni same min traktos, kvankam mi venis en Venecion por pasigi la karnavalon.</p>
-<p>La kvin aliaj reĝoj aŭskultis tiun paroladon kun nobla kompato. Ĉiu el ili donacis dudek dukatojn al la reĝo Teodoro, por ke li havigu al si vestojn kaj ĉemizojn; Kandido donacis al li diamanton valoran du mil dukatojn.</p>
-<p>— Kiu do estas tiu simplulo, — ekkriis la kvin reĝoj, — kiu povas donaci — kaj efektive donacas! — centoble pli ol ĉiu el ni? Diru, sinjoro, ĉu ankaŭ vi estas reĝo?</p>
+<p>— Sinjoroj, — li diris, — mi ne estas tiom eminenta kiel vi, tamen ankaŭ mi estis reĝo. Mi estas Teodoro;<a l:href="#n91" type="note">[119]</a> oni elektis min reĝo de Korsiko; oni alparoladis min <emphasis>Via Majesto</emphasis>, kaj nun oni apenaŭ min titolas <emphasis>Sinjoro.</emphasis> Mi stampobatigis monerojn, kaj mi ne posedas unu denaron; mi havis du ŝtatsekretariojn, kaj mi apenaŭ havas serviston; mi sidis sur trono, kaj poste dum longa tempo mi kuŝis sur pajlo en Londona malliberejo. Mi tre timas, ke ĉi tie oni same min traktos, kvankam mi venis en Venecion por pasigi la karnavalon.</p>
+<p>La kvin aliaj monarĥoj aŭskultis tiun paroladon kun nobla kompato. Ĉiu el ili donacis al reĝo Teodoro dudek dukatojn, por ke li havigu al si vestojn kaj ĉemizojn; Kandido donacis al li diamanton valoran du mil dukatojn.</p>
+<p>— Kiu do estas tiu simplulo, — ekkriis la kvin monarĥoj, — kiu povas donaci — kaj efektive donacas! — centoble pli ol ĉiu el ni? Diru, sinjoro, ĉu ankaŭ vi estas reĝo?</p>
 <p>— Ne, sinjoroj, kaj mi neniel aspiras tiun honoron.</p>
 <p>Je la momento kiam oni detabliĝis, en la gastejo aperis kvar aliaj princaj Moŝtoj, simile perdintaj siajn ŝtatojn sekve de milito, kaj venintaj Venecion por pasigi tie la reston de l’ karnavalo; sed Kandido neniel atentis ilin. Lin plene okupis la penso pri vojaĝo al Istanbulo por trovi sian karan Kunegundon.</p>
 </section><section>
 <title><p>27. Vojaĝo de Kandido al Istanbulo</p></title>
 <p>La fidela Kakambo jam aranĝis, ke la turka ŝipestro, rekondukonta sultanon Aĥmedo al Istanbulo, kunprenos Kandidon kaj Martenon. Ambaŭ sin direktis al la ŝipo, respektege sin klininte antaŭ Lia kompatinda Majesto. Survoje Kandido diris al Marteno:</p>
-<p>— Vidu, ĵus ni vespermanĝis kun ses detronigitaj reĝoj! Kaj al unu ili mi eĉ almozdonis. Eble estas multaj aliaj princoj ankoraŭ pli malfeliĉaj. Koncerne min, mi perdis nur cent ŝafojn, kaj mi flugas en la brakojn de Kunegundo. Mia kara Marteno, ankoraŭfoje, pravas Pangloso kaj ĉio bonas.</p>
+<p>— Vidu, ĵus ni vespermanĝis kun ses detronigitaj monarĥoj! Kaj al unu el ili mi eĉ almozdonis. Eble estas multaj aliaj princoj ankoraŭ pli malfeliĉaj. Koncerne min, mi perdis nur cent ŝafojn, kaj mi flugas en la brakojn de Kunegundo. Mia kara Marteno, ankoraŭfoje, pravas Pangloso kaj ĉio bonas.</p>
 <p>— Tion mi deziras, — diris Marteno.</p>
-<p>— Sed endas agnoski, — diris Kandido, — ke nia ĵusa  aventuro Venecia estas tute nekredebla. Neniam oni vidis nek aŭdis, ke ses detronigitaj reĝoj kune vespermanĝus en gastejo.</p>
-<p>— Tio estas ne pli mirinda ol la plejparto el la aferoj, kiuj nin trafis. Tre ordinare okazas, ke reĝoj perdas la tronon; kaj rilate al la honoro vespermanĝi kun ili, tio estas bagatelo neatentinda. Ne gravas, kun kiuj oni manĝas, gravas kion oni manĝas.</p>
+<p>— Sed endas agnoski, — diris Kandido, — ke nia ĵusa  aventuro Venecia estas tute nekredebla. Neniam oni vidis nek aŭdis, ke ses detronigitaj monarĥoj kune vespermanĝus en gastejo.</p>
+<p>— Tio estas ne pli mirinda ol la plejparto el la aferoj, kiuj nin trafis. Tre ordinare okazas, ke reĝoj perdas la tronon; kaj rilate al la honoro vespermanĝi kun ili, tio estas bagatelo neatentinda. Ne gravas la kunmanĝantoj, gravas la manĝataĵo.</p>
 <p>Apenaŭ surŝipiĝinte, Kandido tuj saltis sur la kolon de sia eksservisto, de sia amiko Kakambo.</p>
-<p>— Diru do, — li demandis, — kion faras Kunegundo? Ĉu plu ŝi estas eksterordinare bela? Ĉu plu ŝi min amas? Kiel ŝi fartas? Ci sendube aĉetis por ŝi palacon en Istanbulo?</p>
-<p>— Mia kara mastro, — respondis Kakambo, — Kunegundo lavas bovlojn sur la bordo de la Marmora maro, ĉe princo, posedanta tre malluksan vazaron; ŝi estas sklavino en la domo de eksmonarĥo nomata Rakoci’<a l:href="#n93" type="note">[119]</a>, al kiu la Granda Turko donas po tri azilajn eskudojn tage; sed pli bedaŭrinde estas, ke ŝi perdis sian belon kaj fariĝis terure malbela.</p>
+<p>— Diru do, — li demandis, — kion faras Kunegundo? Ĉu plu ŝi estas eksterordinare bela? Ĉu plu ŝi min amas? Kiel ŝi fartas? Sendube ci aĉetis por ŝi palacon en Istanbulo, ĉu?</p>
+<p>— Mia kara mastro, — respondis Kakambo, — Kunegundo lavas bovlojn sur la bordo de la Marmora maro, ĉe princo, posedanta tre malluksan vazaron; ŝi estas sklavino en la domo de eksmonarĥo nomata Rakoci’<a l:href="#n93" type="note">[120]</a>, al kiu la Granda Turko donas po tri azilajn eskudojn tage; sed pli bedaŭrinde estas, ke ŝi perdis sian belon kaj fariĝis terure malbela.</p>
 <p>— Ĉu ŝi estas bela aŭ malbela, — diris Kandido, — mi estas honesta homo, kaj mia devo estas ami ŝin ĉiam. Sed kiel ŝi povis fali en tian mizeregon malgraŭ la kvin aŭ ses milionoj, kiujn ci kunportis?</p>
 <p>— Nu, — diris Kakambo, — ĉu do mi ne devis doni du milionojn al sinjoro don-Fernando d’Ibaraa-kaj-Figerora-kaj-Maskarenes-kaj-Lampurdos-kaj-Susa, la guberniestro de Bonaero, por ricevi la permeson repreni fraŭlinon Kunegundo? Ĉu brava pirato ne forrabis de ni ĉion ceteran? Ĉu tiu pirato ne veturigis nin al la promontoro Matapo, al Meloso, al Ikario, al Samoso, al Petra, al Dardanelo, al la Marmora maro, al Uskudaro? Kunegundo kaj la maljunulino servas ĉe tiu princo, pri kiu mi jam parolis, kaj mi estas sklavo de la ekssultano.</p>
 <p>— Kiom da interkroĉitaj malfeliĉoj! — diris Kandido. — Tamen, finfine mi havas ankoraŭ kelkajn diamantojn; mi facile liberigos Kunegundon. Tre domaĝe, ke ŝi fariĝis malbela.</p>
@@ -1306,7 +1356,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <title><p>28. Kio okazis al Kandido, Pangloso, Marteno ktp</p></title>
 <p>— Pardonon, mi denove petas, — diris Kandido al la barono; pardonon, respektinda patro, pro tio, ke mi forte trapikis vian korpon per spado.</p>
 <p>— Ni ne plu parolu pri tio, — diris la barono. — Mi parolis iom tro akre, tion mi agnoskas; sed, ĉar vi volas scii pro kia hazardo vi min vidis galerulo, mi diros al vi, ke baldaŭ post kiam la frato apotekisto de la kolegio kuracis mian vundon, min atakis kaj forrabis Hispana taĉmenteto; oni min metis en malliberejon en Bonaero tuj post kiam mia fratino forlasis la urbon.</p>
-<p>» Mi petis pri reiro al Romo ĉe la patron generalon de la ordeno. Tiu min nomumis kapelpastro ĉe la ambasadoro de Francio en Istanbulo. Pasis apenaŭ semajno post mia enoficigo tie, kiam ĉe la vesperiĝo mi renkontis junan <emphasis>iĉoglanon</emphasis><a l:href="#n94" type="note">[120]</a> tre belkorpan. Estis varmege; la junulo ekvolis sin bani, kaj mi imitis lian ekzemplon.</p>
+<p>» Mi petis pri reiro al Romo ĉe la patron generalon de la ordeno. Tiu min nomumis kapelpastro ĉe la ambasadoro de Francio en Istanbulo. Pasis apenaŭ semajno post mia enoficigo tie, kiam ĉe la vesperiĝo mi renkontis junan <emphasis>iĉoglanon</emphasis><a l:href="#n94" type="note">[121]</a> tre belkorpan. Estis varmege; la junulo ekvolis sin bani, kaj mi imitis lian ekzemplon.</p>
 <p>» Mi ne sciis, ke por Kristano estas gravega krimo kunesti tute nuda kun juna Islamano. La kadio ordonis, ke mi ricevu cent bastonbatojn sur la plandojn kaj min kondamnis al galerpuno. Mi ne povas imagi pli indignigan maljustaĵon… Tamen mi tre deziras scii, kial mia fratino estas en la kuirejo de Transilvania princo rifuĝinta ĉe la Turkoj?</p>
 <p>— Kaj vi, mia kara Pangloso, — demandis Kandido, — kiel povas esti, ke mi vin revidas?</p>
 <p>— Estas vere, — diris Pangloso, — ke vi vidis min pendumata. Normale oni devus min ŝtiparumi; sed vi memoras, ke kiam venis tempo min rosti, ektorentis pluvego; la tempesto estis tiom forta, ke oni ne sukcesis ekbruligi la fajron; ne povante min bruligi oni min pendumis.</p>
@@ -1317,11 +1367,11 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <p>» Iun tagon ekkaptis min la kaprico eniri moskeon; tie estis nur maljuna imamo kaj tre bela juna bigotino preĝanta; ŝia brusto estis tute nekovrita; ŝi havis inter siaj du mamoj belan bukedon el tulipoj, rozoj, anemonoj, ranunkoloj, hiacintoj kaj aŭrikuloj; ŝi lasis fali la bukedon; ĝin mi levprenis kaj remetis kun tre respekta servemo. Mi iom longtempe ĝin remetadis, tiel ke la imamo ekkoleris, kaj vidante, ke mi estas Kristano, li vokis por helpo. Oni min kondukis al la kadio, kiu ordonis, ke oni donu al mi cent bastonbatojn sur la plandojn kaj min sendis sur galeron.</p>
 <p>» Mi estis katenita ĝuste en la sama galero ĉe la sama benko kiel sinjoro barono. Estis sur tiu galero kvar junuloj el Marsejlo, kvin pastroj el Napolo, kaj du monaĥoj el Korfuo, kiuj diris al ni, ke similaj aventuroj okazas ĉiutage. Sinjoro barono pretendis, ke li spertis pli grandan maljustaĵon ol mi; dum mi pretendis, ke certe pli decas remeti bukedon sur la bruston de virino ol esti tute nuda kun <emphasis>iĉoglano.</emphasis> Ni senĉese disputis kaj ricevadis po dudek batojn per bovtendeno ĉiutage, ĝis kiam la interkroĉado de la okazoj el ĉi tiu universo vin kondukis sur nian galeron, de kie vi nin elaĉetis.</p>
 <p>— Nu, mia kara Pangloso, — al li diris Kandido, — kiam vi estis pendumata, sekcata, tradraŝata kaj remanta, ĉu vi pensis, ke ĉio iras plej bone?</p>
-<p>— Mi plu restas ĉe mia unua opinio, — respondis Pangloso, — ja fine mi estas filozofo. Ne konvenas, ke mi malkonfesu, ĉar Lejbnico ne povas malpravi, kaj krome, ĉar la <emphasis>praestablita harmonio</emphasis> estas la plej bela afero en la mondo, samkiel la <emphasis>pleno</emphasis> kaj la <emphasis>subtila materio.</emphasis><a l:href="#n98" type="note">[121]</a></p>
+<p>— Mi plu restas ĉe mia unua opinio, — respondis Pangloso, — ja fine mi estas filozofo. Ne konvenas, ke mi malkonfesu, ĉar Lejbnico ne povas malpravi, kaj krome, ĉar la <emphasis>praestablita harmonio</emphasis> estas la plej bela afero en la mondo, samkiel la <emphasis>pleno</emphasis> kaj la <emphasis>subtila materio.</emphasis><a l:href="#n98" type="note">[122]</a></p>
 </section><section>
 <title><p>29. Kandido retrovas Kunegundon kaj la maljunulinon</p></title>
 <p>Dum Kandido, la barono, Pangloso, Marteno kaj Kakambo rakontis siajn aventurojn, dum ili rezonadis pri malnecesaj kaj necesaj okazoj en ĉi tiu universo, dum ili disputis pri la efikoj kaj la kaŭzoj, pri la malbonoj morala kaj natura, pri la libero kaj la neceso, pri la konsoloj, kiajn povas sperti remisto sur Turkia galero — ili atingis la bordon de la Marmora maro ĉe la domo de la princo de Transilvanio. La unua vidaĵo estis Kunegundo kaj la maljunulino, etendantaj sur ŝnurojn sekigendajn viŝtukojn.</p>
-<p>Ekvidinte tion la barono paliĝis. La molkora amanto Kandido, vidante sian belan Kunegundon sunbrunigita,<a l:href="#sunbruno" type="note">[122]</a> ŝiajn okulojn ruĝrandaj, la bruston platiĝinta, la vangojn sulketiĝintaj, la brakojn ruĝaj kaj skvamaj, faris tri paŝojn malantaŭen pro teruro, poste antaŭeniris pro bonkonduto. Ŝi brakumis Kandidon kaj sian fraton; oni brakumis la maljunulinon; Kandido elaĉetis ilin ambaŭ.</p>
+<p>Ekvidinte tion la barono paliĝis. La molkora amanto Kandido, vidante sian belan Kunegundon sunbrunigita,<a l:href="#sunbruno" type="note">[123]</a> ŝiajn okulojn ruĝrandaj, la bruston platiĝinta, la vangojn sulketiĝintaj, la brakojn ruĝaj kaj skvamaj, faris tri paŝojn malantaŭen pro teruro, poste antaŭeniris pro bonkonduto. Ŝi brakumis Kandidon kaj sian fraton; oni brakumis la maljunulinon; Kandido elaĉetis ilin ambaŭ.</p>
 <p>Apude estis malgranda farmbieno; la maljunulino proponis al Kandido ekloĝi tie ĝis kiam la tuta kompanio ekhavos ion pli bonan. Kunegundo ne sciis, ke ŝi malbeliĝis, neniu ŝin avertis pri tio: ŝi memorigis al Kandido pri liaj promesoj per tono tiom ordona, ke la bona Kandido ne aŭdacis rifuzi. Li do konigis al la barono, ke li edziĝos al lia fratino.</p>
 <p>— Neniam mi toleros tion, — diris la barono, — nek tian malnoblon ŝiaflanke, nek tian ofendan malrespekton viaflanke; tian misfamegon oni al mi ne riproĉos, ke la infanoj de mia fratino ne povos partopreni la nobelajn asembleojn en Germanio. Ne, mia fratino povas edziniĝi nur al barono el la Imperio.</p>
 <p>Kunegundo sin ĵetis al liaj piedoj kaj malsekigis ilin per larmoj; li restis malcedema.</p>
@@ -1332,11 +1382,11 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <p>En la fundo de sia koro Kandido tute ne deziris edziĝi al Kunegundo. Sed la ekstrema aroganteco de la barono lin instigis plenumi la edziĝon, kaj Kunegundo tiom forte insistis, ke li ne povis rompi sian promeson. Li konsultis Pangloson, Martenon kaj la fidelan Kakambon.</p>
 <p>Pangloso verkis belan disertacion, en kiu li pruvis, ke la barono havis neniun rajton super sia fratino, kaj ke ŝi povis, laŭ ĉiuj leĝoj de la imperio, edziniĝi al Kandido morganate. Marteno rekomendis ĵeti la baronon en la maron. Kakambo konsilis redoni lin al la Levantena mastro, kiu lin denove traktu kiel punlaborulon; kaj poste per la unua konvena ŝipo resendi lin en Romon al la patro generalo. La konsilo tre plaĉis; ankaŭ la maljunulino ĝin aprobis; al Kunegundo ili diris nenion. Kun iom da mono la plano bonege prosperis, kaj oni ĝuis la plezuron trompi Jezuiton kaj puni la malhumilon de Germana barono.</p>
 <p>Oni povus supozi, ke post tiom da malfeliĉoj Kandido, edziĝinte al sia amantino kaj vivante kun la filozofo Pangloso, la filozofo Marteno, la prudenta Kakambo kaj la maljunulino, kunportinte tiom da diamantoj el la patrujo de la antikvaj Inkaoj, ĝuos plej agrablan vivon. Sed la Judoj lin tiel fraŭdis, ke restis al li nur la malgranda farmbieno; lia edzino, ĉiutage pli kaj pli malbeliĝante, fariĝis kverelema kaj neeltenebla; la maljunulino kadukiĝis kaj estis eĉ pli malbonhumora ol Kunegundo. Kakambo, kiu laboris en la ĝardeno kaj iradis al Istanbulo por vendi legomojn, estis lacega de laboro kaj malbenadis sian sorton. Pangloson afliktis la maleblo brili en iu Germania universitato. Koncerne Martenon, li estis firme konvinkita, ke ĉie oni statas malbone; li pacience rilatis al la aferoj. Fojfoje Kandido, Marteno kaj Pangloso disputis pri metafiziko kaj moralo.</p>
-<p>Antaŭ la fenestroj de la farmdomo ofte preterpasis ŝipoj plenaj je efendioj,<a l:href="#n100" type="note">[123]</a> paŝaoj, kadioj ekzilataj al Lemnoso, Mitileno, Erzurumo. Oni vidis veni aliajn kadiojn, paŝaojn, efendiojn, kiuj anstataŭis la elpelitojn kaj poste siavice estis elpelataj. Oni vidis dehakitajn kapojn, pajle remburitajn, transportatajn por prezento ĉe la Alta Pordego.<a l:href="#Pordego" type="note">[124]</a> Tiuj spektakloj plivigligis la diskutojn kaj kiam oni ne diskutis, la enuo estis tiom supermezura, ke iun tagon la maljunulino eĉ diris:</p>
+<p>Antaŭ la fenestroj de la farmdomo ofte preterpasis ŝipoj plenaj je efendioj,<a l:href="#n100" type="note">[124]</a> paŝaoj, kadioj ekzilataj al Lemnoso, Mitileno, Erzurumo. Oni vidis veni aliajn kadiojn, paŝaojn, efendiojn, kiuj anstataŭis la elpelitojn kaj poste siavice estis elpelataj. Oni vidis dehakitajn kapojn, pajle remburitajn, transportatajn por prezento ĉe la Alta Pordego.<a l:href="#Pordego" type="note">[125]</a> Tiuj spektakloj plivigligis la diskutojn kaj kiam oni ne diskutis, la enuo estis tiom supermezura, ke iun tagon la maljunulino eĉ diris:</p>
 <p>— Mi tre dezirus scii, kio estas pli malbona, ĉu esti centfoje seksperfortata de Negraj piratoj, havi gluteon fortranĉita, esti bastonbatata ĉe la Bulgaroj, esti aŭtodafee vipata kaj pendumata, esti sekcata, remadi en galero, fine sperti ĉiujn malfeliĉojn, kiujn ni ĉiuj travivis — aŭ resti ĉi tie, nenion farante?</p>
 <p>— Tio estas grava demando, — diris Kandido.</p>
 <p>La vortoj de la maljunulino kondukis al novaj pripensoj, kaj precipe Marteno konkludis, ke la homo naskiĝas por vivi en konvulsioj de maltrankvilo, aŭ en letargio de enuo. Kandido malkonsentis, sed sen ion ajn aserti. Pangloso konfesis, ke li ĉiam terure suferis; sed ke unu fojon akceptinte la opinion, ke ĉio statas mirinde bone, li ĉiam ĝin defendas, eĉ ne plu ĝin kredante.</p>
-<p>Unu afero plifirmigis Martenon en liaj ŝokaj principoj, pli ol iam ŝancelis Kandidon kaj embarasis Pangloson. Iun tagon ili vidis veni en sian farmbienon Violeton kaj fraton Levkojo, ambaŭ en plej ekstrema mizero. Tre rapide ili elspezis la tri mil piastrojn, disiĝis, rekuniĝis, malpaciĝis, trafis en malliberejon, forkuris, kaj fine frato Levkojo fariĝis Turko.<a l:href="#n102" type="note">[125]</a> Violeto plu ĉie praktikis sian metion, sed apenaŭ povis perlabori ion.</p>
+<p>Unu afero plifirmigis Martenon en liaj ŝokaj principoj, pli ol iam ŝancelis Kandidon kaj embarasis Pangloson. Iun tagon ili vidis veni en sian farmbienon Violeton kaj fraton Levkojo, ambaŭ en plej ekstrema mizero. Tre rapide ili elspezis la tri mil piastrojn, disiĝis, rekuniĝis, malpaciĝis, trafis en malliberejon, forkuris, kaj fine frato Levkojo fariĝis Turko.<a l:href="#n102" type="note">[126]</a> Violeto plu ĉie praktikis sian metion, sed apenaŭ povis perlabori ion.</p>
 <p>— Ĝuste tion mi antaŭvidis, — diris al Kandido Marteno, — ke viajn donacojn ili baldaŭ disperdos kaj falos en eĉ pli grandan mizeron. Vi havis milionojn da piastroj, vi kaj Kakambo, kaj vi ne estas pli feliĉaj ol frato Levkojo kaj Violeto.</p>
 <p>— Ha, ha! — diris al Violeto Pangloso, — la Ĉielo mem alkondukas vin inter nin, mia kompatinda infano! Ĉu vi scias, ke vi kostis al mi la nazpinton, okulon kaj orelon? Kiel vi nun aspektas! He! kia estas ĉi tiu mondo!</p>
 <p>Tiu okazaĵo instigis ilin filozofiadi pli ol kutime.</p>
@@ -1349,16 +1399,16 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <p>— Silentu, — diris la derviŝo.</p>
 <p>— Mi esperis, — diris Pangloso, — ke ni iom rezonados pri la efikoj kaj la kaŭzoj, pri la plej bona el ĉiuj eblaj mondoj, pri la deveno de l’ malbono, pri la naturo de la animo kaj pri la praestablita harmonio.</p>
 <p>Ĉe tiuj vortoj la derviŝo fermis la pordon antaŭ ilia nazo.</p>
-<p>Dum tiu interparolado, diskoniĝis la novaĵo, ke en Istanbulo oni ĵus strangolis du divanajn vezirojn<a l:href="#n103" type="note">[126]</a> kaj la muftion, kaj ke oni palisumis plurajn el iliaj amikoj. Tiu katastrofo kaŭzis grandan bruon, kiu daŭris plurajn horojn. Pangloso, Kandido kaj Marteno, revenante al sia farmbieneto, ekvidis bonan maljunulon, kiu sidis ĉe sia pordo, ĝuante malvarmeton en ombro de oranĝarboj. Pangloso, tiom scivolema, kiom rezonema, lin demandis pri la nomo de la ĵus strangolita muftio.</p>
-<p id="Istamb">— Mi ne scias, — respondis la bonulo, — neniam mi konis la nomon de iu ajn muftio nek de iu ajn veziro. Mi scias nenion pri la evento, kiun vi rakontas; mi opinias, ke ĝenerale kiuj sin enmiksas en la publikajn aferojn, tiuj iafoje pereas mizere kaj laŭmerite; sed neniam mi demandas pri tio, kio okazas en Istanbulo; al mi sufiĉas, ke mi sendas tien por vendo fruktojn el la ĝardeno, kiun mi kulturas.</p>
-<p>Dirinte tiujn vortojn, li enirigis la fremdulojn en sian hejmon: du liaj filinoj kaj du liaj filoj prezentis al ili diversajn hejmfaritajn ŝorbetojn, kajmakojn<a l:href="#n106" type="note">[127]</a>, punktitajn per ŝeloj de konfitita cedrato, oranĝojn, citronojn, ananasojn, pistakojn, kafon el Mokao, ne miksitan kun kafaĉo el Batavio aŭ el la [Amerikaj] insuloj. Poste la du filinoj de la bona Islamano parfumis la barbojn de Kandido, de Pangloso kaj de Marteno.</p>
+<p>Dum tiu interparolado, diskoniĝis la novaĵo, ke en Istanbulo oni ĵus strangolis du divanajn vezirojn<a l:href="#n103" type="note">[127]</a> kaj la muftion, kaj ke oni palisumis plurajn el iliaj amikoj. Tiu katastrofo kaŭzis grandan bruon, kiu daŭris plurajn horojn. Pangloso, Kandido kaj Marteno, revenante al sia farmbieneto, ekvidis bonan maljunulon, kiu sidis ĉe sia pordo, ĝuante malvarmeton en ombro de oranĝarboj. Pangloso, tiom scivolema, kiom rezonema, lin demandis pri la nomo de la ĵus strangolita muftio.</p>
+<p id="Istamb">— Mi ne scias, — respondis la bonulo, — neniam mi konis la nomon de iu ajn muftio nek de iu ajn veziro. Mi scias nenion pri la evento, kiun vi rakontas; mi opinias, ke ĝenerale, kiuj sin enmiksas en la publikajn aferojn, tiuj iafoje pereas mizere kaj laŭmerite; sed neniam mi demandas pri tio, kio okazas en Istanbulo; al mi sufiĉas, ke mi sendas tien por vendo fruktojn el la ĝardeno, kiun mi kulturas.</p>
+<p>Dirinte tiujn vortojn, li enirigis la fremdulojn en sian hejmon: du liaj filinoj kaj du liaj filoj prezentis al ili diversajn hejmfaritajn ŝorbetojn, kajmakojn<a l:href="#n106" type="note">[128]</a>, punktitajn per ŝeloj de konfitita cedrato, oranĝojn, citronojn, ananasojn, pistakojn, kafon el Mokao, ne miksitan kun kafaĉo el Batavio aŭ el la [Amerikaj] insuloj. Poste la du filinoj de la bona Islamano parfumis la barbojn de Kandido, de Pangloso kaj de Marteno.</p>
 <p>— Evidente, — diris Kandido al la Turko, — vi posedas vastan kaj bonegan bienon, ĉu?</p>
 <p>— Nur dudek akreojn, — respondis la Turko. — Mi kulturas ilin kun miaj infanoj; la laboro forpelas de ni tri grandajn malbonojn: la enuon, la malvirton kaj la mizeron.</p>
 <p>Dum la reveno al la farmobieno Kandido profunde pripensis la parolojn de la Turko. Li diris al Pangloso:</p>
 <p>— Ŝajnas al mi, ke la bona maljunulo aranĝis al si situacion preferindan ol tiu de la ses reĝoj, kun kiuj ni havis la honoron vespermanĝi.</p>
 <p>— La altrangeco, — diris Pangloso, — estas tre danĝera, laŭ la raporto de ĉiuj filozofoj: ĉar fine Eglonon, reĝon de la Moabidoj, murdis Ehudo; Abŝalomo ekpendis je la haroj kaj estis trapikita per tri lancoj; la reĝon Nadabo, filon de Jerobeamo, mortigis Baaŝo; la reĝon Elao, Zimrio; Jehoaĥazon, Jehuo; Ataljan, Jehojada’; la reĝoj Jehojakim’, Jehojaĥin’, Cidkija’ estis sklavoj. Vi scias, kiel pereis Krezo, Astiago, Dario, Dionizio de Sirakuzo, Pirro, Perseo, Hanibalo, Jugurto, Ariovisto, Cezaro, Pompeo, Nerono, Otono, Vitelio, Domiciano, Riĉardo la 2ª de Anglio, Mario Stuarto, Karlo la 1ª, la tri Henrikoj de Francio, la imperiestro Henriko la 4ª? Vi scias…</p>
 <p>— Mi ankaŭ scias, — diris Kandido, — ke ni devas kulturi nian ĝardenon.</p>
-<p>— Vi pravas, — diris Pangloso. — Ĉar la enloĝigo de la homo «en la ĝardenon Edenan» okazis «por ke li prilaboradu ĝin»<a l:href="#n110" type="note">[128]</a>; kio pruvas, ke la homo ne naskiĝis por ripozi.</p>
+<p>— Vi pravas, — diris Pangloso. — Ĉar la enloĝigo de la homo «en la ĝardenon Edenan» okazis «por ke li prilaboradu ĝin»<a l:href="#n110" type="note">[129]</a>; kio pruvas, ke la homo ne naskiĝis por ripozi.</p>
 <p>— Ni ne rezonadu sed laboru, — diris Marteno. — Tio estas la sola maniero igi la vivon tolerebla.</p>
 <p>La tuta malgranda societo tion alcelis; ĉiu ekaplikis siajn talentojn. La malgranda bieno multe produktis. Verdire Kunegundo estis tre malbela, sed ŝi fariĝis tre bona kukistino; Violeto brodis; la maljunulino prizorgis la tolaĵon. Eĉ frato Levkojo utilis: li iĝis tre bona lignaĵisto, kaj eĉ honestulo; kaj Pangloso fojfoje diradis al Kandido:</p>
 <p>— Ĉiuj okazoj estas interligitaj en la plej eble bona el la mondoj: ĉar fine, se vi ne estus forpelita el bela kastelo per fortaj piedbatoj sur la postaĵon pro amo al fraŭlino Kunegundo, se vi ne spertus la Inkvizicion, se vi ne trakurus piede Amerikon, se vi ne donus fortan spadobaton al la barono, se vi ne perdus ĉiujn viajn ŝafojn el la bona lando Eldorado — vi ne manĝus ĉi tie konfititajn cedratojn kaj pistakojn.</p>
@@ -1378,6 +1428,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <tr><td>Alta Pordego</td><td>Noblega Pordo</td><td>sublime Porte</td></tr>
 <tr><td>Amsterdamo</td><td>Amsterdam</td><td>Amsterdam</td></tr>
 <tr><td>Andalusio</td><td>Andaluzio</td><td>Andalousie (Andalucía)</td></tr>
+<tr><td>Apatiko</td><td>Pokokurant</td><td>Pococurante</td></tr>
 <tr><td>Ariovisto</td><td>Ariovistus</td><td>Arioviste</td></tr>
 <tr><td>Askanio</td><td>Askanius</td><td>Ascanius</td></tr>
 <tr><td>Astiago</td><td>Astiagos</td><td>Astyage</td></tr>
@@ -1420,6 +1471,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <tr><td>Don-Isaĥaro</td><td>don Isaĥar</td><td>don Issachar</td></tr>
 <tr><td>Istanbulo</td><td>Konstantinoplo</td><td>Constantinople</td></tr>
 <tr><td>Ivano</td><td>Ivan</td><td>Ivan (Иванъ)</td></tr>
+<tr><td>Jansenanoj</td><td>Jansenistoj</td><td>jansénistes</td></tr>
 <tr><td>Jehoaĥazo</td><td>Oĥosias</td><td>Ochosias</td></tr>
 <tr><td>Jehojada’</td><td>Joiada</td><td>Joïada</td></tr>
 <tr><td>Jehojaĥin’</td><td>Jeĥonias</td><td>Jéchonias</td></tr>
@@ -1470,7 +1522,8 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <tr><td>Miltono</td><td>Milt’n</td><td>Milton</td></tr>
 <tr><td>Mitileno</td><td>Mitilen</td><td>Mytilène (Μυτιλήνη)</td></tr>
 <tr><td>Moabidoj</td><td>Moabitoj</td><td>Moabites</td></tr>
-<tr><td>Mokaо</td><td>Moka</td><td>Moka</td></tr>
+<tr><td>Mokao</td><td>Moka</td><td>Moka</td></tr>
+<tr><td>Molinanoj</td><td>Molinistoj</td><td>molinistes</td></tr>
 <tr><td>Monimo</td><td>Monim</td><td>Monime</td></tr>
 <tr><td>Montepulĉano</td><td>Montepulciano</td><td>Montepulciano</td></tr>
 <tr><td>Mulaj-Ismaelo</td><td>Mulej-Ismael</td><td>Mulei-Ismael</td></tr>
@@ -1487,11 +1540,10 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <tr><td>Pirro</td><td>Pirhos</td><td>Pyrrhus (Πύρρος)</td></tr>
 <tr><td>Pisaro</td><td>Pizaro</td><td>Pizarro</td></tr>
 <tr><td>Platono</td><td>Plato</td><td>Platon (Πλάτων)</td></tr>
-<tr><td>Pokozorgo</td><td>Pokokurant</td><td>Pococurante</td></tr>
 <tr><td>Pompeo</td><td>Pompejo</td><td>Pompée</td></tr>
-<tr><td>Portsmuto</td><td>Portsmt</td><td>Portsmouth</td></tr>
+<tr><td>Porcmuto</td><td>Portsmt</td><td>Portsmouth</td></tr>
 <tr><td>Rabirio</td><td>Rabirius</td><td>Rabirius</td></tr>
-<tr><td>Rablezo</td><td>Rable</td><td>(Rabelais)</td></tr>
+<tr><td>Rablezo</td><td>Rable</td>t<d>(Rabelais)</td></tr>
 <tr><td>Rakoci’</td><td>Ragocki</td><td>Ragotski (Rákóczi)</td></tr>
 <tr><td>Ralfo</td><td>Ralf</td><td>Ralph</td></tr>
 <tr><td>Rigo</td><td>Riga</td><td>Riga</td></tr>
@@ -1510,7 +1562,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 <tr><td>Sjeramoreno</td><td>Siera-Morena</td><td>Siera Morena</td></tr>
 <tr><td>Socino</td><td>Socin</td><td>lat. Socinus, it. Sozzini</td></tr>
 <tr><td>Stanislavo</td><td>Stanislas</td><td>(Stanisław)</td></tr>
-<tr><td><a l:href="https://eo.wikipedia.org/wiki/Suda_Rio-Grando">Suda Riogrando</a></td><td colspan="2">Rio Grande do Sul [riu grandi du sul]</td></tr>
+<tr><td><a l:href="https://eo.wikipedia.org/wiki/Suda_Rio-Grando">Suda Riogrando</a></td><td>—</td><td>(Rio Grande do Sul)</td></tr>
 <tr><td>Surinamo</td><td>Surinam</td><td>Surinam (Suriname)</td></tr>
 <tr><td>Tetuano</td><td>Tetuan</td><td>Tétuan</td></tr>
 <tr><td>Trevuo</td><td>Trevu</td><td>Trévoux</td></tr>
@@ -1535,7 +1587,7 @@ altabliĝis kun Marteno, flegme observanta ĉiujn ĉi tiujn aventurojn, kaj kun 
 </body>
 
 <body name="notes"><title><p>Notoj</p></title>
-<section id="VLS"><title><p>[1]</p></title><p>Ĉi tie kaj poste, «<strong>V:</strong>» referencas la <strong>V</strong>olteran originalon; «<strong>L:</strong>», la <strong>L</strong>antian tradukon; «<strong>S:</strong>», ties prilaboraĵon fare de <strong>S</strong>ergio Pokrovskij; «<strong>A:</strong>», «<strong>G:</strong>», «<strong>R:</strong>», la tradukojn Anglan, Germanan, Rusan (indikitajn en la Referencoj per resp. [A], [G], [R]).</p></section>
+<section id="VLS"><title><p>[1]</p></title><p>Ĉi tie kaj poste, «<strong>V:</strong>» referencas la <strong>V</strong>olteran originalon; «<strong>L:</strong>», la <strong>L</strong>antian tradukon; «<strong>S:</strong>», ties prilaboraĵon fare de <strong>S</strong>ergio Pokrovskij; «<strong>A:</strong>», «<strong>G:</strong>», «<strong>R:</strong>», la tradukojn Anglan, Germanan, Rusan (indikitajn en la <a l:href="#Ref">Referencoj</a> per resp. [A], [G], [R]).</p></section>
 <section id="anatop"><title><p>[2]</p></title><p>T.e. ne konforme kun la kutimoj aŭ moroj de la koncerna loko (de la Malnovgrekaj ἀνά, ‹kontraŭ› kaj τόπος, ‹loko›).</p></section>
 <section id="Meyers"><title><p>[3]</p></title><p>Ekz‑e laŭ la Germana „<a l:href="http://www.zeno.org/Kategorien/T/Meyers-1905?fr=Lieue">Meyers Großes Konversations-Lexikon</a>“ (1905–1909): „<strong>Lieue</strong> (spr. ljö), die französische Meile, früher in verschiedener Größe“.</p></section>
 <section id="Jones"><title><p>[4]</p></title><p>Daniel Jones: Everyman’s English Pronouncing Dictionary.</p></section>
@@ -1626,7 +1678,7 @@ France la substantivo <emphasis>patagon</emphasis> povas indiki iamajn arĝentaj
 <section id="n55"><title><p>[78]</p></title><p>Maniĥeo estis filozofo, kiu vivis en Persio en la 3ª jarcento. La Maniĥeanoj instruis la religion kaj filozofian dogmon, laŭ kiu la mondo estas la faro de du kontraŭaj principoj, unu bona, la alia malbona, ambaŭ eternaj, sendependaj kaj egale potencaj. — <emphasis>L.</emphasis></p></section>
 <section id="okupo"><title><p>[79]</p></title><p>Verkite dum la Sepjara milito. — <emphasis>S.</emphasis></p></section>
 <section id="n57"><title><p>[80]</p></title><p>La Jezuitoj.</p></section>
-<section id="n58"><title><p>[81]</p></title><p>Aludo al mistikaj histeriuloj, kiuj vizitadis la tombon de la diakono Pariso (<emphasis>Pâris</emphasis>) kaj tie estis atakataj de konvulsioj. Ĝenerale tiuj fanatikuloj estis Jansenistoj, religia grupo malamika al la Jezuitoj. — <emphasis>L.</emphasis></p></section>
+<section id="n58"><title><p>[81]</p></title><p>Aludo al mistikaj histeriuloj, kiuj vizitadis la tombon de la diakono Pariso (<emphasis>Pâris</emphasis>) kaj tie estis atakataj de konvulsioj. Ĝenerale tiuj fanatikuloj estis Jansenanoj, religia grupo malamika al la Jezuitoj. — <emphasis>L.</emphasis></p></section>
 <section id="n59"><title><p>[82]</p></title><p>Probable «Teorio de la Tero» de Bufono (1749) kun hipotezo eksplikanta la malkovron de maraj fosilioj sur montaj suproj. (Aŭ pli banale, <emphasis>Genezo</emphasis> 1:2.) — <emphasis>S.</emphasis></p></section>
 <section id="habitue"><title><p>[83]</p></title><p><strong>V:</strong> <emphasis>un habitué du quartier.</emphasis> Temas pri ekleziulo servanta en paroĥo sen difinita rango aŭ posteno. — <emphasis>S.</emphasis></p></section>
 <section id="n60"><title><p>[84]</p></title><p>Aludo al tiutempa skandalo pri vendado de konfesbiletoj. — <emphasis>L.</emphasis> (La malklaran frazofinon de post «petis…» mi lasas senŝanĝa laŭ la traduko de Lanti’. <emphasis>Konfesbileto</emphasis> estis papero atestanta akcepton de kontraŭ-Jansenisma buleo <emphasis>«Unigenitus»,</emphasis> sen kiu atestilo, de post 1749, la Eklezio rifuzis al la suspektatoj pri Jansenismo la lastajn sakramentojn kaj entombigon en konsekrita loko. — <emphasis>S.</emphasis>)</p></section>
@@ -1648,39 +1700,40 @@ dum mi ĉi tie elektis la duan interpreton. — <emphasis>S.</emphasis></p></sec
 <section id="oblojn"><title><p>[96]</p></title><p>France resp. <emphasis>paroli</emphasis> kaj <emphasis>sept-et-le-va,</emphasis> la faraonludaj terminoj pri obligo de vetaĵo. Por signi tian obligon oni faldis angulon de ludkarto. — <emphasis>S.</emphasis></p></section>
 <section id="n66"><title><p>[97]</p></title><p>Tiutempe estis kutimo friponi ĉe ludado. Tion pruvas la fakto, ke du jarojn antaŭ la apero de <emphasis>Kandido</emphasis> jam ekzistis verko titolita: «Historio pri la Grekoj aŭ pri tiuj, kiuj artifike kompensas la misŝancon ĉe ludado» (<emphasis>Ange Gudar: Histoire des Grecs ou de ceux qui corrigent la fortune au jeu,</emphasis> 1757). — <emphasis>Noto en la Franca eldono.</emphasis></p></section>
 <section id="n67"><title><p>[98]</p></title><p>France: <emphasis>Gauchat,</emphasis> li estis abato en Sankta Petro de Falezo (France: <emphasis>Falaise</emphasis>) kaj prioro de Sankta Andreo; furioza kontraŭulo de la filozofoj, li plurfoje atakis Volteron. — <emphasis>L.</emphasis></p></section>
-<section id="n68"><title><p>[99]</p></title><p>Policistoj Parizaj portas tian bastonon.</p></section>
-<section id="n70"><title><p>[100]</p></title><p>En la epoko de la Roma imperio vivis en la norda parto de la nuna Francio popolo, kies anoj nomiĝis Atrebatoj, ilia ĉefurbo kuŝis ĉe la loko, kie nun troviĝas Araso (France: <emphasis>Arras</emphasis>). Voltero fantazie uzis tiun nomon de popolo, por diri, ke Damjeno (France: <emphasis>Damiens</emphasis>), la reĝatencinto estis el tiu regiono. — <emphasis>L.</emphasis></p></section>
+<section id="Molina"><title><p>[99]</p></title><p>La <strong>Molinanoj</strong> estis adeptoj de <emphasis>Molinismo,</emphasis> doktrino de Hispana teologo kaj Jezuito <emphasis>Luizo Molino</emphasis> (1535–1600), kiu (male ol la antaŭdistenismemaj Hispanaj Dominikanoj kaj poste la Jansenanoj) allasis la ekziston de la <emphasis>libera volo</emphasis> en la homo. La polemiko inter la Jansenanoj kaj Molinanoj (fakte, la Jezuitoj ĝenerale) estas grava parto de la Francia historio de la 17ª kaj 18ª jarcentoj. — <emphasis>S.</emphasis></p></section>
+<section id="n70"><title><p>[100]</p></title><p>En la epoko de la Roma imperio vivis en la norda parto de la nuna Francio popolo, kies anoj nomiĝis Atrebatoj, ilia ĉefurbo kuŝis ĉe la loko, kie nun troviĝas Araso (France: <emphasis>Arras</emphasis>). Voltero fantazie uzis tiun popolnomon por diri, ke Damjeno (France: <emphasis>Damiens</emphasis>) la reĝatencinto estis el tiu regiono. — <emphasis>L.</emphasis></p></section>
 <section id="n71"><title><p>[101]</p></title><p>La reĝo estis konsiderata kiel la patro de la popolo. — <emphasis>L.</emphasis></p></section>
 <section id="n72"><title><p>[102]</p></title><p>Temas pri murdo de Henriko la 4ª de Francio.</p></section>
 <section id="n73"><title><p>[103]</p></title><p>La 27-an de decembro, Johano Ŝatel’ (France: <emphasis>Jean Chatel</emphasis>) atencis kontraŭ Henrikon la 4-an per tranĉilbato. — <emphasis>L.</emphasis></p></section>
-<section id="n75"><title><p>[104]</p></title><p>En 1759, la Angloj invadis Kanadon kaj Francio devis ĝin cedi per la Pariza kontrakto en 1763.</p></section>
-<section id="n76"><title><p>[105]</p></title><p>Admiralo Bing’ (angle: <emphasis>Byng</emphasis>) ekzekutita la 14-an de marto 1757 pro sia malvenko apud Minorko.</p></section>
+<section id="n75"><title><p>[104]</p></title><p>En 1759 la Angloj invadis Kanadon kaj Francio devis ĝin cedi per la Pariza kontrakto en 1763.</p></section>
+<section id="n76"><title><p>[105]</p></title><p>Admiralo Bing’ (angle: <emphasis>Byng</emphasis>) ekzekutita en 1757-03-14 pro sia malvenko apud Minorko.</p></section>
 <section id="n77"><title><p>[106]</p></title><p>Oni memoru pri la ĉapitroj <a l:href="#cx05">5ª</a> kaj <a l:href="#cx06">6ª</a>.</p></section>
 <section id="n78"><title><p>[107]</p></title><p>Itala esprimo: Laŭmoda.</p></section>
 <section id="n79"><title><p>[108]</p></title><p>La Teatanoj estis ekleziuloj de la kongregacio de Latrano; ili portis nigran sutanon, nigran mantelon kaj blankajn ŝtrumpojn. Ili predikis, vizitis la malsanulojn kaj malliberulojn, apudestis la ekzekutotojn, ktp. Ili havis nek bienojn, nek rentojn. — <emphasis>L.</emphasis></p></section>
 <section id="n80"><title><p>[109]</p></title><p><emphasis>Lacryma Christi</emphasis>, muskatvino el regiono ĉe la bazo de l’ vulkano Vezuvio. — <emphasis>L.</emphasis></p></section>
-<section id="Pokozorgo"><title><p>[110]</p></title><p><strong>V:</strong> Pococurante, t.e. «havanta malmulte da zorgoj» (laŭ la Italaj <emphasis>poco</emphasis> = malgranda, <emphasis>cura</emphasis> = zorgo). Laŭlitera esperantigo de tiu fikcia nomo ne taŭgas, ĉar <emphasis>kuranto</emphasis> pensigas ne pri zorgo, sed pri kurado. — <emphasis>S.</emphasis></p></section>
+<section id="Apatiko"><title><p>[110]</p></title><p><strong>V:</strong> Pococurante, t.e. «havanta malmulte da zorgoj» (laŭ la Italaj <emphasis>poco</emphasis> = malgranda, <emphasis>cura</emphasis> = zorgo). Transskriba esperantigo de tiu fikcia nomo ne taŭgas, ĉar <emphasis>kuranto</emphasis> pensigas ne pri zorgo, sed pri kurado; tial mi ĝin «aliitaligis» per <emphasis>Apàtico</emphasis> → Apatiko, ‹apatia›. Voltero opiniis tiun romanpersonon simila al li mem; kaj laŭ PIV, «kelkaj helenaj filozofoj rigardis la apation kiel la veran staton de la saĝulo». — <emphasis>S.</emphasis></p></section>
 <section id="Brento"><title><p>[111]</p></title><p>La rivero (Itale <emphasis>Brenta</emphasis>) enfluanta Adriatikon sude de la Venecia laguno. — <emphasis>S.</emphasis></p></section>
-<section id="n82"><title><p>[112]</p></title><p>La «Perdita Paradizo» fakte enhavas 12 kantojn.</p></section>
+<section id="n82"><title><p>[112]</p></title><p>La «Perdita Paradizo» unue aperis en 10 partoj, poste rearanĝitaj en 12 partojn. — <emphasis>S.</emphasis></p></section>
 <section id="n84"><title><p>[113]</p></title><p>Aĥmedo la 3ª, turka imperiestro, fakte reĝis de 1703 ĝis 1730.</p></section>
 <section id="n85"><title><p>[114]</p></title><p>Johano la 3ª (laŭ la imperiestra kalkulo) = Ivano la 6ª (laŭ la dinastia kalkulo), naskita en 1740, samjare surtronigita kaj sekvajare detronigita de Elizabeto Petrovna, filino de Petro la Granda; murdita en 1764, 5 jarojn post la publikigo de «Kandido». — <emphasis>S.</emphasis></p></section>
 <section id="n87"><title><p>[115]</p></title><p>Karlo-Edvardo (1720–1788), alnome <emphasis>la Pretendanto</emphasis>, nepo de Jakobo la 2ª el la dinastio Stuartoj, vane provis rekonkeri la tronon okupatan de Georgo la 2ª el la Hanovra dinastio. — <emphasis>S.</emphasis></p></section>
 <section id="n89"><title><p>[116]</p></title><p>Frederiko-Aŭgusto la 2ª, hereda princo-elektisto de Saksio, iĝis elektita reĝo de la Pola-Litva Unio kiel Aŭgusto la 3ª; dum la Sepjara milito Frederiko la 2ª de Prusio lin forpelis el lia hereda Saksio (1756). Li tamen revenis Dresdenon laŭ la Hubertusburga packontrakto (1763), per kiu finiĝis la Sepjara milito. — <emphasis>S.</emphasis></p></section>
-<section id="n90"><title><p>[117]</p></title><p>Stanislavo Leŝĉinski’ (<emphasis>Stanisław Leszczyński,</emphasis> 1677–1766), reĝo de la Pola-Litva Unio (1704–1709 kaj 1733–1736) alterne kun Aŭgusto la 2ª kaj ties filo Aŭgusto la 3ª de Saksio (vd la noton <a l:href="#n89">[116]</a>); bopatro de Ludoviko la 15ª de Francio. Definitive venkite en Pollando, li ricevis, laŭ la Viena Kontrakto de 1735, dumvivan suverenecon super la dukujoj Bar’ kaj Loreno, kie li plurfoje gastigis Volteron. — <emphasis>S.</emphasis></p></section>
-<section id="n91"><title><p>[118]</p></title><p>Teodoro Neŭhof’ (<emphasis>Theodor von Neuhoff,</emphasis> 1690–1756), Vestfalia barono. Profitante ribelon de la korsikanoj kontraŭ la Ĝenova regado, li sin proklamis reĝo de Korsiko en 1736, sed retenis la tronon nur dum kelkaj monatoj. Poste li vagadis tra Eŭropo kaj plurfoje estis enprizonigata. — <emphasis>S.</emphasis></p></section>
-<section id="n93"><title><p>[119]</p></title><p><emphasis>Rákóczi Ferenc</emphasis> (1676–1735): Hungara princo; en 1707 li ribelis kontraŭ la Aŭstria regado kaj proklamis sin reĝo de Transilvanio. Post la malvenko en 1708 li fuĝis en Pollandon, de tie li migris en Francion, kaj poste (1720) en Turkion. — <emphasis>S.</emphasis></p></section>
-<section id="n94"><title><p>[120]</p></title><p><emphasis>İç oğlan,</emphasis> paĝio el Kristana familio, konvertita al Islamo kaj servanta en la sultana palaco. — <emphasis>S.</emphasis></p></section>
-<section id="n98"><title><p>[121]</p></title><p>La «pleno» (t.e. la neekzisto de la vakuo en la universo) kaj la «subtila materio» (t.e. materio en stato ne perceptebla per niaj sensoj) estas du hipotezoj, per kiuj Kartezio konstruis sian fizikan sistemon, kaj pri kiuj Voltero mokas, ĉar ili estas tiel malmulte pruvitaj, kiel la Lejbnica «praestablita harmonio» (France <emphasis>harmonie préétablie,</emphasis> germane <emphasis>prästabilierte Harmonie</emphasis>).</p></section>
-<section id="sunbruno"><title><p>[122]</p></title><p>Ĝis la 20ª jc la Eŭropanoj opiniis sunbrunon vulgara kaj malbela apartaĵo de plebanoj. — <emphasis>S.</emphasis></p></section>
-<section id="n100"><title><p>[123]</p></title><p>Turka titolo por ŝtatoficistoj, juristoj kaj kleruloj.</p></section>
-<section id="Pordego"><title><p>[124]</p></title><p><strong>La Alta Pordego:</strong> arabdevena sinekdoĥo por la rezidejo de la Otomana registaro kaj la registaro mem (arabe <emphasis>Bāb-ı Ālī,</emphasis> de <emphasis>bāb</emphasis> = pordego kaj <emphasis>alī</emphasis> = alta). — <emphasis>S.</emphasis></p></section>
-<section id="n102"><title><p>[125]</p></title><p>Konvertiĝis al Islamo. — <emphasis>L.</emphasis></p></section>
-<section id="n103"><title><p>[126]</p></title><p>En la originalo <emphasis>deux vizirs du banc</emphasis> — probable, temas pri «du <emphasis>kubbe vezirleri</emphasis>», laŭvorte «kupolaj veziroj». «Kupolaj» sinekdoĥe signifas ‹Divanaj›, ĉar la Divano kunsidis en <emphasis>Kubbealtı,</emphasis> «sub 6 kupoloj»; do, la sinekdoĥo estas samforma kaj samsignifa kiel «<emphasis>kabinetaj</emphasis> ministroj». La termino <emphasis>vizir du banc</emphasis> aperas en la «Enciklopedio». — <emphasis>S.</emphasis></p></section>
-<section id="n106"><title><p>[127]</p></title><p>Kremo apartigita de boligita lakto. Turke <emphasis>kaymak,</emphasis> ruse <emphasis>каймак. — S.</emphasis></p></section>
-<section id="n110"><title><p>[128]</p></title><p><emphasis>Genezo,</emphasis> 2:15.</p></section>
+<section id="n90"><title><p>[117]</p></title><p>Stanislavo Leŝĉinski’ (<emphasis>Stanisław Leszczyński,</emphasis> France <emphasis>Stanislas Leczinski,</emphasis> 1677–1766), reĝo de la Pola-Litva Unio (1704–1709 kaj 1733–1736) alterne kun Aŭgusto la 2ª kaj ties filo Aŭgusto la 3ª de Saksio (vd la noton <a l:href="#n89">[116]</a>); bopatro de Ludoviko la 15ª de Francio. Definitive venkite en Pollando, li ricevis, laŭ la Viena Kontrakto de 1735, dumvivan suverenecon super la dukujoj Bar’ kaj Loreno, kie li plurfoje gastigis Volteron. — <emphasis>S.</emphasis></p></section>
+<section id="Sarmacja"><title><p>[118]</p></title><p><strong>Sarmatio</strong> (Pole <emphasis>Sarmacja</emphasis>) estis mita-poezia nomo de Pollando en la 16ª–18ª jarcentoj. Laŭ la tiama <emphasis>sarmatismo,</emphasis> la pola nobelaro devenis de la antikvaj sarmatoj, kiujn oni erare opiniis popolo ĝermana. — <emphasis>S.</emphasis></p></section>
+<section id="n91"><title><p>[119]</p></title><p>Teodoro Neŭhof’ (<emphasis>Theodor von Neuhoff,</emphasis> 1690–1756), Vestfalia barono. Profitante ribelon de la korsikanoj kontraŭ la Ĝenova regado, li sin proklamis reĝo de Korsiko en 1736, sed retenis la tronon nur dum kelkaj monatoj. Poste li vagadis tra Eŭropo kaj plurfoje estis enprizonigata. — <emphasis>S.</emphasis></p></section>
+<section id="n93"><title><p>[120]</p></title><p><emphasis>Rákóczi Ferenc</emphasis> (1676–1735): Hungara princo; en 1707 li ribelis kontraŭ la Aŭstria regado kaj proklamis sin reĝo de Transilvanio. Post la malvenko en 1708 li fuĝis en Pollandon, de tie li migris en Francion, kaj poste (1720) en Turkion. — <emphasis>S.</emphasis></p></section>
+<section id="n94"><title><p>[121]</p></title><p><emphasis>İç oğlan,</emphasis> paĝio el Kristana familio, konvertita al Islamo kaj servanta en la sultana palaco. — <emphasis>S.</emphasis></p></section>
+<section id="n98"><title><p>[122]</p></title><p>La «pleno» (t.e. la neekzisto de la vakuo en la universo) kaj la «subtila materio» (t.e. materio en stato ne perceptebla per niaj sensoj) estas du hipotezoj, per kiuj Kartezio konstruis sian fizikan sistemon, kaj pri kiuj Voltero mokas, ĉar ili estas tiel malmulte pruvitaj, kiel la Lejbnica «praestablita harmonio» (France <emphasis>harmonie préétablie,</emphasis> germane <emphasis>prästabilierte Harmonie</emphasis>).</p></section>
+<section id="sunbruno"><title><p>[123]</p></title><p>Ĝis la 20ª jc la Eŭropanoj opiniis sunbrunon vulgara kaj malbela apartaĵo de plebanoj. — <emphasis>S.</emphasis></p></section>
+<section id="n100"><title><p>[124]</p></title><p>Turka titolo por ŝtatoficistoj, juristoj kaj kleruloj.</p></section>
+<section id="Pordego"><title><p>[125]</p></title><p><strong>La Alta Pordego:</strong> arabdevena sinekdoĥo por la rezidejo de la Otomana registaro kaj la registaro mem (arabe <emphasis>Bāb-ı Ālī,</emphasis> de <emphasis>bāb</emphasis> = pordego kaj <emphasis>alī</emphasis> = alta). — <emphasis>S.</emphasis></p></section>
+<section id="n102"><title><p>[126]</p></title><p>Konvertiĝis al Islamo. — <emphasis>L.</emphasis></p></section>
+<section id="n103"><title><p>[127]</p></title><p>En la originalo <emphasis>deux vizirs du banc</emphasis> — probable, temas pri «du <emphasis>kubbe vezirleri</emphasis>», laŭvorte «kupolaj veziroj». «Kupolaj» sinekdoĥe signifas ‹Divanaj›, ĉar la Divano kunsidis en <emphasis>Kubbealtı,</emphasis> «sub 6 kupoloj»; do, la sinekdoĥo estas samforma kaj samsignifa kiel «<emphasis>kabinetaj</emphasis> ministroj». La termino <emphasis>vizir du banc</emphasis> aperas en la «Enciklopedio». — <emphasis>S.</emphasis></p></section>
+<section id="n106"><title><p>[128]</p></title><p>Kremo apartigita de boligita lakto. Turke <emphasis>kaymak,</emphasis> ruse <emphasis>каймак. — S.</emphasis></p></section>
+<section id="n110"><title><p>[129]</p></title><p><emphasis>Genezo,</emphasis> 2:15.</p></section>
 </body>
 
-<!-- LocalWords:  ĉefinkvizitoro Kunegundo Kakambo Kakambon faldoŝirmilo Pangloso Kakambo gastejmastro Kakambon Tondrotratrunk’ Kunegundo Kunegundon abateto Portsmuto abateton Perigordan Teatano Eldoradon Violeto Pokozorgo Pangloson Aĥmedo Karlo-Edvardo Lantia Oreleguloj
+<!-- LocalWords:  ĉefinkvizitoro Kunegundo Kakambo Kakambon faldoŝirmilo Pangloso Kakambo gastejmastro Kakambon Tondrotratrunk’ Kunegundo Kunegundon abateto Porcmuto abateton Perigordan Teatano Eldoradon Violeto Apatiko Pangloson Aĥmedo Karlo-Edvardo Lantia Oreleguloj
 -->
 <binary id="cover.png" content-type="image/png">
 iVBORw0KGgoAAAANSUhEUgAAAY0AAAIvAgMAAAD19W86AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA
@@ -1804,4 +1857,8 @@ bpSt78HkHEeiCoSRLM6TxLLlkawlzJNkmYb0IzUvHwFzhOBpEHvJuZIsPB1lLXMlueWyAQcHBwcH
 BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwfH/xf+CyMX2ETKbhhNAAAAAElF
 TkSuQmCC
 </binary>
+<binary id="www.png" content-type="image/png">
+iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=
+</binary>
+
 </FictionBook>
