@@ -116,9 +116,8 @@ germanaj nobeloj estus /von/).
     the manuscript) which reminds us that this is a tale being told by
     *the obscure German with the English name, Doctor Ralph.* [ĉap. 5ª]
     
-
-
-* Promeno
+* Mezurunuoj
+** Promeno
 <p>La plej ofta mezurunuo (aperanta 10-foje) estas <strong>leŭgo</strong> (Fr <emphasis>lieue</emphasis>). Unu el ties intuicie klaraj difinoj estas «la distanco kiun averaĝa viro piediras dum 1 horo», do 4–5 km. Laŭ NPIV, leŭgo estas «proksimume 4km». Laŭ la franca Vikipedio, la «Pariza leŭgo» en la tempo de la eldono de Kandido (1759) estis 3,248km = 10<sup>4</sup> da tiamaj francaj futoj (<emphasis>pieds</emphasis>).</p>
 <p>Lanti’ tradukas la francan <emphasis>lieue</emphasis> per <emphasis>mejlo,</emphasis> probable ĉar leŭgo ankoraŭ ne ekzistis en Esperanto, tamen sen konverta rekalkulo: «deux lieues» → «du mejloj» [ĉap. 2ª]. Same faria la tradukistoj pola kaj rusa; kaj la germana „<a l:href="#http://www.zeno.org/Kategorien/T/Meyers-1905?fr=Lieue">Meyers Großes Konversations-Lexikon</a>“ (1905–1909) rekte asertas ke leŭgo estas «la franca mejlo, antaŭe diverslonga» (<strong>Lieue</strong> (spr. ljö), die französische Meile, früher in verschiedener Größe). Tio tamen estas malvera, kaj Voltero en du okazoj indikas distancon en mejloj.</p>
 <p>Mi tamen koncedas, ke iam traduko per mejloj aspektas pli versimile. Ekz‑e [Ĉap. 2ª]:
@@ -128,7 +127,7 @@ germanaj nobeloj estus /von/).
 <p>Promeno 8-kilometra estas iom longa, sed ja imagebla. Strange impresas la adverbo: «<emphasis>apenaŭ</emphasis> li estis irinta 8km…». Post 
 
 
-* Leŭgoj
+** Leŭgoj
 
 je lui ai envoyé à deux mille cinq cents lieues d’ici un exprès dont j’attends la réponse [ĉap. 22]
 kaj ke mi sendis al ŝi, je du mil kvincent mejloj for de ĉi tie, ekspresulon, kies respondon mi atendas.
@@ -155,13 +154,13 @@ la lieue des Postes 	(1737-1793) 	2 200 toises 	=  4,288 km
 On trouvait également une lieue de marche « extrêmement variable » ,
 correspondant à une distance parcourue en une heure.
 
-* Mejlo
+** Mejlo
 ★mejl/o 1 Mezurunuo de longo por teraj vojaĝoj: romia mejlo (1 472,5
 m), angla mejlo (1 609,31 m); franca mejlo (7 422 m); germana mejlo
 (7 500 m); sveda mejlo (10 000 m). ☞ kilometro.
 
 
-* Futoj
+** Futoj
 
 Prusa:
 6-й старый прусский пехотный полк (нем. Altpreußisches
@@ -174,8 +173,10 @@ kvin futojn kaj kvin colojn? = 5×12 + 5 = 65 coloj
 https://ru.wikipedia.org/wiki/Потсдамские_великаны
 Zoll 	Preußen 	1755 	0,026 154 5 m
 
+** Eskudoj
+<p>Krom tiajn ekzotajn monerojn Voltero volonte uzas «eskudojn» (France <i lang="fr">écu</i>), hejman moneron de siaj legantoj — eĉ en epizodoj Vestfalia (<a href="#talero02">ĉap. 2ª</a>) aŭ Turkia (<a href="#talero27">ĉap. 27ª</a>). En Esperanto tiu rolo de unueca hejma monero pli konvenas al <em>talero,</em> vorto oficialigita jam en la 1ª OA; cetere, «talero» pli konvenas ankaŭ situacie (talero ja efektive estis uzata en la menciitaj landoj), kaj internacie: ĝi estas la etimo de <i lang="en">dollar;</i> «piastro» estas alinome «hispana talero/dolaro» ktp.</p>
 
-labuś
+* labuś
 
 32. Kaj tiu de sufiĉa racio, laŭ kiu ni konsideras ke nenia fakto
     povas troviĝi vera aŭ ekzistanta, nenia elparolato vereca, se ne
@@ -688,9 +689,18 @@ S: Via Majesto, *la kabrioleto* estas en Padovo kaj la barko pretas.
 ĉi-okaze temas pri veturilo, kiu atendas en la apuda urbeto Paduo,
 kien el Venecio oni iros per barko.)
 
+----
+ĉap. 28ª:
+V: ne savez-vous pas que le diable est toujours dans le corps de ces gens-là?
+L: Ĉu do vi ne scias, ke la diablo ĉiam estas en la korpo de tiaj homoj?
+S: Ĉu vi ne scias, ke en la korpo de tiaj homoj estas la diablo?
 
-
-
+<p>Jen okazo kie V uzas pasivon pragmatike, L ĝin aktivigas kaj rezultas la bona vortordo Esperanta (ĉap. 29ª):
+<cite>
+  <p><strong>V:</strong> cette infamie ne me sera jamais reprochée</p>
+  <p><strong>L:</strong> tian malbonfamegon oni ne povos riproĉi al mi</p>
+  <p><strong>S:</strong> tian misfamegon mi ne allasos.</p>
+</cite>
 
 
 * 7-Jara Milito: (1756—1763).
