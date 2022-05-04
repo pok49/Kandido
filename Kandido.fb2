@@ -54,7 +54,7 @@ p[style="letero"]{ font-size: normal; font-style: italic; }
 <date value="2021-07-27">2021</date>
 <src-url>https://eo.wikisource.org/wiki/Kandid</src-url>
 <id>2021-07-27E</id>
-<version>2.9</version>
+<version>2.91</version>
 </document-info>
 <publish-info>
 </publish-info>
@@ -153,6 +153,14 @@ p[style="letero"]{ font-size: normal; font-style: italic; }
 <p><strong>G<sub>20</sub>:</strong> Die alten Diener des Hauses munkelten, er sei <emphasis>das Kind</emphasis> <strong>einer Schwester</strong> des Herrn Barons und eines guten braven Edelmannes aus der Nachbarschaft</p>
 <p><strong>S:</strong> La malnovaj servistoj suspektis, ke li estas <emphasis>filo</emphasis> de <emphasis>fratino</emphasis> de lia barona moŝto kaj de brava kaj bona nobelo najbara.</p>
 </cite>
+
+<p>En nenia gramatiko Esperanta mi trovas pravigon por 4 artikoloj en la konkluda frazo de la <a l:href="#laapogo">rekrutada epizodo</a> el ĉap. 2ª:</p>
+<cite>
+<p><strong>L:</strong> — Sufiĉas; nun vi estas <strikethrough>la</strikethrough> apogo, <strikethrough>la</strikethrough> subteno, <strikethrough>la</strikethrough> defendanto, <strikethrough>la</strikethrough> heroo de la Bulgaroj</p>
+<p><strong>V:</strong> C'en est assez, vous voilà l’appui, le soutien, le défenseur, le héros des Bulgares</p>
+<p><strong>S:</strong> — Sufiĉas. De nun vi estas heroo de la Bulgaroj, nia apogo, nia bastiono, nia defendanto.</p>
+</cite>
+
 <empty-line/>
 <p>En sia rutina funkcio <strong>la nedifina artikolo</strong> plej ofte ne bezonas leksikan tradukon, kvankam ofte ĝi postulas pozician remaigon de sia determinato, kiel «maljunulino» kaj «komercisto» en <a l:href="#maljunekz">ĉi-supraj ekzemploj</a>. Lanti’ tamen sporade ĝin tradukas per la superflua «iu», ekz‑e (ĉap. 19ª):</p>
 <cite>
@@ -556,7 +564,7 @@ Ideale, ĉiu generacio devas krei sian version de la klasikaj verkoj.</p>
 <section><title>
 <p>1. Pri eduko de Kandido en bela kastelo, kaj pri lia forpelo de tie</p>
 </title>
-<p>En Vestfalio, en la kastelo de lia barona moŝto Tondrotratrunk’, estis junulo kiun la naturo dotis je plej agrabla karaktero. Lia fizionomio spegulis lian animon. Li havis sufiĉe da juĝkapablo kaj la plej simplan spiriton; pro tio, mi supozas, oni lin nomis Kandido.<a l:href="#Candide" type="note">[6]</a> La malnovaj servistoj suspektis, ke li estas filo de fratino de lia barona moŝto kaj de brava kaj bona nobelo najbara, al kiu ŝi neniam volis edziniĝi, ĉar li povis pruvi nur 71 gradojn da nobeleco,<a l:href="#quartier" type="note">[7]</a> dum la cetero de lia genealogia arbo forperdiĝis.</p>
+<p>En Vestfalio, en la kastelo de lia barona moŝto Tondrotratrunk’, estis junulo kiun la naturo dotis je plej agrabla karaktero. Lia fizionomio spegulis lian animon. Li havis sufiĉe da juĝkapablo kaj plej simplan spiriton; pro tio, mi supozas, oni lin nomis Kandido.<a l:href="#Candide" type="note">[6]</a> La malnovaj servistoj suspektis, ke li estas filo de fratino de lia barona moŝto kaj de brava kaj bona nobelo najbara, al kiu ŝi neniam volis edziniĝi, ĉar li povis pruvi nur 71 gradojn da nobeleco,<a l:href="#quartier" type="note">[7]</a> dum la cetero de lia genealogia arbo forperdiĝis.</p>
 <p>Lia barona moŝto estis unu el la plej eminentaj sinjoroj Vestfaliaj, ĉar lia kastelo havis pordon kaj fenestrojn. Ĝian grandan ĉambron eĉ ornamis tapeto. Okaze de bezono la hundoj el liaj birdo-kortoj konsistigis ĉashundaron; liaj stalistoj estis ankaŭ ĉasservistoj; la vilaĝa vikario estis lia granda kapelestro. Ĉiuj lin titolis «ekscelenco», kaj ridis, kiam li fantazie rakontadis pri siaj aventuroj.</p>
 <p>Ŝia baronina moŝto pezis 350 funtojn<a l:href="#funt" type="note">[8]</a> kaj estis pro tio treege ŝatata; ŝi akceptadis la gastojn kun digno, kiu faris ŝin ankoraŭ pli respektinda. Ŝia 17-jara filino Kunegundo estis ruĝvanga, freŝa, graseta, dezirdona. La filo de l’ barono ĉiurilate ŝajnis esti inda je sia patro. La guvernisto Pangloso<a l:href="#n6" type="note">[9]</a> estis la hejma orakoldiranto kaj la malgranda Kandido aŭskultis liajn instruojn kun la tuta sincero, propra al liaj karaktero kaj aĝo.</p>
 <p>Pangloso instruis la metafizik-teologi-kosmostultogion.<a l:href="#lonigo" type="note">[10]</a> Li mirinde bone pruvadis, ke ne ekzistas efiko sen kaŭzo, ke en ĉi tiu plej bona el ĉiuj eblaj mondoj<a l:href="#n7" type="note">[11]</a> la kastelo de lia barona moŝto estas la plej bela el ĉiuj kasteloj, kaj ke ĝia sinjorino estas la plej bona el ĉiuj eblaj baroninoj.</p>
@@ -582,7 +590,7 @@ Ideale, ĉiu generacio devas krei sian version de la klasikaj verkoj.</p>
 <p>— Nu, li estas la plej ĉarma el la reĝoj, kaj ni devas trinki pro lia sano.</p>
 <p>— Ho, tre volonte, sinjoroj.</p>
 <p>Kaj li trinkas.</p>
-<p>— Sufiĉas, — oni diris al li. — Nun vi estas la apogo, la subteno, la defendanto, la heroo de la Bulgaroj; via sorto estas decidita, kaj certa estas via gloro.</p>
+<p id="laapogo">— Sufiĉas, — oni diras al li. — De nun vi estas heroo de la Bulgaroj, nia apogo, nia bastiono, nia defendanto; via sorto estas decidita, kaj certa estas via gloro.</p>
 <p>Tuj oni katenas liajn piedojn kaj lin kondukas en la regimenton. Oni lin igas sin turni dekstren, maldekstren, eltiri la ŝargostangon<a l:href="#n11" type="note">[17]</a>, remeti la ŝargostangon, celi, pafi, pli rapide paŝadi, kaj oni donas al li 30 bastonbatojn<a l:href="#n12" type="note">[18]</a>; la morgaŭon li plenumas la ekzercojn iom malpli malbone kaj ricevas nur 20 batojn; la postmorgaŭon, nur 10, kaj liaj kamaradoj lin rigardas kiel junan mirindulon.</p>
 <p>Konsternite, Kandido ankoraŭ ne komprenis klare, kiel li fariĝis heroo. Iun belan printempan tagon li decidis fari promenadon, kaj ekpaŝis rekte antaŭen, opiniante, ke laŭplaĉe uzi siajn krurojn estas natura rajto de la homoj, samkiel de la bestoj. Apenaŭ li trairis du leŭgojn,<a l:href="#lieue" type="note">[19]</a> kiam kvar aliaj herooj, ses futojn<a l:href="#h6" type="note">[20]</a> altaj, lin kuratingas, ligas, kaj kondukas en karceron. Oni lin jure demandis, ĉu li preferas pasi tridek ses fojojn sub la vergoj de la tuta regimento, aŭ ricevi dek du kuglojn en la cerbon.</p>
 <p>Vane li diradis, ke la voloj estas liberaj, kaj ke li volas nek la unuan, nek la duan punon — fine li devis elekti. Li do decidis, per la speciala kapablo, donita de Dio, kaj kiun oni nomas <emphasis>libero,</emphasis> ke li ricevos la vergadon.</p>
@@ -1415,7 +1423,7 @@ altabliĝis kun Marteno, kiu flegme observis ĉi tiun scenon, kaj kun ses alilan
 <p>— Ni ne rezonadu sed laboru, — diris Marteno. — Tio estas la sola maniero igi la vivon tolerebla.</p>
 <p>La tuta malgranda societo tion alcelis; ĉiu ekaplikis siajn talentojn. La malgranda bieno multe produktis. Verdire Kunegundo estis tre malbela, sed ŝi fariĝis tre bona kukistino; Violeto brodis; la maljunulino prizorgis la tolaĵon. Eĉ frato Levkojo utilis: li iĝis tre bona lignaĵisto, kaj eĉ honestulo; kaj Pangloso fojfoje diradis al Kandido:</p>
 <p>— Ĉiuj okazoj estas interligitaj en la plej eble bona el la mondoj: ĉar fine, se vi ne estus forpelita el bela kastelo per fortaj piedbatoj sur la postaĵon pro amo al fraŭlino Kunegundo, se vi ne spertus la Inkvizicion, se vi ne trakurus piede Amerikon, se vi ne donus fortan spadobaton al la barono, se vi ne perdus ĉiujn viajn ŝafojn el la bona lando Eldorado — vi ne manĝus ĉi tie konfititajn cedratojn kaj pistakojn.</p>
-<p>— Tio estas bele dirita, — respondis Kandido, — sed ni kultivu nian ĝardenon.</p>
+<p>— Bele dirite, — respondis Kandido, — sed ni kultivu nian ĝardenon.</p>
 </section></section>
 
 <section id="Nt"><title><p>Nomtabelo</p></title>
