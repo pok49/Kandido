@@ -1,3 +1,22 @@
+* Laŭvortismo
+
+Перевод - «живой организм»: он воссоздает «органическую цельность»подлинника [2, с. 620]. В понятие «органической цельности» входят:
+ 1. полное тождество целого при отсутствии сходства между отдельными
+    элементами: верная передача смысла, чувства, стиля, духа, красоты,
+    изящества подлинника [1, с. 89];
+ 2. точное воспроизведение тематики [1, с. 61],
+ 3. языковые признаки, в том числе фонетика [1, с. 61],
+ 4. стилистические признаки: поэтическое очарование, своеобразие,
+    прелесть подлинника, обаятельность формы [1, с. 61];
+ 5. воспроизведение динамики текста подлинника [1, с. 37];
+ 6. отсутствие буквализма: воспроизведение не «буквы - буквой»,
+    «слова - словом», но «улыбки - улыбкой», «красоты - красотой»,
+    «вдохновения - вдохновением», «музыки - музыкой» [1, с. 50, 61,
+    76, 92]; 7) воссоздание интонаций, эмоций подлинника,
+    афористичности [1, с. 61 - 62].
+
+(Pli grave: necesas *kompreni* la celojn kaj signifojn.)
+ 
 * Ilustraĵoj:
 https://commons.wikimedia.org/wiki/Category:Candide?uselang=de
 
@@ -81,6 +100,13 @@ lando, kiun oni lokis ĉe la bordoj de +iu+ supozita lago Parimo,
 (Se entute meti nedifinan pronomon, mi tie preferus ne ‹iu›n, sed
 ‹ia›n. ‹Iu› pensigas min pri elekto inter realaj objektoj.)
 
+----
+#+NAME: kelkaj
+V: c'était pour voir si nous n'avions pas caché là quelques diamants
+L: oni volis konstati ĉu ni ne kaŝis tie kelkajn diamantojn
+B: за да видели дали не сме скрили там диаманти
+S: tiel ili kontrolis, ĉu ni kaŝis tie juvelojn [ĉap. 11ª]
+
 ** La difina
 
 Ĉap. 11ª
@@ -105,21 +131,147 @@ barona moŝto kaj de brava kaj bona nobelo najbara
 
 Atentindas, ke /fils/ aperas senartikole, kontraste al /la fille/ en Ĉap. 11ª.
 
+* Aspektoj
+** Imperfaekto
+V: Pangloss était au milieu de sa phrase, quand Je familier fit un
+signe de tête à son estafier qui lui /servait à boire/ du vin de Porto
+ou d'Oporto. [Ĉap. 5ª]
+L: Panglos estis ĉe la mezo de sia frazo, kiam la intimulo kapsignis al sia armita servistaĉo, kiu /donis/ al li por trinki vinon el Porto aŭ el Oporto.
+S: Pangloso estis ĉe la mezo de la frazo, kiam la najbaro kapsignis al
+sia armita servisto, kiu /estis verŝanta/ al li vinon nomatan «Porto»
+aŭ «Oporto».
+
+Ĉap. 10ª:
+V:  On y /équipait/ une flotte, et on y /assemblait/ des troupes pour mettre à la raison …
+L: Ĉi tie oni ekipis ŝiparon por milite prudentigi…
+S: Tie estis ekipata ŝiparo kaj arigata trupo por prudentigi …
+
+V: /j'inspirais/ déjà de l'amour; ma gorge /se formait/ [Ĉap. 11ª]
+L: mi jam sentigis amon, mia brusto formiĝis;
+S: mi jam inspiradis amon, mia brusto estis formiĝanta
+
+V: Le soleil se couchait.
+L: La suno malleviĝis.
+S: La suno estis subiranta. [Ĉap. 16ª]
+
+** ek + mensa verbo
+<p>Pli ofte ol averaĝe ĉe la okcidentanoj Lanti’ esprimas inĥoativon (en la okcidentaj lingvoj inĥoativo de la mensaj verboj ial estas tabuita). Tio estas logika.</p>
+
+L: Iun tagon la granda inkvizitoro ekvidis min cxe diservo [Ĉap. 8ª]
+
+V: J'appris bientôt que 
+L: Baldaux mi eksciis, ke [Ĉap. 11ª]
+
+V: J'ai su que messieurs les religieux chevaliers de Malte n'y manquent jamais 
+L: Mi eksciis, ke sinjoroj la religiuloj kavaliroj de Malta neniam
+malatentas tiun kutimon,
+
+V: dès qu'ils ont su que …
+L: tuj kiam ili eksciis, ke …
+S: de kiam ili eksciis ke … [Ĉap. 16ª]
+
+V: On aperçut enfin les côtes de France.
+L: Fine oni ekvidis la bordojn de Francio. [Ĉap. 21ª]
+
+V: Les deux égarés entendirent quelques petits cris
+L: La du erarvagantoj auxdis kelkajn krietojn
+S: … la du vagantoj ekaŭdis krietojn, [Ĉap. 16ª]
+
+<!--p>Sed iam redunda <emphasis>-ad</emphasis> ĉe daŭrverboj:</p>
+<cite>
+  <p><strong>V:</strong> il pleura longtemps;</p>
+  <p><strong>L:</strong> li longe ploradis [Ĉap. 19ª]</p>
+</cite-->
+
+
 * Nomoj
 Mi forigis la francan nobelan partikulon /de/ (kiu cetere ĉe la
 germanaj nobeloj estus /von/).
+
+** Candidus (cognomen), a third name of a citizen of ancient Rome
+
+<p>Voltero evidente malŝatis la Germanan lingvon, kaj tion atestas du lokmomoj, per kiuj li parodias sian impreson pri la Germanaj sono kaj skribo. La parodioj estas pli malicaj ol spritaj aŭ trafaj; mi anstataŭigis ilin per formoj kiujn opinias pli amuzaj, aŭ almenaŭ kiuj kaŭzas al mi malplian vichonton (<em>Fremdscham</em>):</p>
+<ul>
+<li>Thunder-ten-tronckh → Tondro-tra-trunk’</li>
+<li>Valdberghoff-trarbk-dikdorff → Valdberghof-dikdorf</li>
+</ul>
+<p>En la dua nomo mi forigis la negermanan troaĵon <em>trarbk.</em> Kurioze: Voltero duobligas la finajn foojn en <em>Hof</em> kaj <em>Dorf,</em> sed duonigas la komencan vuon de <em>Wald</em> ☺</p>
+<p>La «esperantigo» de la unua nomo iom similas la «Nederlandan» nomon de la negocisto el ĉap. 19ª elpensian de Voltero: <i lang="nl">Vanderdendur,</i> kio france sonas proksime al <i lang="fr">vendeur [à la] dent dure</i> (t.e. «vendisto durdenta»). Lanti’ ŝanĝis tion al <i lang="nl">Vanderdentur;</i> en mia prilaboraĵo ĝi iĝis <em>Van-Durdent’</em>.</p>
+https://openlibrary.org/publishers/Chez_Jean_van_Duren
+https://www.amazon.com/Voltaire-Holland-1736-1745-Republique-Lettres/dp/9042923539
+
+** Frato Levkojo
+
+«Giroflé, girofla» : Jeu chanté
+https://www.mamalisa.com/?t=fs&p=4523
+
+** Paquette
+la Germana traduko [G] ŝin rebaptas <i lang="de">Gertrude.</i> Mi
+komprenas la motivon por tia ŝanĝo, sed al mi ĝi ne plaĉas (tro
+arbitra; kaj min «Gertrudo» impresas malsame ol <i
+lang="fr">Paquette</i>). Tamen la Lantia <em>Paket,</em> aŭ ĝia plua
+asimilaĵo <em>Paketo</em> ĝenas en Esperanto (kaj en aliaj lingvoj
+kiuj praktikas transskribon).</p>
+
+La ĝena misasociaĵo <i lang="fr">Paquette—le paquet</i> france ne ekzistas (skribe <i lang="fr">-ette</i> sufiĉe diferencas de <i lang="fr">-et</i>; sone, ĉar en la komuna vorto <em>t</em> estas muta). La pola tradukisto trovis elegantan solvon: <em>Pakita</em> — sed en Esperanto ĝi la problemon ne solvas (ĉar aspektas kiel participo). <em>Panjo</em> kolizias kun la karesvorto por patrino. <em>Kanjo</em> estus bona solvo per si mem — sed la komenca *K* jam tro oftas en la nomoj de la geprotagonistoj: *K*andido, *K*unegundo, *K*akambo… La delikatan orelon de Voltero ŝokas la multaj germanaj t-sonoj (kion li parodias per <em>Thunder-ten-tronckh</em>); sed ial li ne rimarkis, ke la abundo de la tusaj K-oj estas ne malpli ĝena.
+Mi koncedas, ke ĝi estas iom pli romantika ol konvenas al la rolulino,
+sed pli taŭgan mi ne trovis. Ĉiel ajn, tio min malpli ĝenas ol /Paketo/.
 
 ** Ralph, Oporto
 
 12. Porto, or rather Oporto: They are one and the same Portuguese
     city - a moment of pedantry (and a late addition, not present in
     the manuscript) which reminds us that this is a tale being told by
-    *the obscure German with the English name, Doctor Ralph.* [ĉap. 5ª]
-    
+    *the obscure German with the English name, Doctor Ralph.* [ĉap.
+    5ª]
+** Misaj nomoj hispanaj
+- "urbeto Avaseno (Avasena)" probable estas plumeraro de Voltero aŭ
+  eble mislegita «Aracena». [ĉap. 9]
+- Chillas [ĉap. 10] -- ??
+
+*** don Fernando d'Ibaraa, y Figueora, y Mascarenes,y Lampourdos, y Souza.
+L: Don Fernando de Ibaran, kaj Figuerora, kaj Maskarenes, kaj Lampurdos, kaj Suza
+ES: señor don Fernando de IbarRa Figueroa Mascareñas Lampurdos y Souza
+http://www.intratext.com/IXT/ESL0891/_PR.HTM
+
+- Ibarra: Иба́рра (баск. Ibarra, исп. Ibarra) — баскская фамилия и топоним
+- Figueroa (Galician: Figueiroa) is a Spanish surname of Galician origin.
+- Mascareñas: фр. Mascareignes, порт. Ilhas Mascarenhas) — архипелаг в
+  Индийском океане, расположенный в 650 км восточнее Мадагаскара.
+  Острова названы в честь выдающегося португальского мореплавателя и
+  политического деятеля XVI века Педру ди Машкареньяша (порт. Pedro de
+  Mascarenhas).  Остров Реюньон является заморским департаментом
+  Франции, остальные острова составляют государство Маврикий, входящее
+  в британское Содружество наций.
+- Грек Лампурдос подлец ... (Щедрин)
+  http://rulibs.com/ru_zar/prose_rus_classic/saltyikov-schedrin/1q/j64.html
+- Со́уза (порт. Sousa, в старой сохранившейся в Бразилии орфографии
+  порт. Souza, португальское произношение: [ˈso(w)zɐ]) — португальская
+  фамилия топонимического происхождения. Связана с названием реки
+  Соуза[pt] на севере Португалии. Первый представитель рода Соуза и
+  носитель фамилии родился в 1035 году. Часто употребляется с
+  предлогом, указывающим на происхождение из определённой местности:
+  de Sousa или в архаичной форме D’Souza. Соответствует испанской
+  фамилии Соcа (исп. Sosa или исп. Soza).
+
+Fernando=Hernán Cortés + de Monroy y Pizarro + Altamirano
+Cortés byl synem Martína Cortése de Monroy a Doñi Cataliny Pizarro Altamarinové.
+«семьи Кортесов, Монроев, Писарро и Альтамирано»
+«Мартин Кортес де Монрой (1449—1528), отец Эрнана»
+Фернандо, Эрнандо и Эрнан были в то время одним и тем же именем, для
+которого в орфографии того времени существовало три разных написания
+(Fernando, Hernando и Hernán), поэтому они в равной степени
+использовались современниками.
+
+His father, Martín Cortés de Monroy, born in 1449
+to Rodrigo or Ruy Fernández de Monroy and his wife María Cortés,
+was an infantry captain of distinguished ancestry but slender means.
+Hernán's mother was Catalína Pizarro Altamirano.
+
 * Mezurunuoj
 ** Promeno
-<p>La plej ofta mezurunuo (aperanta 10-foje) estas <strong>leŭgo</strong> (Fr <emphasis>lieue</emphasis>). Unu el ties intuicie klaraj difinoj estas «la distanco kiun averaĝa viro piediras dum 1 horo», do 4–5 km. Laŭ NPIV, leŭgo estas «proksimume 4km». Laŭ la franca Vikipedio, la «Pariza leŭgo» en la tempo de la eldono de Kandido (1759) estis 3,248km = 10<sup>4</sup> da tiamaj francaj futoj (<emphasis>pieds</emphasis>).</p>
-<p>Lanti’ tradukas la francan <emphasis>lieue</emphasis> per <emphasis>mejlo,</emphasis> probable ĉar leŭgo ankoraŭ ne ekzistis en Esperanto, tamen sen konverta rekalkulo: «deux lieues» → «du mejloj» [ĉap. 2ª]. Same faria la tradukistoj pola kaj rusa; kaj la germana „<a l:href="#http://www.zeno.org/Kategorien/T/Meyers-1905?fr=Lieue">Meyers Großes Konversations-Lexikon</a>“ (1905–1909) rekte asertas ke leŭgo estas «la franca mejlo, antaŭe diverslonga» (<strong>Lieue</strong> (spr. ljö), die französische Meile, früher in verschiedener Größe). Tio tamen estas malvera, kaj Voltero en du okazoj indikas distancon en mejloj.</p>
+<p>La plej ofta mezurunuo (aperanta 10-foje) estas *leŭgo* (Fr <emphasis>lieue</emphasis>). Unu el ties intuicie klaraj difinoj estas «la distanco kiun averaĝa viro piediras dum 1 horo», do 4–5 km. Laŭ NPIV, leŭgo estas «proksimume 4km». Laŭ la franca Vikipedio, la «Pariza leŭgo» en la tempo de la eldono de Kandido (1759) estis 3,248km = 10<sup>4</sup> da tiamaj francaj futoj (<emphasis>pieds</emphasis>).</p>
+<p>Lanti’ tradukas la francan <emphasis>lieue</emphasis> per <emphasis>mejlo,</emphasis> probable ĉar leŭgo ankoraŭ ne ekzistis en Esperanto, tamen sen konverta rekalkulo: «deux lieues» → «du mejloj» [ĉap. 2ª]. Same faria la tradukistoj pola kaj rusa; kaj la germana „<a l:href="#http://www.zeno.org/Kategorien/T/Meyers-1905?fr=Lieue">Meyers Großes Konversations-Lexikon</a>“ (1905–1909) rekte asertas ke leŭgo estas «la franca mejlo, antaŭe diverslonga» (*Lieue* (spr. ljö), die französische Meile, früher in verschiedener Größe). Tio tamen estas malvera, kaj Voltero en du okazoj indikas distancon en mejloj.</p>
 <p>Mi tamen koncedas, ke iam traduko per mejloj aspektas pli versimile. Ekz‑e [Ĉap. 2ª]:
 <cite>
 <p>Iun belan printempan tagon li decidis fari promenadon, kaj ekpaŝis rekte antaŭen … Apenaŭ li estis irinta <emphasis>du leŭgojn,</emphasis> kiam kvar aliaj herooj … lin kuratingas, ligas, kaj kondukas en karceron.</p>
@@ -176,27 +328,40 @@ Zoll 	Preußen 	1755 	0,026 154 5 m
 ** Eskudoj
 <p>Krom tiajn ekzotajn monerojn Voltero volonte uzas «eskudojn» (France <i lang="fr">écu</i>), hejman moneron de siaj legantoj — eĉ en epizodoj Vestfalia (<a href="#talero02">ĉap. 2ª</a>) aŭ Turkia (<a href="#talero27">ĉap. 27ª</a>). En Esperanto tiu rolo de unueca hejma monero pli konvenas al <em>talero,</em> vorto oficialigita jam en la 1ª OA; cetere, «talero» pli konvenas ankaŭ situacie (talero ja efektive estis uzata en la menciitaj landoj), kaj internacie: ĝi estas la etimo de <i lang="en">dollar;</i> «piastro» estas alinome «hispana talero/dolaro» ktp.</p>
 
-* labuś
-
-32. Kaj tiu de sufiĉa racio, laŭ kiu ni konsideras ke nenia fakto
-    povas troviĝi vera aŭ ekzistanta, nenia elparolato vereca, se ne
-    estas racio sufiĉa pro kiu tiele estas kaj ne alie, kvankam tiujn
-    raciojn plej ofte ni ne povas koni.
-
-
-Principo de sufiĉa kialo, laŭ kiu
-
-    nenia fakto povas okazi vera aŭ ekzistanta, nenia aserto — vera,
-    se ne estas sufiĉa kialo pro kiu estas tiel kaj ne alie, kvankam
-    tiujn kialojn plej ofte ni ne povas koni.
 ----
 Franca eskudo en 1772: Écu dit “à la vieille tête” (29.26 g, 6h)
 https://commons.wikimedia.org/wiki/File:Louis_XV_%C3%A9cu_1772_76001791.jpg?uselang=fr
 
 $21.35 (je 2021-12-27)
 
+
+* Principo de sufiĉa kialo, laŭ kiu
+
+    nenia fakto povas okazi vera aŭ ekzistanta, nenia aserto — vera,
+    se ne estas sufiĉa kialo pro kiu estas tiel kaj ne alie, kvankam
+    tiujn kialojn plej ofte ni ne povas koni.
+
+32. Kaj tiu de sufiĉa racio, laŭ kiu ni konsideras ke nenia fakto
+    povas troviĝi vera aŭ ekzistanta, nenia elparolato vereca, se ne
+    estas racio sufiĉa pro kiu tiele estas kaj ne alie, kvankam tiujn
+    raciojn plej ofte ni ne povas koni.
+----
+* Leksiko
+** labuś
+
+** Anglio, Holando, Keĉuo
+En A la vortoj /Britain, British/ neniam aperas.
+
+** diamantoj / briliantoj
+(cetere, V ofte uzas "diamanto" en la signifo "ajna juvelo"; ekz‑e
+kiam temas pri "[[kelkaj]] diamantoj" en anuso)
+
 ----
 ĉap. 1ª:
+
+gradoj da nobeleco
+<span class="aside">[4] Temas la nombro de nobelaj geprauloj. log<sub>2</sub>71 ≈ 6.15, t.e. la patro de Kandido estis nobelo en almenaŭ la 7ª generacio. France <em>quartiers,</em> angle <em>quarterings. — S.</em></span>
+
 2. Pangloss: See A Note on Names. In composing the character of Pangloss,
 Voltaire may have been thinking of Leibniz’s disciple Christian Wolff (1679-
 1754), and perhaps also of the French philosopher and writer Jean-Jacques
@@ -420,6 +585,33 @@ uprising, and guerilla activity continued for several years; Candide becomes
 - briefly - a commanding officer on such an expedition.
 
 ----
+
+V: hélas! vous n'avez pas éprouvé des infortunes telles que les miennes.
+L: ho ve! vi ne spertis tiajn malfelicxojn, kiaj estis la miaj.
+S: Aĥ! vi ne spertis tiajn malfeliĉojn, kiaj estis la miaj.
+
+Formale tia "ho ve" esprimas la bedawron, ke "vi" ne spertis sufiĉe da
+malfeliĉoj (kio evidente ne estas la intenco).
+
+----
+
+V: Ce /discours/ [28 vortoj] fit naître une /extrême/ curiosité dans
+l'esprit de Cunégonde et de Candide. La vieille leur parla /en ces
+termes/.
+
+A: This speech raised a high curiosity in Candide and Cunegund; and
+the old woman continued as follows.
+
+A20: This speech having raised extreme curiosity in the *minds* of
+/Cunégonde/ and Candide, the old woman spoke to them as follows.
+
+L: Tia parolado [nur 27 vortoj!] naskis +tre+ grandan scivolon en la
+spirito de Kunegond kaj de Kandid. La maljunulino parolis al ili jene.
+
+S: Tiu respondo ekscitis grandan scivolon en Kunegundo kaj Kandido. La
+maljunulino plu parolis jene:
+
+----
 ĉap. 11ª:
 CHAPTER 11
 The old woman'’s story
@@ -452,6 +644,13 @@ was to defend Christian pilgrims against the infidel.
 7. Muley Ismaél: Emperor of Morocco, who reigned ruthlessly for over fifty
 years, and whose sons (two, not fifty) engaged in a protracted struggle for
 power after his death in 1727.
+
+----
+ĉap. 14ª:
+Kurioze, la francigitan loknomon en <i lang="fr">le collège de
+l’Assomption</i> (t.e. la Asunsjona kolegio) Lanti’ ne rekonis kaj
+tradukis per «la kolegio de la Ĉieliro».
+
 
 
 ----
@@ -697,9 +896,9 @@ S: Ĉu vi ne scias, ke en la korpo de tiaj homoj estas la diablo?
 
 <p>Jen okazo kie V uzas pasivon pragmatike, L ĝin aktivigas kaj rezultas la bona vortordo Esperanta (ĉap. 29ª):
 <cite>
-  <p><strong>V:</strong> cette infamie ne me sera jamais reprochée</p>
-  <p><strong>L:</strong> tian malbonfamegon oni ne povos riproĉi al mi</p>
-  <p><strong>S:</strong> tian misfamegon mi ne allasos.</p>
+- *V:* cette infamie ne me sera jamais reprochée
+- *L:* tian malbonfamegon oni ne povos riproĉi al mi
+- *S:* tian misfamegon mi ne allasos.
 </cite>
 
 

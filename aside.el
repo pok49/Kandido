@@ -27,6 +27,9 @@
   (save-restriction
     (narrow-to-region beg end)
     (goto-char (point-min))
+    (while (re-search-forward "<\\(h[1-9]\\)\\>\\([^>]*>\\)\\(.+\\)</\\1>" nil t)
+      (replace-match "<section\\2<title><p>\\3</p></title>"))
+    (goto-char (point-min))
     (while (re-search-forward " lang=\"\\w\\w\"" nil t) (replace-match ""))
     (goto-char (point-min))
     (while (re-search-forward "\\<\\(em\\|i\\)>" nil t) (replace-match "emphasis>"))
