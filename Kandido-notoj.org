@@ -1,4 +1,53 @@
-* Laŭvortismo
+* Antaŭparolo
+
+<!--Plibeligo / korekto; ĝueblo; sennaciigo;
+KANDİD, (Baron’un kızı) Matmazel Künegond - Fräulein Kunigunde; Pokokürante
+
+>  Voltaire. Kandid Ya da İyimserlik Üstüne. Çev.Server Tanilli. Say Yayınları. s.149. 
+> (Вольтер О Кандиде или Оптимизме. Транс.Сервер Танилли.)
+> Publisher: SAY PUBLICATIONS
+> Publication Year: 1984
+> Translator: SERVER TANILLI
+> Publication Place: ISTANBUL
+> Tongue: Turkish
+https://www.mersintime.com/kandid-ya-da-iyimserlik-ustune-makale,1008.html
+
+eraroj Lantiaj indikas evoluon de la Franca lingvo;
+bildoj
+
+Ja kiel edikitino de Franca pesiono en Berlino povis memori germanan nomon, aŭ se ŝi ja memoris, aprezi ĝin?
+ -->
+
+https://flibusta.club/b/624065/read
+
+** Kiom eble plej
+
+*Kiom*, antaŭ *eble*, ne havas la saman signifon, kiel la paralela *kiel*: per
+*kiel eble plej* oni esprimas la plej altan gradon de superlativo: /venu kiel
+eble plej rapide/ signifas: venu kun la maksimuma rapideco. Male *kiom
+eble* havas la nuancon de limigo: /venu kiom eble rapide/ signifas: venu
+rapide, sed nur tiel rapide, kiel vi povas. Kp.: /Ĉiuj uzu la novajn vortojn
+kiom eble egale[Z]; ni decidis kiom eble ĉion fari mem[Z]/. Kp. ¶261.
+[PAG §88, p. 121]
+
+
+
+Ainsi dans Candide, Voltaire critique l’optimisme de Leibniz et va le pousser au ridicule à travers le personnage de Pangloss, grand philosophe, professeur de "métaphysico-théologo-cosmolonigologie" et précepteur de Candide. La philosophie de Pangloss peut se résumer en cette phrase "Tout est au mieux dans le meilleur des mondes possibles" et est une critique virulente de Voltaire contre la thèse leibnizienne du meilleur des mondes. Ainsi, Voltaire déforme la pensée de Leibniz, qui n’affirme pas que le monde est parfait et sans souffrance, mais simplement qu’en dépit des souffrances présentes dans notre monde réel, ce dernier est le meilleur qui soit.
+https://www.rtbf.be/article/leibniz-et-sa-theorie-du-meilleur-des-mondes-possibles-10684612
+
+Kp "Tout va pour le mieux dans le meilleur des mondes"
+Tout est/va au mieux. Le temps est ici superbe (...). Je me porte fort
+bien, et tout va au mieux (Napoléon Ier, Lettres Joséph., 1806,
+p.110).
+
+− Proverbes
+♦ Gén. p. iron. Tout est pour le mieux dans le meilleur des mondes: Tout va très bien.
+https://www.cnrtl.fr/definition/meilleur
+
+** Prudento
+Eĉ se «prudento estas la plej malnobla el la virtoj» (A. Frans’), ĝi
+tamen estas granda virto.
+** Laŭvortismo
 
 Перевод - «живой организм»: он воссоздает «органическую цельность»подлинника [2, с. 620]. В понятие «органической цельности» входят:
  1. полное тождество целого при отсутствии сходства между отдельными
@@ -17,8 +66,37 @@
 
 (Pli grave: necesas *kompreni* la celojn kaj signifojn.)
  
-* Ilustraĵoj:
+** Ilustraĵoj:
 https://commons.wikimedia.org/wiki/Category:Candide?uselang=de
+
+** Kosmopolitismo
+
+Tandis que la France tourne les yeux vers l'Angleterre (mais aussi vers la Hollande, la Russie, la Prusse, la Chine, etc. dans le domaine des échanges intellectuels et artistiques), on peut aussi dire que l'Europe est " sans frontières " pour tout ce qui vient de la France :
+
+" Au temps de Louis XIV, les princes, grands et petits avaient
+commencé à construire des Versailles miniatures. . . . Au siècle
+suivant, ce sont les livres, les tableaux, les costumes, les meubles
+français qu'il est indispensable de faire venir : la langue française
+est parlée dans toutes les cours. . . . Le prestige de la vie
+parisienne est si grand, que les plus fortunés viennent se fixer dans
+cette capitale où tous se sentent chez eux : Casanova dit déjà, à la
+fin du siècle : 'On ne vit qu'à Paris, on végète ailleurs.' L'Europe
+charmée par le cosmopolitisme parisien, par l'universalisme de la
+pensée française, est, au siècle des lumières, l'Europe française. "
+
+Georges Duby et Robert Mandrou, Histoire de la civilisation française, 2 vols. (Paris : Armand Colin, 1984), 2 :132, 125.
+https://chalk.richmond.edu/mlccontextes/18_siecle/files/cosmopolite.htm
+
+Sekve, reverkisto devas anstataŭigi la hejmigon per Francigo per hejmigo cellingva. Tiurilate la plej evidenta kaj la plej ŝoka decido en mia prilaboraĵo estas la anstataŭigo de leŭgoj kaj mejloj per kilometroj.
+
+
+
+** Kunegundo
+ Cunigunde of Luxembourg
+ (http://en.wikipedia.org/wiki/Cunigunde_of_Luxemburg), a Princess
+ accused of being unchaste who proved her innocence by walking on
+ flaming irons without injury!
+  in Latin, Cunegundis [Martyrologium Romanum, 3 March, #8 (2005)] or Kinigundis
 
 * Vortordo
 
@@ -504,6 +582,28 @@ earned Voltaire’s approval.
 philosophers of the Academy (whereupon Antisthenes, the Cynic, presented
 him with a chicken).
 
+----
+V: Maître Pangloss me l'avait bien dit que /tout est au mieux/ dans ce monde
+L: Majstro Panglos prave diris, ke /ĉio statas kiel eble plej bone/ en ĉi tiu mondo
+A: my Master Pangloss told me truth when he said that everything was for the best in this world;
+P: Dobrze powiadał mistrz Pangloss, że wszystko w świecie dzieje się najlepiej;
+G20: »Meister Pangloß hat wahr gesprochen, als er sagte, daß in dieser Welt alles zum besten eingerichtet sei,
+R: что все к лучшему в этом мире,
+B: че всичко е най-добре на този свят,
+
+
+POSSIBLE [Littré]:
+...
+*Au possible*, au dernier degré, extrêmement, beaucoup.
+Le fils d'un marchand, ignorant et présomptueux au possible, arriva un jour en une compagnie où j'étais, , Francion, VI, p. 221.
+Incommode et revêche au possible, HAMILT., Gramm. 8.
+Ce premier ministre [Richelieu], soupçonneux au possible, allait à mon père sur les ombrages qu'il prenait, SAINT-SIMON, 6, 86.
+Le grand pensionnaire Barnevelt, qui était du parti contraire à Gomar [sur la prédestination], eut la tête tranchée à l'âge de soixante-douze ans, le 13 mai 1619, pour avoir /contristé au possible/ l'Église de Dieu, *VOLT*., Pol. et lég. Sur la tolérance, si elle est dangereuse..
+
+*Au mieux*, *tout au mieux*, loc. adv. Très bien.
+"À table trouvant tout au mieux, Je crois qu'un ordre des cieux Tient en haleine la sagesse", Béranger, Deo gratias.
+
+
 
 ----
 ĉap. 4ª:
@@ -644,6 +744,20 @@ was to defend Christian pilgrims against the infidel.
 7. Muley Ismaél: Emperor of Morocco, who reigned ruthlessly for over fifty
 years, and whose sons (two, not fifty) engaged in a protracted struggle for
 power after his death in 1727.
+
+----
+ĉap. 13ª:
+
+*** grandmanika --- un (!) cordelier à la grande manche 
+
+"In 1581 the Franciscan order was riven by a dispute about the design
+of its habit, in particular about the nature of its sleeves and the
+hood. Hence the order was a favourite butt of Voltaire's anti-clerical
+humour. Cordeliers are Franciscan friars, so called because they wear
+a rope-belt. Since the Franciscan order began as a group of Mendicant
+friars who set particular store by poverty, the use of the loose
+sleeve in a manner akin to the poacher's procket has particular edge.
+
 
 ----
 ĉap. 14ª:
@@ -903,6 +1017,53 @@ S: Ĉu vi ne scias, ke en la korpo de tiaj homoj estas la diablo?
 
 
 * 7-Jara Milito: (1756—1763).
+
+* Лейбниц
+
+https://gallica.bnf.fr/ark:/12148/bpt6k4058995/texteBrut :
+Quoi qu'il en soit, Leibniz déploie dans cette polémique une grande
+érudition unie à une grande finesse on reconnaît à chaque page la
+pénétration de son esprit et la souplesse de sa dialectique; mais l'on
+y retrouve surtout la noblesse de ses sentiments et la bienveillante
+générosité de son cœur; il ne parle de Bayle qu'avec une admiration
+mêlée de respect et presque de tendresse, et, faisant allusion à sa
+mort récente, il termine son Discours par ces touchantes paroles « Il
+est à espérer que M. Bayle se trouve maintenant environné des lumières
+qui nous manquent ici-bas, puisqu'il y, a lieu de supposer qu'il n'a
+pas manqué de bonne volonté:
+
+Candidus insueti miratur limen Olympi,
+Sub pedibusque videt nubes et sidera Daphnis.
+Светлый, дивится теперь вратам незнакомым Олимпа,
+Ныне у ног своих зрит облака и созвездия Дафнис.
+[Вергилий. Буколики V 56–57 (пер. С. Шервинского).]
+(Citita de Lejbnico fine de "Предварительное рассуждение о согласии веры и разума")
+(Radiant Daphnis is amazed at the unusual threshold of Olympus; he sees the clouds
+and stars beneath his feet), Ecl. 5. 56-7; these lines are thought to be an imitation of De rerum
+natura 5.1-54, where Lucretius calls Epicurus a god for having brought
+humans a purged mind.
+
+Blankega, nun miras ĉe l' sojlo Olimpa ... Dafniso
+
+Таким образом, лучшее может быть превращено в другое, равноценное и
+непревосходящее его; но между ними всегда будет существовать порядок,
+и порядок наилучший из всех возможных. Если принимать всю
+последовательность вещей, наилучшее не имеет себе равного, но часть
+последствий может быть уравнена с другой частью той же самой
+последовательности. Поэтому можно сказать, что вся последовательность
+вещей, простирающаяся в бесконечность, может быть наилучшей из всех
+возможных, хотя то, что существует во всем Универсуме в каждый
+отдельный отрезок времени, не есть наилучшее. Итак, возможно, что
+Универсум всегда переходит от лучшего к лучшему, если уж такова
+природа вещей, что он не может достигнуть наилучшего сразу. Но о
+подобных проблемах нам трудно судить. [Ч. 2, 202]
+
+----------------
+
+* Bildoj
+** Bireto Jezuita
+La plej klara: http://philippi-collection.blogspot.com/2013/09/jesuit-biretta.html
+
 
 
 --------------
