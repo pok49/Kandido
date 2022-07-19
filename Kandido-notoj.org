@@ -89,6 +89,32 @@ https://chalk.richmond.edu/mlccontextes/18_siecle/files/cosmopolite.htm
 
 Sekve, reverkisto devas anstataŭigi la hejmigon per Francigo per hejmigo cellingva. Tiurilate la plej evidenta kaj la plej ŝoka decido en mia prilaboraĵo estas la anstataŭigo de leŭgoj kaj mejloj per kilometroj.
 
+** Internaciismo
+The group around Candide form neither a state nor even family. They
+are at most a tiny enclave in a world given over to evil; a refuge, a
+place o asylum (as they said at the time) for a group of cripples whom
+chance and misfortune have| brought together. None of the farm’s
+residents is a native of the place; they reconstitute a miniature
+homeland in a place where they can lead a better life—and they can
+lead a better life when they are not dependent on either religious or
+political power. It’s important to note that the group of exiles is
+cosmopolitan: in addition to the Westphalians (Candide, Cunégonde,
+Pangloss, Paquette), there are the Italians (the old woman, brother
+Giroflée), a Dutchman, more or less (Martin), and the Metis Cacambo.
+This group would come close to being a symbol of all humanity, were it
+not for the individual nuances of skin color and opinion that Voltaire
+holds precious and that he will always want to preserve in all his
+calls for toleration. The group is marginal, so small that it can
+dispense with the problem of political organisation. Voltaire’s
+evocation of productive labor checks any thoughts of utopia. This
+small society is in no way a model. “The small farm yielded a great
+deal.” That is all. It’s very little, some will say. Voltaire does not
+need more. (As for Rousseau, he offers}
+
+ 
+
+ 
+
 
 
 ** Kunegundo
@@ -97,6 +123,13 @@ Sekve, reverkisto devas anstataŭigi la hejmigon per Francigo per hejmigo cellin
  accused of being unchaste who proved her innocence by walking on
  flaming irons without injury!
   in Latin, Cunegundis [Martyrologium Romanum, 3 March, #8 (2005)] or Kinigundis
+There are two versions in Latin for Kunegunda: Cunegundis, is (a Third
+ Declension noun) and Cunegunda, ae (a First Declension noun). The
+ first version of the name employs Third Declension endings for the
+ various cases and the second version uses First Declension endings.
+https://forum.polishorigins.com/viewtopic.php?p=35610&sid=0dae47f34b5918cca3880dd4d0c881fe
+
+Freifräulein n баронесса (дочь барона) (2-foje en G20).
 
 * Vortordo
 
@@ -127,7 +160,11 @@ La homo, al kiu ili sin turnis, estis ...
 <p>(<strong>L:</strong> Kunegond ŝajnis al li esti tio, kion li vidis plej bela.)</p>
 </blockquote>
 
+** Pasivo
 
+V: vous qui fûtes tué par les Bulgares!
+L: vi, kiu estis mortigita de la Bulgaroj!
+S: Vi, kiun mortigis la Bulgaroj! [Ĉap. 14ª]
 
 * La artikolo
 ** La nedifina
@@ -210,7 +247,7 @@ barona moŝto kaj de brava kaj bona nobelo najbara
 Atentindas, ke /fils/ aperas senartikole, kontraste al /la fille/ en Ĉap. 11ª.
 
 * Aspektoj
-** Imperfaekto
+** Imperfekto
 V: Pangloss était au milieu de sa phrase, quand Je familier fit un
 signe de tête à son estafier qui lui /servait à boire/ du vin de Porto
 ou d'Oporto. [Ĉap. 5ª]
@@ -615,6 +652,14 @@ L:
 — ... La Bulgaraj soldatoj distranĉis ŝian ventron ...
 S:
 — Ne, — diris Pangloso. — Al ŝi distranĉis la ventron la Bulgaraj soldatoj...
+
+[11] the courts which seize ... creditors: In 1754 Voltaire lost 8,000
+livres of income from the bankruptcy of the son of the famous banker
+Samuel Bernard. in whose hands he had placed part of his fortune. In
+1758 he tried to recover some of these losses. A bankrupt’s creditors
+could normally hope to be compensated by division of the bankrupt’s
+estate. but the law delayed the process by seizing all of the estate
+in the first instance, from which it would then deduct costs.
 
 ----
 ĉap. 5ª:
@@ -1064,12 +1109,291 @@ Blankega, nun miras ĉe l' sojlo Olimpa ... Dafniso
 ** Bireto Jezuita
 La plej klara: http://philippi-collection.blogspot.com/2013/09/jesuit-biretta.html
 
+* Quarters of nobility
+*Quarters of nobility* is an expression used in the bestowal of [[hereditary title]]s and refers to the number of generations in typically an [[ahnentafel]] in which noble status has been held by a family regardless of whether a title was actually in use by each person in the ancestral line in question.
 
+For example, a person having sixteen quarterings (formally in [[heraldry]] [[Seize Quartiers]]) might have exclusively noble ancestry for the four previous generations (''i.e.'', to the great-great-grandparent level):  Given two parents per generation, four generations of uninterrupted nobility = 2⁴ = 16.  Alternatively, such a person might have exclusively noble ancestry for the five previous generations on one side but have a [[commoner]] for their other parent, such that the latter side of that person's ancestry would "dilute" by half the nobility they derived from the former side: (2⁵)/2 = 32/2 = 16.
 
---------------
-Der Wunsch ist/war [hier] Vater des Gedankens
-https://www.duden.de/sprachwissen/sprachratgeber/Dein-Wunsch-war-des-Gedankens-Vater
+Some [[orders of chivalry]] limit their membership to persons who can prove a certain number of quarterings (''e.g.'', sixteen for the [[Sovereign Military Order of Malta|Order of St. John]]).
+https://en.wikipedia.org/wiki/Quarters_of_nobility
 
+* Optimism
+Leibniz’s purpose in his /Essais de Théodicée/ (1710: written in French) was essentially to
+defend the rationality of God and His creation against an attack which, in his eyes, was a
+potential danger to religion and to man’s confidence in the divine purposes. The French
+Huguenot scholar and philosopher Pierre Bayle (1647-1706), a critical rather than a
+constructive thinker, had frequently emphasized the limitations of the human reason by
+drawing attention to philosophical paradoxes which appeared to admit of no rational
+solution; and one of these, in his view, was the problem of evil. In the articles ‘Manichéens’
+and ‘Pauliciens’ of his /Dictionnaire historique et critique/ (1697) he argued that the
+explanation propounded by the ancient Manichean heresy, namely that the world was the
+plaything of opposing gods, one good, one evil, was in fact the solution of the problem most
+in keeping with the facts, however illogical and incompatible with our notions of God it
+might be:
+#+BEGIN_QUOTE
+Qui n’admirera et qui ne déplorera la destinée de notre raison: voilà les Manichéens
+qui avec une hypothèse tout-à-fait absurde et contradictoire expliquent les expériences
+cent fois mieux que ne font les orthodoxes, avec la supposition si juste, si nécessaire, si
+uniquement véritable d’un premier principe infiniment bon et tout-puissant
+[‘Pauliciens,’ note E].
+#+END_QUOTE
+Leibniz’s book is a systematic discussion of Bayle’s views, and in it he propounds an answer
+to the problem of evil which is in harmony with his own wider metaphysical thinking and
+also supports the claims of rational theology. He sees God as subject, like man, to the laws
+of reason: even God cannot make two and two add up to anything but four, nor create a
+spherical cube. Hence, when God is considered as deciding upon the creation of the world,
+Leibniz envisages him as having a choice only between possible worlds, that is, forms of
+creation which do not violate the laws of reason, which do not involve logical contradiction.
+And among such possible worlds God in His infinite goodness has inevitably chosen the
+best. This ‘best of all possible worlds,’ however, necessarily contains imperfections, and
+hence evil. While many evils are justifiable and even valuable as a means to good (e.g. the
+protective and warning function of much physical pain), other evils are merely the inevitable
+result of the imperfections inseparable from the status of created beings; man has limited
+power, limited knowledge: ‘Il y a une imperfection originale dans la créature avant le péché,
+parce que la créature est limitée essentiellement: d’où vient qu’elle ne saurait tout savoir, et
+qu’elle se peut tromper et faire d’autres fautes’ (/Théodicée/, I, §20). Evil of this sort is thus
+presented by Leibniz, not as a positive force, but rather as something negative and privative;
+not anything willed by God, but an imperfection arising inevitably from the nature of things,
+and to which man must consequently reconcile himself. The fact of evil is not denied, but its
+presence in God’s creation is morally justified and rationally accounted for.
+
+The second version of the philosophy of optimism is linked with the name of Alexander
+Pope, not because he himself was an original thinker (he chiefly echoes the views of his
+contemporary, Bolingbroke, and the earlier English philosopher, Shaftesbury), but because
+he succeeded, in his /Essay on Man/ (1733), in crystallizing and giving memorable expression
+to ideas on the subject which reflected the outlook of many contemporaries. It had become a
+common practice for Christian apologists to invoke the new scientific discoveries as
+evidence: that the marvels of the universe bear witness to God’s existence and His
+providence is the theme of such works as the Rev. W. Detham’s /Physico-Theology/ (1713)
+and /Astro-Theology/ (1715), both of which were frequently reprinted and translated into
+French, and of the Abbé Pluche’s equally successful /Spectacle de la nature/ (1732). The
+discovery of order and purpose in the world of nature led less orthodox thinkers, however, to
+conclusions incompatible with the Christian doctrine of original sin. If scientific
+investigation revealed the working of universal laws, the existence of rational purpose, in
+every phenomenon so far scrutinized, it seemed likely that greater knowledge would display
+the ultimate regularity and purposiveness of /everything/ in the universe: that whatever now
+appeared as random, imperfect, evil, would be revealed as playing its necessary part in the
+universal order. Man’s capacity for comprehending this order, it was argued, is inevitably
+limited by his own quite restricted part in it, but the universe as a whole is perfect, the
+unblemished product of the divine wisdom and omnipotence, and it is merely human
+ignorance which makes us see imperfection and evil in it. Such are the views Pope advances
+in the First Epistle of his /Essay on Man/:
+
+#+BEGIN_VERSE
+Cease then, nor order imperfection name:
+Our proper bliss depends on what we blame.
+Know thy own point: this kind, this due degree
+Of blindness, weakness, Heav’n bestows on thee.
+Submit. — In this or any other sphere,
+Secure to be as blest as thou canst bear:
+Safe in the hand of one disposing power,
+Or in the natal, or the mortal hour.
+All nature is but art, unknown to thee;
+All chance, direction, which thou canst not see;
+All discord, harmony not understood;
+All partial evil, universal good;
+And, spite of pride, in erring reason’s spite,
+One truth is clear, Whatever is, is right.
+#+END_VERSE
+
+The distinction between this view and that of Leibniz is thus a wide
+one. Leibniz, starting from a theological standpoint, admits the
+reality of evil but sees it as an inevitable ingredient even in the
+best of all possible worlds. Pope on the other hand, adopting an
+approach which was of scientific inspiration, proclaims that evil is a
+mere illusion, a consequence of human ignorance. And the moral which
+the two writers drew from their conclusions similarly differed, for
+while Leibniz wished by his vindication of the ways of God to men to
+counteract the despair and helplessness which Manicheism might
+provoke, and to encourage men to collaborate actively with God in the
+working out of His purposes, Pope seems to preach only passive
+submission to a Providence which, if universally rational and
+ultimately beneficent, is also beyond man’s limited comprehension.
+
+Such distinctions are important if we are to understand the history of
+optimism, but in practice they were seldom made by the
+eighteenth-century public. Pope’s poem was enormously successful in
+France: no less than four different translations, two of which were
+frequently reprinted, appeared between 1736 and 1750; and it was very
+commonly, though erroneously, supposed that Pope had been influenced
+by Leibniz. Interest in Leibniz, indeed, which had somewhat languished
+in France since his death in 1716, was revived precisely by the
+controversy which sprang up over Pope’s poem. It is significant that
+the fullest discussion ever accorded to Leibniz’s /Théodicée/ in a
+French periodical appeared, not in a review of the first edition of
+1710, but in 1737, the year after the publication of the first French
+translation of the /Essay on Man/, when the Jesuit /Mémoires de
+Trévoux/ devoted four articles to reviewing an edition of the
+/Théodicée/ published in 1734.
+
+If Leibniz, who was little read, became better known, and by some
+better thought of, as a result of this renewed French interest in
+optimism, his reputation scarcely benefited in France from a further
+development, which served nevertheless to keep his name before the
+public in the following two decades. Owing chiefly to Leibniz’s
+unwillingness to publish systematic expositions of his views, his
+philosophy, for all its originality and importance, exercised
+extremely little direct influence: but early in the eighteenth century
+there appeared in Germany an academic disciple of Leibniz whose impact
+was considerable. Christian Wolff (1679-1754), a professor in the
+universities of Halle and Marburg, was above all a systematizer and an
+expositor, developing some of Leibniz’s principal conceptions into an
+all-embracing philosophical structure which covered every aspect of
+human thought, from logic to theology, from metaphysics to ethics.
+This he presented in lectures to students over a period of thirty
+years and published in some forty quarto volumes, in which his thought
+is set out in a rigidly organized pattern resembling that of a
+textbook of geometry. The apparently solid, ‘mathematically’ proven
+certainties of this arid and pedantic philosophical system had great
+appeal for his contemporaries, however, and before his death Wolff’s
+philosophy had become the established orthodoxy in the universities of
+northern Germany.
+
+The issue at stake in the controversy was a crucial one. The optimism
+expressed in Pope’s poem, and which was commonly supposed to be that
+of Leibniz also, appeared in the 1730s as a characteristically deistic
+view. It presented God as a rational Supreme Being, the creator of a
+rational, ordered, perfect universe; it clearly left no room for such
+notions as the Fall, original sin, Christ’s atonement, redemption by
+divine grace, or even, in the eyes of many, for freedom of the will.
+And at that date deism was the commonest form assumed by the growing
+European movement of free thought, the strongest enemy with which the
+Church had to contend. The forces of orthodoxy consequently reacted
+vigorously, condemning such doctrines as unchristian and above all
+fatalistic; but their attraction remained strong in an age which
+tended to complacency, was impressed by the achievements of the new
+science, and found the rationalistic notions of deism more congenial
+than the dogmas of revealed religion.
+
+It was in these Protestant areas of the country that many thousands of
+Huguenots had settled when in 1685 the revocation of the Edict of
+Nantes had forced them to leave France. These refugees, and especially
+the second generation, born in exile, while they preserved their
+religious traditions and their national language, also came inevitably
+under the influence of contemporary German movements. Some became
+enthusiastic Wolffians, and consequently tried to win further
+adherents by spreading knowledge of Wolff’s system in the
+French-speaking world. French translations and expositions of Wolff
+were published in the late 1730s and the 1740s by Jean Deschamps, a
+little-known pastor in Berlin who later lived in London, and by the
+much more influential J.H.S. Formey, a Huguenot minister and professor
+who became the permanent Secretary of the Berlin Academy of Sciences
+in 1748, contributed articles to Diderot’s /Encyclopédie/, and was
+extremely active throughout his career as a publicist and journalist.
+Formey’s most ambitious attempt at presenting Wolff to French readers
+was /La Belle Wolfienne/ (6 vols., 1741-53), a work which, in the
+early volumes at any rate, tried to emulate the conversational method
+of popular scientific exposition used so successfully by Fontenelle in
+his /Entretiens sur la pluralité des mondes habités/ half a century
+before. But certainly more influential than this was his journalistic
+work. From 1734 until its disappearance in 1760 Formey was on the
+editorial staff of a periodical primarily concemed with presenting
+German literary and intellectual life to French readers, the
+/Bibliothèque germanique/, and in the 1740s and ’50s he was able to
+use it as an organ of Wolffian propaganda, consistently publishing
+articles and reviews in which Wolff’s philosophy was expounded and put
+forward in a favourable light.
+
+The positive effect of this campaign in France itself was not very
+great. The only French convert to Wolffianism of any significance was
+Voltaire’s mistress, Madame Du Chatelet. Won over, at least
+temporarily, by the enthusiasm of a disciple of Wolff whom she
+employed for a time as a mathematics tutor, Samuel König, she prefaced
+a popular introduction to physics which she published in 1741, the
+/Institutions de physique/, with an outline of the metaphysical
+conceptions of Leibniz (including the doctrines of the /Théodicée/),
+‘puisées dans les ouvrages du célébre Wolff.’ The general effect,
+however, of such pro-Wolffian activities was at least to keep the
+names of Leibniz and Wolff before the French public by provoking
+opposition. Apart from Madame Du Chatelet’s book, during the twenty
+years preceding /Candide/ virtually nothing was published on the
+subject in France itself which was not hostile to the Wolffian
+philosophy. It appeared to most French minds as an extreme example of
+a kind of dogmatic speculation which the new scientific progress,
+based upon observed fact only, had shown to be valueless. Condillac
+dealt this sort of philosophy a crushing blow with his devastatingly
+critical /Traité des systémes/ in 1749, and D’Alembert in 1751
+recorded the decease of systematic metaphysics in his /Discours
+préliminaire de l'Encyclopédie/: ‘Le goût des systémes, plus propre a
+flatter imagination qu’a éclairer la raison, est aujourd’hui
+presqu’absolument banni des bons ouvrages.”
+
+The interest in the doctrines of optimism which Pope’s /Essay on Man/
+had stimulated in France was thus reinforced to some extent by the
+attempts of Madame Du Châtelet and the Huguenot enthusiasts in Germany
+to attract French support for the philosophy of Leibniz and Wolff.
+Pope and Leibniz were continually linked together by
+controversialists, ‘le meilleur des mondes possibles’ and Pope’s ‘tout
+est bien’ (‘Whatever is, is right’) became the catch-phrases of the
+discussion: but even those in France who sympathized with the
+optimistic solution of the problem of evil were rarely disposed to
+accept also the complete metaphysical system in which Wolff had
+embedded it. The outlines of that system became better known in France
+than Leibniz’s own thought had ever been, thanks to the efforts of the
+Wolffian propagandists: but Frenchmen, it seems, if they were able now
+to recognize such technical phrases as ‘l’harmonie préétablie,’ ‘la
+raison suffisante,’ or ‘les monades’ as characteristically Leibnizian,
+saw no reason to take Leibnizian metaphysics seriously, and now also
+associated it with the pedantic aridity and prolixity of Wolff—who in
+these respects well exemplified the current French conception of
+German pedagogues and scholars.
+
+Optimism itself, moreover, though defended by enthusiasts in Germany,
+continued to come under fire in France. As we have seen, the forces of
+religious orthodoxy condemned it, emphasizing especially the
+fatalistic implications which were inseparable from it; and to many
+men of sense it seemed less and less in accordance with the observable
+facts of existence—an impression which was of course enormously
+strengthened by the Lisbon earthquake of 1755.
+
+We are now in a better position to understand the immediate success of
+/Candide/. In it Voltaire is making fun of a philosophy much discussed
+in France, but generally rejected there: one which aroused great
+interest, because it was concerned with a problem of acute importance
+for the age, but which had also acquired an aura of ridicule through
+becoming associated in the public mind with the academic jargon of
+German pedants and their infatuated disciples. In creating Pangloss,
+the German pedagogue, with his Leibnizian clichés, his irrepressible
+passion for metaphysical dogmatizing, and his blind devotion to
+optimism, Voltaire was setting up a butt for satire at which all
+France could laugh.
+
+-----
+
+To describe the development of Voltaire’s attitude to the question of optimism it is not
+necessary, or possible, to go back to the earliest years of his career: the successful young
+court poet and dramatist of the Regency had as yet no serious personal concern with such
+profound matters as the problem of evil. Yet, with his early interest in Bayle and impatience
+with religious orthodoxy, he can scarcely have failed, even as a very young man, to be aware
+of the importance of the question. He of course read his friend Pope’s /Essay on Man/ as soon
+as it appeared in 1733, and it is noteworthy that, although he qualified his first praise of it
+with the remark that ‘Now and then there is some obscurity’ (letter, in English, to Thieriot,
+24 July 1733, Best. 614), his own earliest recorded opinions on the subject, which belong to
+...................
+
+W.H. BARBER: [The Question of Optimism]+
++ Originally published in French, “Sur le style philosophique de Candide,”
+  in Comparative Literature 28 (1976), pp. 193—200, This
+  translation, by Nicholas Cronk, is based on the slightly revised
+  version that appeared in /Le Reméde dans le mal/ (Paris: Gallimard,
+  1989), pp. 123-44, © Editions Gallimard, Paris, 1983, 1989.    
+ 
+Candide (Third International Edition)
+Voltaire
+W. W. Norton & Company, 15 апр. 2016 г.
+ISBN	0393617483, 9780393617481
+
+Candide has been delighting readers since 1759 with its satiric wit, provocations, and warnings.
+The novella has never been out of print and has been translated into every conceivable language. The text of this Norton Critical Edition remains that of Robert M. Adams’s superlative translation, accompanied by explanatory annotations.
+
+The Norton Critical Edition also includes:
+· A full introduction by Nicholas Cronk.
+· Six background studies of Enlightenment ideas and themes (by Richard Holmes, Adam Gopnik, W. H. Barber, Dennis Fletcher, Haydn Mason, and Nicholas Cronk), five of these new to the Third Edition.
+· Seven critical essays—five of them new to this edition—representing a wide range of approaches to Candide. Contributors include J. G. Weightman, Robin Howells, James J. Lynch, Philip Stewart, Erich Auerbach, and Jean Starobinski.
+· A revised and expanded Selected Bibliography.
+https://books.google.ru/books?id=oiFjDAAAQBAJ&pg=PT158&lpg=PT158&dq=Quarters+of+nobility+Candide+Cunegunde+Voltaire&source=bl&ots=EPaLKDM5Mj&sig=ACfU3U2Fme9wXwrO8K6As4Ti_GMpyzh68w&hl=ru&sa=X&ved=2ahUKEwir76Hoo4H5AhUzQfEDHdNwBxoQ6AF6BAgqEAM#v=onepage&q=Quarters%20of%20nobility%20Candide%20Cunegunde%20Voltaire&f=false
+ 
+
 * Footnotes
 
 [fn:1] Littré: « *campagne:* 6° Terme de jeu. À la bassette et au
