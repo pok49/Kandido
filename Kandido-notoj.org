@@ -20,6 +20,17 @@ Ja kiel edikitino de Franca pesiono en Berlino povis memori germanan nomon, aŭ 
 
 https://flibusta.club/b/624065/read
 
+** A. Pope
+
+Lorsque l'illustre Pope donna son /Essai sur l'Homme/, et qu'il
+développa dans ses vers immortels les systèmes de Leibnitz, du lord
+Shaftesbury, et du lord Bolingbroke, une foule de théologiens de
+toutes les communions attaqua ce système. On se révoltait contre cet
+axiome nouveau que /tout est bien/, que /l'homme jouit de la seule mesure
+du bonheur dont son être soit susceptible/, etc.
+«Poème sur le désastre de Lisbonne» [ 1755 ] (Préface)
+https://artflsrv03.uchicago.edu/philologic4/toutvoltaire/navigate/522/1/2/?byte=7368
+
 ** Kiom eble plej
 
 *Kiom*, antaŭ *eble*, ne havas la saman signifon, kiel la paralela *kiel*: per
@@ -474,8 +485,21 @@ kiam temas pri "[[kelkaj]] diamantoj" en anuso)
 ----
 ĉap. 1ª:
 
-gradoj da nobeleco
-<span class="aside">[4] Temas la nombro de nobelaj geprauloj. log<sub>2</sub>71 ≈ 6.15, t.e. la patro de Kandido estis nobelo en almenaŭ la 7ª generacio. France <em>quartiers,</em> angle <em>quarterings. — S.</em></span>
+** gradoj da nobeleco
+<span class="aside">[4] Temas la nombro de nobelaj geprauloj.
+log<sub>2</sub>71 ≈ 6.15, t.e. la patro de Kandido estis nobelo en
+almenaŭ la 7ª generacio. France <em>quartiers,</em> angle
+<em>quarterings. — S.</em></span>
+
+Sumo de geometria progresio:
+
+b₁, b₂=q·b₁, ... b_n=q^{n-1}·b₁
+S_n = b₁(qⁿ - 1) / (q - 1) = 2(2^{n-1} -1) / 1 = 2ⁿ - 2
+
+2, 4, 8, ... 72
+
+n=6: 64 -2 = 62
+n=7: 126
 
 2. Pangloss: See A Note on Names. In composing the character of Pangloss,
 Voltaire may have been thinking of Leibniz’s disciple Christian Wolff (1679-
@@ -1117,6 +1141,52 @@ For example, a person having sixteen quarterings (formally in [[heraldry]] [[Sei
 Some [[orders of chivalry]] limit their membership to persons who can prove a certain number of quarterings (''e.g.'', sixteen for the [[Sovereign Military Order of Malta|Order of St. John]]).
 https://en.wikipedia.org/wiki/Quarters_of_nobility
 
+-------
+
+Les *quartiers de noblesse* expriment, dans le système nobiliaire,
+l'ancienneté des titres de noblesse d'une personne en fonction des
+titres de noblesse de chacun de ses ascendants.
+
+En pratique, le décompte des quartiers s'opère en cumulant, à chaque
+génération, le nombre d'aïeux reconnus nobles. Deux grands-parents
+nobles et trois arrière-grands-parents nobles donneront, par exemple,
+cinq quartiers de noblesse. ------- Kaj la gepatroj ? 5+2=7 ?
+
+En France, on compte par degrés et non par quartiers.
+
+C'est à partir de la fin du Moyen Âge, en Europe centrale, qu'apparait
+l'usage de définir la noblesse en faisant un décompte des « quartiers
+de noblesse ». Plus précisément, ce serait les Allemands et les
+Flamands qui auraient les premiers eu recours à un tel décompte, pour
+répondre au problème posé par une éventuelle absence de noblesse du
+côté des femmes.
+https://fr.wikipedia.org/wiki/Quartiers_de_noblesse
+
+----------------
+
+*quartiers de noblesse* : Ensemble des ascendants nobles d'un
+individu, pris à la même génération. (« Avoir quatre quartiers, huit
+quartiers de noblesse », c'est avoir quatre, huit ascendants nobles
+paternels et maternels.)
+
+Il existe deux façons de compter l'ancienneté et donc la qualité de la
+noblesse. Le premier, le compte par degré, consiste à remonter la
+filiation masculine, de degré en degré, jusqu'à l'ancêtre premier. Le
+second, le compte par quartier, prend en compte et la filiation
+masculine et la filiation féminine.
+
+Le premier système était utilisé en France. La noblesse n'étant
+transmise que par l'homme, le mariage d'un noble avec une roturière
+était facilité, celle-ci n'influant en rien sur la transmission de la
+noblesse. L'inverse, naturellement, n'était pas vrai.
+
+Le second système, celui de l'Europe centrale, tenait compte de la
+qualité nobiliaire de la femme, au même titre que celle de l'homme. Il
+n'est pas étonnant que l'usage s'en soit répandu en France au xviiie
+s., période qui voit la noblesse se raidir sur ses privilèges et
+exiger des preuves de noblesse particulièrement rigoureuses.
+
+
 * Optimism
 Leibniz’s purpose in his /Essais de Théodicée/ (1710: written in French) was essentially to
 defend the rationality of God and His creation against an attack which, in his eyes, was a
@@ -1394,6 +1464,15 @@ The Norton Critical Edition also includes:
 https://books.google.ru/books?id=oiFjDAAAQBAJ&pg=PT158&lpg=PT158&dq=Quarters+of+nobility+Candide+Cunegunde+Voltaire&source=bl&ots=EPaLKDM5Mj&sig=ACfU3U2Fme9wXwrO8K6As4Ti_GMpyzh68w&hl=ru&sa=X&ved=2ahUKEwir76Hoo4H5AhUzQfEDHdNwBxoQ6AF6BAgqEAM#v=onepage&q=Quarters%20of%20nobility%20Candide%20Cunegunde%20Voltaire&f=false
  
 
+
+<h4 id="Ij">Interjekcioj</h4>
+Hélas: 15
+Ah: 16
+
+
+
+
+
 * Footnotes
 
 [fn:1] Littré: « *campagne:* 6° Terme de jeu. À la bassette et au
