@@ -1,3 +1,14 @@
+* Kovrilo
+
+File:Jean Huber - Voltaire à son lever à Ferney, dictant à son
+secrétaire Collini - P168 - Musée Carnavalet.jpg
+https://commons.wikimedia.org/wiki/File:Jean_Huber_-_Voltaire_%C3%A0_son_lever_%C3%A0_Ferney,_dictant_%C3%A0_son_secr%C3%A9taire_Collini_-_P168_-_Mus%C3%A9e_Carnavalet.jpg
+The author died in 1786, so this work is in the public domain
+
+
+In his /Lever de Voltaire/ of 1772 Jean Huber depicted the /philosophe/ getting dressed in a somewhat awkward position. The picture was a great success: it was engraved in Paris and in London, reproduced many times and broadly circulated and sold. 
+https://voltairefoundation.wordpress.com/2015/06/24/public-figures-the-invention-of-celebrity-in-the-eighteenth-century/
+
 * Antaŭparolo
 
 <!--Plibeligo / korekto; ĝueblo; sennaciigo;
@@ -18,6 +29,141 @@ bildoj
 Ja kiel edikitino de Franca pesiono en Berlino povis memori germanan nomon, aŭ se ŝi ja memoris, aprezi ĝin?
  -->
 
+* Teodiceo
+ 
+The problem of divine justice or theodicy, of reconciling the existence of evil and suffering
+with the goodness and omnipotence of God, is one that clearly is of permanent concern not
+only to Christian theology but also to all believers in a creator rationally conceived as a
+‘Supreme Being. And it was a problem which became particularly acute in Western Europe
+about the beginning of the eighteenth century. The renewed confidence in the powers of
+human reason which characterizes so much of European thought in the seventeenth century,
+from Descartes onwards, contributed to this in two main ways. In the first place, as it led
+philosophers like Descartes himself, Spinoza and Leibniz to conceive vast metaphysical
+systems in which every known feature of the universe was (ideally, at any rate) rationally
+accounted for and fitted into a comprehensive and coherent intellectual scheme, so also
+religious thinkers were impelled to emphasize the rationality of Christianity, to attempt to
+win or regain the allegiance of the now growing number of sceptics and freethinkers by
+demonstrating that Christian beliefs were entirely compatible with reason. In such an
+attempt, the problem of evil clearly constituted a major issue.
+
+Secondly, the new rationalism was beginning to bear fruit where man’s
+understanding of the world was concerned. New instruments like the
+telescope and the microscope, new mathematical techniques, a new
+awareness of the importance of experiment and observation, were making
+possible for the first time some scientific understanding of natural
+phenomena. Where formerly it had been assumed that, since the Fall,
+the world was predominantly given over to chaos and coruption,
+regularity and even purpose now began to be descried in the workings
+of nature. It seemed plausible to compare the universe to a watch, the
+most complex and delicately constructed machine of the age—a machine
+in which every part functioned regularly and purposefully, in
+accordance with the intentions of the watchmaker. If the arrangements
+of the Divine Watchmaker, however, proved accessible to human reason
+in such matters as the law of gravitation or the principles of optics
+(to quote the discoveries of Newton alone), the presumption seemed to
+follow that rational purpose pervaded every feature of the universe;
+and here too the problem arose as to how the existence of such
+manifest blemishes as evil and suffering could be reconciled with the
+necessary perfection of the divine scheme.
+
+It is these two approaches to the problem, different in origin and emphasis but similar in
+their rationalism, which underlay respectively the two most influential and widely discussed
+formulations of the ‘optimistic’ solution, those of Leibniz and of Alexander Pope.
+
+Leibniz’s purpose in his /Essais de Théodicée/ (1710: written in
+French) was essentially to defend the rationality of God and His
+creation against an attack which, in his eyes, was a potential danger
+to religion and to man’s confidence in the divine purposes. The French
+Huguenot scholar and philosopher Pierre Bayle (1647-1706), a critical
+rather than a constructive thinker, had frequently emphasized the
+limitations of the human reason by drawing attention to philosophical
+paradoxes which appeared to admit of no rational solution; and one of
+these, in his view, was the problem of evil. In the articles
+‘Manichéens’ and ‘Pauliciens’ of his /Dictionnaire historique et
+critique/ (1697) he argued that the explanation propounded by the
+ancient Manichean heresy, namely that the world was the plaything of
+opposing gods, one good, one evil, was in fact the solution of the
+problem most in keeping with the facts, however illogical and
+incompatible with our notions of God it might be:
+#+begin_quote
+Qui n’admirera et qui ne déplorera la destinée de notre raison: voila
+les Manichéens qui avec une hypothése tout-a-fait absurde et
+contradictoire expliquent les expériences cent fois mieux que ne font
+les orthodoxes, avec la supposition si juste, si nécessaire, si
+uniquement véritable d’un premier principe infiniment bon et
+tout-puissant [‘Pauliciens,’ note E].
+#+end_quote
+
+Leibniz’s book is a systematic discussion of Bayle’s views, and in it he propounds an answer
+to the problem of evil which is in harmony with his own wider metaphysical thinking and
+also supports the claims of rational theology. He sees God as subject, like man, to the laws
+of reason: even God cannot make two and two add up to anything but four, nor create a
+spherical cube. Hence, when God is considered as deciding upon the creation of the world,
+Leibniz envisages him as having a choice only between possible worlds, that is, forms of
+creation which do not violate the laws of reason, which do not involve logical contradiction.
+And among such possible worlds God in His infinite goodness has inevitably chosen the
+best. This ‘best of all possible worlds,’ however, necessarily contains imperfections, and
+hence evil. While many evils are justifiable and even valuable as a means to good (e.g. the
+protective and warning function of much physical pain), other evils are merely the inevitable
+result of the imperfections inseparable from the status of created beings; man has limited
+power, limited knowledge: ‘Il y a une imperfection originale dans la créature avant le péché,
+parce que la créature est limitée essentiellement: d’oit vient qu’elle ne saurait tout savoir, et
+qwelle se peut tromper et faire d’autres fautes’ (Théodicée, I, §20). Evil of this sort is thus
+presented by Leibniz. not as a positive force, but rather as something negative and privative;
+not anything willed by God, but an imperfection arising inevitably from the nature of things,
+and to which man must consequently reconcile himself. The fact of evil is not denied, but its
+presence in God’s creation is morally justified and rationally accounted for.
+
+The second version of the philosophy of optimism is linked with the name of Alexander
+Pope, not because he himself was an original thinker (he chiefly echoes the views of his
+contemporary, Bolingbroke, and the earlier English philosopher, Shaftesbury), but because
+
+** La eklezia malaprobo
+ 
+The issue at stake in the controversy was a crucial one. The optimism
+expressed in Pope’s poem, and which was commonly supposed to be that
+of Leibniz also, appeared in the 1730s as a characteristically deistic
+view. It presented God as a rational Supreme Being, the creator of a
+rational, ordered, perfect universe; it clearly left no room for such
+notions as the Fall, original sin, Christ’s atonement, redemption by
+divine grace, or even, in the eyes of many, for freedom of the will.
+And at that date deism was the commonest form assumed by the growing
+European movement of free thought, the strongest enemy with which the
+Church had to contend. The forces of orthodoxy consequently reacted
+vigorously, condemning such doctrines as unchristian and above all
+fatalistic; but their attraction remained strong in an age which
+tended to complacency, was impressed by the achievements of the new
+science, and found the rationalistic notions of deism more congenial
+than the dogmas of revealed religion.
+
+** Wolff
+
+If Leibniz, who was little read, became better known, and by some
+better thought of, as a result of this renewed French interest in
+optimism, his reputation scarcely benefited in France from a further
+development, which served nevertheless to keep his name before the
+public in the following two decades. Owing chiefly to Leibniz’s
+unwillingness to publish systematic expositions of his views, his
+philosophy, for all its originality and importance, exercised
+extremely little direct influence: but early in the eighteenth century
+there appeared in Germany an academic disciple of Leibniz whose impact
+was considerable. Christian Wolff (1679-1754), a professor in the
+universities of Halle and Marburg, was above all a systematizer and an
+expositor, developing some of Leibniz’s principal conceptions into an
+all-embracing philosophical structure which covered every aspect of
+human thought, from logic to theology, from metaphysics to ethics.
+This he presented in lectures to students over a period of thirty
+years and published in *some forty quarto volumes*, in which his thought
+is set out in a rigidly organized pattern resembling that of a textbook
+of geometry. The apparently solid, ‘mathematically’ proven certainties
+of this arid and pedantic philosophical system had great appeal for
+his contemporaries, however, and before his death Wolff’s philosophy
+had become the established orthodoxy in the universities of northern
+Germany.
+
+
+
+ 
 https://flibusta.club/b/624065/read
 
 ** A. Pope
@@ -31,7 +177,15 @@ du bonheur dont son être soit susceptible/, etc.
 «Poème sur le désastre de Lisbonne» [ 1755 ] (Préface)
 https://artflsrv03.uchicago.edu/philologic4/toutvoltaire/navigate/522/1/2/?byte=7368
 
-[9] Tio estas misprezento de la penso de Lejbnico. Plej bona ano de limigita aro ne nepre estas tre bona. «La plej bona el ĉiuj eblaj mondoj» ne nepre estas perfekte bona. Eĉ male, laŭ Lejbnico ĉiuj eblaj mondoj estas neperfektaj, kaj en tio konsistas la <em>metafizika malbono.</em> Laŭ Lejbnico, «malplia malbono estas speco de bono» (<i lang="fr">un moindre mal est une espèce de bien</i>), tial ankaŭ eblus paroli pri «la malplej malbona el la eblaj mondoj» (kvankam matematike tio ne nepre estas egala).<br />
+[9] Tio estas misprezento de la penso de Lejbnico. Plej bona ano de
+limigita aro ne nepre estas tre bona. «La plej bona el ĉiuj eblaj
+mondoj» ne nepre estas perfekte bona. Eĉ male, laŭ Lejbnico ĉiuj eblaj
+mondoj estas neperfektaj, kaj en tio konsistas la <em>metafizika
+malbono.</em> Laŭ Lejbnico, «malplia malbono estas speco de bono» (<i
+lang="fr">un moindre mal est une espèce de bien</i>), tial ankaŭ eblus
+paroli pri «la malplej malbona el la eblaj mondoj» (kvankam matematike
+tio ne nepre estas egala).<br />
+
 Fakte ĉi tie okazas konfuzo de la teodiceo de Lejbnico kun la
 optimismo de Angla skolo, esprimita en la filozofia poemo «Eseo pri
 Homo» fare de Aleksandro Popo (kiu verkadis ne malpli plaĉe ol lia
@@ -39,7 +193,7 @@ amiko Voltero):
 
 ** «Optimismo»
 In 1737, a review of a new edition of Leibniz’s book in the Jesuit
-Mémoires de Trévoux dubbed its central doctrine ‘l’optimisme’, thus
+/Mémoires de Trévoux/ dubbed its central doctrine ‘l’optimisme’, thus
 apparently coining the term.[ February 1737, p.207.]
 https://voltairefoundation.wordpress.com/tag/candide/page/2/
 
@@ -55,7 +209,16 @@ kiom eble egale[Z]; ni decidis kiom eble ĉion fari mem[Z]/. Kp. ¶261.
 
 
 
-Ainsi dans Candide, Voltaire critique l’optimisme de Leibniz et va le pousser au ridicule à travers le personnage de Pangloss, grand philosophe, professeur de "métaphysico-théologo-cosmolonigologie" et précepteur de Candide. La philosophie de Pangloss peut se résumer en cette phrase "Tout est au mieux dans le meilleur des mondes possibles" et est une critique virulente de Voltaire contre la thèse leibnizienne du meilleur des mondes. Ainsi, Voltaire déforme la pensée de Leibniz, qui n’affirme pas que le monde est parfait et sans souffrance, mais simplement qu’en dépit des souffrances présentes dans notre monde réel, ce dernier est le meilleur qui soit.
+Ainsi dans /Candide/, Voltaire critique l’optimisme de Leibniz et va
+le pousser au ridicule à travers le personnage de Pangloss, grand
+philosophe, professeur de "métaphysico-théologo-cosmolonigologie" et
+précepteur de Candide. La philosophie de Pangloss peut se résumer en
+cette phrase "Tout est au mieux dans le meilleur des mondes possibles"
+et est une critique virulente de Voltaire contre la thèse leibnizienne
+du meilleur des mondes. Ainsi, Voltaire déforme la pensée de Leibniz,
+qui n’affirme pas que le monde est parfait et sans souffrance, mais
+simplement qu’en dépit des souffrances présentes dans notre monde
+réel, ce dernier est le meilleur qui soit.
 https://www.rtbf.be/article/leibniz-et-sa-theorie-du-meilleur-des-mondes-possibles-10684612
 
 Kp "Tout va pour le mieux dans le meilleur des mondes"
@@ -136,8 +299,6 @@ evocation of productive labor checks any thoughts of utopia. This
 small society is in no way a model. “The small farm yielded a great
 deal.” That is all. It’s very little, some will say. Voltaire does not
 need more. (As for Rousseau, he offers}
-
- 
 
  
 
@@ -728,6 +889,21 @@ the earthquake, and there were no executions.
 Frottez-vous de __ pommade, mangez et dormez. 
 Ŝmiru vin per pomado, manĝu kaj dormu.
 Kial ne "per LA pomado"? Ĉu partitivo?
+ 
+1. may Our Lady of Atocha ... watch over you: A statue in Madrid, the site of a cult
+of the pregnant Virgin: ‘This Lady is made of wood; every year she weeps on
+her feast-day, and the people weep too. Once on this occasion the preacher,
+seeing a carpenter with dry eyes, asked him how it was that he did not
+dissolve in tears when the Holy Virgin wept. “Ah, reverend Father,” he
+replied, “it was I who refastened her in her niche yesterday; I drove three
+great nails into her behind: it is then she would have wept had she been
+able” (Voltaire, annotation to the Journal of the Marquis de Dangeau, 1769).
+Saint Anthony is the patron saint of Portugal (notwithstanding the
+reference here to Padua in Italy), and was the saint to invoke when looking
+for things lost - in this case Cunégonde; Saint James is the patron saint of
+Spain.
+ 
+
 
 ----
 ĉap. 9ª:
@@ -748,8 +924,27 @@ https://otvet.mail.ru/question/65046168
 
 ----
 ĉap. 10ª:
+ 
+1. everyone has an equal right to them: Here and elsewhere (chapters 15 and 16)
+Pangloss’s utopian socialism parrots the arguments of Rousseau’s /Discours
+sur l'origine de l’inégalité/ (Discourse on the Origins of Inequality, 1755), whose
+proposal that all men are equal in a state of nature, and that social
+inequalities are artificial, had been ironized by Voltaire: ‘I have received,
+Monsieur, your new work against the human species ... Never has so much
+wit been expended in an effort to make brutes of us all. Reading your book
+makes one feel like crawling on all fours’ (letter to Rousseau, 30 August
+1755).
 
-
+Voltaire lui adresse une lettre remplie d'une ironie féroce :
+« J'ai reçu, Monsieur, votre nouveau livre contre le genre humain ; je
+vous en remercie ; vous plairez aux hommes à qui vous dites leurs
+vérités, et vous ne les corrigerez pas. Vous peignez avec des couleurs
+bien vraies les horreurs de la société humaine dont l'ignorance et la
+faiblesse se promettent tant de douceurs. On n'a jamais employé tant
+d'esprit à vouloir nous rendre Bêtes. Il prend envie de marcher à
+quatre pattes quand on lit votre ouvrage. (...)
+https://www.herodote.net/Deux_genies_que_tout_oppose-synthese-367-474.php
+
 
 3. Benedictine prior: The Benedictines were thought to be very wealthy.
 
@@ -888,12 +1083,100 @@ for the exclusive use of Jesuits.
 
 13. negro slaves: The Jesuits were authorized to have negro slaves, along with
 everyone else.
+
 
- 
+----
+ĉap. 15ª:
+1. my sister raped: The Baron omits to mention what Pangloss has already told
+us: that he received ‘exactly the same treatment’ as his sister.
+
+2. Father Croust: Rector of the Jesuit college in Colmar, and an enemy of the
+/philosophes/ (i.e. the group of free-thinkers --- writers, scientists and
+philosophers - associated with the /Encyclopédie/ (1751-72), the great
+collective French Enlightenment project of a multi-volume illustrated
+encyclopedia which summarized the current state of human knowledge
+across the arts and sciences), Croust treated Voltaire with hostility when the
+latter tried to settle at Colmar in 1754, after his return from Prussia. Croust
+is here homosexualized, and referred to elsewhere by Voltaire as ‘the most
+brutalized member of the Society’.
+
+3. colonel and priest: An invidious conjunction, for Voltaire; the Jesuit order was
+founded on principles of military discipline, with military titles.
+
+4. that all men are equal: Another reference to Pangloss’s Rousseauist socialism.
 
 
 ----
 ĉap. 16ª:
+
+1. *Journal de Trévoux*: A critical but scrupulously informative periodical
+published by the Jesuits at Trévoux under the title /Mémoires pour
+servir & T'Histoire des Sciences et des Beaux-Arts/ (/Memoranda
+Relating to the History of the Sciences and the Arts/). It ran from
+1701 to 1767, and carried out a sustained offensive against the
+/philosophes/ and the /Encyclopédie/. Voltaire counterattacked from
+1759 onwards (cf. ‘An Account of the Illness of the Jesuit Berthier’,
+in /Micromégas and Other Short Fictions/, edited by Haydn Mason (London,
+2002)).
+
+2. *they are one-quarter human ... one-quarter Spanish*: Rousseau’s /Discourse on the
+Origins of Inequality/, with its emphasis on the proximity of the
+higher apes to man, may have been a satirical starting point for this
+chapter, though the idea that apes were close to humans - or were
+perhaps human - was a commonplace.
+
+3. *aigypans*: A form of Pan, with the feet of a buck and a hirsute body.
+
+4. *fables*: A widely known work entitled /La Mythologie et les
+fables/ (/Mythology and Fables/, 1740), by the Abbé Antoine Banier,
+had argued that mythological beings such as satyrs and fauns were in
+reality large monkeys, refracted through the imaginations of the
+ancients. Voltaire’s view - advanced by several eighteenth-century
+naturalists and philosophers - was that such creatures were hybrids
+produced by the coupling of humans with other species, a notion which
+called into question the radical metaphysical distinction between man
+(beneficiary of salvation) and the rest of creation.
+
+5. *the Oreillon tribe*: Or Orejones; according to Garcilaso de la
+Vega’s /Historia General del Perú/ (/History of the Incas of Peru/,
+1704), this was the name of an Indian tribe of the upper Amazon, with
+large ears (/oreilles/) on account of the heavy pendants that they wore.
+
+6. *ropes made of bark*: Doubtless inspired by familiarity with
+Lilliputian tactics — Voltaire had read Jonathan Swift’s (1667-1745)
+/Gulliver's Travels/ (1726) with great gusto while he was living in
+England in the 1720s.
+
+7. ‘Let's eat Jesuit!’: Within weeks of the publication of Candide,
+the expression ‘Mangeons du Jésuite!’ had acquired proverbial status
+with a public increasingly hostile to the order, which was to be
+expelled from France in 1764.
+
+8. *state of nature*: The Rousseauist doctrine that men in a natural state are free
+of evil is under attack throughout /Candide/. Voltaire was unpersuaded of the
+supposed advantages of primitive life over civil society: ‘Good houses, good
+clothing, a good standard of living, with good laws and freedom are better
+than want, anarchy and slavery. Those who are unhappy with London just
+have to go off to the Orkneys; there they will live as everyone used to in
+London in Caesar's time; they'll eat oat bread, and cut each others’ throats
+for sun-dried fish and a straw hut. Those who recommend it should set the
+example’ (‘The ABC: Seventh Conversation: That modern Europe is better
+than Ancient Europe’, in Voltaire’s /Political Writings/, edited by David Williams
+(Cambridge, 1994), p. 131).
+
+9. *If we Europeans ... ravens and crows*: The defence of primitive by comparison
+with ‘civilized’ customs goes back to Michel de Montaigne’s (1533-92) essay
+“Des Cannibales’ (‘Of Cannibals’) in /Essais/ (/Essays/, 1580-88), Book 1, essay 31.
+Cacambo’s eloquence here draws on Voltaire’s article ‘Anthropophages’ in
+the /Philosophical Dictionary/, to the effect that eating your enemy is not as bad
+as killing him in the first place. (Cf. also the discussion of cannibalism in the
+/Essay on the Manners and Spirit of the Nations/, chapter 146).
+
+10. *the enemy of your enemies*: A piece of sophistry on Cacambo’s part; nothing
+so far suggests that the Oreillons are inimical to the Jesuits (who in Paraguay
+claimed to defend the indigenous peoples against the ravages of colonialism)
+~ they are merely out to avenge Candide’s murder of the two apes.
+
 
 We had now passed the mouth of the Aguarico, leaving behind us the
 Christian Quitus and the peaceful Zaparos. Henceforth the right bank of the
@@ -930,6 +1213,93 @@ obvious conclusion is that the primitive people are no better nor no
 worse than so-called civilized people. Both are capable of great
 cruelty.
 https://www.cliffsnotes.com/literature/c/candide/summary-and-analysis/chapters-xiiixvi
+
+
+3. aigypar form of Pan, with the feet of a buck and a hirsute body.
+
+4. fables: A widely known work entitled La Mythologie et les fables (Mythology and
+Fables, 1740), by the Abbé Antoine Banier, had argued that mythological
+beings such as satyrs and fauns were in reality large monkeys, refracted
+through the imaginations of the ancients. Voltaire’s view - advanced by
+several eighteenth-century naturalists and philosophers - was that such
+creatures were hybrids produced by the coupling of humans with other
+species, a notion which called into question the radical metaphysical
+distinction between man (beneficiary of salvation) and the rest of creation.
+
+5. the Oreillon tribe: Or Orejones; according to Garcilaso de la Vega’s Historia
+General del Peri (History of the Incas of Peru, 1704), this was the name of an
+Indian tribe of the upper Amazon, with large ears (oreilles) on account of the
+ pendants that they wore.
+
+6. ropes made of bark: Doubtless inspired by familiarity with Lilliputian tactics ---
+Voltaire had read Jonathan Swift’s (1667-1745) Gulliver's Travels (1726) with
+great gusto while he was living in England in the 1720s.
+
+7. ‘Let's eat Jesuit!’: Within weeks of the publication of Candide, the expression
+“Mangeons du Jésuite!’ had acquired proverbial status with a public
+
+8. state of nature: The Rousseauist doctrine that men in a natural state are free
+of evil is under attack throughout /Candide/. Voltaire was unpersuaded of the
+supposed advantages of primitive life over civil society: ‘Good houses, good
+clothing, a good standard of living, with good laws and freedom are better
+than want, anarchy and slavery. Those who are unhappy with London just
+have to go off to the Orkneys; there they will live as everyone used to in
+London in Caesar's time; they'll eat oat bread, and cut each others’ throats
+for sun-dried fish and a straw hut. Those who recommend it should set the
+example’ (‘The ABC: Seventh Conversation: That modern Europe is better
+than Ancient Europe’, in /Voltaire’s Political Writings/, edited by David Williams
+(Cambridge, 1994), p. 131).
+
+9. If we Europeans ... ravens and crows: The defence of primitive by comparison
+with ‘civilized’ customs goes back to Michel de Montaigne’s (1533-92) essay
+“Des Cannibales’ (‘Of Cannibals’) in /Essais/ (Essays, 1580-88), Book 1, essay 31.
+Cacambo’s eloquence here draws on Voltaire’s article ‘Anthropophages’ in
+the /Philosophical Dictionary/, to the effect that eating your enemy is not as bad
+as killing him in the first place. (Cf. also the discussion of cannibalism in the
+/Essay on the Manners and Spirit of the Nations/, chapter 146).
+
+10. the enemy of your enemies: A piece of sophistry on Cacambo’s part; nothing
+so far suggests that the Oreillons are inimical to the Jesuits (who in Paraguay
+claimed to defend the indigenous peoples against the ravages of colonialism)
+--- they are merely out to avenge Candide’s murder of the two apes.
+
+----
+ĉap. 17ª:
+
+1. Eldorado: From the fifteenth century onwards, Spanish conquistadors had
+speculated about a region abounding in gold and precious stones, to which
+the last Incas were thought to have retreated. Numerous attempts were
+made to discover this fabled but literal land lying between the Orinoco and
+the Amazon. By the eighteenth century it had largely become another name
+for Utopia. Voltaire’s main source for the local colour of the Eldorado
+episode was *Garcilaso de la Vega’s* /History of the Incas/. Voltaire frequently
+mocked the obstinacy with which Spanish travellers sought out this
+imaginary land; he summarizes accounts of Eldorado in the Essay on the
+Manners and Spirit of the Nations, chapter 151.
+
+2. Cayenne: The capital of French Guiana, and a considerable distance from
+Paraguay.
+
+3. the useful was joined to the agreeable: Horace (65-8 8c): ‘omne tulit punctum
+qui miscuit utile dulci’ (‘he who has joined the useful to the agreeable has
+won every vote’), Ars Poetica (The Art of Poetry), 11. 343-4. Cf. also Julie’s
+garden in Rousseau’s Nouvelle Héloise, Book 4, letter 11.
+
+4. large red sheep: Llamas: a South American ruminant related to the camel;
+they were sometimes described by travellers as of a reddish colour, were
+used as pack-animals, and were notable for their speed.
+
+. to despise gold and gems: Contempt for gold was part of the regime in Sir
+Thomas More’s (1478-1535) Utopia (1517).
+
+5. they were speaking Peruvian ... where nothing else is spoken: There is no Peruvian
+language as such; either the joke is on Cacambo as self-appointed linguist, or
+Voltaire is thinking of the lost language of the Incas.
+
+6. All the inns... are paid for by the government: Prior to the Spanish conquest,
+according to Garcilaso, free hostelries ‘well stocked with provisions’, were
+maintained by the Inca government for the benefit of travellers.
+ 
 
 ----
 ĉap. 18ª:
@@ -971,6 +1341,40 @@ tute la femurojn, aŭ la tutajn gambojn. ☞ pantaloneto.
 aristokratan, dum "ŝorto" konvenas al la klimato tropika.)
 
 ----
+ĉap. 18ª:
+
+8. Monsieur Vanderdendur ... presented himself: The following passage alludes to
+Voltaire’s personal disputes with the Dutch publisher Van Duren, who
+kept increasing the amount agreed for the printing of Frederick Il’s
+treatise Anti-Machiavel, the publication of which Voltaire had
+supervised.
+
+9. piastres: Spanish silver coinage.
+
+10. publishing houses of Amsterdam ... could more disgust a man: Amsterdam was a
+major European centre for the book trade. Authors flocked there from all
+points of the compass, often refugees or fugitives, and wrote to order for —
+in their view - exploitative publishers (also known as ‘booksellers’ or
+‘printers’), an opinion shared by Voltaire, who had perennial trouble with
+publishers, since piracy flourished in an age of censorship, and copyright
+law had yet to be established.
+
+11. preachers ... had decided he was a Socinian: Like tradesmen and booksellers,
+preachers (i.e. Protestant pastors) were fixtures of Dutch society, enjoying
+official status and considerable influence. Socinians were a sect who
+proposed a form of ‘rational’ Christianity, exalting individual conscience
+and minimizing or denying such mysteries as the divinity of Christ, the
+Trinity, original sin, the person of the devil and the eternity of hell. They
+were regarded as outright heretics in many European countries during the
+eighteenth century, even by those Protestants most closely allied to the
+philosophes. Voltaire attacked their ingrained optimism but approved their
+rationality; his impoverished scholar is reminiscent of Pierre Bayle, eking
+out his exile in Rotterdam, drudging for publishers and under suspicion for
+his religious beliefs.
+
+
+
+----
 ĉap. 21ª:
 <section id="n59"><title><p>[81]</p></title><p>Probable «Teorio de la Tero» de Bufono (1749) kun hipotezo eksplikanta la malkovron de maraj fosilioj sur montaj suproj. (Aŭ pli banale, <emphasis>Genezo</emphasis> 1:2.) — <emphasis>S.</emphasis></p></section>
 
@@ -983,6 +1387,37 @@ navigations/ by Brosses (1756).
 A reference to contempary scientific hypothesis that the mountains on
 the earth were formed by an original sea. The proof for this was that
 marine fossils had been found on the top of mountains.
+
+4. religious convulsions: Martin, on his visit to Paris, had seen only a range of
+questionable human types; the doors of good society are not open to him. As
+usual, Voltaire has his sights on journalists, men of letters, sectarians,
+Jansenists. The latter are caricatured by recalling an episode (1729-32) in
+which Jansenist zealots fell into ‘convulsions’ or miraculous trances before
+the Paris tomb of one of their deacons, in the cemetery of Saint-Médard. So
+great were the crowds, and so violent the enthusiasm, that in 1732 the
+authorities closed the cemetery. Voltaire was profoundly affected by this
+spectacle, and it remained one of his salient examples of religious
+fanaticism. The ‘convulsionist rabble’ appears onstage in the manuscript
+version of the opening of chapter 22 (see Appendix 1), but are banished to
+the wings in subsequent versions of the chapter.
+
+5. that fat volume belonging to the captain: Possibly the Bible; more likely to be a
+recent history of polar navigation, Histoire des navigations (History of
+Navigation, 1756) by Charles de Brosses (1709-77), which followed the
+naturalist Buffon in explaining the presence of marine fossils on mountain
+tops as evidence of an aboriginal flood. Voltaire tirelessly mocked this
+theory of origins, which bore so uncomfortable a resemblance to the biblical
+story of a Flood.
+
+6. why do you expect men to have changed theirs?: Voltaire attacks the primitivist
+idea (whether the Christian doctrine of the Fall, or the classical conception
+of a Golden Age) that man was formerly good and, corrupted by freedom,
+has since degenerated into the evil state in which he now appears to exist.
+Voltaire always insisted that the essential character of human beings has
+persisted unchanged, whatever their histories or cultures.
+
+
+
 
 ----
 ĉap. 22ª:
@@ -1140,6 +1575,84 @@ S: Ĉu vi ne scias, ke en la korpo de tiaj homoj estas la diablo?
 - *S:* tian misfamegon mi ne allasos.
 </cite>
 
+* Kultivi ĝardenon
+
+A more exact way of describing this /transfer of authority/ would be to note how, in
+/Candide/, the emphasis first placed on the question of the world’s /order/ is displaced finally
+to the question of humanity’s happiness. Through the link that Voltaire establishes between
+happiness and work, he is already sketching in outline the lesson that Goethe will propose in
+/Faust/, Part Two. The new age that is dawning is not properly characterized by the currently
+fashionable term /bourgeoisie/: we are in fact witnessing the emergence and triumph of the
+moment when humanity, no longer the admiring spectator of an all-encompassing universe,
+makes itself the creator of its own world, a world that is partial, specific, and provisional.
+But there is nothing yet to anticipate the Industrial Revolution and the technological
+domination of nature. What Voltaire draws in miniature is an agrarian society deriving the
+essential part of its income from the land, supplemented by the modest luxury of
+embroidery. But is it in fact a /society/ at all? Have we not here rather an example of
+withdrawal into private life? The group around Candide form neither a state nor even a
+family. They are at most a tiny enclave in a world given over to evil; a refuge, a place of
+asylum (as they said at the time) for a group of cripples whom chance and misfortune have
+brought together. None of the farm’s residents is a native of the place; they reconstitute a
+miniature homeland in a place where they can lead a better life—and they can lead a better
+life when they are not dependent on either religious or political power. It’s important to note
+that the group of exiles is cosmopolitan: in addition to the Westphalians (Candide,
+Cunégonde, Pangloss, Paquette), there are the Italians (the old woman, brother Giroflée), a
+Dutchman, more or less (Martin), and the Metis Cacambo. This group would come close to
+being a symbol of all humanity, were it not for the individual nuances of skin color and
+opinion that Voltaire holds precious and that he will always want to preserve in all his calls
+for toleration. The group is marginal, so small that it can dispense with the problem of
+political organisation, Voltaire’s evocation of productive labor checks any thoughts of
+utopia. This small society is in no way a model. “The small farm yielded a great deal.” That
+is all. It’s very little, some will say. Voltaire does not need more. (As for Rousseau, he offers
+far greater emotional and social riches with the image of Clarens in /La Nouvelle Héloise/.)
+Voltaire has kept his variations on the theme of utopia for the kingdom of Eldorado,
+suggesting perhaps that the best of political organizations is conceivable only as the attribute
+of a nonexistent place. In the Propontis, at the end of this unsatisfying odyssey, we are far
+from absolute perfection. We have a bastard, surrounded by a prostitute, a renegade priest, a
+pox-ridden pedant, an ugly and abused young baroness, and a half-breed valet—impure
+guilty beings, in short, seemingly scarred by moral conventions—who take charge of their
+destiny and who, by what they undertake, by what they make with their hands, seek in the
+final resort to become less unhappy. They manage an accommodation that can never quite
+compensate for life’s wear and tear. A political reading of /Candide/ should ask if the small
+territory of the farm is more likely to endure than the tiny barony—the pocket-sized Eden
+swept away by violence at the beginning of the narrative. At a time when small feudal lands
+have been swallowed up in the conflicts of the nation-states, what do we make of the fate of
+a private domain in a despotic state? Does even this compromise have a future? Voltaire
+perhaps wants to make us feel the fragility and /eccentricity/ inherent in any semblance of
+regained stability.
+
+We should not reason excessively about a text that warns us precisely against excessive
+reasoning. We can think about /Candide/ as a parable. But this book is only a parable in its
+general outline and in some of the questions and maxims that punctuate it. The caprice and
+even /folly/ that flourish all around are not without a hidden link to the central message. How,
+for example, are we to interpret the paired figures, the ballet of minor characters who enter
+and exit /in twos/? This game of pairs is repeated indefinitely: two recruiting officers, two
+rival kings (the Abar and the Bulgarian), the servant of the Inquisition and his attendant, the
+Grand Inquisitor and Don Issachar, Cunégonde and the old woman, the two girls pursued by
+two monkeys, Giroflée and Paquette, the two girls in the service of Pococurante, the young
+baron chained next to Pangloss, the two sons and the two daughters of the good old man, and
+so on. This is only a summary list of these /simultaneous/ dualities. We can identify other
+dualities that occur in rapid succession: the Protestant preacher followed by good Jacques;
+the Spanish kingdom, then the Jesuit kingdom; the Parisian experience, then the English
+experience; the dervish, then the good old man.... These games of pairs allow Voltaire to fall
+back sometimes on the comic effects of /symmetry/ (when dealing with the companions),
+sometimes on the troubling effects of /disparity/ (when dealing with more important
+characters and when there is a succession of episodes). Disparity, contrast, difference, all
+arranged as paired figures, bring to the fore the image of a world irregular in its regularity
+(we think of Pangloss’s one eye, the old woman’s single buttock), dedicated to the law of
+geometry while also denying it. Nothing is organized; nothing matches the harmonious
+/pattern/ spoken of by the metaphysicians and theologians. To make the point, Voltaire must
+resort to excess, even frenzy: the Grand Inquisitor, who consigns Jewish converts to the
+flames, shares his mistress with a Jew; the priests, meting out sentences including hanging
+and burning, debauch young girls and boys; and not one woman who is not, willingly or
+otherwise, prostituted. No, /Candide/ is not even remotely a /representation/ of the world. The
+elements of reality it contains are caricatured beyond measure. But here the /principle of
+disparity/ intervenes once more: /Candide/ produces meaning by virtue of being paired with
+the world—a pair that is willfully asymmetric, in which the fictive image, reduced and
+preposterous, forces us to see better the perverse seriousness, the rigidity, the evil
+weightiness, the dogmatic intolerance that humans accept as the necessary order of their
+existence.
+
 
 * 7-Jara Milito: (1756—1763).
 
@@ -1525,7 +2038,30 @@ https://books.google.ru/books?id=oiFjDAAAQBAJ&pg=PT158&lpg=PT158&dq=Quarters+of+
 Hélas: 15
 Ah: 16
 
+* Artikoloj
+** APPENDIX:
+Voltaire: Letter on the Subject of Candide
 
+** Backgrounds
+Richard Holmes: Voltaire’s Grin
+Adam Gopnik: Voltaire’s Garden: The Philosopher as a Campaigner for Human Rights
+W. H. Barber: [The Question of Optimism]
+Dennis Fletcher: Candide and the Philosophy of the Garden
+Haydn Mason: [Gestation: Candide Assembling Itself]
+Nicholas Cronk: The Voltairean Genre of the Conte Philosophique: Does It Exist?
+
+** Criticism
+J.G. Weightman: The Quality of Candide
+Robin Howells: Does Candide Learn? Genre, Discourse, and Satire in Candide
+James J. Lynch: Romance Conventions in Voltaire’s Candide
+Philip Stewart: Holding the Mirror up to Fiction: Generic Parody in Candide
+Erich Auerbach: [Voltaire’s Style: Tone, Pace, Insinuation]
+Jean Starobinski: On Candide’s Philosophical Style
+Jack Undank: The Status of Fiction in Voltaire’s Contes
+
+[[https://www.whitman.edu/VSA/Candide/index.html][Resources for study of Voltaire's “Candide”]]
+
+
 
 
 
