@@ -26,8 +26,20 @@ https://www.mersintime.com/kandid-ya-da-iyimserlik-ustune-makale,1008.html
 eraroj Lantiaj indikas evoluon de la Franca lingvo;
 bildoj
 
-Ja kiel edikitino de Franca pesiono en Berlino povis memori germanan nomon, aŭ se ŝi ja memoris, aprezi ĝin?
  -->
+
+La eternan dilemon, ĉu traduko estu /fidela/ al la fontolingvo, aŭ
+/bela/ en la cellingvo, la tradukistoj de la Voltera epoko solvis
+favore al la belo. Voltero mem diris, per la buŝo de sia «belgustulo»
+el ĉap. 22ª, ke verkisto devas «perfekte scipovi sian lingvon, ĝin
+pure paroli, kun kontinua harmonio, kaj tiel, ke la rimo [okaze de
+traduko: laŭvortismo] neniam difektu la sencon».
+
+La moderna (ekde la 20ª jc) skolo okcidenta tamen preferas la
+«fidelon», tordante la cellingvon laŭ la modelo de la fontolingvo.
+Tiurilate la Lantia traduko estas «moderna». Mi tamen preferas la
+malnovan skolon, kaj opinias ke la traduko devas esti ne malpli ĝuiga
+ol la originalo.
 
 * Teodiceo
  
@@ -180,8 +192,8 @@ https://artflsrv03.uchicago.edu/philologic4/toutvoltaire/navigate/522/1/2/?byte=
 [9] Tio estas misprezento de la penso de Lejbnico. Plej bona ano de
 limigita aro ne nepre estas tre bona. «La plej bona el ĉiuj eblaj
 mondoj» ne nepre estas perfekte bona. Eĉ male, laŭ Lejbnico ĉiuj eblaj
-mondoj estas neperfektaj, kaj en tio konsistas la <em>metafizika
-malbono.</em> Laŭ Lejbnico, «malplia malbono estas speco de bono» (<i
+mondoj estas neperfektaj, kaj en tio konsistas la /metafizika
+malbono./ Laŭ Lejbnico, «malplia malbono estas speco de bono» (<i
 lang="fr">un moindre mal est une espèce de bien</i>), tial ankaŭ eblus
 paroli pri «la malplej malbona el la eblaj mondoj» (kvankam matematike
 tio ne nepre estas egala).<br />
@@ -335,9 +347,9 @@ Człowiek, do którego się zwrócili, był ...
 <!--Тот, к кому они обратились, оказался-->
 La homo, al kiu ili sin turnis, estis ...
 
-<p>Lanti’ konservas komplikaĵojn de <em>il y a</em>:</p>
+<p>Lanti’ konservas komplikaĵojn de /il y a/:</p>
 <blockquote>
-<p lang="fr"><strong>V:</strong> que dans quelques pays <em>il y ait des singes qui</em> obtiennent les bonnes grâces des dames</p>
+<p lang="fr"><strong>V:</strong> que dans quelques pays /il y ait des singes qui/ obtiennent les bonnes grâces des dames</p>
 <p><strong>L:</strong> ke en kelkaj landoj estas simioj, kiuj akiras favoron de virinoj</p>
 <p><strong>S:</strong> ke estas landoj kie favoron de virinoj akiras simioj [ĉap. 16ª].</p>
 </blockquote>
@@ -492,13 +504,13 @@ germanaj nobeloj estus /von/).
 
 ** Candidus (cognomen), a third name of a citizen of ancient Rome
 
-<p>Voltero evidente malŝatis la Germanan lingvon, kaj tion atestas du lokmomoj, per kiuj li parodias sian impreson pri la Germanaj sono kaj skribo. La parodioj estas pli malicaj ol spritaj aŭ trafaj; mi anstataŭigis ilin per formoj kiujn opinias pli amuzaj, aŭ almenaŭ kiuj kaŭzas al mi malplian vichonton (<em>Fremdscham</em>):</p>
+<p>Voltero evidente malŝatis la Germanan lingvon, kaj tion atestas du lokmomoj, per kiuj li parodias sian impreson pri la Germanaj sono kaj skribo. La parodioj estas pli malicaj ol spritaj aŭ trafaj; mi anstataŭigis ilin per formoj kiujn opinias pli amuzaj, aŭ almenaŭ kiuj kaŭzas al mi malplian vichonton (/Fremdscham/):</p>
 <ul>
 <li>Thunder-ten-tronckh → Tondro-tra-trunk’</li>
 <li>Valdberghoff-trarbk-dikdorff → Valdberghof-dikdorf</li>
 </ul>
-<p>En la dua nomo mi forigis la negermanan troaĵon <em>trarbk.</em> Kurioze: Voltero duobligas la finajn foojn en <em>Hof</em> kaj <em>Dorf,</em> sed duonigas la komencan vuon de <em>Wald</em> ☺</p>
-<p>La «esperantigo» de la unua nomo iom similas la «Nederlandan» nomon de la negocisto el ĉap. 19ª elpensian de Voltero: <i lang="nl">Vanderdendur,</i> kio france sonas proksime al <i lang="fr">vendeur [à la] dent dure</i> (t.e. «vendisto durdenta»). Lanti’ ŝanĝis tion al <i lang="nl">Vanderdentur;</i> en mia prilaboraĵo ĝi iĝis <em>Van-Durdent’</em>.</p>
+<p>En la dua nomo mi forigis la negermanan troaĵon /trarbk./ Kurioze: Voltero duobligas la finajn foojn en /Hof/ kaj /Dorf,/ sed duonigas la komencan vuon de /Wald/ ☺</p>
+<p>La «esperantigo» de la unua nomo iom similas la «Nederlandan» nomon de la negocisto el ĉap. 19ª elpensian de Voltero: <i lang="nl">Vanderdendur,</i> kio france sonas proksime al <i lang="fr">vendeur [à la] dent dure</i> (t.e. «vendisto durdenta»). Lanti’ ŝanĝis tion al <i lang="nl">Vanderdentur;</i> en mia prilaboraĵo ĝi iĝis /Van-Durdent’/.</p>
 https://openlibrary.org/publishers/Chez_Jean_van_Duren
 https://www.amazon.com/Voltaire-Holland-1736-1745-Republique-Lettres/dp/9042923539
 
@@ -511,11 +523,11 @@ https://www.mamalisa.com/?t=fs&p=4523
 la Germana traduko [G] ŝin rebaptas <i lang="de">Gertrude.</i> Mi
 komprenas la motivon por tia ŝanĝo, sed al mi ĝi ne plaĉas (tro
 arbitra; kaj min «Gertrudo» impresas malsame ol <i
-lang="fr">Paquette</i>). Tamen la Lantia <em>Paket,</em> aŭ ĝia plua
-asimilaĵo <em>Paketo</em> ĝenas en Esperanto (kaj en aliaj lingvoj
+lang="fr">Paquette</i>). Tamen la Lantia /Paket,/ aŭ ĝia plua
+asimilaĵo /Paketo/ ĝenas en Esperanto (kaj en aliaj lingvoj
 kiuj praktikas transskribon).</p>
 
-La ĝena misasociaĵo <i lang="fr">Paquette—le paquet</i> france ne ekzistas (skribe <i lang="fr">-ette</i> sufiĉe diferencas de <i lang="fr">-et</i>; sone, ĉar en la komuna vorto <em>t</em> estas muta). La pola tradukisto trovis elegantan solvon: <em>Pakita</em> — sed en Esperanto ĝi la problemon ne solvas (ĉar aspektas kiel participo). <em>Panjo</em> kolizias kun la karesvorto por patrino. <em>Kanjo</em> estus bona solvo per si mem — sed la komenca *K* jam tro oftas en la nomoj de la geprotagonistoj: *K*andido, *K*unegundo, *K*akambo… La delikatan orelon de Voltero ŝokas la multaj germanaj t-sonoj (kion li parodias per <em>Thunder-ten-tronckh</em>); sed ial li ne rimarkis, ke la abundo de la tusaj K-oj estas ne malpli ĝena.
+La ĝena misasociaĵo <i lang="fr">Paquette—le paquet</i> france ne ekzistas (skribe <i lang="fr">-ette</i> sufiĉe diferencas de <i lang="fr">-et</i>; sone, ĉar en la komuna vorto /t/ estas muta). La pola tradukisto trovis elegantan solvon: /Pakita/ — sed en Esperanto ĝi la problemon ne solvas (ĉar aspektas kiel participo). /Panjo/ kolizias kun la karesvorto por patrino. /Kanjo/ estus bona solvo per si mem — sed la komenca *K* jam tro oftas en la nomoj de la geprotagonistoj: *K*andido, *K*unegundo, *K*akambo… La delikatan orelon de Voltero ŝokas la multaj germanaj t-sonoj (kion li parodias per /Thunder-ten-tronckh/); sed ial li ne rimarkis, ke la abundo de la tusaj K-oj estas ne malpli ĝena.
 Mi koncedas, ke ĝi estas iom pli romantika ol konvenas al la rolulino,
 sed pli taŭgan mi ne trovis. Ĉiel ajn, tio min malpli ĝenas ol /Paketo/.
 
@@ -628,7 +640,7 @@ https://ru.wikipedia.org/wiki/Потсдамские_великаны
 Zoll 	Preußen 	1755 	0,026 154 5 m
 
 ** Eskudoj
-<p>Krom tiajn ekzotajn monerojn Voltero volonte uzas «eskudojn» (France <i lang="fr">écu</i>), hejman moneron de siaj legantoj — eĉ en epizodoj Vestfalia (<a href="#talero02">ĉap. 2ª</a>) aŭ Turkia (<a href="#talero27">ĉap. 27ª</a>). En Esperanto tiu rolo de unueca hejma monero pli konvenas al <em>talero,</em> vorto oficialigita jam en la 1ª OA; cetere, «talero» pli konvenas ankaŭ situacie (talero ja efektive estis uzata en la menciitaj landoj), kaj internacie: ĝi estas la etimo de <i lang="en">dollar;</i> «piastro» estas alinome «hispana talero/dolaro» ktp.</p>
+<p>Krom tiajn ekzotajn monerojn Voltero volonte uzas «eskudojn» (France <i lang="fr">écu</i>), hejman moneron de siaj legantoj — eĉ en epizodoj Vestfalia (<a href="#talero02">ĉap. 2ª</a>) aŭ Turkia (<a href="#talero27">ĉap. 27ª</a>). En Esperanto tiu rolo de unueca hejma monero pli konvenas al /talero,/ vorto oficialigita jam en la 1ª OA; cetere, «talero» pli konvenas ankaŭ situacie (talero ja efektive estis uzata en la menciitaj landoj), kaj internacie: ĝi estas la etimo de <i lang="en">dollar;</i> «piastro» estas alinome «hispana talero/dolaro» ktp.</p>
 
 ----
 Franca eskudo en 1772: Écu dit “à la vieille tête” (29.26 g, 6h)
@@ -664,8 +676,8 @@ kiam temas pri "[[kelkaj]] diamantoj" en anuso)
 ** gradoj da nobeleco
 <span class="aside">[4] Temas la nombro de nobelaj geprauloj.
 log<sub>2</sub>71 ≈ 6.15, t.e. la patro de Kandido estis nobelo en
-almenaŭ la 7ª generacio. France <em>quartiers,</em> angle
-<em>quarterings. — S.</em></span>
+almenaŭ la 7ª generacio. France /quartiers,/ angle
+/quarterings. — S./</span>
 
 Sumo de geometria progresio:
 
@@ -2062,6 +2074,15 @@ Jack Undank: The Status of Fiction in Voltaire’s Contes
 [[https://www.whitman.edu/VSA/Candide/index.html][Resources for study of Voltaire's “Candide”]]
 
 
+* Patino
+** Majuskloj
+<p>Ĝenerale mi pli ol averaĝe ŝparas la majusklojn, sed prilaborante ĉi tiun verkon mi, kontraŭ mia kutimo, adoptis la angla-franca-polan sistemon, kun abunda majusklado de la etnaj nomoj kaj derivaĵoj de la nomoj propraj. Mi faris tion por iom patini la aspekton de la teksto laŭ la modo de la 18ª jc, kaj por ekzerci en ĉi tiu, por mi tute fremda, stilo arĥaika.</p>
+<p>Danke al tiu ekzerco mi malkovris (por mi mem), kiom konfuza kaj malkohera estas tiu tradicio. Antaŭe mi ne rimarkis la malkoheron en la Fundamenta ekzemplo [FE §37]</p>
+<blockquote>
+<p><strong>L</strong>uteranoj kaj <strong>K</strong>alvinanoj estas <strong>k</strong>ristanoj.</p>
+</blockquote>
+<p>Same malkohere Lanti’ (kaj Voltero) ne majuskligas la vortojn /judo, mestizo, negro, pigmeo, socinano, kristano, maniĥeano, jansenistoj, molinistoj, teatano./ Mi tion koherigis (laŭ la pli kohera tradicio angla).</p>
+
 
 
 
