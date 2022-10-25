@@ -413,7 +413,13 @@ lando, kiun oni lokis ĉe la bordoj de +iu+ supozita lago Parimo,
 
 (Se entute meti nedifinan pronomon, mi tie preferus ne ‹iu›n, sed
 ‹ia›n. ‹Iu› pensigas min pri elekto inter realaj objektoj.)
+----
 
+V: Ma mère, au désespoir, et bien moins affligée que moi, voulut
+s’arracher pour quelque temps à /un séjour/ si funeste.
+L: volis fortiri min dum kelka tempo el /tiu restadejo/ tiom pereiga.
+S: Mia patrino, malesperigite, kvankam ja malpli afliktite ol mi,
+decidis por kelka tempo forlasi la lokon tiom fatalan. [ĉap. 11ª]
 ----
 #+NAME: kelkaj
 V: c'était pour voir si nous n'avions pas caché là quelques diamants
@@ -670,14 +676,82 @@ En A la vortoj /Britain, British/ neniam aperas.
 (cetere, V ofte uzas "diamanto" en la signifo "ajna juvelo"; ekz‑e
 kiam temas pri "[[kelkaj]] diamantoj" en anuso)
 
+** honesta
+- V entenas 11 aperojn de «honnête» (+1 «honnêtetés»).
+- L entenas 10 aperojn de «honest-»
+- S entenas 1 aperon de «honest-»
+
+*** bona:
+
+V: Candide ... donna à cet épouvantable gueux les deux florins qu’il
+avait reçus de /son honnête/ anabaptiste Jacques.
+L: Kandid donis al li la du florenojn, kiujn li estis ricevinta de
+la /honesta/ anabaptisto Jakobo. (ĉap. 4ª)
+S: Kandido ... donis al tiu horora mizerulaĉo la du florenojn de la
+*bona* anabaptisto.
+
+V: «Ma mission est faite, dit /cet honnête/ eunuque; ...»
+L: „Mia  misio estas plenumita, diris  /tiu honesta/ eŭnuko; ...“ (ĉap. 12ª)
+A: ‘I have executed my commission,’ said /the eunuch;/
+S: — Mia misio estas plenumita, — diris *la bona* eŭnuko.
+
+*** brava:
+V: un bon et /honnête/ gentilhomme du voisinage
+L: iu nobelo el la ĉirkaŭaĵo
+S: /brava/ kaj bona nobelo najbara (ĉap. 1ª)
+
+V: ces grandes armées composées /d’honnêtes/ stipendiaires bien élevés
+L: tiuj grandaj armeoj, konsistantaj el /honestaj/ dungitoj, bone edukitaj...
+S: tiuj grandaj armeoj, konsistantaj el *bravaj* kaj bone edukitaj dungitoj (ĉap. 4ª)
+
+V: cet /honnête/ Biscayen qui avait épousé sa commère;
+L: tiun /honestan/ Biskajanon, kiu edziĝis kun sia sambaptopatrino
+S: tiun /bravan/ biskajanon, kiu edziĝis al sia baptanino (ĉap. 8ª)
+
+*** justa:
+V: faire avec eux un marché /honnête/
+A: to agree with them /on moderate terms/
+L: fari kun ili /honestan/ kontrakton (ĉap. 19ª)
+S: fari kun ili *justan* kontrakton
+
+*** decmaniera homo
+V: il payerait le passage ... à /un honnête homme/ qui voudrait faire
+le voyage avec lui
+L: li pagos la vojaĝon ... al *honestulo*, kiu konsentos vojaĝi kun li
+S: li pripagos la vojaĝon ... al *decmaniera viro*, kiu konsentos vojaĝi kun
+li (ĉap. 19ª)
+
+[Kandido apartigis dudekon da homoj, kiuj ŝajnis sufiĉe /societemaj/
+(V: sociables)...]
+« homme affable, de conversation agréable » (Montaigne, Essais, éd. A.
+Thibaudet, II, 12, p. 551) -- https://www.cnrtl.fr/definition/honn%C3%AAte
+
+*** honorinda
+V: exerce le meurtre et le brigandage avec discipline pour gagner son
+pain, parce qu’il n’a pas de métier plus /honnête/;
+L: profesie mortigadas kaj rabadas kun disciplino por gajni sian
+panon, tial ke ili ne havas pli /honestan/ metion
+S: disciplineme praktikante mortigdanon kaj rabadon por akiri sian
+panon, ĉar ne ekzistas profesio pli *honorinda* (ĉap. 20ª)
+
+*** bonorda (ne krimulo):
+S: eĉ se vi estus plej granda krimulo, por mi vi tamen estas la plej
+/bonorda homo/ en la mondo. (ĉap. 22ª)
+
+*** honesta (lojala al pasinta amo):
+S: Ĉu ŝi estas bela aŭ malbela, — diris Kandido, — mi estas honesta homo,
+kaj mia devo estas ami ŝin ĉiam. (ĉap. 27ª)
+
+*** solida (= malfrivola, ne diboĉema)
+L: Eĉ frato Levkojo utilis; li estis tre bona lignaĵisto, kaj eĉ fariĝis /honestulo/;
+S: ... li iĝis tre bona lignaĵisto, kaj eĉ /solida viro/ (ĉap. 30ª)
 ----
 ĉap. 1ª:
 
 ** gradoj da nobeleco
 <span class="aside">[4] Temas la nombro de nobelaj geprauloj.
 log<sub>2</sub>71 ≈ 6.15, t.e. la patro de Kandido estis nobelo en
-almenaŭ la 7ª generacio. France /quartiers,/ angle
-/quarterings. — S./</span>
+almenaŭ la 7ª generacio. France /quartiers,/ angle /quarterings. — S./</span>
 
 Sumo de geometria progresio:
 
@@ -852,7 +926,13 @@ Le grand pensionnaire Barnevelt, qui était du parti contraire à Gomar [sur la 
 *Au mieux*, *tout au mieux*, loc. adv. Très bien.
 "À table trouvant tout au mieux, Je crois qu'un ordre des cieux Tient en haleine la sagesse", Béranger, Deo gratias.
 
-
+------
+According to *Diogenes Laërtius’* third-century /Lives and Opinions of
+the Eminent Philosophers/, *Plato* was applauded for his definition of
+man as a featherless biped, so Diogenes the Cynic “plucked the
+feathers from a cock, brought it to Plato’s school, and said, ‘Here is
+Plato’s man.’ ”
+https://www.laphamsquarterly.org/animals/miscellany/plato-and-diogenes-debate-featherless-bipeds
 
 ----
 ĉap. 4ª:
@@ -933,6 +1013,8 @@ ili trarajdas 30 mejlojn (223 km) senhalte
   напряжением сил конского состава - это два марша подряд по 100 км
 https://otvet.mail.ru/question/65046168
 
+La distanco inter Lisbono kaj Aracena: 244km laŭ
+https://www.roaddistance.in/distance-between-lisbon-to-aracena/
 
 ----
 ĉap. 10ª:
@@ -1038,6 +1120,30 @@ was to defend Christian pilgrims against the infidel.
 7. Muley Ismaél: Emperor of Morocco, who reigned ruthlessly for over fifty
 years, and whose sons (two, not fifty) engaged in a protracted struggle for
 power after his death in 1727.
+
+<blockquote>
+<p lang="fr">*V:* toute l’Italie fit pour moi des sonnets dont il n’y
+eut pas un seul de passable.</p>
+<p>*L:* la tuta Italio verkis por mi sonetojn el kiuj
+ĉiuj staris super la nivelo de mezbono.</p>
+
+*A:* all Italy composed sonnets in my praise, though not one of them
+was tolerable.
+*B:* (нямаше нито един сносен сонет)
+*G:* und ganz Italien sang mir zu Ehren Sonnette, davon das geringste
+dichtrischen Stempel trug; eines Ariost’s und Tasso würdig war.
+*G20:* ganz Italien machte Sonette auf mich, von denen nicht ein
+einziges leidlich war (eĉ ne unu estis tolerebla)
+
+*P:* całe Włochy fabrykowały na mą cześć sonety, z których ni jeden
+nie wart był szeląga.
+*R:* из которых ни один не был сколько-нибудь сносным.
+
+<p>*S:* la tuta Italio verkis por mi sonetojn, el kiuj
+neniu superis la nivelon de banalo.??</p>
+</blockquote>
+
+
 
 ----
 ĉap. 13ª:
@@ -1385,6 +1491,22 @@ out his exile in Rotterdam, drudging for publishers and under suspicion for
 his religious beliefs.
 
 
+----
+ĉap. 20ª:
+
+V: Un million d'assassins enrégimentés, courant d’un bout de l’Europe
+à l’autre, exerce le meurtre et le brigandage avec discipline pour
+gagner son pain, parce qu'il n'a pas de métier plus honnête
+
+L: Unu miliono da murdistoj enregimentigitaj, kurantaj de unu fino de
+  Eŭropo ĝis la alia, profesie mortigadas kaj rabadas kun disciplino
+  por gajni sian panon, tial ke /ili/ ne havas pli honestan metion
+
+A: a million of regimented assassins traverse Europe from one end to
+  the other, to get their bread by regular depredation and murder,
+  because it is the most gentlemanlike profession.
+
+
 
 ----
 ĉap. 21ª:
@@ -2079,10 +2201,15 @@ Jack Undank: The Status of Fiction in Voltaire’s Contes
 <p>Ĝenerale mi pli ol averaĝe ŝparas la majusklojn, sed prilaborante ĉi tiun verkon mi, kontraŭ mia kutimo, adoptis la angla-franca-polan sistemon, kun abunda majusklado de la etnaj nomoj kaj derivaĵoj de la nomoj propraj. Mi faris tion por iom patini la aspekton de la teksto laŭ la modo de la 18ª jc, kaj por ekzerci en ĉi tiu, por mi tute fremda, stilo arĥaika.</p>
 <p>Danke al tiu ekzerco mi malkovris (por mi mem), kiom konfuza kaj malkohera estas tiu tradicio. Antaŭe mi ne rimarkis la malkoheron en la Fundamenta ekzemplo [FE §37]</p>
 <blockquote>
-<p><strong>L</strong>uteranoj kaj <strong>K</strong>alvinanoj estas <strong>k</strong>ristanoj.</p>
+<p>*L*uteranoj kaj *K*alvinanoj estas *k*ristanoj.</p>
 </blockquote>
 <p>Same malkohere Lanti’ (kaj Voltero) ne majuskligas la vortojn /judo, mestizo, negro, pigmeo, socinano, kristano, maniĥeano, jansenistoj, molinistoj, teatano./ Mi tion koherigis (laŭ la pli kohera tradicio angla).</p>
 
+
+* URL-oj
+https://genius.com/artists/Voltaire
+https://genius.com/Voltaire-candide-chapitre-xx-fench-version-annotated
+https://genius.com/3139265 (komentita V)
 
 
 
