@@ -106,29 +106,37 @@ uniquement véritable d’un premier principe infiniment bon et
 tout-puissant [‘Pauliciens,’ note E].
 #+end_quote
 
-Leibniz’s book is a systematic discussion of Bayle’s views, and in it he propounds an answer
-to the problem of evil which is in harmony with his own wider metaphysical thinking and
-also supports the claims of rational theology. He sees God as subject, like man, to the laws
-of reason: even God cannot make two and two add up to anything but four, nor create a
-spherical cube. Hence, when God is considered as deciding upon the creation of the world,
-Leibniz envisages him as having a choice only between possible worlds, that is, forms of
-creation which do not violate the laws of reason, which do not involve logical contradiction.
-And among such possible worlds God in His infinite goodness has inevitably chosen the
-best. This ‘best of all possible worlds,’ however, necessarily contains imperfections, and
-hence evil. While many evils are justifiable and even valuable as a means to good (e.g. the
-protective and warning function of much physical pain), other evils are merely the inevitable
-result of the imperfections inseparable from the status of created beings; man has limited
-power, limited knowledge: ‘Il y a une imperfection originale dans la créature avant le péché,
-parce que la créature est limitée essentiellement: d’oit vient qu’elle ne saurait tout savoir, et
-qwelle se peut tromper et faire d’autres fautes’ (Théodicée, I, §20). Evil of this sort is thus
-presented by Leibniz. not as a positive force, but rather as something negative and privative;
-not anything willed by God, but an imperfection arising inevitably from the nature of things,
-and to which man must consequently reconcile himself. The fact of evil is not denied, but its
-presence in God’s creation is morally justified and rationally accounted for.
+Leibniz’s book is a systematic discussion of Bayle’s views, and in it
+he propounds an answer to the problem of evil which is in harmony with
+his own wider metaphysical thinking and also supports the claims of
+rational theology. He sees God as subject, like man, to the laws of
+reason: even God cannot make two and two add up to anything but four,
+nor create a spherical cube. Hence, when God is considered as deciding
+upon the creation of the world, Leibniz envisages him as having a
+choice only between possible worlds, that is, forms of creation which
+do not violate the laws of reason, which do not involve logical
+contradiction. And among such possible worlds God in His infinite
+goodness has inevitably chosen the best. This ‘best of all possible
+worlds,’ however, necessarily contains imperfections, and hence evil.
+While many evils are justifiable and even valuable as a means to good
+(e.g. the protective and warning function of much physical pain),
+other evils are merely the inevitable result of the imperfections
+inseparable from the status of created beings; man has limited power,
+limited knowledge: ‘Il y a une imperfection originale dans la créature
+avant le péché, parce que la créature est limitée essentiellement:
+d’oit vient qu’elle ne saurait tout savoir, et qwelle se peut tromper
+et faire d’autres fautes’ (Théodicée, I, §20). Evil of this sort is
+thus presented by Leibniz. not as a positive force, but rather as
+something negative and privative; not anything willed by God, but an
+imperfection arising inevitably from the nature of things, and to
+which man must consequently reconcile himself. The fact of evil is not
+denied, but its presence in God’s creation is morally justified and
+rationally accounted for.
 
-The second version of the philosophy of optimism is linked with the name of Alexander
-Pope, not because he himself was an original thinker (he chiefly echoes the views of his
-contemporary, Bolingbroke, and the earlier English philosopher, Shaftesbury), but because
+The second version of the philosophy of optimism is linked with the
+name of Alexander Pope, not because he himself was an original thinker
+(he chiefly echoes the views of his contemporary, Bolingbroke, and the
+earlier English philosopher, Shaftesbury), but because
 
 ** La eklezia malaprobo
  
@@ -311,11 +319,7 @@ evocation of productive labor checks any thoughts of utopia. This
 small society is in no way a model. “The small farm yielded a great
 deal.” That is all. It’s very little, some will say. Voltaire does not
 need more. (As for Rousseau, he offers}
-
- 
 
-
-
 ** Kunegundo
  Cunigunde of Luxembourg
  (http://en.wikipedia.org/wiki/Cunigunde_of_Luxemburg), a Princess
@@ -400,6 +404,14 @@ S: kaj precipe pri la kiso, kiun mi donis al vi malantaŭ *la faldoŝirmilo* [Ĉ
 B: и особено за целувката, която ви дадох зад *паравана* в деня, когато
    ви видях за последен път.
 ----
+
+Ĉap. 13:
+V: C’est bien dommage, disait Candide, que le sage Pangloss ait été
+pendu contre la coutume dans *un auto-da-fé*.
+L: Estas tre domaĝe, diris Kandid, ke la saĝa Panglos estis
+kontraŭkutime pendigata ĉe *bruligo*.
+
+----
 16. La aventuro pri du junulinoj, du simioj, kaj +la+ indiĝenoj nomataj Oreleguloj
 (kp en la Fabeloj:
 ke ĉi tie troviĝas eksterordinare rimarkinda BIRDO, NOMATA najtingalo!
@@ -453,7 +465,60 @@ Atentindas, ke /fils/ aperas senartikole, kontraste al /la fille/ en Ĉap. 11ª.
 
 * Aspektoj
 ** Imperfekto
-V: Pangloss était au milieu de sa phrase, quand Je familier fit un
+*** → as-tenso (aktualigo):
+V: et Candide lui parla sans savoir ce qu’il /disait/.
+L, S: kion li /diras/ (ĉap. 1ª)
+
+Ofte komence de ĉapitro, por ĵeti la leganton en la scenon (ĉap. 23ª):
+
+S: — Aĥ, Pangloso, Pangloso! Aĥ, Marteno, Marteno! Aĥ, mia kara
+Kunegundo! Kio do estas ĉi tiu mondo? — /diras/ Kandido sur la Holanda ŝipo
+— Ĝi estas io tre freneza kaj tre abomena, — /respondas/ Marteno.
+
+Tia aktualigo ne daŭras longe, baldaŭ la verboj aspektas la preteritan
+formon:
+
+S: — Kiu do ŝtelis miajn ormonerojn kaj juvelojn? — plorante /demandas/
+Kunegundo. — Per kio ni vivos? Kion ni faru? Kie trovi inkvizitoron
+kaj judon, kiuj donacu al mi aliajn? ...
+— Ho ve, — /diris/ la maljunulino, — mi tre suspektas respektindan
+franciskanon... (ĉap. 10ª)
+
+Ĉap. 27ª:
+V: «Arrêtez! arrêtez! seigneur, /s’écria/ Candide; je vous donnerai tant
+d’argent que vous voudrez. — Quoi! c’est Candide! /disait/ l’un des
+forçats. — Quoi! c’est Candide! /disait/ l’autre.
+
+L: — Haltu! haltu! sinjoro, /ekkriis/ Kandid; mi donos al vi tiom da
+mono, kiom vi postulos.
+— Kio! ĝi estas Kandid! /diris/ unu el la punuloj.
+— Kio! ĝi estas Kandid! /diris/ la alia.
+
+S: — Halt’! Haltu sinjoro, — /ekkriis/ Kandido. — Mi pagos al vi kiom vi postulos.
+— Kio! Kandido! — /diras/ unu el la punuloj.</p>
+— Kio! Kandido! — /diras/ la alia.
+
+
+*** daŭrverboj:
+Ĉap. 4ª:
+V: «Il faut bien, /disait-il/, que les hommes aient un peu corrompu la
+nature, car ... — Tout cela était indispensable, /répliquait/ le
+docteur borgne ... »
+
+L: — Ŝajnas, /li diris/, ke la homoj iom difektis la naturon, ĉar ...
+— Ĉio tio estis nepre necesa, /rebatis/ la unuokula doktoro ...
+
+S: — Ŝajnas, — /li rezonis/, — ke la homoj iom difektis la naturon; ja ...
+— Ĉio ĉi tio estis nepre necesa, — /argumentis/ la unuokula doktoro ...
+
+Ĉap. 27ª:
+V: Candide, chemin faisant, /disait/ à Martin: (...)
+L: Irante, Kandid /diris/ al Marten: (...)
+S: Survoje Kandido jene /parolis/ al Marteno: (...)
+
+*** Continuous tense:
+
+V: Pangloss était au milieu de sa phrase, quand le familier fit un
 signe de tête à son estafier qui lui /servait à boire/ du vin de Porto
 ou d'Oporto. [Ĉap. 5ª]
 L: Panglos estis ĉe la mezo de sia frazo, kiam la intimulo kapsignis al sia armita servistaĉo, kiu /donis/ al li por trinki vinon el Porto aŭ el Oporto.
@@ -473,6 +538,16 @@ S: mi jam inspiradis amon, mia brusto estis formiĝanta
 V: Le soleil se couchait.
 L: La suno malleviĝis.
 S: La suno estis subiranta. [Ĉap. 16ª]
+
+*** disait:
+V: 34 aperoj de «disait» + 148 «dit» + 1 «disant»
+L: 0 aperoj de «diradis» + 2 aperoj de «dirante» (1 aspekta el V, kaj
+   1 "sen diri").
+**** ?? Nekomprenebla:
+V: — Qu’est-ce qu’optimisme? /disait/ Cacambo. — Hélas! /dit/ Candide,
+c’est la rage ... (ĉap. 19ª)
+(Probable aktualigo: /demandas/ Kakambo. Ĉu penvaloras? Eble signalo
+pri la planŝanĝo.)
 
 ** ek + mensa verbo
 <p>Pli ofte ol averaĝe ĉe la okcidentanoj Lanti’ esprimas inĥoativon (en la okcidentaj lingvoj inĥoativo de la mensaj verboj ial estas tabuita). Tio estas logika.</p>
@@ -510,6 +585,9 @@ germanaj nobeloj estus /von/).
 
 ** Candidus (cognomen), a third name of a citizen of ancient Rome
 
+** Tunder-ten-tronk
+<p class="eli">Iom ksenofobie Voltero plurloke mokas la «barbarecon» de fremdaj nomoj, precipe germanaj. La unua tia nomo estas tiu de barono kaj kastelo <i lang="de">Thunder-ten-tronckh.</i> Laŭ sia principo de fonetika transskribo Lanti’ devus fari el tio «Tunder-ten-tronk»; sed li lasis ĝin senŝanĝa — probable, ĉar la transskribo ne aspektas sufiĉe komike (Voltero probable ne konsciis, ke por alilingvano la franca ortografio aspektas ne malpli — eĉ se alimaniere — ridinda, ol la germana por franco). Por ripari tiun malkonvenan (precipe en la medio Esperantista) «etnan ŝercon», pli malican ol spritan, mi faris el tiu barbaraĵo karakterizan nomon: <i lang="de">Thunder</i> ≈ Tondro ← <i lang="de">Donner, thunder;</i> do, «Tondrovetero» ← <i lang="de">Donnerwetter.</i> Eĉ se oni ne konas ĝian signifon ‹skoldego› (la barono fopelas Kandidon «per piedbatoj sur la postaĵon»), oni espereble sentos la komikecon en la rakonto de Kunegondo pri ŝia trankvila dormo «en nia bela kastelo Tondrovetero» (ĉap. 8ª).</p>
+
 <p>Voltero evidente malŝatis la Germanan lingvon, kaj tion atestas du lokmomoj, per kiuj li parodias sian impreson pri la Germanaj sono kaj skribo. La parodioj estas pli malicaj ol spritaj aŭ trafaj; mi anstataŭigis ilin per formoj kiujn opinias pli amuzaj, aŭ almenaŭ kiuj kaŭzas al mi malplian vichonton (/Fremdscham/):</p>
 <ul>
 <li>Thunder-ten-tronckh → Tondro-tra-trunk’</li>
@@ -524,6 +602,18 @@ https://www.amazon.com/Voltaire-Holland-1736-1745-Republique-Lettres/dp/90429235
 
 «Giroflé, girofla» : Jeu chanté
 https://www.mamalisa.com/?t=fs&p=4523
+
+*** Тра-ля-ля по-итальянски
+Din-don, ecco la mia canzon!
+
+Я закажу афишу,красивую, со своими "тра-ля-ля".	"Col suo tra-la-la!"
+
+*** Стрекоза и муравей
+«la grilo kaj la formiko»[K] (fablo);
+Grilo:  la grilo krikrias, ĉirpas; (f) ia grilo zumas al li en la
+cerbo (li estas frenezeta, havas strangajn ideojn; ☞ kaprico, muŝo).
+
+
 
 ** Paquette
 la Germana traduko [G] ŝin rebaptas <i lang="de">Gertrude.</i> Mi
@@ -739,7 +829,7 @@ S: eĉ se vi estus plej granda krimulo, por mi vi tamen estas la plej
 /bonorda homo/ en la mondo. (ĉap. 22ª)
 
 *** honesta (lojala al pasinta amo):
-S: Ĉu ŝi estas bela aŭ malbela, — diris Kandido, — mi estas honesta homo,
+S: Ĉu ŝi estas bela aŭ malbela, — diris Kandido, — mi estas honesta viro,
 kaj mia devo estas ami ŝin ĉiam. (ĉap. 27ª)
 
 *** solida (= malfrivola, ne diboĉema)
@@ -1017,7 +1107,7 @@ La distanco inter Lisbono kaj Aracena: 244km laŭ
 https://www.roaddistance.in/distance-between-lisbon-to-aracena/
 
 ----
-ĉap. 10ª:
+* ĉap. 10ª:
  
 1. everyone has an equal right to them: Here and elsewhere (chapters 15 and 16)
 Pangloss’s utopian socialism parrots the arguments of Rousseau’s /Discours
@@ -1088,11 +1178,11 @@ S: Tiu respondo ekscitis grandan scivolon en Kunegundo kaj Kandido. La
 maljunulino plu parolis jene:
 
 ----
-ĉap. 11ª:
-CHAPTER 11
-The old woman'’s story
+* ĉap. 11ª:
+CHAPTER 11. The old woman’s story
 
-1. the daughter of Pope Urban X and the Princess of Palestrina: A non-existent Pope.
+1. the daughter of Pope Urban X and the Princess of Palestrina: A
+   non-existent Pope.
 Voltaire had originally written ‘Clement XIT', an actual and recent Pope.
 According to his secretary Wagniére, he intended to add the following
 footnote, which appeared only in posthumous editions of Candide: ‘Note the
@@ -1144,9 +1234,16 @@ neniu superis la nivelon de banalo.??</p>
 </blockquote>
 
 
+----
+* ĉap. 12ª:
+<span class="aside">[73] De post 1711 Alĝerio ne plu estis gubernio
+(turke <i lang="tr">paşalık</i>) regata de paŝao, sed ‹aŭtonoma lando›
+(turke <i lang="tr">eyalet</i>) regata de <i>dejo</i> (angle-france <i
+lang="fr">dey,</i> de la turka <i lang="tr">dayı</i>) — monarĥo
+elektita de la janiĉaroj. — <em>S.</em></span>
 
 ----
-ĉap. 13ª:
+* ĉap. 13ª:
 
 *** grandmanika --- un (!) cordelier à la grande manche 
 
@@ -1432,17 +1529,20 @@ apartament³o. Loĝejo, konsistanta el pluraj ĉambroj, ordinare sur unu
 sama etaĝo, interkomunikiĝantaj.
 
 *apartments* [ plural ] mainly UK
-a set of large rooms with expensive furniture and decoration in, for example, a public building or castle:
+a set of large rooms with expensive furniture and decoration in, for
+example, a public building or castle:
 The Royal Apartments are open to the public.
 
 Больше примеров
     They've got a fabulous apartment in the centre of Paris.
-    She divides her time between her apartment in New York and her cottage in Yorkshire.
+    She divides her time between her apartment in New York and her
+    cottage in Yorkshire.
     I'll give you the keys to my apartment.
     They can presumably afford to buy a bigger apartment.
     They have six HOLIDAY APARTMENTS for sale.
 
-ко́мната: ср.-в.-н. kem(e)n̄ate, ср.-нж.-нем. kemenade из лат. (camera) camīnāta "отапливаемая комната" от camīnus (см. ко́мин)
+ко́мната: ср.-в.-н. kem(e)n̄ate, ср.-нж.-нем. kemenade из лат. (camera)
+camīnāta "отапливаемая комната" от camīnus (см. ко́мин)
 
 ----
 ĉap. 18ª:
@@ -1461,11 +1561,11 @@ aristokratan, dum "ŝorto" konvenas al la klimato tropika.)
 ----
 ĉap. 18ª:
 
-8. Monsieur Vanderdendur ... presented himself: The following passage alludes to
-Voltaire’s personal disputes with the Dutch publisher Van Duren, who
-kept increasing the amount agreed for the printing of Frederick Il’s
-treatise Anti-Machiavel, the publication of which Voltaire had
-supervised.
+8. Monsieur Vanderdendur ... presented himself: The following passage
+alludes to Voltaire’s personal disputes with the Dutch publisher Van
+Duren, who kept increasing the amount agreed for the printing of
+Frederick Il’s treatise Anti-Machiavel, the publication of which
+Voltaire had supervised.
 
 9. piastres: Spanish silver coinage.
 
@@ -1554,7 +1654,7 @@ persisted unchanged, whatever their histories or cultures.
 
 
 ----
-ĉap. 22ª:
+* ĉap. 22ª:
 ** habitué du quartier
 A priest without a parish. Doesn't seem to have an equivalent in English...
 http://www.cnrtl.fr/definition/habitu%C3%A9 :
@@ -1686,7 +1786,7 @@ kaj Marteno, kunestanta en la ĉambro, diradis al Kandido: …
 Cetere, "malfermi sian koron" ne estas klara esprimo por "излить душу" ☹
 
 ----
-ĉap. 26ª:
+* ĉap. 26ª:
 
 V: Sire, *la chaise* de votre majesté est à Padoue, et la barque est prête.
 L: Reĝa Moŝto, +la portseĝo+ de via Majesto estas en Padova kaj la barko estas preta.
@@ -1697,96 +1797,127 @@ S: Via Majesto, *la kabrioleto* estas en Padovo kaj la barko pretas.
 kien el Venecio oni iros per barko.)
 
 ----
-ĉap. 28ª:
+* ĉap. 28ª:
+
+mi renkontis junan /iĉoglanon/ [146#n94]
+/İç oğlan,/ paĝio el kristana familio, konvertita al islamo kaj
+servanta en la sultana palaco. — S.
+
+
+
 V: ne savez-vous pas que le diable est toujours dans le corps de ces gens-là?
 L: Ĉu do vi ne scias, ke la diablo ĉiam estas en la korpo de tiaj homoj?
 S: Ĉu vi ne scias, ke en la korpo de tiaj homoj estas la diablo?
 
-<p>Jen okazo kie V uzas pasivon pragmatike, L ĝin aktivigas kaj rezultas la bona vortordo Esperanta (ĉap. 29ª):
+<p>Jen okazo kie V uzas pasivon pragmatike, L ĝin aktivigas kaj
+rezultas la bona vortordo Esperanta (ĉap. 29ª):
 <cite>
 - *V:* cette infamie ne me sera jamais reprochée
 - *L:* tian malbonfamegon oni ne povos riproĉi al mi
 - *S:* tian misfamegon mi ne allasos.
 </cite>
 
-* Kultivi ĝardenon
+** Kultivi ĝardenon
 
-A more exact way of describing this /transfer of authority/ would be to note how, in
-/Candide/, the emphasis first placed on the question of the world’s /order/ is displaced finally
-to the question of humanity’s happiness. Through the link that Voltaire establishes between
-happiness and work, he is already sketching in outline the lesson that Goethe will propose in
-/Faust/, Part Two. The new age that is dawning is not properly characterized by the currently
-fashionable term /bourgeoisie/: we are in fact witnessing the emergence and triumph of the
-moment when humanity, no longer the admiring spectator of an all-encompassing universe,
-makes itself the creator of its own world, a world that is partial, specific, and provisional.
-But there is nothing yet to anticipate the Industrial Revolution and the technological
-domination of nature. What Voltaire draws in miniature is an agrarian society deriving the
-essential part of its income from the land, supplemented by the modest luxury of
-embroidery. But is it in fact a /society/ at all? Have we not here rather an example of
-withdrawal into private life? The group around Candide form neither a state nor even a
-family. They are at most a tiny enclave in a world given over to evil; a refuge, a place of
-asylum (as they said at the time) for a group of cripples whom chance and misfortune have
-brought together. None of the farm’s residents is a native of the place; they reconstitute a
-miniature homeland in a place where they can lead a better life—and they can lead a better
-life when they are not dependent on either religious or political power. It’s important to note
-that the group of exiles is cosmopolitan: in addition to the Westphalians (Candide,
-Cunégonde, Pangloss, Paquette), there are the Italians (the old woman, brother Giroflée), a
-Dutchman, more or less (Martin), and the Metis Cacambo. This group would come close to
-being a symbol of all humanity, were it not for the individual nuances of skin color and
-opinion that Voltaire holds precious and that he will always want to preserve in all his calls
-for toleration. The group is marginal, so small that it can dispense with the problem of
-political organisation, Voltaire’s evocation of productive labor checks any thoughts of
-utopia. This small society is in no way a model. “The small farm yielded a great deal.” That
-is all. It’s very little, some will say. Voltaire does not need more. (As for Rousseau, he offers
-far greater emotional and social riches with the image of Clarens in /La Nouvelle Héloise/.)
-Voltaire has kept his variations on the theme of utopia for the kingdom of Eldorado,
-suggesting perhaps that the best of political organizations is conceivable only as the attribute
-of a nonexistent place. In the Propontis, at the end of this unsatisfying odyssey, we are far
-from absolute perfection. We have a bastard, surrounded by a prostitute, a renegade priest, a
-pox-ridden pedant, an ugly and abused young baroness, and a half-breed valet—impure
-guilty beings, in short, seemingly scarred by moral conventions—who take charge of their
-destiny and who, by what they undertake, by what they make with their hands, seek in the
-final resort to become less unhappy. They manage an accommodation that can never quite
-compensate for life’s wear and tear. A political reading of /Candide/ should ask if the small
-territory of the farm is more likely to endure than the tiny barony—the pocket-sized Eden
-swept away by violence at the beginning of the narrative. At a time when small feudal lands
-have been swallowed up in the conflicts of the nation-states, what do we make of the fate of
-a private domain in a despotic state? Does even this compromise have a future? Voltaire
-perhaps wants to make us feel the fragility and /eccentricity/ inherent in any semblance of
-regained stability.
+A more exact way of describing this /transfer of authority/ would be
+to note how, in /Candide/, the emphasis first placed on the question
+of the world’s /order/ is displaced finally to the question of
+humanity’s happiness. Through the link that Voltaire establishes
+between happiness and work, he is already sketching in outline the
+lesson that Goethe will propose in /Faust/, Part Two. The new age that
+is dawning is not properly characterized by the currently fashionable
+term /bourgeoisie/: we are in fact witnessing the emergence and
+triumph of the moment when humanity, no longer the admiring spectator
+of an all-encompassing universe, makes itself the creator of its own
+world, a world that is partial, specific, and provisional. But there
+is nothing yet to anticipate the Industrial Revolution and the
+technological domination of nature. What Voltaire draws in miniature
+is an agrarian society deriving the essential part of its income from
+the land, supplemented by the modest luxury of embroidery. But is it
+in fact a /society/ at all? Have we not here rather an example of
+withdrawal into private life? The group around Candide form neither a
+state nor even a family. They are at most a tiny enclave in a world
+given over to evil; a refuge, a place of asylum (as they said at the
+time) for a group of cripples whom chance and misfortune have brought
+together. None of the farm’s residents is a native of the place; they
+reconstitute a miniature homeland in a place where they can lead a
+better life—and they can lead a better life when they are not
+dependent on either religious or political power. It’s important to
+note that the group of exiles is cosmopolitan: in addition to the
+Westphalians (Candide, Cunégonde, Pangloss, Paquette), there are the
+Italians (the old woman, brother Giroflée), a Dutchman, more or less
+(Martin), and the Metis Cacambo. This group would come close to being
+a symbol of all humanity, were it not for the individual nuances of
+skin color and opinion that Voltaire holds precious and that he will
+always want to preserve in all his calls for toleration. The group is
+marginal, so small that it can dispense with the problem of political
+organisation, Voltaire’s evocation of productive labor checks any
+thoughts of utopia. This small society is in no way a model. “The
+small farm yielded a great deal.” That is all. It’s very little, some
+will say. Voltaire does not need more. (As for Rousseau, he offers far
+greater emotional and social riches with the image of Clarens in /La
+Nouvelle Héloise/.) Voltaire has kept his variations on the theme of
+utopia for the kingdom of Eldorado, suggesting perhaps that the best
+of political organizations is conceivable only as the attribute of a
+nonexistent place. In the Propontis, at the end of this unsatisfying
+odyssey, we are far from absolute perfection. We have a bastard,
+surrounded by a prostitute, a renegade priest, a pox-ridden pedant, an
+ugly and abused young baroness, and a half-breed valet—impure guilty
+beings, in short, seemingly scarred by moral conventions—who take
+charge of their destiny and who, by what they undertake, by what they
+make with their hands, seek in the final resort to become less
+unhappy. They manage an accommodation that can never quite compensate
+for life’s wear and tear. A political reading of /Candide/ should ask
+if the small territory of the farm is more likely to endure than the
+tiny barony—the pocket-sized Eden swept away by violence at the
+beginning of the narrative. At a time when small feudal lands have
+been swallowed up in the conflicts of the nation-states, what do we
+make of the fate of a private domain in a despotic state? Does even
+this compromise have a future? Voltaire perhaps wants to make us feel
+the fragility and /eccentricity/ inherent in any semblance of regained
+stability.
 
-We should not reason excessively about a text that warns us precisely against excessive
-reasoning. We can think about /Candide/ as a parable. But this book is only a parable in its
-general outline and in some of the questions and maxims that punctuate it. The caprice and
-even /folly/ that flourish all around are not without a hidden link to the central message. How,
-for example, are we to interpret the paired figures, the ballet of minor characters who enter
-and exit /in twos/? This game of pairs is repeated indefinitely: two recruiting officers, two
-rival kings (the Abar and the Bulgarian), the servant of the Inquisition and his attendant, the
-Grand Inquisitor and Don Issachar, Cunégonde and the old woman, the two girls pursued by
-two monkeys, Giroflée and Paquette, the two girls in the service of Pococurante, the young
-baron chained next to Pangloss, the two sons and the two daughters of the good old man, and
-so on. This is only a summary list of these /simultaneous/ dualities. We can identify other
-dualities that occur in rapid succession: the Protestant preacher followed by good Jacques;
-the Spanish kingdom, then the Jesuit kingdom; the Parisian experience, then the English
-experience; the dervish, then the good old man.... These games of pairs allow Voltaire to fall
-back sometimes on the comic effects of /symmetry/ (when dealing with the companions),
-sometimes on the troubling effects of /disparity/ (when dealing with more important
-characters and when there is a succession of episodes). Disparity, contrast, difference, all
-arranged as paired figures, bring to the fore the image of a world irregular in its regularity
-(we think of Pangloss’s one eye, the old woman’s single buttock), dedicated to the law of
-geometry while also denying it. Nothing is organized; nothing matches the harmonious
-/pattern/ spoken of by the metaphysicians and theologians. To make the point, Voltaire must
-resort to excess, even frenzy: the Grand Inquisitor, who consigns Jewish converts to the
-flames, shares his mistress with a Jew; the priests, meting out sentences including hanging
-and burning, debauch young girls and boys; and not one woman who is not, willingly or
-otherwise, prostituted. No, /Candide/ is not even remotely a /representation/ of the world. The
-elements of reality it contains are caricatured beyond measure. But here the /principle of
-disparity/ intervenes once more: /Candide/ produces meaning by virtue of being paired with
-the world—a pair that is willfully asymmetric, in which the fictive image, reduced and
-preposterous, forces us to see better the perverse seriousness, the rigidity, the evil
-weightiness, the dogmatic intolerance that humans accept as the necessary order of their
-existence.
-
+We should not reason excessively about a text that warns us precisely
+against excessive reasoning. We can think about /Candide/ as a
+parable. But this book is only a parable in its general outline and in
+some of the questions and maxims that punctuate it. The caprice and
+even /folly/ that flourish all around are not without a hidden link to
+the central message. How, for example, are we to interpret the paired
+figures, the ballet of minor characters who enter and exit /in twos/?
+This game of pairs is repeated indefinitely: two recruiting officers,
+two rival kings (the Abar and the Bulgarian), the servant of the
+Inquisition and his attendant, the Grand Inquisitor and Don Issachar,
+Cunégonde and the old woman, the two girls pursued by two monkeys,
+Giroflée and Paquette, the two girls in the service of Pococurante,
+the young baron chained next to Pangloss, the two sons and the two
+daughters of the good old man, and so on. This is only a summary list
+of these /simultaneous/ dualities. We can identify other dualities
+that occur in rapid succession: the Protestant preacher followed by
+good Jacques; the Spanish kingdom, then the Jesuit kingdom; the
+Parisian experience, then the English experience; the dervish, then
+the good old man.... These games of pairs allow Voltaire to fall back
+sometimes on the comic effects of /symmetry/ (when dealing with the
+companions), sometimes on the troubling effects of /disparity/ (when
+dealing with more important characters and when there is a succession
+of episodes). Disparity, contrast, difference, all arranged as paired
+figures, bring to the fore the image of a world irregular in its
+regularity (we think of Pangloss’s one eye, the old woman’s single
+buttock), dedicated to the law of geometry while also denying it.
+Nothing is organized; nothing matches the harmonious /pattern/ spoken
+of by the metaphysicians and theologians. To make the point, Voltaire
+must resort to excess, even frenzy: the Grand Inquisitor, who consigns
+Jewish converts to the flames, shares his mistress with a Jew; the
+priests, meting out sentences including hanging and burning, debauch
+young girls and boys; and not one woman who is not, willingly or
+otherwise, prostituted. No, /Candide/ is not even remotely a
+/representation/ of the world. The elements of reality it contains are
+caricatured beyond measure. But here the /principle of disparity/
+intervenes once more: /Candide/ produces meaning by virtue of being
+paired with the world—a pair that is willfully asymmetric, in which
+the fictive image, reduced and preposterous, forces us to see better
+the perverse seriousness, the rigidity, the evil weightiness, the
+dogmatic intolerance that humans accept as the necessary order of
+their existence. 
 
 * 7-Jara Milito: (1756—1763).
 
@@ -1891,66 +2022,84 @@ exiger des preuves de noblesse particulièrement rigoureuses.
 
 
 * Optimism
-Leibniz’s purpose in his /Essais de Théodicée/ (1710: written in French) was essentially to
-defend the rationality of God and His creation against an attack which, in his eyes, was a
-potential danger to religion and to man’s confidence in the divine purposes. The French
-Huguenot scholar and philosopher Pierre Bayle (1647-1706), a critical rather than a
-constructive thinker, had frequently emphasized the limitations of the human reason by
-drawing attention to philosophical paradoxes which appeared to admit of no rational
-solution; and one of these, in his view, was the problem of evil. In the articles ‘Manichéens’
-and ‘Pauliciens’ of his /Dictionnaire historique et critique/ (1697) he argued that the
-explanation propounded by the ancient Manichean heresy, namely that the world was the
-plaything of opposing gods, one good, one evil, was in fact the solution of the problem most
-in keeping with the facts, however illogical and incompatible with our notions of God it
-might be:
+Leibniz’s purpose in his /Essais de Théodicée/ (1710: written in
+French) was essentially to defend the rationality of God and His
+creation against an attack which, in his eyes, was a potential danger
+to religion and to man’s confidence in the divine purposes. The French
+Huguenot scholar and philosopher Pierre Bayle (1647-1706), a critical
+rather than a constructive thinker, had frequently emphasized the
+limitations of the human reason by drawing attention to philosophical
+paradoxes which appeared to admit of no rational solution; and one of
+these, in his view, was the problem of evil. In the articles
+‘Manichéens’ and ‘Pauliciens’ of his /Dictionnaire historique et
+critique/ (1697) he argued that the explanation propounded by the
+ancient Manichean heresy, namely that the world was the plaything of
+opposing gods, one good, one evil, was in fact the solution of the
+problem most in keeping with the facts, however illogical and
+incompatible with our notions of God it might be:
 #+BEGIN_QUOTE
-Qui n’admirera et qui ne déplorera la destinée de notre raison: voilà les Manichéens
-qui avec une hypothèse tout-à-fait absurde et contradictoire expliquent les expériences
-cent fois mieux que ne font les orthodoxes, avec la supposition si juste, si nécessaire, si
-uniquement véritable d’un premier principe infiniment bon et tout-puissant
-[‘Pauliciens,’ note E].
+Qui n’admirera et qui ne déplorera la destinée de notre raison: voilà
+les Manichéens qui avec une hypothèse tout-à-fait absurde et
+contradictoire expliquent les expériences cent fois mieux que ne font
+les orthodoxes, avec la supposition si juste, si nécessaire, si
+uniquement véritable d’un premier principe infiniment bon et
+tout-puissant [‘Pauliciens,’ note E].
 #+END_QUOTE
-Leibniz’s book is a systematic discussion of Bayle’s views, and in it he propounds an answer
-to the problem of evil which is in harmony with his own wider metaphysical thinking and
-also supports the claims of rational theology. He sees God as subject, like man, to the laws
-of reason: even God cannot make two and two add up to anything but four, nor create a
-spherical cube. Hence, when God is considered as deciding upon the creation of the world,
-Leibniz envisages him as having a choice only between possible worlds, that is, forms of
-creation which do not violate the laws of reason, which do not involve logical contradiction.
-And among such possible worlds God in His infinite goodness has inevitably chosen the
-best. This ‘best of all possible worlds,’ however, necessarily contains imperfections, and
-hence evil. While many evils are justifiable and even valuable as a means to good (e.g. the
-protective and warning function of much physical pain), other evils are merely the inevitable
-result of the imperfections inseparable from the status of created beings; man has limited
-power, limited knowledge: ‘Il y a une imperfection originale dans la créature avant le péché,
-parce que la créature est limitée essentiellement: d’où vient qu’elle ne saurait tout savoir, et
-qu’elle se peut tromper et faire d’autres fautes’ (/Théodicée/, I, §20). Evil of this sort is thus
-presented by Leibniz, not as a positive force, but rather as something negative and privative;
-not anything willed by God, but an imperfection arising inevitably from the nature of things,
-and to which man must consequently reconcile himself. The fact of evil is not denied, but its
-presence in God’s creation is morally justified and rationally accounted for.
+Leibniz’s book is a systematic discussion of Bayle’s views, and in it
+he propounds an answer to the problem of evil which is in harmony with
+his own wider metaphysical thinking and also supports the claims of
+rational theology. He sees God as subject, like man, to the laws of
+reason: even God cannot make two and two add up to anything but four,
+nor create a spherical cube. Hence, when God is considered as deciding
+upon the creation of the world, Leibniz envisages him as having a
+choice only between possible worlds, that is, forms of creation which
+do not violate the laws of reason, which do not involve logical
+contradiction. And among such possible worlds God in His infinite
+goodness has inevitably chosen the best. This ‘best of all possible
+worlds,’ however, necessarily contains imperfections, and hence evil.
+While many evils are justifiable and even valuable as a means to good
+(e.g. the protective and warning function of much physical pain),
+other evils are merely the inevitable result of the imperfections
+inseparable from the status of created beings; man has limited power,
+limited knowledge: ‘Il y a une imperfection originale dans la créature
+avant le péché, parce que la créature est limitée essentiellement:
+d’où vient qu’elle ne saurait tout savoir, et qu’elle se peut tromper
+et faire d’autres fautes’ (/Théodicée/, I, §20). Evil of this sort is
+thus presented by Leibniz, not as a positive force, but rather as
+something negative and privative; not anything willed by God, but an
+imperfection arising inevitably from the nature of things, and to
+which man must consequently reconcile himself. The fact of evil is not
+denied, but its presence in God’s creation is morally justified and
+rationally accounted for.
 
-The second version of the philosophy of optimism is linked with the name of Alexander
-Pope, not because he himself was an original thinker (he chiefly echoes the views of his
-contemporary, Bolingbroke, and the earlier English philosopher, Shaftesbury), but because
-he succeeded, in his /Essay on Man/ (1733), in crystallizing and giving memorable expression
-to ideas on the subject which reflected the outlook of many contemporaries. It had become a
-common practice for Christian apologists to invoke the new scientific discoveries as
-evidence: that the marvels of the universe bear witness to God’s existence and His
-providence is the theme of such works as the Rev. W. Detham’s /Physico-Theology/ (1713)
-and /Astro-Theology/ (1715), both of which were frequently reprinted and translated into
-French, and of the Abbé Pluche’s equally successful /Spectacle de la nature/ (1732). The
-discovery of order and purpose in the world of nature led less orthodox thinkers, however, to
-conclusions incompatible with the Christian doctrine of original sin. If scientific
-investigation revealed the working of universal laws, the existence of rational purpose, in
-every phenomenon so far scrutinized, it seemed likely that greater knowledge would display
-the ultimate regularity and purposiveness of /everything/ in the universe: that whatever now
-appeared as random, imperfect, evil, would be revealed as playing its necessary part in the
-universal order. Man’s capacity for comprehending this order, it was argued, is inevitably
-limited by his own quite restricted part in it, but the universe as a whole is perfect, the
-unblemished product of the divine wisdom and omnipotence, and it is merely human
-ignorance which makes us see imperfection and evil in it. Such are the views Pope advances
-in the First Epistle of his /Essay on Man/:
+The second version of the philosophy of optimism is linked with the
+name of Alexander Pope, not because he himself was an original thinker
+(he chiefly echoes the views of his contemporary, Bolingbroke, and the
+earlier English philosopher, Shaftesbury), but because he succeeded,
+in his /Essay on Man/ (1733), in crystallizing and giving memorable
+expression to ideas on the subject which reflected the outlook of many
+contemporaries. It had become a common practice for Christian
+apologists to invoke the new scientific discoveries as evidence: that
+the marvels of the universe bear witness to God’s existence and His
+providence is the theme of such works as the Rev. W. Detham’s
+/Physico-Theology/ (1713) and /Astro-Theology/ (1715), both of which
+were frequently reprinted and translated into French, and of the Abbé
+Pluche’s equally successful /Spectacle de la nature/ (1732). The
+discovery of order and purpose in the world of nature led less
+orthodox thinkers, however, to conclusions incompatible with the
+Christian doctrine of original sin. If scientific investigation
+revealed the working of universal laws, the existence of rational
+purpose, in every phenomenon so far scrutinized, it seemed likely that
+greater knowledge would display the ultimate regularity and
+purposiveness of /everything/ in the universe: that whatever now
+appeared as random, imperfect, evil, would be revealed as playing its
+necessary part in the universal order. Man’s capacity for
+comprehending this order, it was argued, is inevitably limited by his
+own quite restricted part in it, but the universe as a whole is
+perfect, the unblemished product of the divine wisdom and omnipotence,
+and it is merely human ignorance which makes us see imperfection and
+evil in it. Such are the views Pope advances in the First Epistle of
+his /Essay on Man/:
 
 #+BEGIN_VERSE
 Cease then, nor order imperfection name:
@@ -2133,15 +2282,19 @@ France could laugh.
 
 -----
 
-To describe the development of Voltaire’s attitude to the question of optimism it is not
-necessary, or possible, to go back to the earliest years of his career: the successful young
-court poet and dramatist of the Regency had as yet no serious personal concern with such
-profound matters as the problem of evil. Yet, with his early interest in Bayle and impatience
-with religious orthodoxy, he can scarcely have failed, even as a very young man, to be aware
-of the importance of the question. He of course read his friend Pope’s /Essay on Man/ as soon
-as it appeared in 1733, and it is noteworthy that, although he qualified his first praise of it
-with the remark that ‘Now and then there is some obscurity’ (letter, in English, to Thieriot,
-24 July 1733, Best. 614), his own earliest recorded opinions on the subject, which belong to
+To describe the development of Voltaire’s attitude to the question of
+optimism it is not necessary, or possible, to go back to the earliest
+years of his career: the successful young court poet and dramatist of
+the Regency had as yet no serious personal concern with such profound
+matters as the problem of evil. Yet, with his early interest in Bayle
+and impatience with religious orthodoxy, he can scarcely have failed,
+even as a very young man, to be aware of the importance of the
+question. He of course read his friend Pope’s /Essay on Man/ as soon
+as it appeared in 1733, and it is noteworthy that, although he
+qualified his first praise of it with the remark that ‘Now and then
+there is some obscurity’ (letter, in English, to Thieriot, 24 July
+1733, Best. 614), his own earliest recorded opinions on the subject,
+which belong to
 ...................
 
 W.H. BARBER: [The Question of Optimism]+
@@ -2197,6 +2350,10 @@ Jack Undank: The Status of Fiction in Voltaire’s Contes
 
 
 * Patino
+** papidino
+Cela n’est pas plus vrai que l’histoire de la *papesse* Jeanne.
+https://fr.wikisource.org/wiki/Page:Voltaire_-_%C5%92uvres_compl%C3%A8tes_Garnier_tome13.djvu/208 
+
 ** Majuskloj
 <p>Ĝenerale mi pli ol averaĝe ŝparas la majusklojn, sed prilaborante ĉi tiun verkon mi, kontraŭ mia kutimo, adoptis la angla-franca-polan sistemon, kun abunda majusklado de la etnaj nomoj kaj derivaĵoj de la nomoj propraj. Mi faris tion por iom patini la aspekton de la teksto laŭ la modo de la 18ª jc, kaj por ekzerci en ĉi tiu, por mi tute fremda, stilo arĥaika.</p>
 <p>Danke al tiu ekzerco mi malkovris (por mi mem), kiom konfuza kaj malkohera estas tiu tradicio. Antaŭe mi ne rimarkis la malkoheron en la Fundamenta ekzemplo [FE §37]</p>
@@ -2205,6 +2362,42 @@ Jack Undank: The Status of Fiction in Voltaire’s Contes
 </blockquote>
 <p>Same malkohere Lanti’ (kaj Voltero) ne majuskligas la vortojn /judo, mestizo, negro, pigmeo, socinano, kristano, maniĥeano, jansenistoj, molinistoj, teatano./ Mi tion koherigis (laŭ la pli kohera tradicio angla).</p>
 
+* Raison universelle (ĉap. 5ª)
+
+** Il y a une raison universelle pour tous les hommes
+Malebranche soutient ici que les hommes participent tous à une même raison universelle, qui explique que certaines vérités leur soient communes.
+
+    Il n'y a personne qui ne convienne que tous les hommes sont
+    capables de connaître la vérité ; et les philosophes même les
+    moins éclairés, demeurent d'accord que l'homme participe à une
+    certaine /Raison. qu'ils ne déterminent pas. C'est pourquoi ils le
+    définissent /animal/ *RATIONIS particeps* : car il n'y a personne qui
+    ne sache du moins confusément, que la différence essentielle de
+    l'homme consiste dans l'union nécessaire qu'il a avec la Raison
+    universelle, quoiqu'on ne sache pas ordinairement quel est celui
+    qui renferme cette /Raison/, et qu'on se mette fort peu en peine de
+    le découvrir. Je vois par exemple que 2 fois 2 font 4, et qu'il
+    faut préférer son ami à son chien ; et je suis certain qu'il n'y a
+    point d'homme au monde qui ne le puisse voir aussi bien que moi.
+    Or je ne vois point ces vérités dans l'esprit des autres : comme
+    les autres ne les voient point dans le mien. Il est donc
+    nécessaire qu'il y ait une Raison universelle qui m'éclaire, et
+    tout ce qu'il y a d'intelligences. Car si la raison que je
+    consulte, n'était pas la même qui répond aux Chinois, il est
+    évident que je ne pourrais pas être aussi assuré que je le suis,
+    que les Chinois voient les mêmes vérités que je vois. Ainsi la
+    Raison que nous consultons quand nous rentrons dans nous-mêmes,
+    est une Raison universelle. Je dis quand nous rentrons dans
+    nous-mêmes, car je ne parle pas ici de la raison que suit un homme
+    /passionné/. Lorsqu'un homme préfère la vie de son cheval à celle de
+    son cocher, il a ses raisons, mais ce sont des raisons
+    particulières dont tout homme raisonnable a horreur. Ce sont des
+    raisons qui dans le fond ne sont pas raisonnables, parce qu'elles
+    ne sont pas conformes à la souveraine Raison, ou à la Raison
+    universelle que tous les hommes consultent.
+
+Malebranche, La Recherche de la vérité [1674], Xe éclaircissement, Œuvres complètes, tome III, Vrin, 1976, p. 129-130.
+https://manuelnumeriquemax.belin.education/philosophie_voie_generale-terminale/topics/philo-tle-c11-302-a_malebranche-emphasis-la-recherche-de-la-verite-emphasis-1674
 
 * URL-oj
 https://genius.com/artists/Voltaire
