@@ -6,7 +6,7 @@ https://commons.wikimedia.org/wiki/File:Jean_Huber_-_Voltaire_%C3%A0_son_lever_%
 The author died in 1786, so this work is in the public domain
 
 
-In his /Lever de Voltaire/ of 1772 Jean Huber depicted the /philosophe/ getting dressed in a somewhat awkward position. The picture was a great success: it was engraved in Paris and in London, reproduced many times and broadly circulated and sold. 
+In his /Lever de Voltaire/ of 1772 Jean Huber depicted the /philosophe/ getting dressed in a somewhat awkward position. The picture was a great success: it was engraved in Paris and in London, reproduced many times and broadly circulated and sold.
 https://voltairefoundation.wordpress.com/2015/06/24/public-figures-the-invention-of-celebrity-in-the-eighteenth-century/
 
 * Antaŭparolo
@@ -14,7 +14,7 @@ https://voltairefoundation.wordpress.com/2015/06/24/public-figures-the-invention
 <!--Plibeligo / korekto; ĝueblo; sennaciigo;
 KANDİD, (Baron’un kızı) Matmazel Künegond - Fräulein Kunigunde; Pokokürante
 
->  Voltaire. Kandid Ya da İyimserlik Üstüne. Çev.Server Tanilli. Say Yayınları. s.149. 
+>  Voltaire. Kandid Ya da İyimserlik Üstüne. Çev.Server Tanilli. Say Yayınları. s.149.
 > (Вольтер О Кандиде или Оптимизме. Транс.Сервер Танилли.)
 > Publisher: SAY PUBLICATIONS
 > Publication Year: 1984
@@ -42,7 +42,7 @@ malnovan skolon, kaj opinias ke la traduko devas esti ne malpli ĝuiga
 ol la originalo.
 
 * Teodiceo
- 
+
 The problem of divine justice or theodicy, of reconciling the existence of evil and suffering
 with the goodness and omnipotence of God, is one that clearly is of permanent concern not
 only to Christian theology but also to all believers in a creator rationally conceived as a
@@ -139,7 +139,7 @@ name of Alexander Pope, not because he himself was an original thinker
 earlier English philosopher, Shaftesbury), but because
 
 ** La eklezia malaprobo
- 
+
 The issue at stake in the controversy was a crucial one. The optimism
 expressed in Pope’s poem, and which was commonly supposed to be that
 of Leibniz also, appeared in the 1730s as a characteristically deistic
@@ -183,7 +183,7 @@ Germany.
 
 
 
- 
+
 https://flibusta.club/b/624065/read
 
 ** A. Pope
@@ -389,7 +389,7 @@ S: *La inkvizitoron* oni entombigas en bela preĝejo, *Isaĥaron* oni ĵetas en 
 Sed tiam devas esti egala nedifiniteco, kiel en la intera frazo de de
 la sama ĉapitro:
 
-V: Comment avez-vous fait ... pour tuer en deux minutes *un Juif* et *un prélat*? 
+V: Comment avez-vous fait ... pour tuer en deux minutes *un Juif* et *un prélat*?
 S: Sed kiel povis vi ... en du minutoj mortigi Judon kaj prelaton?
 
 “The Prince and the Pauper”
@@ -433,6 +433,13 @@ L: volis fortiri min dum kelka tempo el /tiu restadejo/ tiom pereiga.
 S: Mia patrino, malesperigite, kvankam ja malpli afliktite ol mi,
 decidis por kelka tempo forlasi la lokon tiom fatalan. [ĉap. 11ª]
 ----
+
+V: j’ai vieilli dans la misère et dans l’opprobre, n’ayant que la
+moitié /d’un/ derrière ... [chap. 12]
+L: havante nur duonan postaĵon
+A: living with only one buttock
+B: имах само половин задник
+
 #+NAME: kelkaj
 V: c'était pour voir si nous n'avions pas caché là quelques diamants
 L: oni volis konstati ĉu ni ne kaŝis tie kelkajn diamantojn
@@ -554,10 +561,10 @@ pri la planŝanĝo.)
 
 L: Iun tagon la granda inkvizitoro ekvidis min cxe diservo [Ĉap. 8ª]
 
-V: J'appris bientôt que 
+V: J'appris bientôt que
 L: Baldaux mi eksciis, ke [Ĉap. 11ª]
 
-V: J'ai su que messieurs les religieux chevaliers de Malte n'y manquent jamais 
+V: J'ai su que messieurs les religieux chevaliers de Malte n'y manquent jamais
 L: Mi eksciis, ke sinjoroj la religiuloj kavaliroj de Malta neniam
 malatentas tiun kutimon,
 
@@ -604,16 +611,25 @@ https://www.amazon.com/Voltaire-Holland-1736-1745-Republique-Lettres/dp/90429235
 https://www.mamalisa.com/?t=fs&p=4523
 
 *** Тра-ля-ля по-итальянски
-Din-don, ecco la mia canzon!
+- Din-don, ecco la mia canzon!
+- Я закажу афишу,красивую, со своими "тра-ля-ля". = "Col suo tra-la-la!"
 
-Я закажу афишу,красивую, со своими "тра-ля-ля".	"Col suo tra-la-la!"
+Mi supozas ke per ĝi Voltero parodias la italan manieron uzi la
+literon G por la parolsono <em>ĝ</em> (kiun franco eble perceptas kiel
+<em>ĵ</em>) en okazoj kie li atendus la literon J — ekz‑e <i
+lang="it">Gianfranco, Gerolamo, Giordano, Giulio</i> (Ĝanfranko,
+Ĝerolamo, Ĝordano, Ĝulio) ktp; do, tiu «frato <i
+lang="fr">Giroflée</i>» estas parodio samspeca kiel «barono <i
+lang="de">Thunder-ten-tronckh</i>»; do ĝin traduki per «Levkojo» estas
+maltrafe. Anstataŭe mi ĝin reitaligis per «frato Ĝaĉinto» (itale <i
+lang="it">Giacinto</i> estas ‹Hiacinto›, responda al la franca <i
+lang="fr">Jacinthe,</i> atestita kiel baptonomo kristana), konservante
+la asociaĵon floran, aktualan pro la nomo de lia kunulino.
 
 *** Стрекоза и муравей
 «la grilo kaj la formiko»[K] (fablo);
 Grilo:  la grilo krikrias, ĉirpas; (f) ia grilo zumas al li en la
 cerbo (li estas frenezeta, havas strangajn ideojn; ☞ kaprico, muŝo).
-
-
 
 ** Paquette
 la Germana traduko [G] ŝin rebaptas <i lang="de">Gertrude.</i> Mi
@@ -627,13 +643,14 @@ La ĝena misasociaĵo <i lang="fr">Paquette—le paquet</i> france ne ekzistas (
 Mi koncedas, ke ĝi estas iom pli romantika ol konvenas al la rolulino,
 sed pli taŭgan mi ne trovis. Ĉiel ajn, tio min malpli ĝenas ol /Paketo/.
 
+Mi do rebaptis ŝin <em>Violeto,</em> kio estas innomo sufiĉe internacia, <a href="https://de.wikipedia.org/wiki/Flora_(Vorname)#Verbreitung">ne estas malkutima innomo</a> en Germanio
+
 ** Ralph, Oporto
 
 12. Porto, or rather Oporto: They are one and the same Portuguese
     city - a moment of pedantry (and a late addition, not present in
     the manuscript) which reminds us that this is a tale being told by
-    *the obscure German with the English name, Doctor Ralph.* [ĉap.
-    5ª]
+    *the obscure German with the English name, Doctor Ralph.* [ĉap. 5ª]
 ** Misaj nomoj hispanaj
 - "urbeto Avaseno (Avasena)" probable estas plumeraro de Voltero aŭ
   eble mislegita «Aracena». [ĉap. 9]
@@ -686,7 +703,7 @@ Hernán's mother was Catalína Pizarro Altamirano.
 <cite>
 <p>Iun belan printempan tagon li decidis fari promenadon, kaj ekpaŝis rekte antaŭen … Apenaŭ li estis irinta <emphasis>du leŭgojn,</emphasis> kiam kvar aliaj herooj … lin kuratingas, ligas, kaj kondukas en karceron.</p>
 </cite>
-<p>Promeno 8-kilometra estas iom longa, sed ja imagebla. Strange impresas la adverbo: «<emphasis>apenaŭ</emphasis> li estis irinta 8km…». Post 
+<p>Promeno 8-kilometra estas iom longa, sed ja imagebla. Strange impresas la adverbo: «<emphasis>apenaŭ</emphasis> li estis irinta 8km…». Post
 
 
 ** Leŭgoj
@@ -1028,7 +1045,7 @@ https://www.laphamsquarterly.org/animals/miscellany/plato-and-diogenes-debate-fe
 ĉap. 4ª:
 V:
 Mais de quelle maladie est-elle morte? ne serait-ce point de ...
-Non, dit Pangloss, elle a été éventrée par des soldats bulgares, 
+Non, dit Pangloss, elle a été éventrée par des soldats bulgares,
 L:
 — ... Pro kia malsano ŝi mortis? ...
 — ... La Bulgaraj soldatoj distranĉis ŝian ventron ...
@@ -1064,14 +1081,14 @@ In reality, no auto-da-fé took place in response to the Lisbon
 disaster. Three autos-da-fé were held in Lisbon - on 8 October 1756,
 28 September 1757, 27 August 1758 - but these were unconnected with
 the earthquake, and there were no executions.
-    
+
 
 ----
 ĉap. 7ª:
-Frottez-vous de __ pommade, mangez et dormez. 
+Frottez-vous de __ pommade, mangez et dormez.
 Ŝmiru vin per pomado, manĝu kaj dormu.
 Kial ne "per LA pomado"? Ĉu partitivo?
- 
+
 1. may Our Lady of Atocha ... watch over you: A statue in Madrid, the site of a cult
 of the pregnant Virgin: ‘This Lady is made of wood; every year she weeps on
 her feast-day, and the people weep too. Once on this occasion the preacher,
@@ -1084,7 +1101,7 @@ Saint Anthony is the patron saint of Portugal (notwithstanding the
 reference here to Padua in Italy), and was the saint to invoke when looking
 for things lost - in this case Cunégonde; Saint James is the patron saint of
 Spain.
- 
+
 
 
 ----
@@ -1108,7 +1125,7 @@ https://www.roaddistance.in/distance-between-lisbon-to-aracena/
 
 ----
 * ĉap. 10ª:
- 
+
 1. everyone has an equal right to them: Here and elsewhere (chapters 15 and 16)
 Pangloss’s utopian socialism parrots the arguments of Rousseau’s /Discours
 sur l'origine de l’inégalité/ (Discourse on the Origins of Inequality, 1755), whose
@@ -1245,7 +1262,7 @@ elektita de la janiĉaroj. — <em>S.</em></span>
 ----
 * ĉap. 13ª:
 
-*** grandmanika --- un (!) cordelier à la grande manche 
+*** grandmanika --- un (!) cordelier à la grande manche
 
 "In 1581 the Franciscan order was riven by a dispute about the design
 of its habit, in particular about the nature of its sleeves and the
@@ -1261,7 +1278,7 @@ sleeve in a manner akin to the poacher's procket has particular edge.
 Kurioze, la francigitan loknomon en <i lang="fr">le collège de
 l’Assomption</i> (t.e. la Asunsjona kolegio) Lanti’ ne rekonis kaj
 tradukis per «la kolegio de la Ĉieliro».
- 
+
 3. *their kingdom*: A deliberately incorrect usage, suggestive of the
 autocracy of the Jesuits; it was rumoured in 1755-6 that the Indians
 had crowned a Jesuit as their king. ‘With regard to the supposed
@@ -1514,7 +1531,7 @@ Voltaire is thinking of the lost language of the Incas.
 6. All the inns... are paid for by the government: Prior to the Spanish conquest,
 according to Garcilaso, free hostelries ‘well stocked with provisions’, were
 maintained by the Inca government for the benefit of travellers.
- 
+
 
 ----
 ĉap. 18ª:
@@ -1690,7 +1707,7 @@ mettant le poignard à la main de Jacques Clément»
 https://fr.wikipedia.org/wiki/Le_Fanatisme_ou_Mahomet_le_Proph%C3%A8te#Analyse
 
 ** toute seule de sa bande
-V: elle fut enterrée toute seule de sa bande au coin de la rue de Bourgogne; 
+V: elle fut enterrée toute seule de sa bande au coin de la rue de Bourgogne;
 de = "el" : "fare de";
 *ARTIKOLO:* Kial "au coin"? ĉu sola angulo?
 
@@ -1745,7 +1762,7 @@ partie grâce à sa célèbre œuvre de Justice, rendue sous un chêne. La
 main de Justice était conservée sous la royauté à l'Abbaye de
 Saint-Denis.
 
- 
+
 QUE SIGNIFIE CE SYMBOLE ?
 
 Lors de la cérémonie du sacre, on plaçait traditionnellement le
@@ -2302,8 +2319,8 @@ W.H. BARBER: [The Question of Optimism]+
   in Comparative Literature 28 (1976), pp. 193—200, This
   translation, by Nicholas Cronk, is based on the slightly revised
   version that appeared in /Le Reméde dans le mal/ (Paris: Gallimard,
-  1989), pp. 123-44, © Editions Gallimard, Paris, 1983, 1989.    
- 
+  1989), pp. 123-44, © Editions Gallimard, Paris, 1983, 1989.
+
 Candide (Third International Edition)
 Voltaire
 W. W. Norton & Company, 15 апр. 2016 г.
@@ -2318,7 +2335,7 @@ The Norton Critical Edition also includes:
 · Seven critical essays—five of them new to this edition—representing a wide range of approaches to Candide. Contributors include J. G. Weightman, Robin Howells, James J. Lynch, Philip Stewart, Erich Auerbach, and Jean Starobinski.
 · A revised and expanded Selected Bibliography.
 https://books.google.ru/books?id=oiFjDAAAQBAJ&pg=PT158&lpg=PT158&dq=Quarters+of+nobility+Candide+Cunegunde+Voltaire&source=bl&ots=EPaLKDM5Mj&sig=ACfU3U2Fme9wXwrO8K6As4Ti_GMpyzh68w&hl=ru&sa=X&ved=2ahUKEwir76Hoo4H5AhUzQfEDHdNwBxoQ6AF6BAgqEAM#v=onepage&q=Quarters%20of%20nobility%20Candide%20Cunegunde%20Voltaire&f=false
- 
+
 
 
 <h4 id="Ij">Interjekcioj</h4>
@@ -2352,7 +2369,7 @@ Jack Undank: The Status of Fiction in Voltaire’s Contes
 * Patino
 ** papidino
 Cela n’est pas plus vrai que l’histoire de la *papesse* Jeanne.
-https://fr.wikisource.org/wiki/Page:Voltaire_-_%C5%92uvres_compl%C3%A8tes_Garnier_tome13.djvu/208 
+https://fr.wikisource.org/wiki/Page:Voltaire_-_%C5%92uvres_compl%C3%A8tes_Garnier_tome13.djvu/208
 
 ** Majuskloj
 <p>Ĝenerale mi pli ol averaĝe ŝparas la majusklojn, sed prilaborante ĉi tiun verkon mi, kontraŭ mia kutimo, adoptis la angla-franca-polan sistemon, kun abunda majusklado de la etnaj nomoj kaj derivaĵoj de la nomoj propraj. Mi faris tion por iom patini la aspekton de la teksto laŭ la modo de la 18ª jc, kaj por ekzerci en ĉi tiu, por mi tute fremda, stilo arĥaika.</p>
