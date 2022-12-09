@@ -471,6 +471,8 @@ barona moŝto kaj de brava kaj bona nobelo najbara
 Atentindas, ke /fils/ aperas senartikole, kontraste al /la fille/ en Ĉap. 11ª.
 
 * Aspektoj
+** Prezenco historia
+Ĉe Marko ekz‑e en klarigo de la parabolo pri Semisto (4:14–20).
 ** Imperfekto
 *** → as-tenso (aktualigo):
 V: et Candide lui parla sans savoir ce qu’il /disait/.
@@ -505,6 +507,16 @@ S: — Halt’! Haltu sinjoro, — /ekkriis/ Kandido. — Mi pagos al vi kiom vi
 — Kio! Kandido! — /diras/ unu el la punuloj.</p>
 — Kio! Kandido! — /diras/ la alia.
 
+*** Iterativo:
+Ĉap. 2ª:
+V: Il eut beau dire que les volontés sont libres...
+L: Li vane diris, ke liberaj estas la voloj ...
+S: Vane li diradis, ke la voloj estas liberaj ...
+
+Ĉap. 14ª:
+V: — Où me mènes-tu? où allons-nous? que ferons-nous sans Cunégonde? disait Candide.
+L: — Kien ci kondukas min? kien ni iras? kion ni faros sen Kunegond? diris Kandid.
+S: — Kien ci min kondukas? Kien ni iru? Kion ni faros sen Kunegundo? — demandadis Kandido.
 
 *** daŭrverboj:
 Ĉap. 4ª:
@@ -522,6 +534,16 @@ S: — Ŝajnas, — /li rezonis/, — ke la homoj iom difektis la naturon; ja ..
 V: Candide, chemin faisant, /disait/ à Martin: (...)
 L: Irante, Kandid /diris/ al Marten: (...)
 S: Survoje Kandido jene /parolis/ al Marteno: (...)
+
+**** Parolis vs diris:
+
+Ainsi *parlait* Booz dans le rêve et l'extase,
+Tournant vers Dieu ses yeux par le sommeil noyés ;
+
+Tiel Boaz' parolis en sonĝo kaj ekstazo …
+
+– Ĉu vi ne rimarkis – parolis altrangulo al altrangulo – ke la
+tagoj... [Faraono]
 
 *** Continuous tense:
 
@@ -547,7 +569,7 @@ L: La suno malleviĝis.
 S: La suno estis subiranta. [Ĉap. 16ª]
 
 *** disait:
-V: 34 aperoj de «disait» + 148 «dit» + 1 «disant»
+V: 41 aperoj de «disait» + 327 «dit» + 1 «disant»
 L: 0 aperoj de «diradis» + 2 aperoj de «dirante» (1 aspekta el V, kaj
    1 "sen diri").
 **** ?? Nekomprenebla:
@@ -660,6 +682,8 @@ Mi do rebaptis ŝin <em>Violeto,</em> kio estas innomo sufiĉe internacia, <a hr
 L: Don Fernando de Ibaran, kaj Figuerora, kaj Maskarenes, kaj Lampurdos, kaj Suza
 ES: señor don Fernando de IbarRa Figueroa Mascareñas Lampurdos y Souza
 http://www.intratext.com/IXT/ESL0891/_PR.HTM
+ES:  gobernador Don Fernando de Ibarra, Figueroa, Mascareñas, Lampurdan y Souza
+http://schulers.com/books/vo/c/Candido__o_El_Optimismo/Candido__o_El_Optimismo6.htm
 
 - Ibarra: Иба́рра (баск. Ibarra, исп. Ibarra) — баскская фамилия и топоним
 - Figueroa (Galician: Figueiroa) is a Spanish surname of Galician origin.
@@ -670,8 +694,11 @@ http://www.intratext.com/IXT/ESL0891/_PR.HTM
   Mascarenhas).  Остров Реюньон является заморским департаментом
   Франции, остальные острова составляют государство Маврикий, входящее
   в британское Содружество наций.
-- Грек Лампурдос подлец ... (Щедрин)
+- Грек Лампурдос подлец ... (Щедрин);
   http://rulibs.com/ru_zar/prose_rus_classic/saltyikov-schedrin/1q/j64.html
+  sed: /le Pais de *Lampurdan* dans la Province de Catalogne/
+  https://www.abebooks.com/art-prints/Roses-Ville-forte-Pais-Lampurdan-Province/30644565723/bd
+  (kp "laberdano" en la Revizoro)
 - Со́уза (порт. Sousa, в старой сохранившейся в Бразилии орфографии
   порт. Souza, португальское произношение: [ˈso(w)zɐ]) — португальская
   фамилия топонимического происхождения. Связана с названием реки
@@ -1261,6 +1288,73 @@ elektita de la janiĉaroj. — <em>S.</em></span>
 
 ----
 * ĉap. 13ª:
+*** Noces:
+V: et nous supplions Votre Excellence de daigner /faire notre noce/.
+G: und wir ersuchen Ihro Exzellenz unterthänigst, die hohe Gnade für uns zu haben,  und unsre Hochzeit auszurichten.
+S: kaj ni petegas ke via ekscelenco degnu aranĝi nian geedziĝofeston.
+L: kaj ni petegas vian ekscelencan moŝton konsenti pri nia edziĝo.
+
+V: faut-il vous abandonner dans le temps que monsieur le gouverneur va
+faire nos noces! (chap. 14)
+G: mus Dich in dem Zeitpunkt verlassen, da der Herr Stathalter uns zusammenfügen wollte!
+S: Ĉu mi vin forlasu ĝuste kiam sinjoro guberniestro estas aranĝonta nian geedziĝofeston?
+
+L: estas korŝire forlasi vin en la tempo, kiam sinjoro la guberniestro
+estas nin edzigonta!
+
+
+**** Sankcii:
+En iuj landoj — ekz‑e Francio (ekde edikto de Ludoviko la 14ª) kaj Hispanio — por edziĝi (precipe al alilandanino) militisto bezonas administran sankcion. Ĉi tiun interpreton de la peto de Kandido adoptas pluraj tradukoj (L, A<sub>20</sub>, P, R); ĝi konvenas situacie, sed ne akordas kun la franca teksto: <i lang="fr">et nous supplions Votre Excellence de daigner <strong>faire notre noce</strong></i> (laŭvorte: «kaj ni petegas vian ekscelencon degni aranĝi nian geedziĝofeston»). Kp ĉi-sube <a href="#noces">[81]</a>. — <em>S.</em>
+
+#+begin_quote
+La loi du 13 juillet 1972, portant statut général des militaires,
+dispose dans son article14 (modifié par la loi du 30 octobre 1975) :
+
+« Les militaires peuvent librement contacter mariage. Doivent
+cependant, obtenir l’autorisation préalable du Ministre :
+
+1. (supprimé)
+2. Lorsque leur futur conjoint ne possède pas la nationalité
+   française, les militaires en activité de service ou dans une
+   position temporaire comportant rappel possible à l’activité, à
+   l’exception des personnels servant au titre du Service National.
+3. Les militaires servant à titre étranger ».
+#+end_quote
+https://www.droitdesmilitaires.fr/65
+
+#+begin_quote
+L’autorisation administrative de mariage des militaires a été mise en
+place à la fin du xviie siècle par une série d’ordonnances de Louis
+XIV, puis mise en œuvre tout au long du xviiie siècle avant d’être
+mise en cause sous la Révolution (1793). Mais elle fut rapidement
+remise en vigueur par Napoléon (1808) pour être seulement remise en
+cause par la loi du 13 juillet 1972 portant statut général des
+militaires qui comportait d’ailleurs quelques exceptions dont
+certaines sont encore en vigueur.
+#+end_quote
+https://www.cairn.info/revue-droits-2021-1-page-17.htm
+
+Hispanio:
+#+begin_quote
+Guide pratique international de l'état civil. ESPAGNE.
+état : janvier 2003
+...
+4.2.3 Des autorisations administratives sont-elles nécessaires dans certains cas ?
+Non pour la validité du mariage. Mais certaines autorisations
+administratives sont prévues en ce qui concerne les mariages des
+militaires et des diplomates, en vertu de dispositions antérieures à
+la Constitution.
+#+end_quote
+http://jafbase.fr/docUE/Espagne/Espagne4-5-6.pdf
+
+#+begin_quote
+Esta Señorita, díxo, me debe favorecer con su mano, y suplicamos ámbos
+á Vueselencia que se digne ser padrino de los novios.
+#+end_quote
+(to preside our wedding, быть посаженным отцом...)
+
+
+
 
 *** grandmanika --- un (!) cordelier à la grande manche
 
@@ -2421,6 +2515,7 @@ https://genius.com/artists/Voltaire
 https://genius.com/Voltaire-candide-chapitre-xx-fench-version-annotated
 https://genius.com/3139265 (komentita V)
 
+https://candide.bnf.fr/reperes#1 -- Teksto kun la manuskripto
 
 
 * Footnotes
