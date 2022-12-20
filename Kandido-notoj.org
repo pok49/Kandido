@@ -577,6 +577,29 @@ V: — Qu’est-ce qu’optimisme? /disait/ Cacambo. — Hélas! /dit/ Candide,
 c’est la rage ... (ĉap. 19ª)
 (Probable aktualigo: /demandas/ Kakambo. Ĉu penvaloras? Eble signalo
 pri la planŝanĝo.)
+<h6 id="EI">Enigmaj imperfektoj</h6>
+<p>Pluraj ĉapitroj komenciĝas per senpreparaj dialogoj (<i lang="la">ex abrupto</i>), tio estas bone konata stilfiguro. Sed en <a href="#K10">ĉap. 10ª</a> ĝi entenas nekutiman imperfektan komenton <em>disait</em>:</p>
+<blockquote>
+<p lang="fr"><strong>V:</strong> «Qui a donc pu me voler mes pistoles et mes diamants?» <em>disait</em> en pleurant Cunégonde… — Hélas! <em>dit</em> la vieille…</p>
+<p><strong>L:</strong> — Kiu do sukcesis ŝteli miajn monerojn kaj miajn diamantojn? <em>diris</em> plorante Kunegond…<br>
+— Ho ve! <em>diris</em> la maljunulino…</p>
+<p><strong>S:</strong> — Kiu do ŝtelis miajn ormonerojn kaj juvelojn? — plorante <em>demandas</em> Kunegundo…<br>
+— Ho ve, — <em>diris</em> la maljunulino…</p>
+</blockquote>
+<p>Mi ne certas, ĉu mi ĝuste komprenis la intencon de tiu imperfekto. Probable ĝi devas pli «abrupte» (aŭ pli profunden) ĵeti la leganton en la situacion. Atentindas ke la dua repliko jam estas en la kutima aoristo (<i lang="fr">dit la vieille</i>). Ĉi-okaze mi esperantigas precipe <em>mian impreson</em> de tiu vortuzo. La historia prezenco estas esprimilo pli drasta, tamen ĝi ja ne fremdas al la verko, kaj logike estas samesenca.</p>
+<p>Malpli ŝokas la simila komenco de <a href="#K23">ĉap. 23ª</a>.</p>
+<p>La plej enigma uzo de <i lang="fr">disait</i> <sup>[169]</sup>
+<span class="aside">[169] Tiom enigma, ke en ĉiuj tradukoj de mi konsultitaj, eĉ en la slavaj, ĝi aperas perfektive, kiel se la originalo tekstus <i lang="fr"><strong>dit</strong> Cacambo.</i></span>
+aperas en <a href="#optimismo">ĉap. 19ª</a>:</p>
+<blockquote>
+<p lang="fr"><strong>V:</strong> — Qu’est-ce qu’optimisme? <em>disait</em> Cacambo. — Hélas! <em>dit</em> Candide, c’est la rage…</p>
+<p><strong>L:</strong> — Kio estas optimismo? <em>diris</em> Kakambo.<br>
+— Ho ve! <em>diris</em> Kandid, ĝi estas la obstinego asertadi…</p>
+<p><strong>S:</strong> — Kio estas optimismo? — <em>demandas</em> Kakambo.<br>
+— Aĥ, — <em>diris</em> Kandido, — ĝi estas la manio asertadi…</p>
+</blockquote>
+<p>Ĉu tiu uzo devas iel emfazi la demandon? Pli bonan klarigon mi ne trovas. Atentindas, ke ĉi tiu frazo estas la sola en verko (ekster la titolo) kie aperas la vorto «optimismo». Hm.</p>
+
 
 ** ek + mensa verbo
 <p>Pli ofte ol averaĝe ĉe la okcidentanoj Lanti’ esprimas inĥoativon (en la okcidentaj lingvoj inĥoativo de la mensaj verboj ial estas tabuita). Tio estas logika.</p>
