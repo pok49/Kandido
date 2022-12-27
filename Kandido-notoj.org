@@ -903,7 +903,7 @@ kaj mia devo estas ami ŝin ĉiam. (ĉap. 27ª)
 L: Eĉ frato Levkojo utilis; li estis tre bona lignaĵisto, kaj eĉ fariĝis /honestulo/;
 S: ... li iĝis tre bona lignaĵisto, kaj eĉ /solida viro/ (ĉap. 30ª)
 ----
-ĉap. 1ª:
+* ĉap. 1ª:
 
 ** gradoj da nobeleco
 <span class="aside">[4] Temas la nombro de nobelaj geprauloj.
@@ -955,9 +955,10 @@ experience. It suggests a rationally constructed universe and so is connected
 with his Optimism. Voltaire judged the principle to be a case of obfuscation,
 and reduces it to the simple notion of cause and effect.
 
+** visiblement = evidente [Littré]
 
 ----
-ĉap. 2ª:
+* ĉap. 2ª:
 4. King of the Bulgars: The Abars and the Bulgars, whom Voltaire had
 encountered while researching his Essai sur Uhistoire générale et sur les meeurs
 et l'esprit de nations (Essay on General History and on the Manners and Spirit of the
@@ -986,7 +987,7 @@ Eléments de la philosophie de Newton (Elements of the Philosophy of Newton), 17
 and would subsequently mock.
 
 ----
-ĉap. 3ª:
+* ĉap. 3ª:
 leste: 4) уст. элега́нтный
 
 CHAPTER 3
@@ -1844,6 +1845,11 @@ https://fr.wikipedia.org/wiki/Le_Fanatisme_ou_Mahomet_le_Proph%C3%A8te#Analyse
 ** toute seule de sa bande
 V: elle fut enterrée toute seule de sa bande au coin de la rue de Bourgogne;
 de = "el" : "fare de";
+«"L'esprit de curiosité /donné *de* Dieu/ à l'homme", Voltaire, Louis XIV, 37.»
+«"Votre Majesté a fait, depuis quarante ans de règne, tout ce qu'il
+faut pour /se faire respecter *de* ses amis et *de* ses ennemis/",
+D'Alembert, Lett. au roi de Prusse, 8 juin, 1780.»
+[Littré, de#9]
 *ARTIKOLO:* Kial "au coin"? ĉu sola angulo?
 
 ** tous les parolis, tous les sept-et-le-va de campagne
