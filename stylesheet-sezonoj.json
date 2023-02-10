@@ -1,0 +1,787 @@
+{
+    generalSettings: {
+        //secondPassStylesheet:   "./data/stylesheet2.json",
+        enableDoubleRenderingOutline:   "true",
+//       bodiesToRender:   "//body",
+        bodiesToRender:   "//body[empty(@name) or @name != 'notes']",
+        generateTOCLevels:	"2",
+            //        generateFrontMatter:	"false",
+        generateFrontMatter:	"true",
+        generateNoteBackLinks:	"true",
+        generateInternalLinks:  "true",
+        transliterateMetaInfo:	"false",
+        forceTransliterateAuthor: "false",
+        metaAuthorQuery: "(last-name, first-name,  middle-name)",
+  //      imageDpi: 168.212,  // PRS-500/505/600/700/650/900/950, Kindle, Nook
+        //imageDpi: 200,    // PRS-300/350
+       imageDpi: 150,    // Kindle DX
+        //imageDpi: 212,    // PRS-T3, Kindle Paperwhite, iRiver Story HD
+        //imageDpi: 300,    // Kindle Voyage
+        stretchCover: "true",
+//        enableInlineImages: "false",
+        enableInlineImages: "true",
+        fullCompression: "true",
+        trackingSpaceCharRatio: 10000000, //Inter-character spacing disabled with 10000000
+        overrideImageTransparency: "",
+        makeGrayImageTransparent: "false",
+        cacheImages:    "false",
+        ignoreEmptyLineBeforeImage: "true",
+        ignoreEmptyLineAfterImage: "true",
+        strictImageSequence:	"false",
+        enableLinkPageNum:      "false",
+        linkPageNumFormat:  "[%04d]",
+        enableTOCPageNum:   "true",
+//        tocPageNumFormat:  "%04d",
+        tocPageNumFormat:  "%3d",
+        linkPageNumMax:     9999,
+        hangingPunctuation: ".,;:’»-"
+//        hangingPunctuation: ""
+    },
+    fontFamilies: [
+/*        {
+            name:         "sansSerif",
+            regular:      "/usr/share/fonts/opentype/linux-libertine/LinBiolinum_R.otf",
+            bold:         "/usr/share/fonts/opentype/linux-libertine/LinBiolinum_RB.otf",
+            italic:       "/usr/share/fonts/opentype/linux-libertine/LinBiolinum_RI.otf",
+            boldItalic:   "/usr/share/fonts/opentype/linux-libertine/LinLibertine_RZI.otf"
+        },
+*/
+        {
+            name:         "monospaced",
+//            regular:      "./data/LiberationMono-Regular.ttf",
+//            bold:         "./data/LiberationMono-Bold.ttf",
+//            italic:       "./data/LiberationMono-Italic.ttf",
+//            boldItalic:   "./data/LiberationMono-BoldItalic.ttf"
+            regular:      "/usr/share/fonts/truetype/lyx/cmsy10.ttf"
+        },
+        {
+            name:         "serif",
+            regular:      "/usr/share/fonts/opentype/linux-libertine/LinLibertine_R.otf",
+            bold:         "/usr/share/fonts/opentype/linux-libertine/LinLibertine_RZ.otf",
+            italic:       "/usr/share/fonts/opentype/linux-libertine/LinLibertine_RI.otf",
+            boldItalic:   "/usr/share/fonts/opentype/linux-libertine/LinLibertine_RZI.otf"
+        }
+    ],
+    pageStyle: {
+        //values: 0, 90, 180, 270
+        //usually has no visual effect, only PDF internals are different
+        pageRotation:   "0",
+
+        // PRS-500/505/600/700/650 Portrait
+//        pageWidth:    "88.184mm",
+//        pageHeight:   "113.854mm",
+
+        // PRS-500/505/600/700/650 Landscape
+        //pageWidth:    "118.384mm",
+        //pageHeight:   "83.654mm",
+
+        // PRS-300/350 Portrait
+        //pageWidth:    "74.168mm",
+        //pageHeight:   "95.758mm",
+
+        // PRS-300/350 Landscape
+        //pageWidth:    "99.568mm",
+        //pageHeight:   "70.358mm",
+
+        // PRS-900/950 Portrait
+        //pageWidth:    "88.184mm",
+        //pageHeight:   "147.678mm",
+
+        // PRS-900/950 Landscape
+        //pageWidth:    "152.208mm",
+        //pageHeight:   "83.654mm",
+
+        // PRS-900/950 Landscape 2-column
+        //pageWidth:    "75.802mm",
+        //pageHeight:   "83.654mm",
+
+        // PRS-T3 Portrait
+        //pageWidth:    "88.184mm",
+        //pageHeight:   "114.356mm",
+
+        // Kindle 3/4 Portrait  (calculated from 560x735 pixels of 0.151mm; another variant is 85.09mm x 111.76mm, yet another variant is 85.5mm x 112.3mm)
+        //pageWidth:    "84.560mm",
+        //pageHeight:   "110.985mm",
+
+        // Kindle 3/4 Landscape  (calculated from 722x535 pixels of 0.151mm)
+        //pageWidth:    "109.022mm",
+        //pageHeight:   "80.785mm",
+
+        // Kindle DX Portrait
+        //pageWidth:    "132.757mm",
+        //pageHeight:   "194.733mm",
+
+        // Kindle DX Landscape
+        //pageWidth:    "196.427mm",
+        //pageHeight:   "131.064mm",
+
+        //Kindle Paperwhite Portrait
+        // calculated from 658x904 pixels of 0.1198 mm
+        //pageWidth:      "78.836mm",
+        //pageHeight:      "108.310mm",
+
+        // Kindle Paperwhite Landscape
+        // calculated from 924x638 pixels of 0.1198 mm
+        // pageWidth:      "110.706mm",
+        // pageHeight:      "76.440mm",
+
+        //Kindle Paperwhite 2013 (FW ver. 5.4.3.2) Portrait calculated from 718x964 pixels, side margins ~2mm
+        //pageWidth:      "86.025mm",
+        //pageHeight:     "115.498mm",
+
+        // Kindle Voyage Portrait (small margins)
+        // calculated from 1016x1364 pixels of 0,0847 mm
+ //       pageWidth:   "86.021mm",
+ //       pageHeight:   "115.485mm",
+
+        // Kindle Voyage Landscape (small margins)
+        // calculated from 1322x988 pixels of 0,0847 mm
+        //pageWidth:   "111.929mm",
+        //pageHeight:   "83.651mm",
+
+        // Pocketbook Touch
+        //pageWidth:    "84mm",
+        //pageHeight:   "106mm",
+
+        // SEZONOJ:
+        pageWidth:   "150mm",
+        pageHeight:  "200mm",
+/*
+        marginLeft:   "2.0pt",
+        marginRight:  "2.0pt",
+        marginTop:    "0.0pt",
+        marginBottom: "1.0pt",
+*/
+        marginLeft:   "5mm",
+        marginRight:  "5mm",
+        marginTop:    "5mm",
+        marginBottom: "5mm",
+
+
+        imageExtraMargins: "3pt",
+        marginMirroring: "false",
+        sectionNewPage: {
+            "0": 1.0,
+            "1": 0.9,
+//            "2": 0.4,
+            "2": 0.3,
+            "3": 0.2,
+            "4": 0.2,
+            "5": 0.2
+        },
+
+        backgroundColor: "",
+        backgroundImage: "",
+        header: {
+            enabled: "true",
+            dynamic: "true",
+                //            skipBeforeSection: "true",
+            skipBeforeSection: "false",
+            addHeightToMargin: "true",
+            //chapterTitle: "(ancestor-or-self::section)[2]/title//*[name()!='a']/text()",
+            //chapterTitle: "string-join(ancestor-or-self::section/title[.//text()[matches(., '[^\\d\\s]')]]//*[name()!='a']/text(), '. ')",
+            chapterTitle: "replace(string-join(ancestor-or-self::section/title//*[name()!='a']/text(), '. '), '([^\\s\\w])\\. ', '$1 ')",
+            leftOdd:   {
+                enabled:        "true",
+                style:          "headerLeft",
+                border:         2, // TOP = 1; BOTTOM = 2; LEFT = 4; RIGHT = 8; NO_BORDER = 0; BOX = TOP + BOTTOM + LEFT + RIGHT;
+                borderColor:    "0x000000",
+                // There are predefined variables $bookTitle, $authorFullName, $authorLastName, $authorFirstLastName, $authorFirstInitialLastName, $authorAllInitialsLastName
+                // There are predefined dynamic variables $pageNum, $chapterTitle
+                // There are predefined custom functions fb:cut-right(string, length) fb:cut-left(string, length)
+                // There are standard xquery functions http://www.w3schools.com/xpath/xpath_functions.asp
+                //query:          "string-join(($authorFirstLastName, $bookTitle), ', ')"
+//                query:          "fb:cut-right($authorFirstLastName, 30)"
+//                query:           "$bookTitle"
+                query:          "$pageNum"
+            },
+            centerOdd: {
+               enabled:        "false"
+//                enabled:        "true",
+//                style:          "headerRight",
+//                query:          "$pageNum"
+
+            },
+            rightOdd:  {
+                enabled:        "true",
+                style:          "headerRight",
+//                query:          "fb:cut-right($bookTitle, 30)"
+                query:          "fb:cut-right($chapterTitle, 80)"
+            },
+            leftEven:   {
+                enabled:        "true",
+                query:          "fb:cut-right($chapterTitle, 80)"
+//                query:          "$bookTitle"
+            },
+            centerEven: {
+               enabled:        "false"
+//                enabled:        "true",
+//                style:          "headerRight",
+//                query:          "$pageNum"
+            },
+            rightEven:  {
+                enabled:        "true",
+                style:          "headerRight",
+                query:          "$pageNum"
+//                query:          "fb:cut-right($chapterTitle, 45)"
+            }
+        },
+
+        enforcePageSize: "false",
+        pageSizeEnforcerColor: "0x7F7F7F",
+        footnotes:      "true",
+        footnotesMaxLines:      35,
+        footnoteMaxLines:       999,
+//        preventWidows:	"true",  // не влияет
+        tableCellsAutoWidth:    true
+    },
+    hyphenationSettings: {
+        defaultLanguage:	"eo",
+        hyphenate: 	  	"true",
+        overrideLanguage:	"false"
+    },
+    transformationSettings: {
+        enabled:		"true",
+        outputDebugFile:        "false",
+        queryProlog:            "declare default element namespace \"http://www.gribuser.ru/xml/fictionbook/2.0\"; declare namespace l = \"http://www.w3.org/1999/xlink\"; ",
+        morpherProlog:              "declare default element namespace \"http://www.gribuser.ru/xml/fictionbook/2.0\"; declare namespace l = \"http://www.w3.org/1999/xlink\"; ",
+        transformationsMap: [
+                {   // make digits superscript in notes (depends on font)
+                    "query":   "//a[@type='note']/text()",
+                    "morpher": "translate(., '0123456789', '\u2070\u00B9\u00B2\u00B3\u2074\u2075\u2076\u2077\u2078\u2079')"
+                },
+                /*
+                {   // delete dash (with following space) when dash is first character of first paragraph of the section
+                    "query":   "//p[1]/text()",
+                    "morpher": "replace(., '^(\u2012|\u2013|\u2014|\u2015)(\u00A0|\\s)*', '')"
+                },
+                */
+                /*
+                { //delete bracket at the end of the text node
+                  "query": "//text()[ends-with(., '[')]",
+                  "morpher": "replace(., '(.*)\\[$', '$1')"
+                },
+                { //delete bracket at the beginning of the text node
+                  "query": "//text()[starts-with(., ']')]",
+                  "morpher": "replace(., '^\\](.*)', '$1')"
+                },
+                */
+                /*
+                {   // convert poem note to paragraphs, part 1
+                    "query":   "//body[@name='notes']//section/poem",
+                    "morpher": ".//stanza/*"
+                },
+                {   // convert poem note to paragraphs, part 2
+                    "query":   "//body[@name='notes']//section/v",
+                    "morpher": "<p>{./* | text()}</p>"
+                },
+                */
+                /*
+                {   // delete links with empty href
+                    "query":   "//a[@l:href='']",
+                    "morpher": "()"
+                },
+                */
+                /*
+                {   // merge notes bodies, part 1
+                    "query":   "//body[@name='notes']",
+                    "morpher": "<body name='notes'>{//body[@name='notes' or @name='footnotes']/*}</body>"
+                },
+                {   // merge notes bodies, part 2
+                    "query":   "//body[@name='footnotes']",
+                    "morpher": "()"
+                },
+                */
+                /*
+                {   // fix image-wrapped-in-paragraph
+                    "query":   "//p[exists(image) and count(*) = 1]",
+                    "morpher": "./*"
+                },
+                */
+                /*
+                {   // convert table cells to paragraphs
+                    "query":   "//td",
+                    "morpher": "<p>{./* | text()}</p>"
+                },
+                {   // convert table headers to paragraphs
+                    "query":   "//th",
+                    "morpher": "<p>{./* | text()}</p>"
+                },
+                {   // remove table rows
+                    "query":   "//tr",
+                    "morpher": "./*"
+                },
+                {   // remove table
+                    "query":   "//table",
+                    "morpher": "./*"
+                },
+                */
+                /*
+                {   //add empty title to the sections without title
+                    "query":    "//section[empty(./title)]/*[position()=1]",
+                    "morpher":  "(<title><p/></title>,.)"
+                },
+                */
+                {   // remove square brackets from note link
+                    "query":   "//a[@type='note']/text()",
+                    "morpher": "replace(., '[\\[\\]]', '')"
+                },
+                /*
+                {   // remove word "note" from note link
+                    "query":   "//a[@type='note']/text()",
+                    "morpher": "replace(., 'note', '')"
+                },
+                */
+                /*
+                {   // remove extra spaces from note link
+                    "query":   "//a[@type='note']/text()",
+                    "morpher": "normalize-space(.)"
+                },
+                */
+                /*
+                {   // make note links superscript
+                    "query":   "//a[(@type='note' or @type='comment') and not(parent::sup or child::sup)]/text()",
+                    "morpher":   "<sup>{.}</sup>"
+                },
+                */
+                /*
+                {   // replace note link with note text
+                    "query":   "//a[@type='note']",
+                    "morpher": "declare variable $hid := ./@l:href; <emphasis> [{//body[@name='notes']//section[@id=substring($hid,2)]/*[local-name()!='title']}]</emphasis>"
+                },
+                */
+                /*
+                {   // get rid of superscript inside note link
+                    "query":   "//a[@type='note']//sup",
+                    "morpher": "./* | text()"
+                },
+                */
+                /*
+                {   // get rid of superscript outside note link
+                    "query":   "//sup[./a[@type='note']]",
+                    "morpher": "./a"
+                },
+                */
+                /*
+                {   //replace emphasis inside cite with it's text
+                    "query":   "//cite//emphasis",
+                    "morpher": "./text()"
+                },
+                */
+                /*
+                {   //remove images
+                    "query":   "//image",
+                    "morpher": "()"
+                },
+                */
+                /*
+                {   // wrap notes body content in two sections, making notes third-level section
+                    "query":   "//body[@name='notes']",
+                    "morpher": "<body name='notes'><section><section>{./*}</section></section></body>"
+                },
+                */
+                /*
+                {   // add new line before and after "code"
+                    "query":   "//code",
+                    "morpher": "<code>{('\n', ./* | text(), '\n')}</code>"
+                },
+                */
+                /*
+                {   // replace a single root section of nameless (main) body with it's content
+                    "query":    "//body[empty(@name) and count(section) = 1]/section",
+                    "morpher":  "./*"
+                },
+                */
+                /*
+                {   // load image from external file
+                    "query":   "//binary",
+                    "morpher": "(., <binary id='new-cover.jpg' content-type='image/jpg'>{fb:load-binary('./data/NewCover.jpg')}</binary>)"
+                },
+                {   // replace cover image
+                    "query":   "//coverpage/image/@l:href",
+                    "morpher": "attribute {'l:href'} {'#new-cover.jpg'}"
+                },
+                */
+{   // make table content left-aligned
+   "query":   "//(td | th)/(* | text())",
+   "morpher": "., attribute {'align'} {'left'}"
+},
+/*-----
+{   // pok: external www link: "<image l:href=.#www\.png./>": "\u25d7",
+   "query":   "//image[@l:href='#www.png']",
+   "morpher": "()"
+},
+-------*/
+
+        ]
+    },
+    textPreprocessorSettings: {
+        enabled:				"true",
+        makeEndUnbreakable:			"false",
+        makeReplacements:			"true",
+        replacementsMap: {
+//            //"\"(.*?)\"": "«$1»", //replacing quotes
+//            "([0-9])\\.([0-9])": "$1\u2009$2", /* thin space in 123_456 */
+//            "([0-9]) ?([kmc])": "$1\u00A0$2",  /* 4_km */
+//            "\\b([Ĉĉ]ap|p)\\. ?([0-9])": "$1.\u00A0$2",  /* ĉap._2, p._99 */
+//            "⅓":  "\u2153",
+            "ff": "\ufb00",
+            "fi": "\ufb01",
+            "\\* \\* \\*": "\u2042", # asterism    
+            "fl": "\ufb02"
+        }
+    },
+    paragraphStyles: [
+        {
+            name:             "default",
+            fontFamily:       "serif",
+            color:            "0x000000",
+            strokeWidth:      "0.0",
+            characterSpacing: "0.0",
+            horizontalScaling:"1.0",
+            inlineImageZoom:  "1.0",
+            inlineImageOffsetY:"0.0",
+//            fontSize:         "11.0pt"
+            fontSize:         "14.0pt"
+        },
+        {
+            comment:          "Front matter style: authors, publishers, uuid, creator tool",
+            name:             "frontMatter",
+            baseStyle:        "default",
+            fontSize:         "66%"
+        },
+        {
+            name:             "title",
+            baseStyle:        "default",
+            fontStyle:        "bold",
+            fontSize:         "150%",
+            alignment:        "center"
+        },
+        {
+            name:             "subtitle",
+            baseStyle:        "default",
+            fontSize:         "110%",
+            alignment:        "center"
+        },
+        {
+            name:             "author",
+            baseStyle:        "default",
+            fontSize:         "130%",
+            alignment:        "center"
+        },
+        {
+            name:             "tocTitle",
+            baseStyle:        "default",
+            fontSize:         "150%",
+            alignment:        "center",
+            spacingAfter:     "1em",
+            text:             "Enhavtabelo"
+        },
+        {
+            name:             "tocItem",
+            baseStyle:        "body",
+            alignment:        "left",
+            firstFirstLineIndent:  "0pt",
+            firstLineIndent:  "0pt",
+            fontSize:         "90%"
+        },
+        {
+            name:             "annotation",
+            baseStyle:        "body",
+            fontFamily:       "serif",
+ //           fontSize:         "80%",
+            alignment:        "justified",
+            firstSpacingBefore:   "0.3em",
+            lastSpacingAfter:     "0.7em"
+        },
+        {
+            name:             "annotationSubtitle",
+            baseStyle:        "annotation",
+            fontFamily:       "serif",
+            fontStyle:        "bold",
+            alignment:        "center",
+            spacingBefore:    "0.3em",
+            spacingAfter:     "0.3em",
+            text:             "Avizo"
+        },
+        {
+            name:             "bodyTitle",
+            baseStyle:        "default",
+            fontSize:         "220%",
+//            fontStyle:        "bold",
+            alignment:        "center",
+            lastSpacingAfter:     "0.6em",
+            disableHyphenation: "true"
+        },
+        {
+            name:             "sectionTitle",
+            baseStyle:        "default",
+            fontSize:         "200%",
+            alignment:        "center",
+            lastSpacingAfter: "0.6em",
+            disableHyphenation: "true"
+        },
+        {
+            name:             "subSectionTitle",
+            baseStyle:        "sectionTitle",
+            fontSize:         "80%",
+            spacingBefore:        "0.3em",
+            firstSpacingBefore:   "0.2em",
+            lastSpacingAfter:     "0.2em"
+        },
+        {
+            name:             "subSubSectionTitle",
+            baseStyle:        "default",
+            firstSpacingBefore: "0.4em",
+            fontStyle:        "bold",
+            fontSize:         "125%",
+	    alignment:        "left"
+        },
+        {
+            name:             "H5",
+	    selector: "//p[@style='h5']",
+            baseStyle:        "default",
+            fontSize:         "120%",
+            fontStyle:        "regular",
+            firstSpacingBefore:   "0.3em",
+            lastSpacingAfter:     "0.3em"
+        },
+        {
+            name:             "H6",
+	    selector: "//p[@style='h6']",
+            baseStyle:        "body",
+            fontStyle:        "bold",
+            firstFirstLineIndent: "0pt",
+            firstSpacingBefore:   "0.6em"
+        },
+        {
+            name:             "H7",
+	    selector: "//p[@style='h7']",
+            baseStyle:        "body",
+            fontStyle:        "italic",
+            firstFirstLineIndent: "0pt",
+            firstSpacingBefore:   "0.6em"
+        },
+        {
+            name:             "poem",
+            baseStyle:        "default",
+            fontSize:         "90%",
+            fontFamily:       "serif",
+            fontStyle:        "italic",
+            leftIndent:       "3.0em",
+            firstLineIndent:  "0em",
+            firstFirstLineIndent:  "0em",
+            firstSpacingBefore:   "0.5em",
+            lastSpacingAfter:     "0.5em"
+        },
+        {
+            name:             "poemAuthor",
+            selector:         "//poem/text-author",
+            fontStyle:        "italic",
+            alignment:       "right"
+        },
+        /*
+        {
+            name:             "poemTitle",
+            selector:         "//poem/title"
+        },
+        */
+        /*
+        {
+            name:             "poemDate",
+            selector:         "//poem/date"
+        },
+        */
+        {
+            name:             "epigraph",
+            baseStyle:        "default",
+            fontFamily:       "serif",
+            fontStyle:        "italic",
+//            leftIndent:       "2.5em",
+            firstSpacingBefore:   "0.5em",
+            lastSpacingAfter:     "0.5em"
+        },
+        /*
+        {
+            name:             "epigraphAuthor",
+            selector:         "//epigraph/text-author"
+        },
+        */
+        {
+            name:             "cite",
+            baseStyle:        "default",
+            fontFamily:       "serif",
+            fontSize:         "80%",
+//            leftIndent:       "2em",
+            leftIndent:       "0pt",
+            firstSpacingBefore:"0.5em",
+            lastSpacingAfter: "0.2em"
+        },
+        {
+            name:             "pcite",
+            selector:         "//cite/p",
+            spacingBefore:    "0.2em",
+            spacingAfter:     "0.em"
+        },
+        {
+            name:             "letter",
+	    selector:         "//p[@style='letero']",
+	    baseStyle:        "default",
+            leftIndent:       "1.5em",
+            disableHyphenation: "true",
+            leading:          "1.1em"
+        },
+        {
+            name:             "citeSubtitle",
+            selector:         "//cite/subtitle",
+            fontStyle:        "boldItalic"
+        },
+        {
+            name:             "citeAuthor",
+            selector:         "//cite/text-author",
+            fontStyle:        "italic",
+            alignment:        "right"
+        },
+        {
+            name:             "Sign",
+            selector:         "//cite/text-author[@style='sign']",
+            baseStyle:        "body",
+            fontStyle:        "italic",
+            alignment:        "right"
+        },
+        {
+            name:             "body",
+            baseStyle:        "default",
+            fontFamily:       "serif",
+            fontSize:         "90%",
+            alignment:        "justified",
+            firstLineIndent:  "1.5em",
+            leading:          "1.2em",
+            firstFirstLineIndent:  "0em",
+            firstFirstLineIndent:  "1.5em",
+//            dropcapStyle:	  "bodyDropCap"
+            dropcapStyle:	  ""
+        },
+        {
+            name:             "header",
+            baseStyle:        "default",
+            fontFamily:       "serif",
+            fontSize:         "70%",
+            fontStyle:        "italic",
+            spacingAfter:     "3pt",
+            spacingBefore:    "3mm",
+            leftIndent:       "3pt",
+            rightIndent:      "3pt"
+        },
+        {
+            name:             "headerLeft",
+            baseStyle:        "header",
+            alignment:        "left"
+        },
+        {
+            name:             "headerRight",
+            baseStyle:        "header",
+            alignment:        "right"
+        },
+        {
+            name:               "code",
+            selector:           "//code",
+            fontFamily:         "monospaced"
+        },
+        {
+            name:               "codeParagraph",
+            selector:           "//p[code and count(*) = 1 and empty(text())]",
+            baseStyle:          "body",
+            fontFamily:         "monospaced",
+            fontSize:           "55%",
+            alignment:          "left",
+            disableHyphenation: "true",
+            preserveWhitespaces: "true",
+            dropcapStyle:	  ""
+        },
+        {
+            name:               "anchor",
+            selector:           "//a[@type='note']",
+            fontFamily:         "serif"
+        },
+        {
+            name:             "table",
+            baseStyle:        "body",
+            leftIndent:       "0.5em",
+            rightIndent:      "0.5em",
+            spacingBefore:    "0.5em",
+            spacingAfter:     "0.5em"
+        },
+        {
+            name:             "tableTD",
+            baseStyle:        "body",
+            fontFamily:       "serif",
+            fontSize:         "90%",
+            alignment:        "left",
+            disableHyphenation: "true"
+        },
+        {
+            name:             "tableTH",
+            baseStyle:        "body",
+            alignment:        "left",
+            fontStyle:        "bold"
+        },
+        {
+            name:             "footnote",
+            baseStyle:        "default",
+            fontFamily:       "serif",
+            fontSize:         "80%",
+            alignment:        "justified",
+            firstFirstLineIndent:  "0pt",
+            firstLineIndent:  "1em",
+            leading:          "1.1em",
+            dropcapStyle:  ""
+        },
+        {
+            name:             "pf0",
+            baseStyle:        "body",
+            selector:         "//p[@style='p0' or @style='p0hy0']",
+            firstLineIndent:  "0pt"
+        },
+        {
+            name:             "hy0",
+            baseStyle:	      "body",
+            selector:         "//p[@style='hy0']",
+            disableHyphenation: "true"
+        },
+        {
+            name:             "pcenter",
+            baseStyle:        "pf0",
+            selector:         "//p[@style='center']",
+            alignment: "center"
+        },
+        {
+            name:             "pspusk",
+            baseStyle:        "body",
+            selector:         "//p[@style='spusk']",
+            firstSpacingBefore: 2em
+                //           spacingBefore:    "1em"
+        },
+        {
+            name:             "Kolofono",
+            selector:         "//p[@style='kol']",
+            baseStyle:        "default",
+            alignment:        "center",
+            fontSize:         "120%",
+            fontStyle:        "italic",
+            spacingBefore:    "0.5em",
+            disableHyphenation: "true",
+            firstLineIndent:  "0pt"
+        },
+        {
+            name:             "bodySubtitle",
+            baseStyle:        "default",
+            fontFamily:       "serif",
+//            fontSize:         "120%",
+//            fontStyle:        "bold",
+            alignment:        "center",
+            spacingBefore:    "0.3em",
+            spacingAfter:     "0.3em"
+        }
+    ]
+}
