@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="epubmerge-id" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="fullt">Kandido, aŭ Optimismo</dc:title>
+    <dc:title id="sht">Kandido</dc:title>
+    <dc:creator id="id">Voltero</dc:creator>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:identifier>calibre:37</dc:identifier>
+    <dc:identifier>uuid:0c52ae96-a355-424b-aab4-3d49286250cc</dc:identifier>
+    <dc:identifier id="epubmerge-id">epubmerge-uid-1674749557</dc:identifier>
+    <dc:language>eo</dc:language>
+    <dc:date>2023-01-30T17:00:00+00:00</dc:date>
+    <dc:publisher>Sezonoj</dc:publisher>
+    <dc:subject>antique_european</dc:subject>
+    <dc:subject>humor_prose</dc:subject>
+    <dc:subject>prose_classic</dc:subject>
+    <meta refines="#fullt" property="title-type">main</meta>
+    <meta refines="#fullt" property="file-as">Kandido, aŭ Optimismo</meta>
+    <meta property="title-type" refines="#sht">short</meta>
+    <meta property="alternate-script" refines="auxt">Voltaire</meta>
+    <dc:description>
+Filozofia romano de Voltero unue publikigita en la jaro 1759ª. En la jaro 1929ª ĝin elfrancigis Eŭgeno Lanti’. Sergio Pokrovskij reviziis kaj reverkis la tradukon en la jaroj 2021ª–2023ª.
+
+En la nova traduko estas korektitaj tradukaj kaj lingvaj eraroj de la Lantia teksto. La tro franceca frazosintakso (konscie elektita de E. Lanti’) estas malpezigita kaj rearanĝita laŭ la tradicio Esperanta. La apero de PV (unu jaron post la publikigo de la Lantia traduko kaj cetere iniciatita ĝuste de Lanti’) kaj PIV kontribuis al pliriĉigo kaj stabiligo de la leksiko, kaj ankaŭ tio ebligis precizigi la tradukojn.
+
+La «Postparolo» kaj la notoj entenas riĉan materialon por tiuj, kiujn interesas komparo de la tradukskoloj laŭvortisma kaj hejmiga, de la esprimiloj francaj kaj Esperantaj.
+    </dc:description>
+    <meta name="cover" content="cover"/>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2023-01-30T06:24:19Z</meta>
+    <meta refines="#id" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id" property="file-as">Voltero</meta>
+    <meta property="belongs-to-collection" id="id-1">Literatura suplemento al LOdE</meta>
+    <meta refines="#id-1" property="collection-type">series</meta>
+    <meta property="calibre:author_link_map">{"Voltero": ""}</meta>
+  </metadata>
+  <manifest>
+    <item id="a1x01.xhtml" href="01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a1x02.xhtml" href="02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a1x03.xhtml" href="03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5228" href="APP.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5227" href="APL.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5226" href="K00.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5225" href="K01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5224" href="index_split_005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5223" href="index_split_006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5222" href="index_split_007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5221" href="index_split_008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5220" href="index_split_009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5219" href="index_split_010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5218" href="index_split_011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5217" href="index_split_012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5216" href="index_split_013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5215" href="index_split_014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5214" href="index_split_015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5213" href="index_split_016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5212" href="index_split_017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5211" href="index_split_018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5210" href="index_split_019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5209" href="index_split_020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5208" href="index_split_021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5207" href="index_split_022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5206" href="index_split_023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5205" href="index_split_024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5204" href="index_split_025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5203" href="index_split_026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5202" href="index_split_027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5201" href="index_split_028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5200" href="index_split_029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5199" href="index_split_030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5198" href="index_split_031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5197" href="index_split_032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5196" href="K30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5195" href="index_split_034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5194" href="index_split_035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5193" href="index_split_036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5192" href="index_split_037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5191" href="index_split_038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5190" href="index_split_039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5189" href="index_split_040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5188" href="index_split_041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5187" href="index_split_042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5186" href="index_split_043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5185" href="index_split_044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5184" href="OkO.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5183" href="Refs.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5182" href="NomTab.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id5181" href="Nj.xhtml" media-type="application/xhtml+xml"/>
+    <item id="a2id52291" href="index_split_000_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id1" href="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="font_embed" href="styles/fonts.css" media-type="text/css"/>
+    <item id="a1Kovrilo.css" href="styles/Kovrilo.css" media-type="text/css"/>
+    <item id="a2page_css" href="styles/page_styles.css" media-type="text/css"/>
+    <item id="a1Stiloj.css" href="styles/Stiloj.css" media-type="text/css"/>
+    <item id="a2css" href="styles/stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="a2id14" href="images/faldosxirmilo.jpg" media-type="image/jpeg"/>
+    <item id="a2id2" href="images/habitue.png" media-type="image/png"/>
+    <item id="a2id4" href="images/kanapo.jpg" media-type="image/jpeg"/>
+    <item id="a2id1" href="images/makuloj-L.png" media-type="image/png"/>
+    <item id="a2id11" href="images/makuloj-S.png" media-type="image/png"/>
+    <item id="a2id16" href="images/milito.png" media-type="image/png"/>
+    <item id="a2id3" href="images/sanbenito.jpg" media-type="image/jpeg"/>
+    <item id="a2id6" href="images/Trevoux-torn4.png" media-type="image/png"/>
+    <item id="a2id13" href="images/trikresta.png" media-type="image/png"/>
+    <item id="a2id10" href="images/uragano.jpg" media-type="image/jpeg"/>
+    <item id="a2font.Inicialoj.regular" href="fonts/cmsy10.ttf" media-type="application/vnd.ms-opentype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="a1x01.xhtml" linear="yes"/>
+    <itemref idref="a1x02.xhtml" linear="yes"/>
+    <itemref idref="a1x03.xhtml" linear="yes"/>
+    <itemref idref="a2id5228" linear="yes"/>
+    <itemref idref="a2id5227" linear="yes"/>
+    <itemref idref="a2id5226" linear="yes"/>
+    <itemref idref="a2id5225" linear="yes"/>
+    <itemref idref="a2id5224" linear="yes"/>
+    <itemref idref="a2id5223" linear="yes"/>
+    <itemref idref="a2id5222" linear="yes"/>
+    <itemref idref="a2id5221" linear="yes"/>
+    <itemref idref="a2id5220" linear="yes"/>
+    <itemref idref="a2id5219" linear="yes"/>
+    <itemref idref="a2id5218" linear="yes"/>
+    <itemref idref="a2id5217" linear="yes"/>
+    <itemref idref="a2id5216" linear="yes"/>
+    <itemref idref="a2id5215" linear="yes"/>
+    <itemref idref="a2id5214" linear="yes"/>
+    <itemref idref="a2id5213" linear="yes"/>
+    <itemref idref="a2id5212" linear="yes"/>
+    <itemref idref="a2id5211" linear="yes"/>
+    <itemref idref="a2id5210" linear="yes"/>
+    <itemref idref="a2id5209" linear="yes"/>
+    <itemref idref="a2id5208" linear="yes"/>
+    <itemref idref="a2id5207" linear="yes"/>
+    <itemref idref="a2id5206" linear="yes"/>
+    <itemref idref="a2id5205" linear="yes"/>
+    <itemref idref="a2id5204" linear="yes"/>
+    <itemref idref="a2id5203" linear="yes"/>
+    <itemref idref="a2id5202" linear="yes"/>
+    <itemref idref="a2id5201" linear="yes"/>
+    <itemref idref="a2id5200" linear="yes"/>
+    <itemref idref="a2id5199" linear="yes"/>
+    <itemref idref="a2id5198" linear="yes"/>
+    <itemref idref="a2id5197" linear="yes"/>
+    <itemref idref="a2id5196" linear="yes"/>
+    <itemref idref="a2id5195" linear="yes"/>
+    <itemref idref="a2id5194" linear="yes"/>
+    <itemref idref="a2id5193" linear="yes"/>
+    <itemref idref="a2id5192" linear="yes"/>
+    <itemref idref="a2id5191" linear="yes"/>
+    <itemref idref="a2id5190" linear="yes"/>
+    <itemref idref="a2id5189" linear="yes"/>
+    <itemref idref="a2id5188" linear="yes"/>
+    <itemref idref="a2id5187" linear="yes"/>
+    <itemref idref="a2id5186" linear="yes"/>
+    <itemref idref="a2id5185" linear="yes"/>
+    <itemref idref="a2id5184" linear="yes"/>
+    <itemref idref="a2id5183" linear="yes"/>
+    <itemref idref="a2id5182" linear="yes"/>
+    <itemref idref="a2id5181" linear="yes"/>
+    <itemref idref="a2id52291" linear="yes"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Kovrilo" href="01.xhtml"/>
+    <!--reference type="toc" title="Enhavtabelo" href="toc.xhtml#calibre_generated_inline_toc"/-->
+  </guide>
+</package>

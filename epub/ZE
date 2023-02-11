@@ -1,0 +1,4 @@
+#!/bin/sh
+
+zip -fr Kandido.epub * && epubcheck Kandido.epub 2>err2.t || m err2.t
+

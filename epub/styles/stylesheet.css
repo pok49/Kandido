@@ -1,0 +1,236 @@
+body {
+  display: block;
+  font-family: Georgia, Droid Serif, Noto Serif, "DejaVu Serif", serif;
+  font-kerning: normal;
+  font-size: 1em;
+  line-height: 1.4em;
+  font-variant: common-ligatures oldstyle-nums proportional-nums;
+  font-variant-numeric: oldstyle-nums;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: justify;
+  word-spacing: 0.2em;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+}
+h1, h2, h3 {
+  font-variant: lining-nums proportional-nums;
+}
+h1, h2 {
+  display: block;
+  font-style: normal;
+  font-weight: normal;
+}
+h1 {
+  font-size: 2em;
+  text-align: center;
+  line-height: 1.4em;
+  margin: 0.67em 0 2em 0;
+}
+h2 {
+  background-color: #F1F1F1;
+  font-size: 1.41667em;
+  line-height: 1.2;
+  margin: 1em 0 0.5em 0;
+  border: Silver solid 1px;
+  page-break-before: always;
+  font-variant-numeric: lining-nums;
+  font-variant: lining-nums;
+}
+h2, h3, h4, h5 {
+  text-align: left;
+  page-break-after: avoid;
+}
+h3 {
+  font-weight: normal;
+}
+figure, .figure2 {
+  page-break-inside: avoid;
+  break-inside: avoid;
+  max-height: 90%;
+  height: auto;
+  padding: 4px;
+  margin: 0.5em 0 0.5em 1em;
+}
+figure {
+  width: 30%;
+  float: right;
+}
+.figure2 {
+  width: 40%;
+}
+figcaption {
+  font-style: italic;
+  font-size: 80%;
+  text-align: left;
+  margin-top: 6pt;
+  padding-top: 0px;
+  hyphens: none;
+}
+.calibre2 {
+  display: block;
+  font-size: 1.125em;
+  font-variant: lining-nums proportional-nums;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 1em 0;
+}
+.calibre3 {
+  display: block;
+  line-height: 1.2em;
+  text-indent: 0;
+  margin: 0.2em 0 0.3em;
+}
+.calibre4 {
+  color: gray;
+  display: block;
+  height: 2px;
+  margin: 0.5em auto;
+  border: currentColor inset 1px;
+}
+.calibre5 {
+  background-color: #F1F1F1;
+  display: block;
+  font-size: 1.41667em;
+  font-style: normal;
+  font-variant: lining-nums;
+  font-variant-numeric: lining-nums;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 1em 0 0.5em;
+  border: Silver solid 1px;
+}
+.calibre6 {
+  display: list-item;
+}
+.calibre7 {
+  display: block;
+  list-style-type: circle;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+.calibre8 {
+  display: block;
+  list-style-type: square;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+b {
+  font-family: cmsy10, "Comic Sans MS", sans-serif;
+  font-weight: bold;
+  line-height: 0;
+}
+.calibre18 {
+  display: block;
+  list-style-type: disc;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.eli {
+  color: gray;
+  display: block;
+  height: 2px;
+  width: 0;
+  margin: 0.5em 0;
+  border: currentColor inset 1px;
+}
+img {
+  padding-bottom: 0;
+  margin-bottom: 4pt;
+  border-radius: 8px;
+}
+.kolof {
+  display: block;
+  font-size: 1.125em;
+  font-style: italic;
+  hyphens: none;
+  line-height: 1.2em;
+  text-align: center;
+  text-indent: 0;
+  margin: 1em;
+}
+.math {
+  display: block;
+  line-height: 1.2em;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.2em 0 0.3em;
+}
+.none {
+  display: block;
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
+.none1 {
+  display: block;
+  list-style-type: none;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  padding-top: 0;
+}
+.petit {
+  display: block;
+  font-size: 0.75em;
+  line-height: 1.2em;
+  text-indent: 0;
+  margin: 0.2em 0 0.3em;
+}
+.right {
+  display: block;
+  line-height: 1.2em;
+  text-align: right;
+  text-indent: 0;
+  margin: 0.2em 0 0.3em;
+}
+.signature {
+  break-before: avoid;
+  display: block;
+  font-style: italic;
+  line-height: 1.2em;
+  text-align: right;
+  text-indent: 0;
+  margin: 0.2em 0.3em 0.3em 0;
+}
+.stanza {
+  display: block;
+  hyphens: none;
+  line-height: 1.2em;
+  text-align: left;
+  text-indent: 0;
+  margin: 0.1em 0 0.1em 1em;
+}
+.sx {
+  display: block;
+  line-height: 1.2em;
+  text-indent: -3ch;
+  margin: 0 0 0.1em 3ch;
+}
+p {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+.p0 {
+  text-indent: 0;
+}
+sub, sup {
+  font-size: 0.7em;
+  line-height: 1;
+}
+ul {
+  text-align: left;
+}

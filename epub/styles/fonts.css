@@ -1,0 +1,27 @@
+@font-face {
+  font-family: cmsy10;
+  font-weight: bold;
+  font-style: normal;
+  src: url(../fonts/cmsy10.ttf);
+}
+@font-face {
+  font-family: "DejaVu Serif";
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "DejaVu Serif";
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "DejaVu Serif";
+  font-style: italic;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "DejaVu Serif";
+  font-style: normal;
+  font-weight: normal;
+}
